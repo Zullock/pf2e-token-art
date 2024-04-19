@@ -1,0 +1,84 @@
+## Roadmap
+
+- [] Rulebooks
+	- [ ] Book of the Dead
+		- [X] Portraits
+		- [ ] Tokens
+	- [ ] Rage of Elements
+		- [X] Portraits
+		- [ ] Tokens
+	- [ ] Dark Archive
+		- [ ] Portraits
+		- [ ] Tokens
+	- [ ] Gamemastery Guide
+		- [ ] Portraits
+		- [ ] Tokens
+- [ ] Lost Omens
+	- [ ] Absalom, City of Lost Omens
+		- [ ] Portraits
+		- [ ] Tokens
+	- [ ] Character Guide
+		- [ ] Portraits
+		- [ ] Tokens
+	- [ ] Highhelm
+		- [ ] Portraits
+		- [ ] Tokens
+	- [ ] Impossible Lands
+		- [ ] Portraits
+		- [ ] Tokens
+	- [ ] Monster of Myth
+		- [ ] Portraits
+		- [ ] Tokens
+	- [ ] The Grand Bazaar
+		- [ ] Portraits
+		- [ ] Tokens
+	- [ ] The Mwangi Expanse
+		- [ ] Portraits
+		- [ ] Tokens
+	- [ ] Travel Guide
+		- [ ] Portraits
+		- [ ] Tokens
+- [ ] Standalone Adventures
+	- [ ] Crown of the Kobold King
+		- [ ] Portraits
+		- [ ] Tokens
+	- [ ]  Fall of Plaguestone
+		- [ ] Portraits
+		- [ ] Tokens
+	- [ ] Malevolence
+		- [ ] Portraits
+		- [ ] Tokens
+	- [ ] Night of the Gray Death
+		- [ ] Portraits
+		- [ ] Tokens
+	- [ ] Shadows at Sundown
+		- [ ] Portraits
+		- [ ] Tokens
+	- [ ] The Enmity Cycle
+		- [X] Portraits
+		- [ ] Tokens
+	- [ ] The Slithering
+		- [ ] Portraits
+		- [ ] Tokens
+	- [ ] Troubles in Otari
+		- [ ] Portraits
+		- [ ] Tokens
+- [ ] Adventure Paths
+	- [ ] Age of Ashes
+		- [ ] Portraits
+		- [ ] Tokens
+	- [ ] Agents of Edgewatch
+		- [ ] Portraits
+		- [ ] Tokens
+	- [ ] Extinction Curse
+		- [ ] Portraits
+		- [ ] Tokens
+	- [ ] Fists of the Ruby Phoenix
+		- [ ] Portraits
+		- [ ] Tokens
+	- [ ] Quest for the Frozen Flame
+		- [ ] Portraits
+		- [ ] Tokens
+	- [ ] Strenght of Thousands
+		- [ ] Portraits
+		- [ ] Tokens
