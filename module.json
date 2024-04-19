@@ -8,11 +8,14 @@
       "discord": "Zullock#2883"
     }
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "10.291",
     "verified": "11"
   },
+  "url": "https://github.com/Zullock/pf2e-token-art",
+  "manifest": "https://github.com/Zullock/pf2e-token-art/blob/main/module.json",
+  "download": "https://github.com/Zullock/pf2e-token-art/releases/tag/v1.0.1/module.zip",,
   "flags": {
 	  "pf2e-token-art": {
 		"pf2e-art": "modules/pf2e-token-art/map-art-tokens.json"
