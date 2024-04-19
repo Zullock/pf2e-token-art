@@ -1,0 +1,553 @@
+{
+  "lost-omens-impossible-lands-bestiary": {
+	  "1MxubcO4SB8PwmKT": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-impossible-lands-bestiary/BenthicReaver.png",
+		  "token": "modules/pf2e-token-art/tokens/lost-omens-impossible-lands-bestiary/BenthicReaver.png"
+	  }
+  },
+  "the-enmity-cycle-bestiary": {
+	  "gBjrp5li1LCbIO8X": {
+		  "actor": "modules/pf2e-token-art/portraits/standalone-adventure-the-enmity-cycle/SandWolf.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/standalone-adventure-the-enmity-cycle/SandWolf.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "hKXwujYX7CDtsZ5P": {
+		  "actor": "modules/pf2e-token-art/portraits/standalone-adventure-the-enmity-cycle/Scrapborn.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/standalone-adventure-the-enmity-cycle/Scrapborn.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "qsgUxFmUK9rohj0M": {
+		  "actor": "modules/pf2e-token-art/portraits/standalone-adventure-the-enmity-cycle/VulpinalTwin.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/standalone-adventure-the-enmity-cycle/VulpinalTwin.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "rCbzflYQbsqxlmiG": {
+		  "actor": "modules/pf2e-token-art/portraits/standalone-adventure-the-enmity-cycle/UsijCultist.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/standalone-adventure-the-enmity-cycle/UsijCultist.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "TLA7lez6eCf2Qp8v": {
+		  "actor": "modules/pf2e-token-art/portraits/standalone-adventure-the-enmity-cycle/Seddek.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/standalone-adventure-the-enmity-cycle/Seddek.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "Ziy3L849K2Fayesa": {
+		  "actor": "modules/pf2e-token-art/portraits/standalone-adventure-the-enmity-cycle/Noolik.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/standalone-adventure-the-enmity-cycle/Noolik.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "xfc7t2z45drvafdK": {
+		  "actor": "modules/pf2e-token-art/portraits/standalone-adventure-the-enmity-cycle/Jimbilin.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/standalone-adventure-the-enmity-cycle/Jimbilin.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "5d0K1rXEMZkILjxu": {
+		  "actor": "modules/pf2e-token-art/portraits/standalone-adventure-the-enmity-cycle/MechanicalAssistant.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/standalone-adventure-the-enmity-cycle/MechanicalAssistant.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "257nqvaDItlttlG2": {
+		  "actor": "modules/pf2e-token-art/portraits/standalone-adventure-the-enmity-cycle/ScorchingSunCultist.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/standalone-adventure-the-enmity-cycle/ScorchingSunCultist.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "xwEcqgkn9Fvrhpv7": {
+		  "actor": "modules/pf2e-token-art/portraits/standalone-adventure-the-enmity-cycle/Zridi.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/standalone-adventure-the-enmity-cycle/Zridi.png",
+			  "scale": 1.5
+		  }
+	  }
+  },
+  "quest-for-the-frozen-flame-bestiary": {
+	  "QdDoqb0RSy1Mer5Q": {
+		  "actor": "modules/pf2e-token-art/portraits/adventure-path-quest-for-the-frozen-flame/EverburningMammoth.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/adventure-path-quest-for-the-frozen-flame/EverburningMammoth.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "vEfQXwx3qetnYcSI": {
+		  "actor": "modules/pf2e-token-art/portraits/adventure-path-quest-for-the-frozen-flame/BurningMammothCommando.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/adventure-path-quest-for-the-frozen-flame/BurningMammothCommando.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "UGB689LLMK5Vi0Nc": {
+		  "actor": "modules/pf2e-token-art/portraits/adventure-path-quest-for-the-frozen-flame/Ivarsa.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/adventure-path-quest-for-the-frozen-flame/Ivarsa.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "nBoysLyDYIZaaAHP": {
+		  "actor": "modules/pf2e-token-art/portraits/adventure-path-quest-for-the-frozen-flame/Metuak.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/adventure-path-quest-for-the-frozen-flame/Metuak.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "hNHljzF0xpUBKiA9": {
+		  "actor": "modules/pf2e-token-art/portraits/adventure-path-quest-for-the-frozen-flame/JesseriTheHailstorm.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/adventure-path-quest-for-the-frozen-flame/JesseriTheHailstorm.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "QC2noL9T0y8Ny5eU": {
+		  "actor": "modules/pf2e-token-art/portraits/adventure-path-quest-for-the-frozen-flame/Lomok.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/adventure-path-quest-for-the-frozen-flame/Lomok.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "ZKxZgklb78PULu10": {
+		  "actor": "modules/pf2e-token-art/portraits/adventure-path-quest-for-the-frozen-flame/Pakano12.webp",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/adventure-path-quest-for-the-frozen-flame/Pakano12.webp",
+			  "scale": 1.5
+		  }
+	  }
+  },
+  "rage-of-elements-bestiary": {
+	  "Vtx0UBhy5aUu3UMO": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/MetalWisp.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/MetalWisp.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "LVLf8bfqqLkM56tj": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/WoodWisp.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/WoodWisp.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "7zKCt0OyooqW9UkL": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/ArdandeGardener.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/ArdandeGardener.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "vM6zlGT02raJqPTu": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/DespairPall.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/DespairPall.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "NHWf9R3yN5Iil7Zh": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/DewdropJelly.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/DewdropJelly.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "D1WlR977uIedFwAr": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/LavaOtter.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/LavaOtter.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "g36FR0xlbMSvWqdS": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/TalosGadgeteer.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/TalosGadgeteer.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "7C6sSVh7jipvHKbV": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/VegetableLamb.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/VegetableLamb.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "Gqz1qtpdgAl13pCE": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/Gennayn.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/Gennayn.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "BKHoKKSWvc7rQoyz": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/Mercurial.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/Mercurial.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "xorqWffvwJFUFuON": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/Olobigonde.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/Olobigonde.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "jKSirpKNicffmRpW": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/Crysmal.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/Crysmal.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "XvFyRUv2BxgjKm77": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/LomoriSprout.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/LomoriSprout.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "bzMyAFhSQ1mfTNx9": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/NurseryCrawler.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/NurseryCrawler.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "d0InnF6QVgDIG4j3": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/QuickironPlasm.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/QuickironPlasm.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "7qRWMhYwrTHv58VG": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/ComozantWyrd.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/ComozantWyrd.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "WrGYN6jtEfv7k1pV": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/LivingGrove.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/LivingGrove.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "Vv9ffFM1qiTdIEsy": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/MunsahirTrooper.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/MunsahirTrooper.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "Rv14qdCi4cTEBXJ4": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/Murajau.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/Murajau.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "m2WdV4XJ3r70mnJX": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/Rakkatak.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/Rakkatak.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "ytvGscCgKbOCn0dB": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/RustScarab.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/RustScarab.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "P3UcyuiqqYPzAwwF": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/CarvedBeast.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/CarvedBeast.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "QkD7kUl6KvUvPAYA": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/Kizidhar.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/Kizidhar.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "CKRqlCHgvZp9YL5s": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/LivingLodestone.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/LivingLodestone.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "XyU6fPkQJjS1VFTb": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/SkymetalStriker.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/SkymetalStriker.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "JR7VT7ObQRaBtUlk": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/Tantriog.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/Tantriog.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "YKEPPmyqTvVSApo8": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/HarvestRegimen.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/HarvestRegimen.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "NhmmvWicMmhXuKJo": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/Snapdrake.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/Snapdrake.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "Mw0sQmrSf9hao5mF": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/Zuhra.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/Zuhra.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "RObxZM2z4P6ZW3hN": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/JannShuyookh.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/JannShuyookh.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "nhIxIC4O6XGUZ8Ng": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/NanoshardSwarm.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/NanoshardSwarm.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "IBfXxdi8ja4095km": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/NightwoodGuardian.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/NightwoodGuardian.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "ikcWmhEdL5G0s9T4": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/PaintedStag.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/PaintedStag.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "IPKzI7XwILuDc21S": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/AspOfGrief.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/AspOfGrief.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "5nf90vfzOVFbGEZZ": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/CrystalStrider.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/CrystalStrider.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "O3Rjdf00nJOHF4PE": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/JaathoomShuyookh.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/JaathoomShuyookh.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "Kv6zyQC3JCEWWwvf": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/SolarCrow.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/SolarCrow.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "uEabVqGzN4TprwHw": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/Sootsoldiers.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/Sootsoldiers.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "PameP0qGSvNrhGeH": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/AvalancheLegion.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/AvalancheLegion.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "6VCNPJ3xPw4Js52V": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/BlusteringGale.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/BlusteringGale.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "eMbeqzGyypNU1wTS": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/KizidharShuyookh.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/KizidharShuyookh.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "AahAJjsv74rPfAG5": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/Oregorger.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/Oregorger.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "E3n4MNWQNPR2o3bG": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/PelegoxCube.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/PelegoxCube.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "RZ83RzvCJJHHooyk": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/Veldenar.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/Veldenar.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "1cpG2DuXPXq3DMBx": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/JabaliShuyookh.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/JabaliShuyookh.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "EHowgLz8ohFGTGvG": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/BoilingSpring.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/BoilingSpring.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "3ItvROg0JbYKUGRu": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/Brochmaw.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/Brochmaw.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "GdXjhFu8Afg24fM9": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/ElderOutcrop.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/ElderOutcrop.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "YWFBlSODRkWD60Je": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/PictureInClouds.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/PictureInClouds.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "7Y3DAOMaLzqmRqUh": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/SaltbornStalkers.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/SaltbornStalkers.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "TlM6ePIW2yHNOMJv": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/TwinsOfRowan.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/TwinsOfRowan.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "a2kTygtqIuMCSLIr": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/ZuhraShuyookh.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/ZuhraShuyookh.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "411wAxSMPPAImVz5": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/BrassBastion.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/BrassBastion.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "E7OZ0cdycOi5Cuu1": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/FaydhaanShuyookh.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/FaydhaanShuyookh.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "XL7B63sTgdDJPbVQ": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/IfritShuyookh.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/IfritShuyookh.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "kzczIOOaDfPlFc03": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/LithicLocus.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/LithicLocus.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "m6lUcyekHwJxTLzo": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/VaultKeeper.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/VaultKeeper.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "RFxLankyC74BEY03": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/Capritellix.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/Capritellix.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "hGPjJjjqBc42VrFs": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/Anemos.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/Anemos.png",
+			  "scale": 1.5
+		  }
+	  },
+	  "Y01s9SxbSRWD1ZKl": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-rage-of-elements-bestiary/VaultBuilder.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-rage-of-elements-bestiary/VaultBuilder.png",
+			  "scale": 1.5
+		  }
+	  }
+  }
+}

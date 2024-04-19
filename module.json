@@ -1,0 +1,33 @@
+{
+  "name": "pf2e-token-art",
+  "title": "PF2e Token Art",
+  "description": "A module to add art to system tokens",
+  "authors": [
+    {
+      "name": "Zullock",
+      "discord": "Zullock#2883"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10.291",
+    "verified": "11"
+  },
+  "flags": {
+	  "pf2e-token-art": {
+		"pf2e-art": "modules/pf2e-token-art/map-art-tokens.json"
+	  }
+	},
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "manifest": "https://raw.githubusercontent.com/foundryvtt/pf2e/master/system.json",
+        "compatibility": {
+          "minimum": "4.8.1"
+        }
+      }
+    ]
+  }
+}
