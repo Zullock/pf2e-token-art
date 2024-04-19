@@ -1,6 +1,6 @@
 ## Roadmap
 
-- [] Rulebooks
+- [ ] Rulebooks
 	- [ ] Book of the Dead
 		- [X] Portraits
 		- [ ] Tokens
