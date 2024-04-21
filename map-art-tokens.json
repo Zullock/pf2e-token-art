@@ -558,6 +558,13 @@
 			  "scale": 1.0
 		  }
 	  },
+	  "3CdslCv2CMP7O12F": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-book-of-the-dead-bestiary/MummifiedCat.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-book-of-the-dead-bestiary/MummifiedCat.png",
+			  "scale": 1.0
+		  }
+	  },
 	  "ToGAEKKOplpXzaQQ": {
 		  "actor": "modules/pf2e-token-art/portraits/rulebook-book-of-the-dead-bestiary/WolfSkeleton.png",
 		  "token": {
@@ -565,10 +572,38 @@
 			  "scale": 1.0
 		  }
 	  },
+	  "ZqZlji7aCGCGATMP": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-book-of-the-dead-bestiary/ZombieSnake.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-book-of-the-dead-bestiary/ZombieSnake.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "EDhme1IKgO34NDrt": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-book-of-the-dead-bestiary/FesteringGnasher.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-book-of-the-dead-bestiary/FesteringGnasher.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "z3BpUMkUFoXqOFgf": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-book-of-the-dead-bestiary/ScornedHound.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-book-of-the-dead-bestiary/ScornedHound.png",
+			  "scale": 1.0
+		  }
+	  },
 	  "pDA6tCwQ3pE6ji4U": {
 		  "actor": "modules/pf2e-token-art/portraits/rulebook-book-of-the-dead-bestiary/ShadernImmolator.png",
 		  "token": {
 			  "img": "modules/pf2e-token-art/tokens/rulebook-book-of-the-dead-bestiary/ShadernImmolator.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "dKkHFA4aBgk82QJO": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-book-of-the-dead-bestiary/SkeletalSoldier.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-book-of-the-dead-bestiary/SkeletalSoldier.png",
 			  "scale": 1.0
 		  }
 	  },
@@ -642,6 +677,13 @@
 			  "scale": 1.0
 		  }
 	  },
+	  "dlizffh8cFUFOhUf": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-book-of-the-dead-bestiary/JitterboneContortionist.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-book-of-the-dead-bestiary/JitterboneContortionist.png",
+			  "scale": 1.0
+		  }
+	  },
 	  "8o27tdIZFp0eTs5N": {
 		  "actor": "modules/pf2e-token-art/portraits/rulebook-book-of-the-dead-bestiary/ZombieLord_2.png",
 		  "token": {
@@ -688,6 +730,13 @@
 		  "actor": "modules/pf2e-token-art/portraits/rulebook-book-of-the-dead-bestiary/TauntingSkull.png",
 		  "token": {
 			  "img": "modules/pf2e-token-art/tokens/rulebook-book-of-the-dead-bestiary/TauntingSkull.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "z72hPIIjIiLIxnor": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-book-of-the-dead-bestiary/Withered.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-book-of-the-dead-bestiary/Withered.png",
 			  "scale": 1.0
 		  }
 	  },
@@ -803,6 +852,13 @@
 			  "scale": 1.0
 		  }
 	  },
+	  "ishwgxZAlNJxNwGE": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-book-of-the-dead-bestiary/Daqqanoenyent.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-book-of-the-dead-bestiary/Daqqanoenyent.png",
+			  "scale": 1.0
+		  }
+	  },
 	  "iEQOUQk1wVHFsajW": {
 		  "actor": "modules/pf2e-token-art/portraits/rulebook-book-of-the-dead-bestiary/Geist_2.png",
 		  "token": {
@@ -814,6 +870,13 @@
 		  "actor": "modules/pf2e-token-art/portraits/rulebook-book-of-the-dead-bestiary/GrapplingSpirit.png",
 		  "token": {
 			  "img": "modules/pf2e-token-art/tokens/rulebook-book-of-the-dead-bestiary/GrapplingSpirit.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "DVpP5ObHDoT0OULK": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-book-of-the-dead-bestiary/ProwlerWight.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-book-of-the-dead-bestiary/ProwlerWight.png",
 			  "scale": 1.0
 		  }
 	  },
@@ -842,6 +905,13 @@
 		  "actor": "modules/pf2e-token-art/portraits/rulebook-book-of-the-dead-bestiary/PaleStranger_2.png",
 		  "token": {
 			  "img": "modules/pf2e-token-art/tokens/rulebook-book-of-the-dead-bestiary/PaleStranger_2.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "uURI8Netd0ytD9vc": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-book-of-the-dead-bestiary/SluaghReaper.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-book-of-the-dead-bestiary/SluaghReaper.png",
 			  "scale": 1.0
 		  }
 	  },
@@ -1115,6 +1185,589 @@
 		  "actor": "modules/pf2e-token-art/portraits/rulebook-book-of-the-dead-bestiary/Nasurgeth_2.png",
 		  "token": {
 			  "img": "modules/pf2e-token-art/tokens/rulebook-book-of-the-dead-bestiary/Nasurgeth_2.png",
+			  "scale": 1.0
+		  }
+	  }
+  },
+  "npc-gallery": {
+	  "sKSfQmJMEsj8QN12": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Adept.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Adept.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "8WFGygPv7UHh7zdJ": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Apothecary.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Apothecary.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "aJR3f8YcAkmfx7im": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Apprentice.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Apprentice.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "ImdKLPgazv4MSI0F": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Barrister.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Barrister.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "JsTI2SEZdg2j03gf": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Beggar.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Beggar.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "xY2WjwebqTNXAP0q": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Commoner.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Commoner.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "K8mtLJ5jgxfqxTCv": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/HarrowReader.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/HarrowReader.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "tbiThWX0gAVZAMor": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Judge.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Judge.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "QAodADCKmbkf53CE": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Librarian.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Librarian.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "cAOWcPIjtZYXYZ3i": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Merchant.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Merchant.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "7RF95b3WHkvHWLrv": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Physician.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Physician.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "1iz7O6DLDJqStojd": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Servant.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Servant.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "OSCpJYTr6xNIxqZi": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Server.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Server.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "hK8Tpg3baKWzmPEv": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/TaxCollector.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/TaxCollector.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "Jg9OEmo68KC91PgC": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Teacher.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Teacher.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "G2ftdkyJ5WDonL0C": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Urchin.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Urchin.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "QZmckb7O3PNgY7D6": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Dockhand.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Dockhand.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "u3tXaX3sOtCvuHW3": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Farmer.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Farmer.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "DSA03902sWGot0ev": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Miner.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Miner.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "IQJT1Bg9FhvHHEap": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Torchbearer.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Torchbearer.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "crTWewxna93vEt6B": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/AcolyteOfNethys.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/AcolyteOfNethys.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "6IADTZHYowxObqAk": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Barkeep.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Barkeep.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "7eJJIIVEDB3EFFcZ": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Bodyguard.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Bodyguard.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "Ap87yR4WOs0wKHx7": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Cultist.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Cultist.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "lfXQECIiN0zZdf95": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Dancer.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Dancer.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "Zd0K8TOkthc4a4l7": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/GraveRobber.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/GraveRobber.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "WTCFE1BYdZGWJHh7": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Gravedigger.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Gravedigger.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "rsATu823vatRe7QJ": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Guard.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Guard.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "PLOfWPKwB7pE4arv": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Innkeeper.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Innkeeper.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "p94aKz7KsiAQJscm": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Prisoner.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Prisoner.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "Tj03FbN4SSr0o953": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Acrobat.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Acrobat.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "DD2JNeRxO79WFlOL": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/ArcherSentry.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/ArcherSentry.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "51E3fdESgGjQxcMv": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Astronomer.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Astronomer.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "KPUDfkVpemug2gKj": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Bandit.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Bandit.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "IaSxoVNZFYatdfjI": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Drunkard.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Drunkard.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "8coHofIpLa5ZnjAF": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Navigator.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Navigator.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "5LvpvIMhaYLcyAk6": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Pirate.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Pirate.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "X1cSs1jhTtx1zTI4": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Poacher.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Poacher.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "W9lhKuDeS670LzLx": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Prophet.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Prophet.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "DFurZlcpcNrUmmER": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Ruffian.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Ruffian.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "ny37LcdsPLY9Osby": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Saboteur.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Saboteur.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "wfsT2QDtQhsFXQfE": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Surgeon.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Surgeon.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "1NZ1ZAgcUlWKmQSs": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Bosun.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Bosun.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "7GGHuOlSzcaF2AdL": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Charlatan.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Charlatan.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "EslFhpdvQf7KN8W3": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Chronicler.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Chronicler.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "saUg5rtaO9kI9Vir": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Harbormaster.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Harbormaster.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "gzirsGA07yG6CaG8": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Jailer.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Jailer.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "1sWw5OgmpazLVqRQ": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/MageForHire.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/MageForHire.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "R5SWtNtQt8l7WLYk": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Noble.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Noble.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "o9dAbSVn4Vi4ejjc": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Smith.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Smith.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "TCzxsJQjUpy02CsJ": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Tracker.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Tracker.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "lemVxzg2Pnx9Nu3d": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Troubadour.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Troubadour.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "TgeUj2IiyoTeZHIO": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/WatchOfficer.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/WatchOfficer.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "PoIuzIWFnlAQ8pdH": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/BeastTamer.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/BeastTamer.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "GoGNtiHuYycppLPk": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/BountyHunter.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/BountyHunter.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "B09JfuBZHjcRXztU": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Burglar.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Burglar.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "9jDT7EhtlZtNpCz7": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/FalsePriest.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/FalsePriest.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "X7LmMMEOFUUicQ2O": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Guide.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Guide.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "Cnm5zWmuTEYy6mPx": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Mastermind.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Mastermind.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "B13dyXTo1xWVyj2R": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/PalaceGuard.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/PalaceGuard.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "lTcX8tk6JjQBFcq1": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/ZealotOfAsmodeus.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/ZealotOfAsmodeus.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "w4VJ6h4mysbpdoN4": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Advisor.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Advisor.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "K2STan8izudm9eEn": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Antipaladin.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Antipaladin.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "EzD6YlNXL48rN8nq": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Despot.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Despot.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "1U1URD7IyddoD5zE": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Fence.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Fence.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "kmHYc2fvhd4QsUEV": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Necromancer.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Necromancer.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "ldaY3QcPczuFoqBC": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/PlagueDoctor.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/PlagueDoctor.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "B0pZAGooj735FGfw": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/TombRaider.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/TombRaider.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "t7QwdZ2m7AbuRWqd": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/CaptainOfTheGuard.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/CaptainOfTheGuard.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "Za701s0CV37YPOyo": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Executioner.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Executioner.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "zQfufnnLCTzQ165S": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/MonsterHunter.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/MonsterHunter.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "XpkGaDlyMH2V5wxR": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/PriestOfPharasma.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/PriestOfPharasma.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "mblLgQ9NMR2mMI99": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/RecklessScientist.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/RecklessScientist.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "3lZhmvNLQkiYGAof": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Sage.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Sage.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "KUDsYCHduF0JE3yf": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/ShipCaptain.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/ShipCaptain.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "SwjcZsbkcq6PhiXc": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Spy.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Spy.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "GRtEwNQgKQ9j9JPK": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Warden.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Warden.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "pMKrTXmrzDOc9avN": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/CultLeader.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/CultLeader.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "0Ex7rBuiJVu2NwCz": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Demonologist.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Demonologist.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "vkLhqX5oR1t89puZ": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/GangLeader.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/GangLeader.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "Hle05FibgOeZr7wF": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Hunter.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Hunter.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "0Kb4z4h8KVqfrIju": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Assassin.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Assassin.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "pZOgcQRwXrX9g0s8": {
+		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/Guildmaster.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/Guildmaster.png",
 			  "scale": 1.0
 		  }
 	  }

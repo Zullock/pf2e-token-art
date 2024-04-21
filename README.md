@@ -10,8 +10,8 @@
 	- [ ] Dark Archive
 		- [ ] Portraits
 		- [ ] Tokens
-	- [ ] Gamemastery Guide
-		- [ ] Portraits
+	- [ ] Gamemastery Guide (NPC Gallery)
+		- [X] Portraits
 		- [ ] Tokens
 - [ ] Lost Omens
 	- [ ] Absalom, City of Lost Omens
