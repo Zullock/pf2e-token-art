@@ -1,3 +1,10 @@
+# 1.3.0
+
+-	Añadidos portraits de Dark Archive
+-	Añadidos portraits de Lost Omens Absalom
+-	Añadidos portraits de Lost Omens Highhelm
+-	Añadidos portraits de Lost Omens Impossible Lands
+
 # 1.2.0
 
 -	Añadidos portraits de Book of the Dead que solo aparecen en las battle cards.

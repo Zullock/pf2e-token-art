@@ -8,23 +8,23 @@
 		- [X] Portraits
 		- [ ] Tokens
 	- [ ] Dark Archive
-		- [ ] Portraits
+		- [X] Portraits
 		- [ ] Tokens
 	- [ ] Gamemastery Guide (NPC Gallery)
 		- [X] Portraits
 		- [ ] Tokens
 - [ ] Lost Omens
 	- [ ] Absalom, City of Lost Omens
-		- [ ] Portraits
+		- [X] Portraits
 		- [ ] Tokens
 	- [ ] Character Guide
 		- [ ] Portraits
 		- [ ] Tokens
 	- [ ] Highhelm
-		- [ ] Portraits
+		- [X] Portraits
 		- [ ] Tokens
 	- [ ] Impossible Lands
-		- [ ] Portraits
+		- [X] Portraits
 		- [ ] Tokens
 	- [ ] Monster of Myth
 		- [ ] Portraits
