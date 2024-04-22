@@ -1,3 +1,9 @@
+# 1.4.0
+
+-	Añadidos portraits de Lost Omens Character Guide
+-	Añadidos portraits de Lost Omens Monsters of Myth
+-	Añadidos portraits de Lost Omens The Mwangi Expanse
+
 # 1.3.0
 
 -	Añadidos portraits de Dark Archive

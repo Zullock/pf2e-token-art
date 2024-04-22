@@ -18,7 +18,7 @@
 		- [X] Portraits
 		- [ ] Tokens
 	- [ ] Character Guide
-		- [ ] Portraits
+		- [X] Portraits
 		- [ ] Tokens
 	- [ ] Highhelm
 		- [X] Portraits
@@ -26,17 +26,11 @@
 	- [ ] Impossible Lands
 		- [X] Portraits
 		- [ ] Tokens
-	- [ ] Monster of Myth
-		- [ ] Portraits
-		- [ ] Tokens
-	- [ ] The Grand Bazaar
-		- [ ] Portraits
+	- [ ] Monsters of Myth
+		- [X] Portraits
 		- [ ] Tokens
 	- [ ] The Mwangi Expanse
-		- [ ] Portraits
-		- [ ] Tokens
-	- [ ] Travel Guide
-		- [ ] Portraits
+		- [X] Portraits
 		- [ ] Tokens
 - [ ] Standalone Adventures
 	- [ ] Crown of the Kobold King

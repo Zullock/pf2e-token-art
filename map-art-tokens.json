@@ -1082,7 +1082,7 @@
 			  "scale": 1.0
 		  }
 	  },
-	  "8Lo4sys48l7YaK5J": {
+	  "34gooaLEuQh0Cu9n": {
 		  "actor": "modules/pf2e-token-art/portraits/rulebook-dark-archive/CocoonOfLucidPotential.png",
 		  "token": {
 			  "img": "modules/pf2e-token-art/tokens/rulebook-dark-archive/CocoonOfLucidPotential.png",
@@ -1680,16 +1680,93 @@
 		  }
 	  },
 	  "5Rqh2dBxGU8Jwf56": {
-		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/AzarketiSailor.png",
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-absalom/AzarketiSailor.png",
 		  "token": {
-			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/AzarketiSailor.png",
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-absalom/AzarketiSailor.png",
 			  "scale": 1.0
 		  }
 	  },
 	  "sZ9RwN8zIzpztW3N": {
-		  "actor": "modules/pf2e-token-art/portraits/rulebook-npc-gallery/AzarketiTideTimer.png",
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-absalom/AzarketiTideTimer.png",
 		  "token": {
-			  "img": "modules/pf2e-token-art/tokens/rulebook-npc-gallery/AzarketiTideTimer.png",
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-absalom/AzarketiTideTimer.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "95IcOUvxABvj5lvo": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-character-guide/ChangelingHellknight.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-character-guide/ChangelingHellknight.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "EMl8hARVJk8SNVyW": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-character-guide/CharmingScoundrel.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-character-guide/CharmingScoundrel.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "UuPPceVcGk1RwSbB": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-character-guide/HellknightArminger.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-character-guide/HellknightArminger.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "VkG5yl9xcmziwpQD": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-character-guide/PathfinderFieldAgent.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-character-guide/PathfinderFieldAgent.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "2SBKFCog4JY3WrOW": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-character-guide/RainScribe.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-character-guide/RainScribe.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "bc1jeTvmzKeYGVw9": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-character-guide/VirtuousDefender.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-character-guide/VirtuousDefender.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "mJxgYD8TQg1W2oXC": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-character-guide/HellknightParavicar.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-character-guide/HellknightParavicar.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "o4XTf77fEEoFVTdA": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-character-guide/PathfinderVentureCaptain.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-character-guide/PathfinderVentureCaptain.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "48bZvtRcd7T6FmA7": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-character-guide/PrivateerCaptain.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-character-guide/PrivateerCaptain.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "M2Vi2mkwMZv1ZRka": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-character-guide/TempestSunMage.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-character-guide/TempestSunMage.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "hxyImo4ts3O0BrAY": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-character-guide/VeteranReclaimer.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-character-guide/VeteranReclaimer.png",
 			  "scale": 1.0
 		  }
 	  }
@@ -1848,6 +1925,346 @@
 		  "actor": "modules/pf2e-token-art/portraits/lost-omens-impossible-lands-bestiary/BenthicReaver.png",
 		  "token": {
 			  "img": "modules/pf2e-token-art/tokens/lost-omens-impossible-lands-bestiary/BenthicReaver.png",
+			  "scale": 1.0
+		  }
+	  }
+  },
+  "lost-omens-monsters-of-myth-bestiary": {
+	  "EXyfhhX9GLOnK1uZ": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-monsters-of-myth-bestiary/SpringHeeledJack.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-monsters-of-myth-bestiary/SpringHeeledJack.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "7a57dwK5XrV78ajM": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-monsters-of-myth-bestiary/Temteki.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-monsters-of-myth-bestiary/Temteki.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "N3OJ0wxik4wEgTg7": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-monsters-of-myth-bestiary/ImperfectAutomaton.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-monsters-of-myth-bestiary/ImperfectAutomaton.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "G1jYZOjA3E3BqrIM": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-monsters-of-myth-bestiary/MelfeshMonster.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-monsters-of-myth-bestiary/MelfeshMonster.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "jInkcz2UYdaCzsBU": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-monsters-of-myth-bestiary/UlgremAxaan.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-monsters-of-myth-bestiary/UlgremAxaan.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "K7hgO9SEBai2jwYj": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-monsters-of-myth-bestiary/KrampusCelebrant.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-monsters-of-myth-bestiary/KrampusCelebrant.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "zE2ykzHZKNS3Rnc3": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-monsters-of-myth-bestiary/KallasDevil.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-monsters-of-myth-bestiary/KallasDevil.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "KdOwmclPVpcTSPjF": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-monsters-of-myth-bestiary/MosquitoWitch.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-monsters-of-myth-bestiary/MosquitoWitch.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "ns6fmJ8469hzBOtM": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-monsters-of-myth-bestiary/MosquitoWitch.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-monsters-of-myth-bestiary/MosquitoWitch.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "FhgZOBWNMa5t7pYV": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-monsters-of-myth-bestiary/MosquitoWitch.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-monsters-of-myth-bestiary/MosquitoWitch.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "mE9MQ0hnRmlR9m94": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-monsters-of-myth-bestiary/MosquitoWitch.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-monsters-of-myth-bestiary/MosquitoWitch.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "10srqxC7QZy0dq2g": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-monsters-of-myth-bestiary/SpectralDevil.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-monsters-of-myth-bestiary/SpectralDevil.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "XCW1WzJqwGUS1cGi": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-monsters-of-myth-bestiary/Ulistul.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-monsters-of-myth-bestiary/Ulistul.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "OF0fZDjNapydddM1": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-monsters-of-myth-bestiary/Kuworsys.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-monsters-of-myth-bestiary/Kuworsys.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "C87bRxKDTuJXGkPG": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-monsters-of-myth-bestiary/Tehialai.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-monsters-of-myth-bestiary/Tehialai.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "VCC4nw6EXvqwgmCp": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-monsters-of-myth-bestiary/Ainamuuren.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-monsters-of-myth-bestiary/Ainamuuren.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "KLxdUFCvZ7HkAP1E": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-monsters-of-myth-bestiary/Somnalu.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-monsters-of-myth-bestiary/Somnalu.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "O4gEaG5vzkLFl7J1": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-monsters-of-myth-bestiary/Grogrisant.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-monsters-of-myth-bestiary/Grogrisant.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "LK3SgIKJqqo4Q4NQ": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-monsters-of-myth-bestiary/Cuetzmonquali.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-monsters-of-myth-bestiary/Cuetzmonquali.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "bhLbKN7MJofTabfK": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-monsters-of-myth-bestiary/Taljjae.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-monsters-of-myth-bestiary/Taljjae.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "a1vTm01GBVF4TI8f": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-monsters-of-myth-bestiary/Taljjae.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-monsters-of-myth-bestiary/Taljjae.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "W0oF6Dl7G4UeTBSC": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-monsters-of-myth-bestiary/Taljjae.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-monsters-of-myth-bestiary/Taljjae.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "sXZExyaijbRnKI2S": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-monsters-of-myth-bestiary/Taljjae.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-monsters-of-myth-bestiary/Taljjae.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "XLDh6o6vBRCDEKsl": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-monsters-of-myth-bestiary/Taljjae.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-monsters-of-myth-bestiary/Taljjae.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "IO7sPevkM0zvnWbi": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-monsters-of-myth-bestiary/Taljjae.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-monsters-of-myth-bestiary/Taljjae.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "j3NhCEMLVm4HSsgr": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-monsters-of-myth-bestiary/Taljjae.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-monsters-of-myth-bestiary/Taljjae.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "hfi0qJePy2cf4Fqe": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-monsters-of-myth-bestiary/Taljjae.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-monsters-of-myth-bestiary/Taljjae.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "Bi6bi9Ko5x9OJfDT": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-monsters-of-myth-bestiary/DesertsHowl.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-monsters-of-myth-bestiary/DesertsHowl.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "RqdL0YzNF1dG163i": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-monsters-of-myth-bestiary/Kothogaz.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-monsters-of-myth-bestiary/Kothogaz.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "WdnuPiAoRFaymR8R": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-monsters-of-myth-bestiary/Fafnheir.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-monsters-of-myth-bestiary/Fafnheir.png",
+			  "scale": 1.0
+		  }
+	  }
+  },
+  "lost-omens-mwangi-expanse-bestiary": {
+	  "rayMMWNm61ivtxuU": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-mwangi-expanse-bestiary/Biloko.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-mwangi-expanse-bestiary/Biloko.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "TfEGDGqUk3LpokZZ": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-mwangi-expanse-bestiary/CharauKaWarrior.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-mwangi-expanse-bestiary/CharauKaWarrior.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "rMby02NQRHNrDcTj": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-mwangi-expanse-bestiary/Kaava.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-mwangi-expanse-bestiary/Kaava.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "aXXvrcggR8EQJOdm": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-mwangi-expanse-bestiary/AnadiHunter.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-mwangi-expanse-bestiary/AnadiHunter.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "IWk8dWUf4Q4D8iww": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-mwangi-expanse-bestiary/AnadiSage.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-mwangi-expanse-bestiary/AnadiSage.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "rrJqsVeBKizuyqRY": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-mwangi-expanse-bestiary/Biloko.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-mwangi-expanse-bestiary/Biloko.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "hbvxQn0T0m4WoAmZ": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-mwangi-expanse-bestiary/Karina.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-mwangi-expanse-bestiary/Karina.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "8K5v5q9Y01hcSNug": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-mwangi-expanse-bestiary/Rompo.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-mwangi-expanse-bestiary/Rompo.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "As0M3PvmrR2055pk": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-mwangi-expanse-bestiary/Asanbosam.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-mwangi-expanse-bestiary/Asanbosam.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "QUyqY6JiZNkEyTnd": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-mwangi-expanse-bestiary/CharauKaButcher.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-mwangi-expanse-bestiary/CharauKaButcher.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "RVVSRRYAhQ3dVK2h": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-mwangi-expanse-bestiary/SolarIbis.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-mwangi-expanse-bestiary/SolarIbis.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "N5pG7rsbN1lL1ysb": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-mwangi-expanse-bestiary/Aigamuxa.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-mwangi-expanse-bestiary/Aigamuxa.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "XSWDwaLEyshEKSZE": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-mwangi-expanse-bestiary/Knonna.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-mwangi-expanse-bestiary/Knonna.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "j0t62tXPYhBzCLUO": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-mwangi-expanse-bestiary/Mamlambo.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-mwangi-expanse-bestiary/Mamlambo.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "rBlu1EsygXwCkOvd": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-mwangi-expanse-bestiary/Zinba.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-mwangi-expanse-bestiary/Zinba.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "ld3hMGWfeUT7enNf": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-mwangi-expanse-bestiary/SieGolou.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-mwangi-expanse-bestiary/SieGolou.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "NvyAvzxxfb8XEQr2": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-mwangi-expanse-bestiary/Grootslang.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-mwangi-expanse-bestiary/Grootslang.png",
+			  "scale": 1.0
+		  }
+	  },
+	  "x2udXsqiLZachJHY": {
+		  "actor": "modules/pf2e-token-art/portraits/lost-omens-mwangi-expanse-bestiary/Maliadi.png",
+		  "token": {
+			  "img": "modules/pf2e-token-art/tokens/lost-omens-mwangi-expanse-bestiary/Maliadi.png",
 			  "scale": 1.0
 		  }
 	  }
