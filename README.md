@@ -4,13 +4,13 @@
 	- [ ] Book of the Dead
 		- [X] Portraits
 		- [ ] Tokens
-	- [ ] Rage of Elements
+	- [X] Rage of Elements
 		- [X] Portraits
-		- [ ] Tokens
+		- [X] Tokens
 	- [ ] Dark Archive
 		- [X] Portraits
 		- [ ] Tokens
-	- [ ] Gamemastery Guide (NPC Gallery)
+	- [ ] Gamemastery Guide
 		- [X] Portraits
 		- [ ] Tokens
 - [ ] Lost Omens
@@ -32,10 +32,13 @@
 	- [ ] The Mwangi Expanse
 		- [X] Portraits
 		- [ ] Tokens
-- [ ] Standalone Adventures
-	- [ ] Crown of the Kobold King
-		- [ ] Portraits
+	- [ ] Tian Xia World Guide
+		- [X] Portraits
 		- [ ] Tokens
+- [ ] Standalone Adventures
+	- [X] Crown of the Kobold King
+		- [X] Portraits
+		- [X] Tokens
 	- [ ]  Fall of Plaguestone
 		- [ ] Portraits
 		- [ ] Tokens

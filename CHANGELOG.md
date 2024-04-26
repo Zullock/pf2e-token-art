@@ -1,15 +1,22 @@
+# 2.0.0
+
+-	Convertida imagenes a webp para reducir espacio (portraits).
+-	Añadidos portraits de Tian Xia World Guide.
+-	Añadidos tokens de Rage of Elements.
+-	Añadidos portraits y tokens de Crown of the Kobold King (Gracias a Gelux).
+
 # 1.4.0
 
--	Añadidos portraits de Lost Omens Character Guide
--	Añadidos portraits de Lost Omens Monsters of Myth
--	Añadidos portraits de Lost Omens The Mwangi Expanse
+-	Añadidos portraits de Lost Omens Character Guide.
+-	Añadidos portraits de Lost Omens Monsters of Myth.
+-	Añadidos portraits de Lost Omens The Mwangi Expanse.
 
 # 1.3.0
 
--	Añadidos portraits de Dark Archive
--	Añadidos portraits de Lost Omens Absalom
--	Añadidos portraits de Lost Omens Highhelm
--	Añadidos portraits de Lost Omens Impossible Lands
+-	Añadidos portraits de Dark Archive.
+-	Añadidos portraits de Lost Omens Absalom.
+-	Añadidos portraits de Lost Omens Highhelm.
+-	Añadidos portraits de Lost Omens Impossible Lands.
 
 # 1.2.0
 
