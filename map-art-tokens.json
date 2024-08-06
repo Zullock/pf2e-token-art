@@ -2582,6 +2582,15 @@
             }
         }
     },
+	"shadows-at-sundown-bestiary": {
+		"8oeuD5h4OzXsxZS5": {
+            "actor": "modules/pf2e-token-art/portraits/shadows-at-sundown/ScarletWalker.webp",
+            "token": {
+                "img": "modules/pf2e-token-art/tokens/shadows-at-sundown/ScarletWalker.webp",
+                "scale": 1.5
+            }
+        }
+	},
     "the-enmity-cycle-bestiary": {
         "257nqvaDItlttlG2": {
             "actor": "modules/pf2e-token-art/portraits/standalone-adventure-the-enmity-cycle/ScorchingSunCultist.webp",

@@ -1,81 +1,110 @@
 ## Roadmap
 
-- [ ] Rulebooks
-	- [ ] Book of the Dead
+- [X] Rulebooks
+	- [X] Book of the Dead
 		- [X] Portraits
-		- [ ] Tokens
+		- [X] Tokens
+		- [X] Dynamic Tokens
+	- [X] Howl of the Wild
+		- [X] Portraits
+		- [X] Tokens	
+		- [X] Dynamic Tokens
 	- [X] Rage of Elements
 		- [X] Portraits
 		- [X] Tokens
-	- [ ] Dark Archive
+		- [X] Dynamic Tokens
+	- [X] Dark Archive
 		- [X] Portraits
-		- [ ] Tokens
-	- [ ] Gamemastery Guide
+		- [X] Tokens
+		- [X] Dynamic Tokens
+	- [X] Gamemastery Guide
 		- [X] Portraits
-		- [ ] Tokens
-- [ ] Lost Omens
-	- [ ] Absalom, City of Lost Omens
+		- [X] Tokens
+		- [X] Dynamic Tokens
+- [X] Lost Omens
+	- [X] Absalom, City of Lost Omens
 		- [X] Portraits
-		- [ ] Tokens
-	- [ ] Character Guide
+		- [X] Tokens
+		- [X] Dynamic Tokens
+	- [X] Character Guide
 		- [X] Portraits
-		- [ ] Tokens
-	- [ ] Highhelm
+		- [X] Tokens
+		- [X] Dynamic Tokens
+	- [X] Highhelm
 		- [X] Portraits
-		- [ ] Tokens
-	- [ ] Impossible Lands
+		- [X] Tokens
+		- [X] Dynamic Tokens
+	- [X] Impossible Lands
 		- [X] Portraits
-		- [ ] Tokens
-	- [ ] Monsters of Myth
+		- [X] Tokens
+		- [X] Dynamic Tokens
+	- [X] Monsters of Myth
 		- [X] Portraits
-		- [ ] Tokens
-	- [ ] The Mwangi Expanse
+		- [X] Tokens
+		- [X] Dynamic Tokens
+	- [X] The Mwangi Expanse
 		- [X] Portraits
-		- [ ] Tokens
-	- [ ] Tian Xia World Guide
+		- [X] Tokens
+		- [X] Dynamic Tokens
+	- [X] Tian Xia World Guide
 		- [X] Portraits
-		- [ ] Tokens
+		- [X] Tokens
+		- [X] Dynamic Tokens
 - [ ] Standalone Adventures
 	- [X] Crown of the Kobold King
 		- [X] Portraits
 		- [X] Tokens
+		- [ ] Dynamic Tokens
 	- [ ]  Fall of Plaguestone
 		- [ ] Portraits
 		- [ ] Tokens
+		- [ ] Dynamic Tokens
 	- [ ] Malevolence
 		- [ ] Portraits
 		- [ ] Tokens
+		- [ ] Dynamic Tokens
 	- [ ] Night of the Gray Death
 		- [ ] Portraits
 		- [ ] Tokens
+		- [ ] Dynamic Tokens
 	- [ ] Shadows at Sundown
 		- [ ] Portraits
 		- [ ] Tokens
+		- [ ] Dynamic Tokens
 	- [ ] The Enmity Cycle
 		- [X] Portraits
 		- [ ] Tokens
+		- [ ] Dynamic Tokens
 	- [ ] The Slithering
 		- [ ] Portraits
 		- [ ] Tokens
+		- [ ] Dynamic Tokens
 	- [ ] Troubles in Otari
 		- [ ] Portraits
 		- [ ] Tokens
+		- [ ] Dynamic Tokens
 - [ ] Adventure Paths
 	- [ ] Age of Ashes
 		- [ ] Portraits
 		- [ ] Tokens
+		- [ ] Dynamic Tokens
 	- [ ] Agents of Edgewatch
 		- [ ] Portraits
 		- [ ] Tokens
+		- [ ] Dynamic Tokens
 	- [ ] Extinction Curse
 		- [ ] Portraits
 		- [ ] Tokens
+		- [ ] Dynamic Tokens
 	- [ ] Fists of the Ruby Phoenix
 		- [ ] Portraits
 		- [ ] Tokens
+		- [ ] Dynamic Tokens
 	- [ ] Quest for the Frozen Flame
 		- [ ] Portraits
 		- [ ] Tokens
+		- [ ] Dynamic Tokens
 	- [ ] Strenght of Thousands
 		- [ ] Portraits
 		- [ ] Tokens
+		- [ ] Dynamic Tokens
