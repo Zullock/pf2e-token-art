@@ -11,17 +11,22 @@
   "version": "2.0.0",
   "compatibility": {
     "minimum": "10.291",
-    "verified": "11"
+    "verified": "12"
   },
   "url": "https://github.com/Zullock/pf2e-token-art",
   "manifest": "https://raw.githubusercontent.com/Zullock/pf2e-token-art/main/module.json",
   "download": "https://github.com/Zullock/pf2e-token-art/releases/download/v2.0.0/module.zip",
   "changelog": "https://github.com/Zullock/pf2e-token-art/blob/main/CHANGELOG.md",
   "flags": {
-	  "pf2e-token-art": {
-		"pf2e-art": "modules/pf2e-token-art/map-art-tokens.json"
-	  }
-	},
+      "compendiumArtMappings": {
+        "pf2e": {
+          "mapping": "modules/pf2e-token-art/map-art-tokens.json"
+        }
+      },
+      "tokenRingSubjectMappings": {
+        "modules/pf2e-token-art/tokens/": "modules/pf2e-token-art/subjects/"
+      }
+  },
   "relationships": {
     "systems": [
       {
@@ -33,5 +38,12 @@
         }
       }
     ]
-  }
+  },
+  "recommends": [
+    {
+      "id": "pf2e-tokens-characters",
+      "type": "module",
+      "compatibility": {}
+    }
+  ]
 }
