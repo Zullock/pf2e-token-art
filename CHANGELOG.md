@@ -4,9 +4,6 @@
 -	Añadidos portraits, tokens y subjects de Howl of the Wild.
 -	Añadidos tokens y subjects de Book of the Dead.
 -	Añadidos tokens y subjects de Dark Archive.
--	Añadidos tokens y subjects de Gamemastery Guide.
--	Añadidos tokens y subjects de LO Absalom.
--	Añadidos tokens y subjects de LO Character Guide.
 -	Añadidos tokens y subjects de LO Highhelm.
 -	Añadidos tokens y subjects de LO Impossible Lands.
 -	Añadidos tokens y subjects de LO Monsters of Myth.
