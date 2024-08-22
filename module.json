@@ -20,11 +20,11 @@
   "flags": {
       "compendiumArtMappings": {
         "pf2e": {
-          "mapping": "modules/pf2e-token-art/map-art-tokens.json"
+          "mapping": "modules/pf2e-token-art/data/map-art-tokens.json"
         }
       },
       "tokenRingSubjectMappings": {
-        "modules/pf2e-token-art/tokens/": "modules/pf2e-token-art/subjects/"
+        "modules/pf2e-token-art/assets/tokens/": "modules/pf2e-token-art/assets/subjects/"
       }
   },
   "relationships": {

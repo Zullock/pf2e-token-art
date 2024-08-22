@@ -1,0 +1,37 @@
+[
+  {
+    "label": "Ivarsa",
+    "key": "ivarsa",
+    "source": "Quest for the Frozen Flame",
+    "art": {
+      "portrait": "modules/pf2e-tokens-art/portraits/adventure-path-quest-for-the-frozen-flame/Ivarsa.webp",
+      "thumb": "modules/pf2e-tokens-art/thumbnails/adventure-path-quest-for-the-frozen-flame/Ivarsa.webp",
+      "token": "modules/pf2e-tokens-art/subjects/adventure-path-quest-for-the-frozen-flame/Ivarsa.webp",
+      "subject": "modules/pf2e-tokens-art/subjects/adventure-path-quest-for-the-frozen-flame/Ivarsa.webp"
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "axe",
+        "unarmored",
+        "medium",
+        "light"
+      ],
+      "features": [
+        "dual-wielding",
+        "magic"
+      ],
+      "family": [
+        "warrior"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  }
+]
