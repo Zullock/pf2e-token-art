@@ -1,11 +1,11 @@
 {
-  "name": "pf2e-token-art",
   "title": "PF2e Token Art",
   "description": "A module to add art to system tokens",
   "authors": [
     {
       "name": "Zullock",
-      "discord": "Zullock#2883"
+      "discord": "Zullock#2883",
+      "flags": {}
     }
   ],
   "version": "2.0.0",
@@ -18,14 +18,133 @@
   "download": "https://github.com/Zullock/pf2e-token-art/releases/download/v2.0.0/module.zip",
   "changelog": "https://github.com/Zullock/pf2e-token-art/blob/main/CHANGELOG.md",
   "flags": {
-      "compendiumArtMappings": {
-        "pf2e": {
-          "mapping": "modules/pf2e-token-art/data/map-art-tokens.json"
+   "galleryDatasheets": {
+        "pf1e-adventure-path-carrion-crown-datasheet": {
+            "label": "PF1e AP Carrion Crown",
+            "sheet": "modules/pf2e-token-art/data/PF1e/adventure-path/adventure-path-carrion-crown-datasheet.json"
+        },
+        "pf1e-adventure-path-council-of-thieves-datasheet": {
+            "label": "PF1e AP Council of Thieves",
+            "sheet": "modules/pf2e-token-art/data/PF1e/adventure-path/adventure-path-council-of-thieves-datasheet.json"
+        },
+        "pf1e-adventure-path-curse-of-the-crimson-throne-datasheet": {
+            "label": "PF1e AP Curse of the Crimson Throne",
+            "sheet": "modules/pf2e-token-art/data/PF1e/adventure-path/adventure-path-curse-of-the-crimson-throne-datasheet.json"
+        },
+        "pf1e-adventure-path-giantslayer-datasheet": {
+            "label": "PF1e AP Giantslayer",
+            "sheet": "modules/pf2e-token-art/data/PF1e/adventure-path/adventure-path-giantslayer-datasheet.json"
+        },
+        "pf1e-adventure-path-hells-rebels-datasheet": {
+            "label": "PF1e AP Hell's Rebels",
+            "sheet": "modules/pf2e-token-art/data/PF1e/adventure-path/adventure-path-hells-rebels-datasheet.json"
+        },
+        "pf1e-adventure-path-hells-vengeance-datasheet": {
+            "label": "PF1e AP Hell's Vengeance",
+            "sheet": "modules/pf2e-token-art/data/PF1e/adventure-path/adventure-path-hells-vengeance-datasheet.json"
+        },
+        "pf1e-adventure-path-iron-gods-datasheet": {
+            "label": "PF1e AP Iron Gods",
+            "sheet": "modules/pf2e-token-art/data/PF1e/adventure-path/adventure-path-iron-gods-datasheet.json"
+        },
+        "pf1e-adventure-path-kingmaker-datasheet": {
+            "label": "PF1e AP Kingmaker",
+            "sheet": "modules/pf2e-token-art/data/PF1e/adventure-path/adventure-path-kingmaker-datasheet.json"
+        },
+        "pf1e-adventure-path-legacy-of-fire-datasheet": {
+            "label": "PF1e AP Legacy of Fire",
+            "sheet": "modules/pf2e-token-art/data/PF1e/adventure-path/adventure-path-legacy-of-fire-datasheet.json"
+        },
+        "pf1e-adventure-path-rise-of-the-runelord-datasheet": {
+            "label": "PF1e AP Rise of the Runelords",
+            "sheet": "modules/pf2e-token-art/data/PF1e/adventure-path/adventure-path-rise-of-the-runelord-datasheet.json"
+        },
+        "pf1e-adventure-path-tyrants-grasp-datasheet": {
+            "label": "PF1e AP Tyrant's Grasp",
+            "sheet": "modules/pf2e-token-art/data/PF1e/adventure-path/adventure-path-tyrants-grasp-datasheet.json"
+        },
+        "pf1e-module-academy-of-secrets-datasheet": {
+            "label": "PF1e Module Academy of Secrets",
+            "sheet": "modules/pf2e-token-art/data/PF1e/module/module-academy-of-secrets-datasheet.json"
+        },
+        "pf1e-module-broken-chains-datasheet": {
+            "label": "PF1e Module Broken Chains",
+            "sheet": "modules/pf2e-token-art/data/PF1e/module/module-broken-chains-datasheet.json"
+        },
+        "pf1e-module-carrion-hill-datasheet": {
+            "label": "PF1e Module Carrion Hill",
+            "sheet": "modules/pf2e-token-art/data/PF1e/module/module-carrion-hill-datasheet.json"
+        },
+        "pf1e-rulebook-advanced-class-guide-datasheet": {
+            "label": "PF1e Rulebook Advanced Class Guide",
+            "sheet": "modules/pf2e-token-art/data/PF1e/rulebook/rulebook-advanced-class-guide-datasheet.json"
+        },
+        "pf1e-rulebook-advanced-player-guide-datasheet": {
+            "label": "PF1e Rulebook Advanced Player Guide",
+            "sheet": "modules/pf2e-token-art/data/PF1e/rulebook/rulebook-advanced-player-guide-datasheet.json"
+        },
+        "pf1e-rulebook-advanced-race-guide-datasheet": {
+            "label": "PF1e Rulebook Advanced Race Guide",
+            "sheet": "modules/pf2e-token-art/data/PF1e/rulebook/rulebook-advanced-race-guide-datasheet.json"
+        },
+        "pf1e-rulebook-adventurers-guide-datasheet": {
+            "label": "PF1e Rulebook Adventurer's Guide",
+            "sheet": "modules/pf2e-token-art/data/PF1e/rulebook/rulebook-adventurers-guide-datasheet.json"
+        },
+        "pf1e-rulebook-bestiary-1-datasheet": {
+            "label": "PF1e Rulebook Bestiary 1",
+            "sheet": "modules/pf2e-token-art/data/PF1e/rulebook/rulebook-bestiary-1-datasheet.json"
+        },
+        "pf1e-rulebook-bestiary-2-datasheet": {
+            "label": "PF1e Rulebook Bestiary 2",
+            "sheet": "modules/pf2e-token-art/data/PF1e/rulebook/rulebook-bestiary-2-datasheet.json"
+        },
+        "pf1e-rulebook-bestiary-3-datasheet": {
+            "label": "PF1e Rulebook Bestiary 3",
+            "sheet": "modules/pf2e-token-art/data/PF1e/rulebook/rulebook-bestiary-3-datasheet.json"
+        },
+        "pf1e-rulebook-bestiary-4-datasheet": {
+            "label": "PF1e Rulebook Bestiary 4",
+            "sheet": "modules/pf2e-token-art/data/PF1e/rulebook/rulebook-bestiary-4-datasheet.json"
+        },
+        "pf1e-rulebook-bestiary-5-datasheet": {
+            "label": "PF1e Rulebook Bestiary 5",
+            "sheet": "modules/pf2e-token-art/data/PF1e/rulebook/rulebook-bestiary-5-datasheet.json"
+        },
+        "pf1e-rulebook-bestiary-6-datasheet": {
+            "label": "PF1e Rulebook Bestiary 6",
+            "sheet": "modules/pf2e-token-art/data/PF1e/rulebook/rulebook-bestiary-6-datasheet.json"
+        },
+        "pf1e-rulebook-bonus-bestiary-datasheet": {
+            "label": "PF1e Rulebook Bestiary Bonus Bestiary",
+            "sheet": "modules/pf2e-token-art/data/PF1e/rulebook/rulebook-bonus-bestiary-datasheet.json"
+        },
+        "pf1e-rulebook-book-of-the-dammed-datasheet": {
+            "label": "PF1e Rulebook Book of the Dammed",
+            "sheet": "modules/pf2e-token-art/data/PF1e/rulebook/rulebook-book-of-the-dammed-datasheet.json"
+        },
+        "pf1e-rulebook-gamemastery-guide-datasheet": {
+            "label": "PF1e Rulebook Gamemastery Guide",
+            "sheet": "modules/pf2e-token-art/data/PF1e/rulebook/rulebook-gamemastery-guide-datasheet.json"
+        },
+        "pf1e-rulebook-horror-adventures-datasheet": {
+            "label": "PF1e Rulebook Horror Adventures",
+            "sheet": "modules/pf2e-token-art/data/PF1e/rulebook/rulebook-horror-adventures-datasheet.json"
+        },
+        "pf2e-adventure-path-frozen-flame-datasheet": {
+          "label": "PF2e AP Quest for the Frozen Flame",
+          "sheet": "modules/pf2e-token-art/data/PF2e/adventure-path/adventure-path-frozen-flame-datasheet.json"
+        },
+        "pf2e-rulebook-book-of-the-dead-datasheet": {
+          "label": "PF2e Rulebook Book of the Dead",
+          "sheet": "modules/pf2e-token-art/data/PF2e/rulebook/rulebook-book-of-the-dead-datasheet.json"
         }
-      },
-      "tokenRingSubjectMappings": {
-        "modules/pf2e-token-art/assets/tokens/": "modules/pf2e-token-art/assets/subjects/"
+    },
+    "compendiumArtMappings": {
+      "pf2e": {
+        "mapping": "modules/pf2e-token-art/data/map-art-tokens.json"
       }
+    }
   },
   "relationships": {
     "systems": [
@@ -39,11 +158,5 @@
       }
     ]
   },
-  "recommends": [
-    {
-      "id": "pf2e-tokens-characters",
-      "type": "module",
-      "compatibility": {}
-    }
-  ]
+  "id": "pf2e-token-art"
 }

@@ -1,76 +1,136 @@
 ## Roadmap
 
-- [X] Rulebooks
-	- [X] Book of the Dead
-		- [X] Portraits
-		- [X] Dynamic Tokens
-	- [ ] Howl of the Wild
-		- [ ] Portraits
-		- [ ] Dynamic Tokens
-	- [X] Rage of Elements
-		- [X] Portraits
-		- [ ] Dynamic Tokens
-	- [X] Dark Archive
-		- [X] Portraits
-		- [X] Dynamic Tokens
-- [X] Lost Omens
-	- [X] Highhelm
-		- [X] Portraits
-		- [X] Dynamic Tokens
-	- [X] Impossible Lands
-		- [X] Portraits
-		- [X] Dynamic Tokens
-	- [X] Monsters of Myth
-		- [X] Portraits
-		- [X] Dynamic Tokens
-	- [X] The Mwangi Expanse
-		- [X] Portraits
-		- [X] Dynamic Tokens
-	- [X] Tian Xia World Guide
-		- [X] Portraits
-		- [X] Dynamic Tokens
-- [ ] Standalone Adventures
-	- [X] Crown of the Kobold King
-		- [X] Portraits
-		- [X] Tokens
-		- [ ] Dynamic Tokens
-	- [ ]  Fall of Plaguestone
-		- [ ] Portraits
-		- [ ] Dynamic Tokens
-	- [ ] Malevolence
-		- [ ] Portraits
-		- [ ] Dynamic Tokens
-	- [ ] Night of the Gray Death
-		- [ ] Portraits
-		- [ ] Dynamic Tokens
-	- [ ] Shadows at Sundown
-		- [ ] Portraits
-		- [ ] Dynamic Tokens
-	- [ ] The Enmity Cycle
-		- [X] Portraits
-		- [ ] Dynamic Tokens
-	- [ ] The Slithering
-		- [ ] Portraits
-		- [ ] Dynamic Tokens
-	- [ ] Troubles in Otari
-		- [ ] Portraits
-		- [ ] Dynamic Tokens
-- [ ] Adventure Paths
-	- [ ] Age of Ashes
-		- [ ] Portraits
-		- [ ] Dynamic Tokens
-	- [ ] Agents of Edgewatch
-		- [ ] Portraits
-		- [ ] Dynamic Tokens
-	- [ ] Extinction Curse
-		- [ ] Portraits
-		- [ ] Dynamic Tokens
-	- [ ] Fists of the Ruby Phoenix
-		- [ ] Portraits
-		- [ ] Dynamic Tokens
-	- [ ] Quest for the Frozen Flame
-		- [ ] Portraits
-		- [ ] Dynamic Tokens
-	- [ ] Strenght of Thousands
-		- [ ] Portraits
-		- [ ] Dynamic Tokens
+- [ ] 1e
+	- [ ] Rulebooks
+		- [ ] Advanced Class Guide
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Advanced Player's Guide
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Advanced Race Guide
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Adventurer's Guide
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Bestiary 1
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Bestiary 2
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Bestiary 3
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Bestiary 4
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Bestiary 5
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Bestiary 6
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Bestiary Bonus
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Book of the Dammed
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Core Rulebook
+		- [ ] Gamemastery Guide
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Horror Adventures
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Monster Codex
+		- [ ] Mythic Adventures
+		- [ ] NPC Codex
+		- [ ] Pathfinder Unchained
+		- [ ] Planar Adventures
+		- [ ] Ultimate Campaign
+		- [ ] Ultimate Combat
+		- [ ] Ultimate Equipment
+		- [ ] Ultimate Intrigue
+		- [ ] Ultimate Magic
+		- [ ] Ultimate Wilderness
+		- [ ] Villain Codex
+- [ ] 2e
+	- [ ] Rulebooks
+		- [ ] Book of the Dead
+			- [X] Portraits
+			- [X] Dynamic Tokens
+			- [ ] Character Gallery
+		- [ ] Howl of the Wild
+			- [ ] Portraits
+			- [ ] Dynamic Tokens
+			- [ ] Character Gallery
+		- [ ] Rage of Elements
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [ ] Character Gallery
+		- [ ] Dark Archive
+			- [X] Portraits
+			- [X] Dynamic Tokens
+			- [ ] Character Gallery
+	- [ ] Lost Omens
+		- [ ] Highhelm
+			- [X] Portraits
+			- [X] Dynamic Tokens
+			- [ ] Character Gallery
+		- [ ] Impossible Lands
+			- [X] Portraits
+			- [X] Dynamic Tokens
+			- [ ] Character Gallery
+		- [ ] Monsters of Myth
+			- [X] Portraits
+			- [X] Dynamic Tokens
+			- [ ] Character Gallery
+		- [ ] The Mwangi Expanse
+			- [X] Portraits
+			- [X] Dynamic Tokens
+			- [ ] Character Gallery
+		- [ ] Tian Xia World Guide
+			- [X] Portraits
+			- [X] Dynamic Tokens
+			- [ ] Character Gallery
+		- [ ] Tian Xia Character Guide
+	- [ ] Standalone Adventures
+		- [ ] Crown of the Kobold King
+			- [X] Portraits
+			- [X] Tokens
+			- [ ] Dynamic Tokens
+			- [ ] Character Gallery
+		- [ ]  Fall of Plaguestone
+		- [ ] Malevolence
+		- [ ] Night of the Gray Death
+		- [ ] Shadows at Sundown
+		- [ ] The Enmity Cycle
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [ ] Character Gallery
+		- [ ] The Slithering
+		- [ ] Troubles in Otari
+	- [ ] Adventure Paths
+		- [ ] Age of Ashes
+		- [ ] Agents of Edgewatch
+		- [ ] Extinction Curse
+		- [ ] Fists of the Ruby Phoenix
+		- [ ] Quest for the Frozen Flame
+		- [ ] Strenght of Thousands
