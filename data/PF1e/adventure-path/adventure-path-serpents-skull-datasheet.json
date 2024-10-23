@@ -1,0 +1,1355 @@
+[
+    {
+        "label": "Aerys Mavato",
+        "key": "AerysMavatoPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/AerysMavato.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/AerysMavato.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/AerysMavato.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/AerysMavato.webp"
+        }
+    },
+    {
+        "label": "Alkarundo",
+        "key": "AlkarundoPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Alkarundo.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Alkarundo.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Alkarundo.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Alkarundo.webp"
+        }
+    },
+    {
+        "label": "Amivor Glaur",
+        "key": "AmivorGlaurPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/AmivorGlaur.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/AmivorGlaur.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/AmivorGlaur.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/AmivorGlaur.webp"
+        }
+    },
+    {
+        "label": "Amivor Glaur Bust",
+        "key": "AmivorGlaurBustPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/AmivorGlaurBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/AmivorGlaurBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/AmivorGlaurBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/AmivorGlaurBust.webp"
+        }
+    },
+    {
+        "label": "Arcanotheign",
+        "key": "ArcanotheignPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Arcanotheign.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Arcanotheign.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Arcanotheign.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Arcanotheign.webp"
+        }
+    },
+    {
+        "label": "Asaam",
+        "key": "AsaamPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Asaam.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Asaam.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Asaam.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Asaam.webp"
+        }
+    },
+    {
+        "label": "Athyra",
+        "key": "AthyraPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Athyra.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Athyra.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Athyra.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Athyra.webp"
+        }
+    },
+    {
+        "label": "Aycenia",
+        "key": "AyceniaPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Aycenia.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Aycenia.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Aycenia.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Aycenia.webp"
+        }
+    },
+    {
+        "label": "Azlanti Idol",
+        "key": "AzlantiIdolPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/AzlantiIdol.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/AzlantiIdol.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/AzlantiIdol.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/AzlantiIdol.webp"
+        }
+    },
+    {
+        "label": "Belkor",
+        "key": "BelkorPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Belkor.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Belkor.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Belkor.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Belkor.webp"
+        }
+    },
+    {
+        "label": "Biloko",
+        "key": "BilokoPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Biloko.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Biloko.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Biloko.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Biloko.webp"
+        }
+    },
+    {
+        "label": "Bloodhaze Mosquito Swarm",
+        "key": "BloodhazeMosquitoSwarmPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/BloodhazeMosquitoSwarm.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/BloodhazeMosquitoSwarm.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/BloodhazeMosquitoSwarm.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/BloodhazeMosquitoSwarm.webp"
+        }
+    },
+    {
+        "label": "Bluetip Eurypteid",
+        "key": "BluetipEurypteidPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/BluetipEurypteid.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/BluetipEurypteid.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/BluetipEurypteid.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/BluetipEurypteid.webp"
+        }
+    },
+    {
+        "label": "Camulatz",
+        "key": "CamulatzPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Camulatz.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Camulatz.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Camulatz.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Camulatz.webp"
+        }
+    },
+    {
+        "label": "Captain Avret Kinkarian",
+        "key": "CaptainAvretKinkarianPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/CaptainAvretKinkarian.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/CaptainAvretKinkarian.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/CaptainAvretKinkarian.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/CaptainAvretKinkarian.webp"
+        }
+    },
+    {
+        "label": "Charau Ka Shaman",
+        "key": "CharauKaShamanPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/CharauKaShaman.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/CharauKaShaman.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/CharauKaShaman.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/CharauKaShaman.webp"
+        }
+    },
+    {
+        "label": "Charau Ka Warrior",
+        "key": "CharauKaWarriorPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/CharauKaWarrior.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/CharauKaWarrior.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/CharauKaWarrior.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/CharauKaWarrior.webp"
+        }
+    },
+    {
+        "label": "Cheiton",
+        "key": "CheitonPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Cheiton.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Cheiton.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Cheiton.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Cheiton.webp"
+        }
+    },
+    {
+        "label": "Chemosit",
+        "key": "ChemositPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Chemosit.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Chemosit.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Chemosit.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Chemosit.webp"
+        }
+    },
+    {
+        "label": "Chivane",
+        "key": "ChivanePF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Chivane.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Chivane.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Chivane.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Chivane.webp"
+        }
+    },
+    {
+        "label": "Chivane Bust",
+        "key": "ChivaneBustPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/ChivaneBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/ChivaneBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/ChivaneBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/ChivaneBust.webp"
+        }
+    },
+    {
+        "label": "Coil Of Ydersius",
+        "key": "CoilOfYdersiusPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/CoilOfYdersius.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/CoilOfYdersius.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/CoilOfYdersius.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/CoilOfYdersius.webp"
+        }
+    },
+    {
+        "label": "Corpsespun Boggard Thug",
+        "key": "CorpsespunBoggardThugPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/CorpsespunBoggardThug.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/CorpsespunBoggardThug.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/CorpsespunBoggardThug.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/CorpsespunBoggardThug.webp"
+        }
+    },
+    {
+        "label": "Dargan Etters",
+        "key": "DarganEttersPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/DarganEtters.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/DarganEtters.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/DarganEtters.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/DarganEtters.webp"
+        }
+    },
+    {
+        "label": "Daruk Bludwedge",
+        "key": "DarukBludwedgePF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/DarukBludwedge.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/DarukBludwedge.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/DarukBludwedge.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/DarukBludwedge.webp"
+        }
+    },
+    {
+        "label": "Degenerate Sekmin",
+        "key": "DegenerateSekminPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/DegenerateSekmin.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/DegenerateSekmin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/DegenerateSekmin.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/DegenerateSekmin.webp"
+        }
+    },
+    {
+        "label": "Deloral Parastric",
+        "key": "DeloralParastricPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/DeloralParastric.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/DeloralParastric.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/DeloralParastric.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/DeloralParastric.webp"
+        }
+    },
+    {
+        "label": "Derhii Scout",
+        "key": "DerhiiScoutPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/DerhiiScout.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/DerhiiScout.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/DerhiiScout.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/DerhiiScout.webp"
+        }
+    },
+    {
+        "label": "Dimorphodon",
+        "key": "DimorphodonPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Dimorphodon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Dimorphodon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Dimorphodon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Dimorphodon.webp"
+        }
+    },
+    {
+        "label": "Drider Scout",
+        "key": "DriderScoutPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/DriderScout.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/DriderScout.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/DriderScout.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/DriderScout.webp"
+        }
+    },
+    {
+        "label": "Eando Kline",
+        "key": "EandoKlinePF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/EandoKline.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/EandoKline.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/EandoKline.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/EandoKline.webp"
+        }
+    },
+    {
+        "label": "Eando Kline Bust",
+        "key": "EandoKlineBustPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/EandoKlineBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/EandoKlineBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/EandoKlineBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/EandoKlineBust.webp"
+        }
+    },
+    {
+        "label": "Egzimora",
+        "key": "EgzimoraPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Egzimora.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Egzimora.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Egzimora.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Egzimora.webp"
+        }
+    },
+    {
+        "label": "Ekubus",
+        "key": "EkubusPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Ekubus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Ekubus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Ekubus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Ekubus.webp"
+        }
+    },
+    {
+        "label": "Emperor Of Scales",
+        "key": "EmperorOfScalesPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/EmperorOfScales.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/EmperorOfScales.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/EmperorOfScales.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/EmperorOfScales.webp"
+        }
+    },
+    {
+        "label": "Famished Mohrg",
+        "key": "FamishedMohrgPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/FamishedMohrg.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/FamishedMohrg.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/FamishedMohrg.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/FamishedMohrg.webp"
+        }
+    },
+    {
+        "label": "Gbala",
+        "key": "GbalaPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Gbala.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Gbala.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Gbala.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Gbala.webp"
+        }
+    },
+    {
+        "label": "Geier",
+        "key": "GeierPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Geier.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Geier.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Geier.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Geier.webp"
+        }
+    },
+    {
+        "label": "Gelik Aberwhinge",
+        "key": "GelikAberwhingePF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/GelikAberwhinge.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/GelikAberwhinge.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/GelikAberwhinge.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/GelikAberwhinge.webp"
+        }
+    },
+    {
+        "label": "General Aveshai",
+        "key": "GeneralAveshaiPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/GeneralAveshai.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/GeneralAveshai.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/GeneralAveshai.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/GeneralAveshai.webp"
+        }
+    },
+    {
+        "label": "Gozreh Priest",
+        "key": "GozrehPriestPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/GozrehPriest.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/GozrehPriest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/GozrehPriest.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/GozrehPriest.webp"
+        }
+    },
+    {
+        "label": "Gray Nisp",
+        "key": "GrayNispPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/GrayNisp.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/GrayNisp.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/GrayNisp.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/GrayNisp.webp"
+        }
+    },
+    {
+        "label": "Illaghri",
+        "key": "IllaghriPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Illaghri.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Illaghri.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Illaghri.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Illaghri.webp"
+        }
+    },
+    {
+        "label": "Impundulu",
+        "key": "ImpunduluPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Impundulu.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Impundulu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Impundulu.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Impundulu.webp"
+        }
+    },
+    {
+        "label": "Inkanyamba",
+        "key": "InkanyambaPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Inkanyamba.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Inkanyamba.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Inkanyamba.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Inkanyamba.webp"
+        }
+    },
+    {
+        "label": "Iruxi Skeleton",
+        "key": "IruxiSkeletonPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/IruxiSkeleton.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/IruxiSkeleton.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/IruxiSkeleton.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/IruxiSkeleton.webp"
+        }
+    },
+    {
+        "label": "Ishirou",
+        "key": "IshirouPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Ishirou.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Ishirou.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Ishirou.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Ishirou.webp"
+        }
+    },
+    {
+        "label": "Issilar",
+        "key": "IssilarPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Issilar.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Issilar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Issilar.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Issilar.webp"
+        }
+    },
+    {
+        "label": "Ivo Haigan",
+        "key": "IvoHaiganPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/IvoHaigan.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/IvoHaigan.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/IvoHaigan.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/IvoHaigan.webp"
+        }
+    },
+    {
+        "label": "Ixolan",
+        "key": "IxolanPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Ixolan.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Ixolan.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Ixolan.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Ixolan.webp"
+        }
+    },
+    {
+        "label": "Izon",
+        "key": "IzonPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Izon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Izon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Izon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Izon.webp"
+        }
+    },
+    {
+        "label": "Jask Derindi",
+        "key": "JaskDerindiPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/JaskDerindi.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/JaskDerindi.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/JaskDerindi.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/JaskDerindi.webp"
+        }
+    },
+    {
+        "label": "Jigeke The Exile",
+        "key": "JigekeTheExilePF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/JigekeTheExile.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/JigekeTheExile.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/JigekeTheExile.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/JigekeTheExile.webp"
+        }
+    },
+    {
+        "label": "Juju Witch",
+        "key": "JujuWitchPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/JujuWitch.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/JujuWitch.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/JujuWitch.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/JujuWitch.webp"
+        }
+    },
+    {
+        "label": "Juliver",
+        "key": "JuliverPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Juliver.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Juliver.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Juliver.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Juliver.webp"
+        }
+    },
+    {
+        "label": "Juliver Bust",
+        "key": "JuliverBustPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/JuliverBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/JuliverBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/JuliverBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/JuliverBust.webp"
+        }
+    },
+    {
+        "label": "Kaava Bush Devil",
+        "key": "KaavaBushDevilPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/KaavaBushDevil.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/KaavaBushDevil.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/KaavaBushDevil.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/KaavaBushDevil.webp"
+        }
+    },
+    {
+        "label": "Kassata Lewynn",
+        "key": "KassataLewynnPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/KassataLewynn.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/KassataLewynn.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/KassataLewynn.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/KassataLewynn.webp"
+        }
+    },
+    {
+        "label": "Kassata Lewynn Bust",
+        "key": "KassataLewynnBustPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/KassataLewynnBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/KassataLewynnBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/KassataLewynnBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/KassataLewynnBust.webp"
+        }
+    },
+    {
+        "label": "Kelpie",
+        "key": "KelpiePF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Kelpie.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Kelpie.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Kelpie.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Kelpie.webp"
+        }
+    },
+    {
+        "label": "Khalid Shah",
+        "key": "KhalidShahPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/KhalidShah.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/KhalidShah.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/KhalidShah.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/KhalidShah.webp"
+        }
+    },
+    {
+        "label": "Khavith",
+        "key": "KhavithPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Khavith.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Khavith.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Khavith.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Khavith.webp"
+        }
+    },
+    {
+        "label": "Khestath",
+        "key": "KhestathPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Khestath.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Khestath.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Khestath.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Khestath.webp"
+        }
+    },
+    {
+        "label": "Khorak",
+        "key": "KhorakPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Khorak.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Khorak.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Khorak.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Khorak.webp"
+        }
+    },
+    {
+        "label": "Kliboolya",
+        "key": "KliboolyaPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Kliboolya.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Kliboolya.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Kliboolya.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Kliboolya.webp"
+        }
+    },
+    {
+        "label": "Klorak The Red",
+        "key": "KlorakTheRedPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/KlorakTheRed.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/KlorakTheRed.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/KlorakTheRed.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/KlorakTheRed.webp"
+        }
+    },
+    {
+        "label": "Lessikal",
+        "key": "LessikalPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Lessikal.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Lessikal.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Lessikal.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Lessikal.webp"
+        }
+    },
+    {
+        "label": "Malikadna And Thaltaki",
+        "key": "MalikadnaAndThaltakiPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/MalikadnaAndThaltaki.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/MalikadnaAndThaltaki.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/MalikadnaAndThaltaki.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/MalikadnaAndThaltaki.webp"
+        }
+    },
+    {
+        "label": "Meladaemon Shock Trooper",
+        "key": "MeladaemonShockTrooperPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/MeladaemonShockTrooper.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/MeladaemonShockTrooper.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/MeladaemonShockTrooper.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/MeladaemonShockTrooper.webp"
+        }
+    },
+    {
+        "label": "Morlock Slave",
+        "key": "MorlockSlavePF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/MorlockSlave.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/MorlockSlave.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/MorlockSlave.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/MorlockSlave.webp"
+        }
+    },
+    {
+        "label": "Nareem Daress",
+        "key": "NareemDaressPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/NareemDaress.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/NareemDaress.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/NareemDaress.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/NareemDaress.webp"
+        }
+    },
+    {
+        "label": "Nazith Yol",
+        "key": "NazithYolPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/NazithYol.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/NazithYol.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/NazithYol.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/NazithYol.webp"
+        }
+    },
+    {
+        "label": "Nethys Priest",
+        "key": "NethysPriestPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/NethysPriest.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/NethysPriest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/NethysPriest.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/NethysPriest.webp"
+        }
+    },
+    {
+        "label": "Ningyo",
+        "key": "NingyoPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Ningyo.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Ningyo.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Ningyo.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Ningyo.webp"
+        }
+    },
+    {
+        "label": "Nkechi The Tempest",
+        "key": "NkechiTheTempestPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/NkechiTheTempest.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/NkechiTheTempest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/NkechiTheTempest.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/NkechiTheTempest.webp"
+        }
+    },
+    {
+        "label": "Nylithati",
+        "key": "NylithatiPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Nylithati.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Nylithati.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Nylithati.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Nylithati.webp"
+        }
+    },
+    {
+        "label": "Obambo",
+        "key": "ObamboPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Obambo.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Obambo.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Obambo.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Obambo.webp"
+        }
+    },
+    {
+        "label": "Olujimi",
+        "key": "OlujimiPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Olujimi.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Olujimi.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Olujimi.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Olujimi.webp"
+        }
+    },
+    {
+        "label": "Osond",
+        "key": "OsondPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Osond.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Osond.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Osond.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Osond.webp"
+        }
+    },
+    {
+        "label": "Personification Of Fury%5E",
+        "key": "PersonificationOfFury%5EPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/PersonificationOfFury%5E.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/PersonificationOfFury%5E.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/PersonificationOfFury%5E.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/PersonificationOfFury%5E.webp"
+        }
+    },
+    {
+        "label": "Pezock",
+        "key": "PezockPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Pezock.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Pezock.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Pezock.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Pezock.webp"
+        }
+    },
+    {
+        "label": "Pezocks Crab",
+        "key": "PezocksCrabPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/PezocksCrab.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/PezocksCrab.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/PezocksCrab.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/PezocksCrab.webp"
+        }
+    },
+    {
+        "label": "Proto Shoggoth",
+        "key": "ProtoShoggothPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/ProtoShoggoth.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/ProtoShoggoth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/ProtoShoggoth.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/ProtoShoggoth.webp"
+        }
+    },
+    {
+        "label": "Raogru",
+        "key": "RaogruPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Raogru.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Raogru.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Raogru.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Raogru.webp"
+        }
+    },
+    {
+        "label": "Raviaza",
+        "key": "RaviazaPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Raviaza.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Raviaza.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Raviaza.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Raviaza.webp"
+        }
+    },
+    {
+        "label": "Rival Faction Agent",
+        "key": "RivalFactionAgentPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/RivalFactionAgent.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/RivalFactionAgent.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/RivalFactionAgent.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/RivalFactionAgent.webp"
+        }
+    },
+    {
+        "label": "Ruthazek",
+        "key": "RuthazekPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Ruthazek.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Ruthazek.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Ruthazek.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Ruthazek.webp"
+        }
+    },
+    {
+        "label": "Sargogen",
+        "key": "SargogenPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Sargogen.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Sargogen.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Sargogen.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Sargogen.webp"
+        }
+    },
+    {
+        "label": "Sasha Nevah",
+        "key": "SashaNevahPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/SashaNevah.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/SashaNevah.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/SashaNevah.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/SashaNevah.webp"
+        }
+    },
+    {
+        "label": "Savith",
+        "key": "SavithPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Savith.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Savith.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Savith.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Savith.webp"
+        }
+    },
+    {
+        "label": "Sekmin Cultist",
+        "key": "SekminCultistPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/SekminCultist.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/SekminCultist.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/SekminCultist.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/SekminCultist.webp"
+        }
+    },
+    {
+        "label": "Sekmin Seeker",
+        "key": "SekminSeekerPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/SekminSeeker.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/SekminSeeker.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/SekminSeeker.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/SekminSeeker.webp"
+        }
+    },
+    {
+        "label": "Selaxasp",
+        "key": "SelaxaspPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Selaxasp.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Selaxasp.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Selaxasp.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Selaxasp.webp"
+        }
+    },
+    {
+        "label": "Siege Serpent",
+        "key": "SiegeSerpentPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/SiegeSerpent.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/SiegeSerpent.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/SiegeSerpent.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/SiegeSerpent.webp"
+        }
+    },
+    {
+        "label": "Slycora",
+        "key": "SlycoraPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Slycora.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Slycora.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Slycora.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Slycora.webp"
+        }
+    },
+    {
+        "label": "Soulbound Doll",
+        "key": "SoulboundDollPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/SoulboundDoll.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/SoulboundDoll.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/SoulboundDoll.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/SoulboundDoll.webp"
+        }
+    },
+    {
+        "label": "Sozothala",
+        "key": "SozothalaPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Sozothala.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Sozothala.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Sozothala.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Sozothala.webp"
+        }
+    },
+    {
+        "label": "Spear Urchin",
+        "key": "SpearUrchinPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/SpearUrchin.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/SpearUrchin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/SpearUrchin.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/SpearUrchin.webp"
+        }
+    },
+    {
+        "label": "Sskhavo",
+        "key": "SskhavoPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Sskhavo.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Sskhavo.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Sskhavo.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Sskhavo.webp"
+        }
+    },
+    {
+        "label": "Teka",
+        "key": "TekaPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Teka.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Teka.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Teka.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Teka.webp"
+        }
+    },
+    {
+        "label": "Tentagard",
+        "key": "TentagardPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Tentagard.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Tentagard.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Tentagard.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Tentagard.webp"
+        }
+    },
+    {
+        "label": "The Blue Warrior",
+        "key": "TheBlueWarriorPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/TheBlueWarrior.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/TheBlueWarrior.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/TheBlueWarrior.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/TheBlueWarrior.webp"
+        }
+    },
+    {
+        "label": "The Radiant Muse",
+        "key": "TheRadiantMusePF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/TheRadiantMuse.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/TheRadiantMuse.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/TheRadiantMuse.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/TheRadiantMuse.webp"
+        }
+    },
+    {
+        "label": "The Red Mountain Devil",
+        "key": "TheRedMountainDevilPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/TheRedMountainDevil.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/TheRedMountainDevil.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/TheRedMountainDevil.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/TheRedMountainDevil.webp"
+        }
+    },
+    {
+        "label": "Thekola",
+        "key": "ThekolaPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Thekola.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Thekola.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Thekola.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Thekola.webp"
+        }
+    },
+    {
+        "label": "Tikoloshe",
+        "key": "TikoloshePF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Tikoloshe.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Tikoloshe.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Tikoloshe.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Tikoloshe.webp"
+        }
+    },
+    {
+        "label": "Tribal Totem",
+        "key": "TribalTotemPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/TribalTotem.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/TribalTotem.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/TribalTotem.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/TribalTotem.webp"
+        }
+    },
+    {
+        "label": "Tsskath",
+        "key": "TsskathPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Tsskath.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Tsskath.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Tsskath.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Tsskath.webp"
+        }
+    },
+    {
+        "label": "Tuyewera",
+        "key": "TuyeweraPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Tuyewera.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Tuyewera.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Tuyewera.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Tuyewera.webp"
+        }
+    },
+    {
+        "label": "Udarra",
+        "key": "UdarraPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Udarra.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Udarra.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Udarra.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Udarra.webp"
+        }
+    },
+    {
+        "label": "Ugimmo",
+        "key": "UgimmoPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Ugimmo.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Ugimmo.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Ugimmo.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Ugimmo.webp"
+        }
+    },
+    {
+        "label": "Umagro",
+        "key": "UmagroPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Umagro.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Umagro.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Umagro.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Umagro.webp"
+        }
+    },
+    {
+        "label": "Umasi",
+        "key": "UmasiPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Umasi.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Umasi.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Umasi.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Umasi.webp"
+        }
+    },
+    {
+        "label": "Umdhlebi",
+        "key": "UmdhlebiPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Umdhlebi.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Umdhlebi.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Umdhlebi.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Umdhlebi.webp"
+        }
+    },
+    {
+        "label": "Urdefhan Skirmisher",
+        "key": "UrdefhanSkirmisherPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/UrdefhanSkirmisher.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/UrdefhanSkirmisher.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/UrdefhanSkirmisher.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/UrdefhanSkirmisher.webp"
+        }
+    },
+    {
+        "label": "Vagabond Spider",
+        "key": "VagabondSpiderPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/VagabondSpider.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/VagabondSpider.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/VagabondSpider.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/VagabondSpider.webp"
+        }
+    },
+    {
+        "label": "Valglaunt",
+        "key": "ValglauntPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Valglaunt.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Valglaunt.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Valglaunt.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Valglaunt.webp"
+        }
+    },
+    {
+        "label": "Vedavrex Misraria",
+        "key": "VedavrexMisrariaPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/VedavrexMisraria.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/VedavrexMisraria.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/VedavrexMisraria.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/VedavrexMisraria.webp"
+        }
+    },
+    {
+        "label": "Vegepygmy",
+        "key": "VegepygmyPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Vegepygmy.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Vegepygmy.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Vegepygmy.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Vegepygmy.webp"
+        }
+    },
+    {
+        "label": "Vyr Azul",
+        "key": "VyrAzulPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/VyrAzul.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/VyrAzul.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/VyrAzul.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/VyrAzul.webp"
+        }
+    },
+    {
+        "label": "Ydersus",
+        "key": "YdersusPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Ydersus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Ydersus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Ydersus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Ydersus.webp"
+        }
+    },
+    {
+        "label": "Ydersus Priest",
+        "key": "YdersusPriestPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/YdersusPriest.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/YdersusPriest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/YdersusPriest.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/YdersusPriest.webp"
+        }
+    },
+    {
+        "label": "Zakiyya",
+        "key": "ZakiyyaPF1eSS",
+        "source": "PF1e Serpent's Skull",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-serpents-skull/Zakiyya.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-serpents-skull/Zakiyya.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-serpents-skull/Zakiyya.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-serpents-skull/Zakiyya.webp"
+        }
+    }
+]

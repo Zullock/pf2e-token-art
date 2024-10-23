@@ -1,0 +1,1520 @@
+[
+    {
+        "label": "Addu",
+        "key": "AdduPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/Addu.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/Addu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/Addu.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/Addu.webp"
+        }
+    },
+    {
+        "label": "Adelita Doloruso",
+        "key": "AdelitaDolorusoPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/AdelitaDoloruso.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/AdelitaDoloruso.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/AdelitaDoloruso.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/AdelitaDoloruso.webp"
+        }
+    },
+    {
+        "label": "Alise Grogblud",
+        "key": "AliseGrogbludPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/AliseGrogblud.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/AliseGrogblud.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/AliseGrogblud.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/AliseGrogblud.webp"
+        }
+    },
+    {
+        "label": "Ambrose Fishguts Kroop",
+        "key": "AmbroseFishgutsKroopPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/AmbroseFishgutsKroop.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/AmbroseFishgutsKroop.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/AmbroseFishgutsKroop.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/AmbroseFishgutsKroop.webp"
+        }
+    },
+    {
+        "label": "Arronax Endymion",
+        "key": "ArronaxEndymionPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/ArronaxEndymion.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/ArronaxEndymion.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/ArronaxEndymion.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/ArronaxEndymion.webp"
+        }
+    },
+    {
+        "label": "Audessa Reyquio",
+        "key": "AudessaReyquioPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/AudessaReyquio.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/AudessaReyquio.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/AudessaReyquio.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/AudessaReyquio.webp"
+        }
+    },
+    {
+        "label": "Avimar Sorrinash",
+        "key": "AvimarSorrinashPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/AvimarSorrinash.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/AvimarSorrinash.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/AvimarSorrinash.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/AvimarSorrinash.webp"
+        }
+    },
+    {
+        "label": "Avimar Sorrinash Bust",
+        "key": "AvimarSorrinashBustPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/AvimarSorrinashBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/AvimarSorrinashBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/AvimarSorrinashBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/AvimarSorrinashBust.webp"
+        }
+    },
+    {
+        "label": "Barnabas Harrigan",
+        "key": "BarnabasHarriganPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/BarnabasHarrigan.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/BarnabasHarrigan.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/BarnabasHarrigan.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/BarnabasHarrigan.webp"
+        }
+    },
+    {
+        "label": "Barnabas Harrigan 2",
+        "key": "BarnabasHarrigan2PF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/BarnabasHarrigan2.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/BarnabasHarrigan2.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/BarnabasHarrigan2.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/BarnabasHarrigan2.webp"
+        }
+    },
+    {
+        "label": "Besmara Priest",
+        "key": "BesmaraPriestPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/BesmaraPriest.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/BesmaraPriest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/BesmaraPriest.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/BesmaraPriest.webp"
+        }
+    },
+    {
+        "label": "Bikendi Otongu",
+        "key": "BikendiOtonguPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/BikendiOtongu.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/BikendiOtongu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/BikendiOtongu.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/BikendiOtongu.webp"
+        }
+    },
+    {
+        "label": "Black Spot",
+        "key": "BlackSpotPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/BlackSpot.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/BlackSpot.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/BlackSpot.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/BlackSpot.webp"
+        }
+    },
+    {
+        "label": "Blue Whale",
+        "key": "BlueWhalePF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/BlueWhale.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/BlueWhale.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/BlueWhale.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/BlueWhale.webp"
+        }
+    },
+    {
+        "label": "Botfly Infested Head",
+        "key": "BotflyInfestedHeadPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/BotflyInfestedHead.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/BotflyInfestedHead.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/BotflyInfestedHead.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/BotflyInfestedHead.webp"
+        }
+    },
+    {
+        "label": "Brine Zombie",
+        "key": "BrineZombiePF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/BrineZombie.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/BrineZombie.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/BrineZombie.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/BrineZombie.webp"
+        }
+    },
+    {
+        "label": "Canopy Creeper",
+        "key": "CanopyCreeperPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/CanopyCreeper.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/CanopyCreeper.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/CanopyCreeper.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/CanopyCreeper.webp"
+        }
+    },
+    {
+        "label": "Captain Barracuda Aiger",
+        "key": "CaptainBarracudaAigerPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/CaptainBarracudaAiger.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/CaptainBarracudaAiger.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/CaptainBarracudaAiger.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/CaptainBarracudaAiger.webp"
+        }
+    },
+    {
+        "label": "Captain Gortus Svard",
+        "key": "CaptainGortusSvardPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/CaptainGortusSvard.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/CaptainGortusSvard.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/CaptainGortusSvard.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/CaptainGortusSvard.webp"
+        }
+    },
+    {
+        "label": "Captain Horrus Riptooth",
+        "key": "CaptainHorrusRiptoothPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/CaptainHorrusRiptooth.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/CaptainHorrusRiptooth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/CaptainHorrusRiptooth.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/CaptainHorrusRiptooth.webp"
+        }
+    },
+    {
+        "label": "Caulky Tarroon",
+        "key": "CaulkyTarroonPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/CaulkyTarroon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/CaulkyTarroon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/CaulkyTarroon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/CaulkyTarroon.webp"
+        }
+    },
+    {
+        "label": "Cecaelia",
+        "key": "CecaeliaPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/Cecaelia.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/Cecaelia.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/Cecaelia.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/Cecaelia.webp"
+        }
+    },
+    {
+        "label": "Cerise Bloodmourn",
+        "key": "CeriseBloodmournPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/CeriseBloodmourn.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/CeriseBloodmourn.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/CeriseBloodmourn.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/CeriseBloodmourn.webp"
+        }
+    },
+    {
+        "label": "Commander Kyan Kain",
+        "key": "CommanderKyanKainPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/CommanderKyanKain.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/CommanderKyanKain.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/CommanderKyanKain.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/CommanderKyanKain.webp"
+        }
+    },
+    {
+        "label": "Conchobhar Shortstone",
+        "key": "ConchobharShortstonePF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/ConchobharShortstone.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/ConchobharShortstone.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/ConchobharShortstone.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/ConchobharShortstone.webp"
+        }
+    },
+    {
+        "label": "Crimson Cogward",
+        "key": "CrimsonCogwardPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/CrimsonCogward.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/CrimsonCogward.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/CrimsonCogward.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/CrimsonCogward.webp"
+        }
+    },
+    {
+        "label": "Cut Throat Grok",
+        "key": "CutThroatGrokPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/CutThroatGrok.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/CutThroatGrok.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/CutThroatGrok.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/CutThroatGrok.webp"
+        }
+    },
+    {
+        "label": "Daughter Of Imerta",
+        "key": "DaughterOfImertaPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/DaughterOfImerta.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/DaughterOfImerta.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/DaughterOfImerta.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/DaughterOfImerta.webp"
+        }
+    },
+    {
+        "label": "Deinosuchus",
+        "key": "DeinosuchusPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/Deinosuchus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/Deinosuchus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/Deinosuchus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/Deinosuchus.webp"
+        }
+    },
+    {
+        "label": "Dindreann",
+        "key": "DindreannPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/Dindreann.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/Dindreann.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/Dindreann.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/Dindreann.webp"
+        }
+    },
+    {
+        "label": "Dodo And Dwarf Caiman",
+        "key": "DodoAndDwarfCaimanPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/DodoAndDwarfCaiman.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/DodoAndDwarfCaiman.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/DodoAndDwarfCaiman.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/DodoAndDwarfCaiman.webp"
+        }
+    },
+    {
+        "label": "Druvalia Thrune",
+        "key": "DruvaliaThrunePF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/DruvaliaThrune.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/DruvaliaThrune.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/DruvaliaThrune.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/DruvaliaThrune.webp"
+        }
+    },
+    {
+        "label": "Druvalia Thrune 2",
+        "key": "DruvaliaThrune2PF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/DruvaliaThrune2.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/DruvaliaThrune2.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/DruvaliaThrune2.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/DruvaliaThrune2.webp"
+        }
+    },
+    {
+        "label": "Druvalia Thrune Bust",
+        "key": "DruvaliaThruneBustPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/DruvaliaThruneBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/DruvaliaThruneBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/DruvaliaThruneBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/DruvaliaThruneBust.webp"
+        }
+    },
+    {
+        "label": "Dusk Watcher",
+        "key": "DuskWatcherPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/DuskWatcher.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/DuskWatcher.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/DuskWatcher.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/DuskWatcher.webp"
+        }
+    },
+    {
+        "label": "Ederleigh Baines",
+        "key": "EderleighBainesPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/EderleighBaines.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/EderleighBaines.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/EderleighBaines.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/EderleighBaines.webp"
+        }
+    },
+    {
+        "label": "Ekder Brykolakas",
+        "key": "EkderBrykolakasPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/EkderBrykolakas.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/EkderBrykolakas.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/EkderBrykolakas.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/EkderBrykolakas.webp"
+        }
+    },
+    {
+        "label": "Faceless Whale",
+        "key": "FacelessWhalePF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/FacelessWhale.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/FacelessWhale.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/FacelessWhale.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/FacelessWhale.webp"
+        }
+    },
+    {
+        "label": "Fargo Vitterande",
+        "key": "FargoVitterandePF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/FargoVitterande.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/FargoVitterande.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/FargoVitterande.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/FargoVitterande.webp"
+        }
+    },
+    {
+        "label": "Gargiya",
+        "key": "GargiyaPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/Gargiya.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/Gargiya.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/Gargiya.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/Gargiya.webp"
+        }
+    },
+    {
+        "label": "Ghol Gan Stele",
+        "key": "GholGanStelePF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/GholGanStele.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/GholGanStele.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/GholGanStele.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/GholGanStele.webp"
+        }
+    },
+    {
+        "label": "Gigas Clam",
+        "key": "GigasClamPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/GigasClam.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/GigasClam.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/GigasClam.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/GigasClam.webp"
+        }
+    },
+    {
+        "label": "Gilbrok The Tongue",
+        "key": "GilbrokTheTonguePF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/GilbrokTheTongue.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/GilbrokTheTongue.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/GilbrokTheTongue.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/GilbrokTheTongue.webp"
+        }
+    },
+    {
+        "label": "Giles Halmis",
+        "key": "GilesHalmisPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/GilesHalmis.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/GilesHalmis.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/GilesHalmis.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/GilesHalmis.webp"
+        }
+    },
+    {
+        "label": "Gorebeard Trench",
+        "key": "GorebeardTrenchPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/GorebeardTrench.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/GorebeardTrench.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/GorebeardTrench.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/GorebeardTrench.webp"
+        }
+    },
+    {
+        "label": "Hammerhead Shark",
+        "key": "HammerheadSharkPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/HammerheadShark.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/HammerheadShark.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/HammerheadShark.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/HammerheadShark.webp"
+        }
+    },
+    {
+        "label": "Haneilius Fitch",
+        "key": "HaneiliusFitchPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/HaneiliusFitch.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/HaneiliusFitch.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/HaneiliusFitch.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/HaneiliusFitch.webp"
+        }
+    },
+    {
+        "label": "Hyapatia",
+        "key": "HyapatiaPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/Hyapatia.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/Hyapatia.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/Hyapatia.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/Hyapatia.webp"
+        }
+    },
+    {
+        "label": "Ifestus",
+        "key": "IfestusPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/Ifestus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/Ifestus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/Ifestus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/Ifestus.webp"
+        }
+    },
+    {
+        "label": "Isabella Inkskin Locke",
+        "key": "IsabellaInkskinLockePF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/IsabellaInkskinLocke.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/IsabellaInkskinLocke.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/IsabellaInkskinLocke.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/IsabellaInkskinLocke.webp"
+        }
+    },
+    {
+        "label": "Isabella Inkskin Locke 2",
+        "key": "IsabellaInkskinLocke2PF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/IsabellaInkskinLocke2.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/IsabellaInkskinLocke2.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/IsabellaInkskinLocke2.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/IsabellaInkskinLocke2.webp"
+        }
+    },
+    {
+        "label": "Isawyn",
+        "key": "IsawynPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/Isawyn.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/Isawyn.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/Isawyn.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/Isawyn.webp"
+        }
+    },
+    {
+        "label": "Jakaw Razorbeak",
+        "key": "JakawRazorbeakPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/JakawRazorbeak.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/JakawRazorbeak.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/JakawRazorbeak.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/JakawRazorbeak.webp"
+        }
+    },
+    {
+        "label": "Kelpies Wrath",
+        "key": "KelpiesWrathPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/KelpiesWrath.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/KelpiesWrath.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/KelpiesWrath.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/KelpiesWrath.webp"
+        }
+    },
+    {
+        "label": "Kerdak Bonefist",
+        "key": "KerdakBonefistPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/KerdakBonefist.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/KerdakBonefist.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/KerdakBonefist.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/KerdakBonefist.webp"
+        }
+    },
+    {
+        "label": "Kerdak Bonefist 2",
+        "key": "KerdakBonefist2PF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/KerdakBonefist2.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/KerdakBonefist2.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/KerdakBonefist2.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/KerdakBonefist2.webp"
+        }
+    },
+    {
+        "label": "Kerdak Bonefist Bust",
+        "key": "KerdakBonefistBustPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/KerdakBonefistBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/KerdakBonefistBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/KerdakBonefistBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/KerdakBonefistBust.webp"
+        }
+    },
+    {
+        "label": "Kirrian Sweetlips Vortheen",
+        "key": "KirrianSweetlipsVortheenPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/KirrianSweetlipsVortheen.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/KirrianSweetlipsVortheen.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/KirrianSweetlipsVortheen.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/KirrianSweetlipsVortheen.webp"
+        }
+    },
+    {
+        "label": "Knuckles Grype",
+        "key": "KnucklesGrypePF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/KnucklesGrype.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/KnucklesGrype.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/KnucklesGrype.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/KnucklesGrype.webp"
+        }
+    },
+    {
+        "label": "Krelloort",
+        "key": "KrelloortPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/Krelloort.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/Krelloort.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/Krelloort.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/Krelloort.webp"
+        }
+    },
+    {
+        "label": "Lady Nightshade",
+        "key": "LadyNightshadePF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/LadyNightshade.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/LadyNightshade.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/LadyNightshade.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/LadyNightshade.webp"
+        }
+    },
+    {
+        "label": "Lady Smythee",
+        "key": "LadySmytheePF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/LadySmythee.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/LadySmythee.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/LadySmythee.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/LadySmythee.webp"
+        }
+    },
+    {
+        "label": "Locathah Matriarch",
+        "key": "LocathahMatriarchPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/LocathahMatriarch.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/LocathahMatriarch.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/LocathahMatriarch.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/LocathahMatriarch.webp"
+        }
+    },
+    {
+        "label": "Luccaria",
+        "key": "LuccariaPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/Luccaria.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/Luccaria.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/Luccaria.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/Luccaria.webp"
+        }
+    },
+    {
+        "label": "Magaav Commander",
+        "key": "MagaavCommanderPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/MagaavCommander.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/MagaavCommander.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/MagaavCommander.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/MagaavCommander.webp"
+        }
+    },
+    {
+        "label": "Malenti",
+        "key": "MalentiPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/Malenti.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/Malenti.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/Malenti.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/Malenti.webp"
+        }
+    },
+    {
+        "label": "Mase Darimar",
+        "key": "MaseDarimarPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/MaseDarimar.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/MaseDarimar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/MaseDarimar.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/MaseDarimar.webp"
+        }
+    },
+    {
+        "label": "Master Of The Gales",
+        "key": "MasterOfTheGalesPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/MasterOfTheGales.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/MasterOfTheGales.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/MasterOfTheGales.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/MasterOfTheGales.webp"
+        }
+    },
+    {
+        "label": "Master Of The Gales 2",
+        "key": "MasterOfTheGales2PF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/MasterOfTheGales2.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/MasterOfTheGales2.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/MasterOfTheGales2.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/MasterOfTheGales2.webp"
+        }
+    },
+    {
+        "label": "Master Scourge",
+        "key": "MasterScourgePF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/MasterScourge.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/MasterScourge.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/MasterScourge.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/MasterScourge.webp"
+        }
+    },
+    {
+        "label": "Merrill Pegsworthy",
+        "key": "MerrillPegsworthyPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/MerrillPegsworthy.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/MerrillPegsworthy.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/MerrillPegsworthy.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/MerrillPegsworthy.webp"
+        }
+    },
+    {
+        "label": "Mfuello",
+        "key": "MfuelloPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/Mfuello.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/Mfuello.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/Mfuello.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/Mfuello.webp"
+        }
+    },
+    {
+        "label": "Mister Plugg",
+        "key": "MisterPluggPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/MisterPlugg.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/MisterPlugg.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/MisterPlugg.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/MisterPlugg.webp"
+        }
+    },
+    {
+        "label": "Mistmourn",
+        "key": "MistmournPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/Mistmourn.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/Mistmourn.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/Mistmourn.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/Mistmourn.webp"
+        }
+    },
+    {
+        "label": "Nefti Unwesha",
+        "key": "NeftiUnweshaPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/NeftiUnwesha.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/NeftiUnwesha.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/NeftiUnwesha.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/NeftiUnwesha.webp"
+        }
+    },
+    {
+        "label": "Norgorber Priest",
+        "key": "NorgorberPriestPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/NorgorberPriest.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/NorgorberPriest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/NorgorberPriest.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/NorgorberPriest.webp"
+        }
+    },
+    {
+        "label": "Omara Culverin",
+        "key": "OmaraCulverinPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/OmaraCulverin.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/OmaraCulverin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/OmaraCulverin.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/OmaraCulverin.webp"
+        }
+    },
+    {
+        "label": "Oracular Cyclops",
+        "key": "OracularCyclopsPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/OracularCyclops.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/OracularCyclops.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/OracularCyclops.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/OracularCyclops.webp"
+        }
+    },
+    {
+        "label": "Ormandar",
+        "key": "OrmandarPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/Ormandar.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/Ormandar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/Ormandar.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/Ormandar.webp"
+        }
+    },
+    {
+        "label": "Owlbear Hartshorn",
+        "key": "OwlbearHartshornPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/OwlbearHartshorn.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/OwlbearHartshorn.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/OwlbearHartshorn.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/OwlbearHartshorn.webp"
+        }
+    },
+    {
+        "label": "Paeta",
+        "key": "PaetaPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/Paeta.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/Paeta.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/Paeta.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/Paeta.webp"
+        }
+    },
+    {
+        "label": "Paralictor Valeria Asperixus",
+        "key": "ParalictorValeriaAsperixusPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/ParalictorValeriaAsperixus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/ParalictorValeriaAsperixus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/ParalictorValeriaAsperixus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/ParalictorValeriaAsperixus.webp"
+        }
+    },
+    {
+        "label": "Paralictor Valeria Asperixus Bust",
+        "key": "ParalictorValeriaAsperixusBustPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/ParalictorValeriaAsperixusBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/ParalictorValeriaAsperixusBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/ParalictorValeriaAsperixusBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/ParalictorValeriaAsperixusBust.webp"
+        }
+    },
+    {
+        "label": "Pierce Jerrell",
+        "key": "PierceJerrellPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/PierceJerrell.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/PierceJerrell.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/PierceJerrell.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/PierceJerrell.webp"
+        }
+    },
+    {
+        "label": "Pirate Boatswain",
+        "key": "PirateBoatswainPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/PirateBoatswain.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/PirateBoatswain.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/PirateBoatswain.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/PirateBoatswain.webp"
+        }
+    },
+    {
+        "label": "Pirate Bomber",
+        "key": "PirateBomberPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/PirateBomber.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/PirateBomber.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/PirateBomber.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/PirateBomber.webp"
+        }
+    },
+    {
+        "label": "Pirate Captain",
+        "key": "PirateCaptainPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/PirateCaptain.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/PirateCaptain.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/PirateCaptain.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/PirateCaptain.webp"
+        }
+    },
+    {
+        "label": "Pirate Captain Female",
+        "key": "PirateCaptainFemalePF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/PirateCaptainFemale.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/PirateCaptainFemale.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/PirateCaptainFemale.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/PirateCaptainFemale.webp"
+        }
+    },
+    {
+        "label": "Pirate Guard",
+        "key": "PirateGuardPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/PirateGuard.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/PirateGuard.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/PirateGuard.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/PirateGuard.webp"
+        }
+    },
+    {
+        "label": "Pirate Guard Bust",
+        "key": "PirateGuardBustPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/PirateGuardBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/PirateGuardBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/PirateGuardBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/PirateGuardBust.webp"
+        }
+    },
+    {
+        "label": "Pirate Sniper",
+        "key": "PirateSniperPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/PirateSniper.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/PirateSniper.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/PirateSniper.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/PirateSniper.webp"
+        }
+    },
+    {
+        "label": "Powderpot",
+        "key": "PowderpotPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/Powderpot.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/Powderpot.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/Powderpot.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/Powderpot.webp"
+        }
+    },
+    {
+        "label": "Rahadoumi Officer",
+        "key": "RahadoumiOfficerPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/RahadoumiOfficer.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/RahadoumiOfficer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/RahadoumiOfficer.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/RahadoumiOfficer.webp"
+        }
+    },
+    {
+        "label": "Rat Swarm",
+        "key": "RatSwarmPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/RatSwarm.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/RatSwarm.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/RatSwarm.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/RatSwarm.webp"
+        }
+    },
+    {
+        "label": "Riaris Krine",
+        "key": "RiarisKrinePF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/RiarisKrine.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/RiarisKrine.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/RiarisKrine.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/RiarisKrine.webp"
+        }
+    },
+    {
+        "label": "Riaris Krine Bust",
+        "key": "RiarisKrineBustPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/RiarisKrineBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/RiarisKrineBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/RiarisKrineBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/RiarisKrineBust.webp"
+        }
+    },
+    {
+        "label": "Rickety Hake",
+        "key": "RicketyHakePF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/RicketyHake.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/RicketyHake.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/RicketyHake.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/RicketyHake.webp"
+        }
+    },
+    {
+        "label": "Rosie Cusswell",
+        "key": "RosieCusswellPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/RosieCusswell.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/RosieCusswell.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/RosieCusswell.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/RosieCusswell.webp"
+        }
+    },
+    {
+        "label": "Rotgut",
+        "key": "RotgutPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/Rotgut.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/Rotgut.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/Rotgut.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/Rotgut.webp"
+        }
+    },
+    {
+        "label": "Royster Mc Cleagh",
+        "key": "RoysterMcCleaghPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/RoysterMcCleagh.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/RoysterMcCleagh.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/RoysterMcCleagh.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/RoysterMcCleagh.webp"
+        }
+    },
+    {
+        "label": "Sandara Quinn",
+        "key": "SandaraQuinnPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/SandaraQuinn.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/SandaraQuinn.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/SandaraQuinn.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/SandaraQuinn.webp"
+        }
+    },
+    {
+        "label": "Savage Great Cyclops",
+        "key": "SavageGreatCyclopsPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/SavageGreatCyclops.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/SavageGreatCyclops.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/SavageGreatCyclops.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/SavageGreatCyclops.webp"
+        }
+    },
+    {
+        "label": "Scrag Savage",
+        "key": "ScragSavagePF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/ScragSavage.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/ScragSavage.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/ScragSavage.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/ScragSavage.webp"
+        }
+    },
+    {
+        "label": "Screaming Satyr",
+        "key": "ScreamingSatyrPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/ScreamingSatyr.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/ScreamingSatyr.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/ScreamingSatyr.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/ScreamingSatyr.webp"
+        }
+    },
+    {
+        "label": "Sedacthy",
+        "key": "SedacthyPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/Sedacthy.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/Sedacthy.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/Sedacthy.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/Sedacthy.webp"
+        }
+    },
+    {
+        "label": "Sefina",
+        "key": "SefinaPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/Sefina.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/Sefina.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/Sefina.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/Sefina.webp"
+        }
+    },
+    {
+        "label": "Selissa",
+        "key": "SelissaPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/Selissa.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/Selissa.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/Selissa.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/Selissa.webp"
+        }
+    },
+    {
+        "label": "Shaija",
+        "key": "ShaijaPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/Shaija.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/Shaija.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/Shaija.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/Shaija.webp"
+        }
+    },
+    {
+        "label": "Shimerae",
+        "key": "ShimeraePF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/Shimerae.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/Shimerae.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/Shimerae.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/Shimerae.webp"
+        }
+    },
+    {
+        "label": "Ship In A Bottle",
+        "key": "ShipInABottlePF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/ShipInABottle.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/ShipInABottle.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/ShipInABottle.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/ShipInABottle.webp"
+        }
+    },
+    {
+        "label": "Ship Sentinel",
+        "key": "ShipSentinelPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/ShipSentinel.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/ShipSentinel.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/ShipSentinel.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/ShipSentinel.webp"
+        }
+    },
+    {
+        "label": "Ships Whore",
+        "key": "ShipsWhorePF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/ShipsWhore.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/ShipsWhore.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/ShipsWhore.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/ShipsWhore.webp"
+        }
+    },
+    {
+        "label": "Shrouded Queen",
+        "key": "ShroudedQueenPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/ShroudedQueen.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/ShroudedQueen.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/ShroudedQueen.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/ShroudedQueen.webp"
+        }
+    },
+    {
+        "label": "Siyokoy",
+        "key": "SiyokoyPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/Siyokoy.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/Siyokoy.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/Siyokoy.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/Siyokoy.webp"
+        }
+    },
+    {
+        "label": "Tessa Fairwind",
+        "key": "TessaFairwindPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/TessaFairwind.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/TessaFairwind.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/TessaFairwind.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/TessaFairwind.webp"
+        }
+    },
+    {
+        "label": "Tessa Fairwind 2",
+        "key": "TessaFairwind2PF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/TessaFairwind2.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/TessaFairwind2.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/TessaFairwind2.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/TessaFairwind2.webp"
+        }
+    },
+    {
+        "label": "Tessa Fairwind Bust",
+        "key": "TessaFairwindBustPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/TessaFairwindBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/TessaFairwindBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/TessaFairwindBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/TessaFairwindBust.webp"
+        }
+    },
+    {
+        "label": "Tetrolimulus",
+        "key": "TetrolimulusPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/Tetrolimulus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/Tetrolimulus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/Tetrolimulus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/Tetrolimulus.webp"
+        }
+    },
+    {
+        "label": "The Ancient Mariner",
+        "key": "TheAncientMarinerPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/TheAncientMariner.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/TheAncientMariner.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/TheAncientMariner.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/TheAncientMariner.webp"
+        }
+    },
+    {
+        "label": "The Brinebrood Queen",
+        "key": "TheBrinebroodQueenPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/TheBrinebroodQueen.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/TheBrinebroodQueen.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/TheBrinebroodQueen.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/TheBrinebroodQueen.webp"
+        }
+    },
+    {
+        "label": "The Eel",
+        "key": "TheEelPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/TheEel.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/TheEel.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/TheEel.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/TheEel.webp"
+        }
+    },
+    {
+        "label": "The Matron",
+        "key": "TheMatronPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/TheMatron.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/TheMatron.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/TheMatron.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/TheMatron.webp"
+        }
+    },
+    {
+        "label": "The Stabbing Beast",
+        "key": "TheStabbingBeastPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/TheStabbingBeast.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/TheStabbingBeast.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/TheStabbingBeast.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/TheStabbingBeast.webp"
+        }
+    },
+    {
+        "label": "The Whale",
+        "key": "TheWhalePF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/TheWhale.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/TheWhale.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/TheWhale.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/TheWhale.webp"
+        }
+    },
+    {
+        "label": "Tidepool Dragon",
+        "key": "TidepoolDragonPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/TidepoolDragon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/TidepoolDragon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/TidepoolDragon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/TidepoolDragon.webp"
+        }
+    },
+    {
+        "label": "Tiger Fish",
+        "key": "TigerFishPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/TigerFish.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/TigerFish.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/TigerFish.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/TigerFish.webp"
+        }
+    },
+    {
+        "label": "Tsadok Goldtooth",
+        "key": "TsadokGoldtoothPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/TsadokGoldtooth.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/TsadokGoldtooth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/TsadokGoldtooth.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/TsadokGoldtooth.webp"
+        }
+    },
+    {
+        "label": "Tsadok Goldtooth Bust",
+        "key": "TsadokGoldtoothBustPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/TsadokGoldtoothBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/TsadokGoldtoothBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/TsadokGoldtoothBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/TsadokGoldtoothBust.webp"
+        }
+    },
+    {
+        "label": "Turpin Irons",
+        "key": "TurpinIronsPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/TurpinIrons.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/TurpinIrons.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/TurpinIrons.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/TurpinIrons.webp"
+        }
+    },
+    {
+        "label": "Ugash Iram",
+        "key": "UgashIramPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/UgashIram.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/UgashIram.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/UgashIram.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/UgashIram.webp"
+        }
+    },
+    {
+        "label": "Urtleytlar The Tempest Queen",
+        "key": "UrtleytlarTheTempestQueenPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/UrtleytlarTheTempestQueen.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/UrtleytlarTheTempestQueen.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/UrtleytlarTheTempestQueen.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/UrtleytlarTheTempestQueen.webp"
+        }
+    },
+    {
+        "label": "Vailea",
+        "key": "VaileaPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/Vailea.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/Vailea.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/Vailea.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/Vailea.webp"
+        }
+    },
+    {
+        "label": "Vakarla",
+        "key": "VakarlaPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/Vakarla.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/Vakarla.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/Vakarla.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/Vakarla.webp"
+        }
+    },
+    {
+        "label": "Vine Choker",
+        "key": "VineChokerPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/VineChoker.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/VineChoker.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/VineChoker.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/VineChoker.webp"
+        }
+    },
+    {
+        "label": "Voidstick Zombie",
+        "key": "VoidstickZombiePF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/VoidstickZombie.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/VoidstickZombie.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/VoidstickZombie.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/VoidstickZombie.webp"
+        }
+    },
+    {
+        "label": "Whalebone Pilk",
+        "key": "WhalebonePilkPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/WhalebonePilk.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/WhalebonePilk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/WhalebonePilk.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/WhalebonePilk.webp"
+        }
+    },
+    {
+        "label": "Zaskia Galembar",
+        "key": "ZaskiaGalembarPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/ZaskiaGalembar.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/ZaskiaGalembar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/ZaskiaGalembar.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/ZaskiaGalembar.webp"
+        }
+    },
+    {
+        "label": "Zeuglodon",
+        "key": "ZeuglodonPF1eSaS",
+        "source": "PF1e Skulls & Shackles",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-skulls-and-shackles/Zeuglodon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-skulls-and-shackles/Zeuglodon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-skulls-and-shackles/Zeuglodon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-skulls-and-shackles/Zeuglodon.webp"
+        }
+    }
+]

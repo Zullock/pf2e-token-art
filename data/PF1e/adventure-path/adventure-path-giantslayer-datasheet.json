@@ -1,0 +1,4279 @@
+[
+    {
+        "label": "Abaddon Gigas",
+        "key": "AbaddonGigasPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/AbaddonGigas.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/AbaddonGigas.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/AbaddonGigas.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/AbaddonGigas.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "abaddon gigas"
+            ],
+            "family": [
+                "giant",
+                "gigas"
+            ],
+            "equipment": [
+                "axe",
+                "clothing",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Abysogh",
+        "key": "AbysoghPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Abysogh.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Abysogh.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Abysogh.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Abysogh.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "abysogh"
+            ],
+            "family": [
+                "giant"
+            ]
+        }
+    },
+    {
+        "label": "Aerngun",
+        "key": "AerngunPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Aerngun.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Aerngun.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Aerngun.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Aerngun.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "frost giant"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "family": [
+                "giant"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Akazerath",
+        "key": "AkazerathPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Akazerath.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Akazerath.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Akazerath.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Akazerath.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic"
+            ],
+            "ancestry": [
+                "red dragon"
+            ],
+            "family": [
+                "chromatic dragon"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Anthurim Rimebeard",
+        "key": "AnthurimRimebeardPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/AnthurimRimebeard.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/AnthurimRimebeard.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/AnthurimRimebeard.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/AnthurimRimebeard.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "devourer",
+                "frost giant"
+            ],
+            "equipment": [
+                "clothing",
+                "unarmored"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Ash Giant Artillerist",
+        "key": "AshGiantArtilleristPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/AshGiantArtillerist.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/AshGiantArtillerist.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/AshGiantArtillerist.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/AshGiantArtillerist.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "ash giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "equipment": [
+                "crossbow",
+                "heavy"
+            ]
+        }
+    },
+    {
+        "label": "Benaioh",
+        "key": "BenaiohPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Benaioh.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Benaioh.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Benaioh.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Benaioh.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "benaioh"
+            ]
+        }
+    },
+    {
+        "label": "Benimor The Short",
+        "key": "BenimorTheShortPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/BenimorTheShort.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/BenimorTheShort.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/BenimorTheShort.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/BenimorTheShort.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "storm giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "clothing",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Berkvildr",
+        "key": "BerkvildrPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Berkvildr.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Berkvildr.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Berkvildr.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Berkvildr.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "annis hag"
+            ],
+            "family": [
+                "hag"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Birelu",
+        "key": "BireluPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Birelu.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Birelu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Birelu.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Birelu.webp"
+        },
+        "tags": {
+            "category": [
+                "spirit"
+            ],
+            "ancestry": [
+                "birelu"
+            ],
+            "family": [
+                "incorporeal"
+            ]
+        }
+    },
+    {
+        "label": "Boneyard Gigas",
+        "key": "BoneyardGigasPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/BoneyardGigas.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/BoneyardGigas.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/BoneyardGigas.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/BoneyardGigas.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "boneyard gigas"
+            ],
+            "family": [
+                "giant",
+                "gigas"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Brambleblight",
+        "key": "BrambleblightPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Brambleblight.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Brambleblight.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Brambleblight.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Brambleblight.webp"
+        },
+        "tags": {
+            "category": [
+                "plant"
+            ],
+            "ancestry": [
+                "brambleblight"
+            ]
+        }
+    },
+    {
+        "label": "Brinya Kelver",
+        "key": "BrinyaKelverPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/BrinyaKelver.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/BrinyaKelver.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/BrinyaKelver.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/BrinyaKelver.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dromaar"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Calrianne Blix",
+        "key": "CalrianneBlixPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/CalrianneBlix.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/CalrianneBlix.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/CalrianneBlix.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/CalrianneBlix.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "heavy"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Cave Giant",
+        "key": "CaveGiantPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/CaveGiant.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/CaveGiant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/CaveGiant.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/CaveGiant.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "cave giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "special": [
+                "bust"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Cavern Troll",
+        "key": "RockTrollPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/RockTroll.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/RockTroll.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/RockTroll.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/RockTroll.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "cavern troll"
+            ],
+            "family": [
+                "giant",
+                "troll"
+            ],
+            "equipment": [
+                "pick"
+            ]
+        }
+    },
+    {
+        "label": "Chalicotherium",
+        "key": "ChalicotheriumPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Chalicotherium.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Chalicotherium.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Chalicotherium.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Chalicotherium.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "chalicotherium"
+            ],
+            "family": [
+                "megafauna"
+            ]
+        }
+    },
+    {
+        "label": "Cham Larringfass",
+        "key": "ChamLarringfassPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/ChamLarringfass.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/ChamLarringfass.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/ChamLarringfass.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/ChamLarringfass.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "halfling"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Cirdassa",
+        "key": "CirdassaPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Cirdassa.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Cirdassa.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Cirdassa.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Cirdassa.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "taiga giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "equipment": [
+                "heavy",
+                "polearm"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Cloud Giant",
+        "key": "CloudGiantPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/CloudGiant.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/CloudGiant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/CloudGiant.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/CloudGiant.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "cloud giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust"
+            ]
+        }
+    },
+    {
+        "label": "Cloud Giant Mohrg",
+        "key": "CloudGiantMohrgPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/CloudGiantMohrg.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/CloudGiantMohrg.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/CloudGiantMohrg.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/CloudGiantMohrg.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "cloud giant",
+                "mohrg"
+            ],
+            "family": [
+                "giant"
+            ]
+        }
+    },
+    {
+        "label": "Cloud Giant Veteran",
+        "key": "CloudGiantVeteranPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/CloudGiantVeteran.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/CloudGiantVeteran.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/CloudGiantVeteran.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/CloudGiantVeteran.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "cloud giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "equipment": [
+                "bludgeon",
+                "heavy"
+            ]
+        }
+    },
+    {
+        "label": "Cormog Deadgut",
+        "key": "CormogDeadgutPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/CormogDeadgut.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/CormogDeadgut.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/CormogDeadgut.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/CormogDeadgut.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "hill giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "equipment": [
+                "medium"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Coxswain Halrex",
+        "key": "CoxswainHalrexPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/CoxswainHalrex.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/CoxswainHalrex.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/CoxswainHalrex.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/CoxswainHalrex.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "orc"
+            ],
+            "equipment": [
+                "heavy"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Crusher",
+        "key": "CrusherPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Crusher.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Crusher.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Crusher.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Crusher.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "cave giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "flail",
+                "heavy",
+                "medium",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Daktani",
+        "key": "DaktaniPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Daktani.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Daktani.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Daktani.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Daktani.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dromaar"
+            ],
+            "equipment": [
+                "bludgeon",
+                "heavy"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Decapitant Lord",
+        "key": "DecapitantLordPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/DecapitantLord.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/DecapitantLord.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/DecapitantLord.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/DecapitantLord.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "dullahan",
+                "frost giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "equipment": [
+                "medium",
+                "polearm"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Droja",
+        "key": "DrojaPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Droja.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Droja.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Droja.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Droja.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dromaar"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Dybellos",
+        "key": "DybellosPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Dybellos.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Dybellos.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Dybellos.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Dybellos.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "child of urgathoa"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "unarmored"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Etena",
+        "key": "EtenaPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Etena.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Etena.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Etena.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Etena.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "slag giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "medium"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Etena",
+        "key": "EtenaBustPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/EtenaBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/EtenaBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/EtenaBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/EtenaBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "slag giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "equipment": [
+                "medium"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Ewigga",
+        "key": "EwiggaPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Ewigga.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Ewigga.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Ewigga.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Ewigga.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "green hag"
+            ],
+            "family": [
+                "hag"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "medium"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Fabian Blix",
+        "key": "FabianBlixPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/FabianBlix.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/FabianBlix.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/FabianBlix.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/FabianBlix.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghost commoner"
+            ],
+            "family": [
+                "incorporeal",
+                "iomedae"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "heavy",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Ferin",
+        "key": "FerinPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Ferin.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Ferin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Ferin.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Ferin.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "slag giant"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "family": [
+                "giant"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Fire Giant",
+        "key": "FireGiantPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/FireGiant.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/FireGiant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/FireGiant.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/FireGiant.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "fire giant"
+            ],
+            "equipment": [
+                "unarmored"
+            ],
+            "special": [
+                "bust"
+            ]
+        }
+    },
+    {
+        "label": "Fire Giant Captain",
+        "key": "FireGiantCaptainPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/FireGiantCaptain.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/FireGiantCaptain.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/FireGiantCaptain.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/FireGiantCaptain.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "fire giant"
+            ],
+            "equipment": [
+                "heavy",
+                "shield",
+                "sword"
+            ],
+            "family": [
+                "giant"
+            ]
+        }
+    },
+    {
+        "label": "Fire Giant Lieutenant",
+        "key": "FireGiantLieutenantPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/FireGiantLieutenant.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/FireGiantLieutenant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/FireGiantLieutenant.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/FireGiantLieutenant.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "fire giant"
+            ],
+            "equipment": [
+                "heavy",
+                "sword"
+            ],
+            "family": [
+                "giant"
+            ]
+        }
+    },
+    {
+        "label": "Fire Giant Lieutenant",
+        "key": "FireGiantLieutenantBustPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/FireGiantLieutenantBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/FireGiantLieutenantBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/FireGiantLieutenantBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/FireGiantLieutenantBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "fire giant"
+            ],
+            "equipment": [
+                "heavy",
+                "sword"
+            ],
+            "family": [
+                "giant"
+            ]
+        }
+    },
+    {
+        "label": "Flame Drake",
+        "key": "FlameDrakePF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/FlameDrake.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/FlameDrake.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/FlameDrake.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/FlameDrake.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic"
+            ],
+            "ancestry": [
+                "flame drake"
+            ],
+            "family": [
+                "drake"
+            ]
+        }
+    },
+    {
+        "label": "Flood Troll",
+        "key": "FloodTrollPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/FloodTroll.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/FloodTroll.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/FloodTroll.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/FloodTroll.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "flood troll"
+            ],
+            "family": [
+                "giant",
+                "troll"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Forest Drake",
+        "key": "ForestDrakePF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/ForestDrake.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/ForestDrake.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/ForestDrake.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/ForestDrake.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic"
+            ],
+            "ancestry": [
+                "forest drake"
+            ],
+            "family": [
+                "drake"
+            ]
+        }
+    },
+    {
+        "label": "Freedom Town Assassin",
+        "key": "FreedomTownAssassinPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/FreedomTownAssassin.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/FreedomTownAssassin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/FreedomTownAssassin.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/FreedomTownAssassin.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "medium",
+                "tome"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Freedom Town Thug",
+        "key": "FreedomTownThugPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/FreedomTownThug.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/FreedomTownThug.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/FreedomTownThug.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/FreedomTownThug.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bow",
+                "clothing",
+                "knife",
+                "light",
+                "polearm",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Frost Giant",
+        "key": "FrostGiantPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/FrostGiant.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/FrostGiant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/FrostGiant.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/FrostGiant.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "frost giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "equipment": [
+                "clothing",
+                "sword"
+            ],
+            "special": [
+                "bust"
+            ]
+        }
+    },
+    {
+        "label": "Frost Troll Barbarian",
+        "key": "IceTrollBarbarianPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/IceTrollBarbarian.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/IceTrollBarbarian.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/IceTrollBarbarian.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/IceTrollBarbarian.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "frost troll"
+            ],
+            "family": [
+                "giant",
+                "troll"
+            ],
+            "equipment": [
+                "flail",
+                "heavy",
+                "knife"
+            ]
+        }
+    },
+    {
+        "label": "Gatar Nom",
+        "key": "GatarNomPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/GatarNom.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/GatarNom.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/GatarNom.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/GatarNom.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "abyss gigas"
+            ],
+            "family": [
+                "giant",
+                "gigas"
+            ],
+            "equipment": [
+                "bludgeon",
+                "heavy"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "General Karrguk",
+        "key": "GeneralKarrgukPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/GeneralKarrguk.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/GeneralKarrguk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/GeneralKarrguk.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/GeneralKarrguk.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "orc"
+            ],
+            "equipment": [
+                "heavy",
+                "knife",
+                "sword"
+            ],
+            "features": [
+                "magic",
+                "music"
+            ],
+            "special": [
+                "unique"
+            ],
+            "family": [
+                "gorum"
+            ]
+        }
+    },
+    {
+        "label": "General Numarak",
+        "key": "GeneralNumarakPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/GeneralNumarak.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/GeneralNumarak.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/GeneralNumarak.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/GeneralNumarak.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "orc"
+            ],
+            "equipment": [
+                "heavy"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Gervas",
+        "key": "GervasPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Gervas.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Gervas.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Gervas.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Gervas.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "fire giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Gluttoner",
+        "key": "GluttonerPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Gluttoner.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Gluttoner.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Gluttoner.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Gluttoner.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "necrocraft"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Great Elder Iuu",
+        "key": "GreatElderIuuPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/GreatElderIuu.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/GreatElderIuu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/GreatElderIuu.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/GreatElderIuu.webp"
+        },
+        "tags": {
+            "family": [
+                "giant",
+                "herald",
+                "minderhal"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "unarmored"
+            ],
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "great elder iuu"
+            ]
+        }
+    },
+    {
+        "label": "Gregganor",
+        "key": "GregganorPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Gregganor.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Gregganor.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Gregganor.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Gregganor.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "frost giant"
+            ],
+            "equipment": [
+                "heavy"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "giant"
+            ]
+        }
+    },
+    {
+        "label": "Grenseldek",
+        "key": "GrenseldekPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Grenseldek.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Grenseldek.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Grenseldek.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Grenseldek.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "hill giant"
+            ],
+            "equipment": [
+                "axe",
+                "medium",
+                "shield",
+                "unarmored"
+            ],
+            "features": [
+                "dual-wielding"
+            ],
+            "special": [
+                "unique"
+            ],
+            "family": [
+                "giant"
+            ]
+        }
+    },
+    {
+        "label": "Grenseldek",
+        "key": "GrenseldekAxePF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/GrenseldekAxe.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/GrenseldekAxe.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/GrenseldekAxe.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/GrenseldekAxe.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "hill giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "equipment": [
+                "axe",
+                "medium"
+            ],
+            "features": [
+                "dual-wielding"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Grenseldek's Bodyguard",
+        "key": "GrenseldeksBodyguardPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/GrenseldeksBodyguard.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/GrenseldeksBodyguard.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/GrenseldeksBodyguard.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/GrenseldeksBodyguard.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "orc"
+            ],
+            "equipment": [
+                "axe",
+                "heavy"
+            ]
+        }
+    },
+    {
+        "label": "Gripwort",
+        "key": "GripwortPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Gripwort.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Gripwort.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Gripwort.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Gripwort.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "marsh giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "equipment": [
+                "clothing",
+                "polearm",
+                "unarmored"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Gristlecrack",
+        "key": "GristlecrackPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Gristlecrack.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Gristlecrack.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Gristlecrack.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Gristlecrack.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "hill giant"
+            ],
+            "family": [
+                "giant",
+                "mongrel"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Gryph",
+        "key": "GryphPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Gryph.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Gryph.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Gryph.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Gryph.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "gryph"
+            ]
+        }
+    },
+    {
+        "label": "Hell Gigas",
+        "key": "HellGigasPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/HellGigas.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/HellGigas.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/HellGigas.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/HellGigas.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "hell gigas"
+            ],
+            "family": [
+                "giant",
+                "gigas"
+            ]
+        }
+    },
+    {
+        "label": "Hill Giant",
+        "key": "HillGiantPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/HillGiant.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/HillGiant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/HillGiant.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/HillGiant.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "hill giant"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust"
+            ]
+        }
+    },
+    {
+        "label": "Holgona",
+        "key": "HolgonaPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Holgona.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Holgona.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Holgona.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Holgona.webp"
+        },
+        "tags": {
+            "ancestry": [
+                "hellknight"
+            ],
+            "category": [
+                "undead"
+            ],
+            "equipment": [
+                "heavy",
+                "polearm"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Hyrokkin",
+        "key": "HyrokkinPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Hyrokkin.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Hyrokkin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Hyrokkin.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Hyrokkin.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish",
+                "humanoid"
+            ],
+            "ancestry": [
+                "fire giant"
+            ],
+            "family": [
+                "giant",
+                "half-fiend"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "heavy",
+                "knife"
+            ]
+        }
+    },
+    {
+        "label": "Ikelos",
+        "key": "IkelosPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Ikelos.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Ikelos.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Ikelos.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Ikelos.webp"
+        },
+        "tags": {
+            "category": [
+                "dream",
+                "planar"
+            ],
+            "ancestry": [
+                "ikelos"
+            ]
+        }
+    },
+    {
+        "label": "Indarugant",
+        "key": "IndarugantPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Indarugant.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Indarugant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Indarugant.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Indarugant.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "indarugant",
+                "taiga giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "equipment": [
+                "axe",
+                "medium"
+            ]
+        }
+    },
+    {
+        "label": "Ingrahild Nargrymkin",
+        "key": "IngrahildNargrymkinPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/IngrahildNargrymkin.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/IngrahildNargrymkin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/IngrahildNargrymkin.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/IngrahildNargrymkin.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dwarf"
+            ],
+            "equipment": [
+                "heavy",
+                "medium"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Iron Rhinoceros",
+        "key": "IronRhinocerosPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/IronRhinoceros.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/IronRhinoceros.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/IronRhinoceros.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/IronRhinoceros.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "iron rhinoceros"
+            ]
+        }
+    },
+    {
+        "label": "Janar Malakra",
+        "key": "JanarMalakraPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/JanarMalakra.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/JanarMalakra.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/JanarMalakra.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/JanarMalakra.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "ancestry": [
+                "desert giant"
+            ],
+            "family": [
+                "giant"
+            ]
+        }
+    },
+    {
+        "label": "Jorifah",
+        "key": "JorifahPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Jorifah.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Jorifah.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Jorifah.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Jorifah.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "cloud giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "features": [
+                "magic"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Kagak Of The Rolling Thunder",
+        "key": "KagakOfTheRollingThunderPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/KagakOfTheRollingThunder.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/KagakOfTheRollingThunder.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/KagakOfTheRollingThunder.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/KagakOfTheRollingThunder.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "orc"
+            ],
+            "equipment": [
+                "axe",
+                "bludgeon",
+                "clothing",
+                "shield"
+            ],
+            "features": [
+                "music"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Karah",
+        "key": "KarahPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Karah.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Karah.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Karah.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Karah.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "family": [
+                "giant",
+                "haggakal",
+                "ogre"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "ancestry": [
+                "ogre mage"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Katrezra",
+        "key": "KatrezraPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Katrezra.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Katrezra.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Katrezra.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Katrezra.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dromaar"
+            ],
+            "equipment": [
+                "clothing",
+                "heavy"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Kragmuld",
+        "key": "KragmuldPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Kragmuld.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Kragmuld.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Kragmuld.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Kragmuld.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "hill giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "flail",
+                "medium"
+            ]
+        }
+    },
+    {
+        "label": "Krellan",
+        "key": "KrellanPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Krellan.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Krellan.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Krellan.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Krellan.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "shadow giant"
+            ],
+            "family": [
+                "giant",
+                "zon-kuthon"
+            ],
+            "equipment": [
+                "flail",
+                "heavy"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Kuenathorn",
+        "key": "KuenathornPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Kuenathorn.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Kuenathorn.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Kuenathorn.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Kuenathorn.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "rune giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "equipment": [
+                "heavy",
+                "sword"
+            ],
+            "features": [
+                "dual-wielding"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Kurst Grath",
+        "key": "KurstGrathPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/KurstGrath.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/KurstGrath.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/KurstGrath.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/KurstGrath.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bow",
+                "medium",
+                "shield",
+                "sword"
+            ],
+            "features": [
+                "dual-wielding"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Kurst Grath",
+        "key": "KurstGrathBustPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/KurstGrathBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/KurstGrathBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/KurstGrathBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/KurstGrathBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "medium"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Liniratis",
+        "key": "LiniratisPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Liniratis.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Liniratis.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Liniratis.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Liniratis.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "spirit naga"
+            ],
+            "family": [
+                "naga"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Living Cave Painting",
+        "key": "LivingCavePaintingPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/LivingCavePainting.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/LivingCavePainting.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/LivingCavePainting.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/LivingCavePainting.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "living cave painting"
+            ]
+        }
+    },
+    {
+        "label": "Living Effigy",
+        "key": "LivingEffigyPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/LivingEffigy.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/LivingEffigy.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/LivingEffigy.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/LivingEffigy.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "living effigy"
+            ]
+        }
+    },
+    {
+        "label": "Lokmorr The Betrayer",
+        "key": "LokmorrTheBetrayerPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/LokmorrTheBetrayer.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/LokmorrTheBetrayer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/LokmorrTheBetrayer.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/LokmorrTheBetrayer.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dwarf"
+            ],
+            "equipment": [
+                "heavy",
+                "polearm"
+            ],
+            "family": [
+                "broken soul"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Magnetite Golem",
+        "key": "MagnetiteGolemPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/MagnetiteGolem.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/MagnetiteGolem.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/MagnetiteGolem.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/MagnetiteGolem.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "magnetite golem"
+            ],
+            "family": [
+                "golem"
+            ]
+        }
+    },
+    {
+        "label": "Maija",
+        "key": "MaijaPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Maija.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Maija.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Maija.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Maija.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "frost giant"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "giant"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Mama Dung",
+        "key": "MamaDungPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/MamaDung.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/MamaDung.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/MamaDung.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/MamaDung.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ],
+            "family": [
+                "giant",
+                "ogre"
+            ],
+            "ancestry": [
+                "ogre boss"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Margrunda",
+        "key": "MargrundaPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Margrunda.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Margrunda.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Margrunda.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Margrunda.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "frost giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Marsh Giant",
+        "key": "MarshGiantPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/MarshGiant.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/MarshGiant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/MarshGiant.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/MarshGiant.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "marsh giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "equipment": [
+                "unarmored"
+            ],
+            "special": [
+                "bust"
+            ]
+        }
+    },
+    {
+        "label": "Marsh Giant Wight",
+        "key": "MarshGiantWightPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/MarshGiantWight.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/MarshGiantWight.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/MarshGiantWight.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/MarshGiantWight.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "marsh giant",
+                "wight"
+            ],
+            "family": [
+                "giant"
+            ],
+            "equipment": [
+                "clothing",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Master Kayyed",
+        "key": "MasterKayyedPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/MasterKayyed.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/MasterKayyed.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/MasterKayyed.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/MasterKayyed.webp"
+        },
+        "tags": {
+            "category": [
+                "elemental"
+            ],
+            "ancestry": [
+                "salamander"
+            ],
+            "equipment": [
+                "heavy",
+                "polearm"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Melira",
+        "key": "MeliraPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Melira.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Melira.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Melira.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Melira.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bow",
+                "medium",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Minderhal Priest",
+        "key": "MinderhalPriestPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/MinderhalPriest.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/MinderhalPriest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/MinderhalPriest.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/MinderhalPriest.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ],
+            "family": [
+                "minderhal"
+            ]
+        }
+    },
+    {
+        "label": "Morog",
+        "key": "MorogPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Morog.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Morog.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Morog.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Morog.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "two-headed troll"
+            ],
+            "family": [
+                "giant",
+                "troll"
+            ],
+            "equipment": [
+                "clothing",
+                "sword",
+                "unarmored"
+            ],
+            "special": [
+                "unique"
+            ],
+            "features": [
+                "dual-wielding"
+            ]
+        }
+    },
+    {
+        "label": "Mubs",
+        "key": "MubsPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Mubs.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Mubs.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Mubs.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Mubs.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "hill giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "equipment": [
+                "clothing",
+                "knife"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Nakurrh",
+        "key": "NakurrhPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Nakurrh.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Nakurrh.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Nakurrh.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Nakurrh.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "slag giant"
+            ],
+            "family": [
+                "giant",
+                "mongrel"
+            ],
+            "equipment": [
+                "bludgeon",
+                "heavy"
+            ],
+            "features": [
+                "magic"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Nalbia",
+        "key": "NalbiaPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Nalbia.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Nalbia.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Nalbia.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Nalbia.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "cloud giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "equipment": [
+                "clothing",
+                "knife"
+            ],
+            "features": [
+                "companion",
+                "magic"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Nalbur",
+        "key": "NalburPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Nalbur.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Nalbur.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Nalbur.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Nalbur.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "cloud giant"
+            ],
+            "equipment": [
+                "axe",
+                "bow",
+                "heavy"
+            ],
+            "family": [
+                "giant"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Naximarra",
+        "key": "NaximarraPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Naximarra.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Naximarra.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Naximarra.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Naximarra.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic"
+            ],
+            "ancestry": [
+                "red dragon"
+            ],
+            "family": [
+                "chromatic dragon"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Naximarra",
+        "key": "NaximarraBustPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/NaximarraBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/NaximarraBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/NaximarraBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/NaximarraBust.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic"
+            ],
+            "ancestry": [
+                "red dragon"
+            ],
+            "family": [
+                "chromatic dragon"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Netivesk",
+        "key": "NetiveskPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Netivesk.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Netivesk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Netivesk.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Netivesk.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "cyclops"
+            ],
+            "equipment": [
+                "bludgeon",
+                "heavy"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "giant"
+            ]
+        }
+    },
+    {
+        "label": "Nirvana Gigas",
+        "key": "NirvanaGigasPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/NirvanaGigas.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/NirvanaGigas.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/NirvanaGigas.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/NirvanaGigas.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "nirvana gigas"
+            ],
+            "family": [
+                "giant",
+                "gigas"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Nixudaemon",
+        "key": "NixudaemonPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Nixudaemon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Nixudaemon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Nixudaemon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Nixudaemon.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "nixudaemon"
+            ],
+            "family": [
+                "daemon"
+            ]
+        }
+    },
+    {
+        "label": "Omast Frum",
+        "key": "OmastFrumPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/OmastFrum.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/OmastFrum.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/OmastFrum.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/OmastFrum.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "heavy"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Onenphexia",
+        "key": "OnenphexiaPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Onenphexia.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Onenphexia.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Onenphexia.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Onenphexia.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "cyclops"
+            ],
+            "equipment": [
+                "heavy",
+                "medium",
+                "polearm"
+            ],
+            "family": [
+                "giant"
+            ],
+            "special": [
+                "unique"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Orc Beast-Tamer",
+        "key": "OrcBeasTamerPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/OrcBeasTamer.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/OrcBeasTamer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/OrcBeasTamer.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/OrcBeasTamer.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "orc"
+            ],
+            "equipment": [
+                "axe",
+                "clothing"
+            ],
+            "features": [
+                "companion"
+            ]
+        }
+    },
+    {
+        "label": "Orc Shieldbreaker",
+        "key": "OrcShieldbreakerPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/OrcShieldbreaker.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/OrcShieldbreaker.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/OrcShieldbreaker.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/OrcShieldbreaker.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "orc"
+            ],
+            "equipment": [
+                "sword",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Othdan",
+        "key": "OthdanPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Othdan.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Othdan.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Othdan.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Othdan.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Pappy Gutterunch",
+        "key": "PappyGutterunchPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/PappyGutterunch.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/PappyGutterunch.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/PappyGutterunch.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/PappyGutterunch.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "ogre mage"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "unarmored"
+            ],
+            "features": [
+                "magic"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Peryton",
+        "key": "PerytonPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Peryton.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Peryton.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Peryton.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Peryton.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "peryton"
+            ]
+        }
+    },
+    {
+        "label": "Poppy Gorb",
+        "key": "PoppyGorbPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/PoppyGorb.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/PoppyGorb.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/PoppyGorb.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/PoppyGorb.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "family": [
+                "giant",
+                "ogre"
+            ],
+            "ancestry": [
+                "ogre warrior"
+            ],
+            "equipment": [
+                "bludgeon",
+                "medium"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Pyropiscis",
+        "key": "PyropiscisPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Pyropiscis.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Pyropiscis.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Pyropiscis.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Pyropiscis.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "pyropiscis"
+            ]
+        }
+    },
+    {
+        "label": "Quivixia",
+        "key": "QuivixiaPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Quivixia.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Quivixia.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Quivixia.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Quivixia.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "fire giant"
+            ],
+            "family": [
+                "giant",
+                "zursvaater"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "heavy",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Qupenarth",
+        "key": "QupenarthPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Qupenarth.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Qupenarth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Qupenarth.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Qupenarth.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "athach"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "axe",
+                "clothing",
+                "unarmored"
+            ],
+            "family": [
+                "giant"
+            ]
+        }
+    },
+    {
+        "label": "Raag Bloodtusk",
+        "key": "RaagBloodtuskPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/RaagBloodtusk.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/RaagBloodtusk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/RaagBloodtusk.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/RaagBloodtusk.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dromaar"
+            ],
+            "equipment": [
+                "medium",
+                "sword"
+            ],
+            "features": [
+                "dual-wielding"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Ranfearg",
+        "key": "RanfeargPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Ranfearg.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Ranfearg.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Ranfearg.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Ranfearg.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "winter wolf"
+            ],
+            "family": [
+                "wolf"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Ranger Cinderwalker",
+        "key": "RangerCinderwalkerPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/RangerCinderwalker.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/RangerCinderwalker.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/RangerCinderwalker.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/RangerCinderwalker.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "knife",
+                "light"
+            ]
+        }
+    },
+    {
+        "label": "Reingar",
+        "key": "ReingarPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Reingar.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Reingar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Reingar.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Reingar.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "frost giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "equipment": [
+                "medium"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Rek Scruggs",
+        "key": "RekScruggsPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/RekScruggs.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/RekScruggs.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/RekScruggs.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/RekScruggs.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "hill giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "medium",
+                "polearm"
+            ]
+        }
+    },
+    {
+        "label": "Renfal",
+        "key": "RenfalPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Renfal.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Renfal.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Renfal.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Renfal.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "cloud giant",
+                "ghost commoner"
+            ],
+            "equipment": [
+                "clothing",
+                "unarmored"
+            ],
+            "features": [
+                "music"
+            ],
+            "family": [
+                "giant",
+                "gozreh",
+                "incorporeal"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Rodrik Grath",
+        "key": "RodrikGrathPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/RodrikGrath.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/RodrikGrath.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/RodrikGrath.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/RodrikGrath.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "medium"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Rohkinirr",
+        "key": "RohkinirrPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Rohkinirr.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Rohkinirr.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Rohkinirr.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Rohkinirr.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "frost giant"
+            ],
+            "equipment": [
+                "clothing",
+                "medium",
+                "polearm"
+            ],
+            "features": [
+                "magic"
+            ],
+            "family": [
+                "giant"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Romrix",
+        "key": "RomrixPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Romrix.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Romrix.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Romrix.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Romrix.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "ettin"
+            ],
+            "family": [
+                "giant"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Rosethorn Ram",
+        "key": "MindspinRamPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/MindspinRam.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/MindspinRam.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/MindspinRam.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/MindspinRam.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "rosethorn ram"
+            ],
+            "family": [
+                "herd animal"
+            ]
+        }
+    },
+    {
+        "label": "Rotter Bloodfreckle",
+        "key": "RotterBloodfrecklePF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/RotterBloodfreckle.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/RotterBloodfreckle.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/RotterBloodfreckle.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/RotterBloodfreckle.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "hill giant"
+            ],
+            "equipment": [
+                "clothing",
+                "knife"
+            ],
+            "special": [
+                "unique"
+            ],
+            "family": [
+                "giant"
+            ]
+        }
+    },
+    {
+        "label": "Sara Morninghawk",
+        "key": "SaraMorninghawkPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/SaraMorninghawk.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/SaraMorninghawk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/SaraMorninghawk.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/SaraMorninghawk.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dromaar"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Shadow Rat",
+        "key": "ShadowRatPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/ShadowRat.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/ShadowRat.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/ShadowRat.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/ShadowRat.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial",
+                "shadow"
+            ],
+            "ancestry": [
+                "giant rat"
+            ],
+            "family": [
+                "rat"
+            ]
+        }
+    },
+    {
+        "label": "Skapraun",
+        "key": "SkapraunPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Skapraun.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Skapraun.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Skapraun.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Skapraun.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "skapraun"
+            ],
+            "equipment": [
+                "bow",
+                "clothing",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Skeltercat",
+        "key": "SkeltercatPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Skeltercat.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Skeltercat.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Skeltercat.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Skeltercat.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "skeltercat"
+            ],
+            "family": [
+                "cat"
+            ]
+        }
+    },
+    {
+        "label": "Skirkatla",
+        "key": "SkirkatlaPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Skirkatla.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Skirkatla.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Skirkatla.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Skirkatla.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "frost giant",
+                "graveknight"
+            ],
+            "equipment": [
+                "axe",
+                "medium",
+                "shield"
+            ],
+            "special": [
+                "unique"
+            ],
+            "family": [
+                "giant"
+            ]
+        }
+    },
+    {
+        "label": "Skirkatla",
+        "key": "SkirkatlaBustPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/SkirkatlaBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/SkirkatlaBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/SkirkatlaBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/SkirkatlaBust.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "frost giant",
+                "graveknight"
+            ],
+            "equipment": [
+                "medium"
+            ],
+            "special": [
+                "unique"
+            ],
+            "family": [
+                "giant"
+            ]
+        }
+    },
+    {
+        "label": "Skirkatla",
+        "key": "SkirkatlaStandingPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/SkirkatlaStanding.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/SkirkatlaStanding.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/SkirkatlaStanding.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/SkirkatlaStanding.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "frost giant",
+                "graveknight"
+            ],
+            "equipment": [
+                "axe",
+                "medium",
+                "shield"
+            ],
+            "family": [
+                "giant"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Skreed Gorewillow",
+        "key": "SkreedGorewillowPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/SkreedGorewillow.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/SkreedGorewillow.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/SkreedGorewillow.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/SkreedGorewillow.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dromaar"
+            ],
+            "equipment": [
+                "bomb",
+                "knife",
+                "medium",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ],
+            "features": [
+                "alchemy"
+            ]
+        }
+    },
+    {
+        "label": "Slag Giant",
+        "key": "SlagGiantPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/SlagGiant.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/SlagGiant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/SlagGiant.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/SlagGiant.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "slag giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ],
+            "features": [
+                "dual-wielding"
+            ]
+        }
+    },
+    {
+        "label": "Stilgrit, The Mother Of Spiders",
+        "key": "StilgritTheMotherOfSpidersPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/StilgritTheMotherOfSpiders.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/StilgritTheMotherOfSpiders.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/StilgritTheMotherOfSpiders.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/StilgritTheMotherOfSpiders.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "web lurker"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Stone Giant",
+        "key": "StoneGiantPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/StoneGiant.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/StoneGiant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/StoneGiant.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/StoneGiant.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "stone giant"
+            ],
+            "equipment": [
+                "unarmored"
+            ],
+            "special": [
+                "bust"
+            ]
+        }
+    },
+    {
+        "label": "Stone Giant",
+        "key": "StoneGiantBustPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/StoneGiantBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/StoneGiantBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/StoneGiantBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/StoneGiantBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "stone giant"
+            ],
+            "special": [
+                "bust"
+            ],
+            "equipment": [
+                "polearm",
+                "unarmored"
+            ],
+            "family": [
+                "giant"
+            ]
+        }
+    },
+    {
+        "label": "Storm Aurochs",
+        "key": "StormAurochsPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/StormAurochs.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/StormAurochs.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/StormAurochs.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/StormAurochs.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "storm aurochs"
+            ],
+            "family": [
+                "herd animal"
+            ]
+        }
+    },
+    {
+        "label": "Storm Giant",
+        "key": "StormGiantPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/StormGiant.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/StormGiant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/StormGiant.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/StormGiant.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "storm giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "special": [
+                "bust"
+            ],
+            "equipment": [
+                "heavy",
+                "sword"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Storm Giant",
+        "key": "StormGiantFemaleBustPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/StormGiantFemaleBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/StormGiantFemaleBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/StormGiantFemaleBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/StormGiantFemaleBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "storm giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "special": [
+                "bust"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Straya Kraum",
+        "key": "StrayaKraumPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/StrayaKraum.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/StrayaKraum.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/StrayaKraum.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/StrayaKraum.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Tark Singeskin",
+        "key": "TarkSingeskinPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/TarkSingeskin.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/TarkSingeskin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/TarkSingeskin.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/TarkSingeskin.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "orc"
+            ],
+            "equipment": [
+                "medium",
+                "polearm",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Temple Priest",
+        "key": "TemplePriestPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/TemplePriest.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/TemplePriest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/TemplePriest.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/TemplePriest.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "fire giant"
+            ],
+            "equipment": [
+                "heavy",
+                "sword"
+            ],
+            "family": [
+                "giant",
+                "zursvaater"
+            ]
+        }
+    },
+    {
+        "label": "Tesharat",
+        "key": "TesharatPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Tesharat.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Tesharat.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Tesharat.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Tesharat.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic"
+            ],
+            "ancestry": [
+                "magma dragon"
+            ],
+            "special": [
+                "unique"
+            ],
+            "family": [
+                "primal dragon"
+            ]
+        }
+    },
+    {
+        "label": "Thoon",
+        "key": "ThoonPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Thoon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Thoon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Thoon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Thoon.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "doppelganger",
+                "orc"
+            ],
+            "equipment": [
+                "clothing",
+                "unarmored"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Thremindyr",
+        "key": "ThremindyrPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Thremindyr.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Thremindyr.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Thremindyr.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Thremindyr.webp"
+        },
+        "tags": {
+            "ancestry": [
+                "thremindyr"
+            ],
+            "category": [
+                "elemental"
+            ]
+        }
+    },
+    {
+        "label": "Tintavex",
+        "key": "TintavexPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Tintavex.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Tintavex.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Tintavex.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Tintavex.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial",
+                "draconic"
+            ],
+            "ancestry": [
+                "cloud dragon",
+                "griffon"
+            ],
+            "family": [
+                "primal dragon"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Tsvetanka",
+        "key": "TsvetankaPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Tsvetanka.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Tsvetanka.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Tsvetanka.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Tsvetanka.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "wood giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Tytarian",
+        "key": "TytarianPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Tytarian.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Tytarian.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Tytarian.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Tytarian.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "fire giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "equipment": [
+                "heavy",
+                "polearm"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Tytarian",
+        "key": "TytarianKingPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/TytarianKing.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/TytarianKing.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/TytarianKing.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/TytarianKing.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "fire giant"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "heavy",
+                "polearm"
+            ],
+            "family": [
+                "giant"
+            ]
+        }
+    },
+    {
+        "label": "Ulkraf",
+        "key": "UlkrafPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Ulkraf.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Ulkraf.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Ulkraf.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Ulkraf.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "ash giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "medium"
+            ]
+        }
+    },
+    {
+        "label": "Umlo Nargrymkin",
+        "key": "UmloNargrymkinPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/UmloNargrymkin.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/UmloNargrymkin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/UmloNargrymkin.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/UmloNargrymkin.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dwarf"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Ungarato",
+        "key": "UngaratoPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Ungarato.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Ungarato.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Ungarato.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Ungarato.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "graveknight"
+            ],
+            "equipment": [
+                "heavy",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Urathash",
+        "key": "UrathashPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Urathash.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Urathash.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Urathash.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Urathash.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "stone giant"
+            ],
+            "equipment": [
+                "bludgeon",
+                "heavy",
+                "knife",
+                "sword"
+            ],
+            "family": [
+                "giant",
+                "minderhal"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Urathash",
+        "key": "UrathashBustPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/UrathashBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/UrathashBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/UrathashBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/UrathashBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "stone giant"
+            ],
+            "equipment": [
+                "heavy"
+            ],
+            "family": [
+                "giant",
+                "minderhal"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Urathash",
+        "key": "UrathashHammerPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/UrathashHammer.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/UrathashHammer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/UrathashHammer.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/UrathashHammer.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "stone giant"
+            ],
+            "family": [
+                "giant",
+                "minderhal"
+            ],
+            "equipment": [
+                "bludgeon",
+                "heavy",
+                "knife",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Urnsul",
+        "key": "UrnsulPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/Urnsul.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/Urnsul.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/Urnsul.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/Urnsul.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dromaar"
+            ],
+            "equipment": [
+                "heavy"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Volstus The Storm Tyrant",
+        "key": "VolstusTheStormTyrantPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/VolstusTheStormTyrant.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/VolstusTheStormTyrant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/VolstusTheStormTyrant.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/VolstusTheStormTyrant.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "storm giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "equipment": [
+                "focus",
+                "heavy",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Volstus The Storm Tyrant",
+        "key": "VolstusTheStormTyrantBustPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/VolstusTheStormTyrantBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/VolstusTheStormTyrantBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/VolstusTheStormTyrantBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/VolstusTheStormTyrantBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "storm giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "equipment": [
+                "heavy"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Voltus The Storm Tyrant",
+        "key": "VoltusTheStormTyrantOrbPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/VoltusTheStormTyrantOrb.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/VoltusTheStormTyrantOrb.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/VoltusTheStormTyrantOrb.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/VoltusTheStormTyrantOrb.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "storm giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "focus",
+                "heavy",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Zursvaater Priest",
+        "key": "ZursvaaterPriestPF1eGS",
+        "source": "PF1e Giantslayer",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-giantslayer/ZursvaaterPriest.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-giantslayer/ZursvaaterPriest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-giantslayer/ZursvaaterPriest.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-giantslayer/ZursvaaterPriest.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "fire giant"
+            ],
+            "family": [
+                "giant",
+                "zursvaater"
+            ],
+            "equipment": [
+                "heavy",
+                "medium",
+                "sword",
+                "unarmored"
+            ]
+        }
+    }
+]

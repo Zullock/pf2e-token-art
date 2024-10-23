@@ -1,0 +1,4753 @@
+[
+    {
+        "label": "Abandoned Armory",
+        "key": "AbandonedArmoryPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/AbandonedArmory.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/AbandonedArmory.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/AbandonedArmory.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/AbandonedArmory.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "abandoned armory"
+            ]
+        }
+    },
+    {
+        "label": "Adenos",
+        "key": "AdenosPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Adenos.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Adenos.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Adenos.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Adenos.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "elf"
+            ],
+            "equipment": [
+                "bow",
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Aeonte",
+        "key": "AeontePF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Aeonte.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Aeonte.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Aeonte.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Aeonte.webp"
+        },
+        "tags": {
+            "ancestry": [
+                "medusa",
+                "penanggalan"
+            ],
+            "category": [
+                "aberrant"
+            ],
+            "family": [
+                "mythic",
+                "tangal"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Algea",
+        "key": "AlgeaPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Algea.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Algea.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Algea.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Algea.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                "algea",
+                "nosoi"
+            ],
+            "family": [
+                "psychopomp"
+            ],
+            "special": [
+                "swarm"
+            ]
+        }
+    },
+    {
+        "label": "Alraune",
+        "key": "AlraunePF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Alraune.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Alraune.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Alraune.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Alraune.webp"
+        },
+        "tags": {
+            "category": [
+                "plant"
+            ],
+            "ancestry": [
+                "alraune"
+            ]
+        }
+    },
+    {
+        "label": "Amaretos Manslayer",
+        "key": "AmaretosManslayerPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/AmaretosManslayer.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/AmaretosManslayer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/AmaretosManslayer.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/AmaretosManslayer.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "graveknight"
+            ],
+            "equipment": [
+                "heavy",
+                "medium",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Amircia Moldanos",
+        "key": "AmirciaMoldanosPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/AmirciaMoldanos.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/AmirciaMoldanos.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/AmirciaMoldanos.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/AmirciaMoldanos.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "beastkin"
+            ],
+            "equipment": [
+                "bludgeon",
+                "light",
+                "medium",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Angazhan",
+        "key": "AngazhanPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Angazhan.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Angazhan.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Angazhan.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Angazhan.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "angazhan"
+            ],
+            "equipment": [
+                "polearm"
+            ],
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Angheuvore Mortic",
+        "key": "AngheuvoreMorticPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/AngheuvoreMortic.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/AngheuvoreMortic.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/AngheuvoreMortic.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/AngheuvoreMortic.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "angheuvore",
+                "elf"
+            ],
+            "family": [
+                "mortic"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Angradd Champion",
+        "key": "AngraddChampionPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/AngraddChampion.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/AngraddChampion.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/AngraddChampion.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/AngraddChampion.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dwarf"
+            ],
+            "equipment": [
+                "axe",
+                "heavy"
+            ]
+        }
+    },
+    {
+        "label": "Anisydaemon",
+        "key": "AnisydaemonPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Anisydaemon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Anisydaemon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Anisydaemon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Anisydaemon.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "anisydaemon"
+            ],
+            "family": [
+                "daemon"
+            ]
+        }
+    },
+    {
+        "label": "Arazni",
+        "key": "ArazniPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Arazni.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Arazni.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Arazni.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Arazni.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "lich"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "knife",
+                "light"
+            ],
+            "family": [
+                "mythic"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Arazni Bust",
+        "key": "ArazniBustPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/ArazniBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/ArazniBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/ArazniBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/ArazniBust.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "lich"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "deity",
+                "demigod",
+                "unique"
+            ],
+            "family": [
+                "mythic"
+            ]
+        }
+    },
+    {
+        "label": "Arazni Demigod",
+        "key": "ArazniDemigodPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/ArazniDemigod.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/ArazniDemigod.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/ArazniDemigod.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/ArazniDemigod.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "lich"
+            ],
+            "family": [
+                "mythic"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ],
+            "equipment": [
+                "clothing",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Arazni Mask",
+        "key": "ArazniMaskPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/ArazniMask.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/ArazniMask.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/ArazniMask.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/ArazniMask.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "lich"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "knife"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ],
+            "family": [
+                "mythic"
+            ]
+        }
+    },
+    {
+        "label": "Arazni Priest",
+        "key": "ArazniPriestPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/ArazniPriest.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/ArazniPriest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/ArazniPriest.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/ArazniPriest.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dwarf"
+            ],
+            "equipment": [
+                "clothing",
+                "knife"
+            ],
+            "family": [
+                "arazni"
+            ]
+        }
+    },
+    {
+        "label": "Auwaz Coatl",
+        "key": "AuwazCoatlPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/AuwazCoatl.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/AuwazCoatl.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/AuwazCoatl.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/AuwazCoatl.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "auwaz coatl"
+            ],
+            "family": [
+                "coatl"
+            ]
+        }
+    },
+    {
+        "label": "Aydie",
+        "key": "AydiePF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Aydie.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Aydie.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Aydie.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Aydie.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                "ahmuuth"
+            ],
+            "family": [
+                "psychopomp"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "clothing",
+                "knife"
+            ]
+        }
+    },
+    {
+        "label": "Aylunna Varvatos",
+        "key": "AylunnaVarvatosPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/AylunnaVarvatos.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/AylunnaVarvatos.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/AylunnaVarvatos.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/AylunnaVarvatos.webp"
+        },
+        "tags": {
+            "family": [
+                "iomedae"
+            ],
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Aylunna Varvatos",
+        "key": "AylunnaVarvatosBustPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/AylunnaVarvatosBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/AylunnaVarvatosBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/AylunnaVarvatosBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/AylunnaVarvatosBust.webp"
+        },
+        "tags": {
+            "family": [
+                "iomedae"
+            ],
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "clothing",
+                "heavy"
+            ]
+        }
+    },
+    {
+        "label": "Baffled Ghost",
+        "key": "BaffledGhostPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/BaffledGhost.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/BaffledGhost.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/BaffledGhost.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/BaffledGhost.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghost commoner"
+            ],
+            "family": [
+                "incorporeal"
+            ],
+            "special": [
+                "bust"
+            ]
+        }
+    },
+    {
+        "label": "bakeneko",
+        "key": "NekomataPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Nekomata.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Nekomata.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Nekomata.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Nekomata.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "bakeneko"
+            ],
+            "family": [
+                "cat"
+            ]
+        }
+    },
+    {
+        "label": "Barple Stonebreaker",
+        "key": "BarpleStonebreakerPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/BarpleStonebreaker.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/BarpleStonebreaker.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/BarpleStonebreaker.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/BarpleStonebreaker.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "mitflit"
+            ],
+            "family": [
+                "gremlin"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "sling",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Barzahk",
+        "key": "BarzahkPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Barzahk.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Barzahk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Barzahk.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Barzahk.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                "barzahk",
+                "nosoi"
+            ],
+            "family": [
+                "psychopomp",
+                "psychopomp usher"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Barzahk Priest",
+        "key": "BarzahkPriestPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/BarzahkPriest.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/BarzahkPriest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/BarzahkPriest.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/BarzahkPriest.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "family": [
+                "barzahk"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "focus",
+                "light"
+            ]
+        }
+    },
+    {
+        "label": "Berthold",
+        "key": "BertholdPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Berthold.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Berthold.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Berthold.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Berthold.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "ratling"
+            ],
+            "family": [
+                "rat"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Bloodrager Phoenix Bloodline",
+        "key": "BloodragerPhoenixBloodlinePF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/BloodragerPhoenixBloodline.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/BloodragerPhoenixBloodline.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/BloodragerPhoenixBloodline.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/BloodragerPhoenixBloodline.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "axe",
+                "medium"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Bolzoran",
+        "key": "BolzoranPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Bolzoran.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Bolzoran.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Bolzoran.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Bolzoran.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "tomb giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Bone Chariot Horse",
+        "key": "BoneChariotHorsePF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/BoneChariotHorse.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/BoneChariotHorse.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/BoneChariotHorse.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/BoneChariotHorse.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "ostovite"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Bonewrought Willow",
+        "key": "BonewroughtWillowPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/BonewroughtWillow.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/BonewroughtWillow.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/BonewroughtWillow.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/BonewroughtWillow.webp"
+        },
+        "tags": {
+            "category": [
+                "plant"
+            ],
+            "ancestry": [
+                "bonewrought willow"
+            ]
+        }
+    },
+    {
+        "label": "Calaca",
+        "key": "CalacaPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Calaca.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Calaca.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Calaca.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Calaca.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                "calaca"
+            ],
+            "equipment": [
+                "clothing",
+                "firearm"
+            ],
+            "features": [
+                "music"
+            ],
+            "family": [
+                "psychopomp"
+            ]
+        }
+    },
+    {
+        "label": "Calaca",
+        "key": "CalacaFirearmPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/CalacaFirearm.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/CalacaFirearm.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/CalacaFirearm.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/CalacaFirearm.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                "calaca"
+            ],
+            "equipment": [
+                "clothing",
+                "firearm"
+            ],
+            "features": [
+                "music"
+            ],
+            "family": [
+                "psychopomp"
+            ]
+        }
+    },
+    {
+        "label": "Catrina",
+        "key": "CatrinaPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Catrina.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Catrina.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Catrina.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Catrina.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                "catrina"
+            ],
+            "family": [
+                "psychopomp"
+            ]
+        }
+    },
+    {
+        "label": "Cauldron Bloom",
+        "key": "CauldronBloomPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/CauldronBloom.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/CauldronBloom.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/CauldronBloom.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/CauldronBloom.webp"
+        },
+        "tags": {
+            "category": [
+                "plant"
+            ],
+            "ancestry": [
+                "cauldron bloom"
+            ]
+        }
+    },
+    {
+        "label": "Ceto Malderra",
+        "key": "CetoMalderraPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/CetoMalderra.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/CetoMalderra.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/CetoMalderra.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/CetoMalderra.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "family": [
+                "iomedae"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "heavy",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Ceto Malderra",
+        "key": "CetoMalderraBustPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/CetoMalderraBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/CetoMalderraBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/CetoMalderraBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/CetoMalderraBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "heavy"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "iomedae"
+            ]
+        }
+    },
+    {
+        "label": "Ceto Malderra Graveknight",
+        "key": "CetoMalderraGraveknightPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/CetoMalderraGraveknight.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/CetoMalderraGraveknight.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/CetoMalderraGraveknight.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/CetoMalderraGraveknight.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "graveknight"
+            ],
+            "equipment": [
+                "bludgeon",
+                "heavy"
+            ],
+            "family": [
+                "asmodeus"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Chatar Esuri",
+        "key": "ChatarEsuriPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/ChatarEsuri.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/ChatarEsuri.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/ChatarEsuri.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/ChatarEsuri.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghoul"
+            ],
+            "family": [
+                "urgathoa"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "medium",
+                "polearm"
+            ]
+        }
+    },
+    {
+        "label": "Chelarac",
+        "key": "ChelaracPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Chelarac.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Chelarac.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Chelarac.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Chelarac.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "chelarac"
+            ]
+        }
+    },
+    {
+        "label": "Chicome Coatl",
+        "key": "ChicomeCoatlPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/ChicomeCoatl.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/ChicomeCoatl.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/ChicomeCoatl.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/ChicomeCoatl.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "chicome coatl"
+            ],
+            "family": [
+                "coatl"
+            ]
+        }
+    },
+    {
+        "label": "Children Of Kumaru Botanist",
+        "key": "ChildrenOfKumaruBotanistPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/ChildrenOfKumaruBotanist.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/ChildrenOfKumaruBotanist.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/ChildrenOfKumaruBotanist.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/ChildrenOfKumaruBotanist.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "knife"
+            ],
+            "features": [
+                "alchemy"
+            ]
+        }
+    },
+    {
+        "label": "Children Of Kumaru Warden",
+        "key": "ChildrenOfKumaruWardenPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/ChildrenOfKumaruWarden.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/ChildrenOfKumaruWarden.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/ChildrenOfKumaruWarden.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/ChildrenOfKumaruWarden.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "brawling",
+                "clothing"
+            ],
+            "features": [
+                "music"
+            ]
+        }
+    },
+    {
+        "label": "Chiyana Bernadez",
+        "key": "ChiyanaBernadezPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/ChiyanaBernadez.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/ChiyanaBernadez.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/ChiyanaBernadez.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/ChiyanaBernadez.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Chunvexus",
+        "key": "ChunvexusPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Chunvexus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Chunvexus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Chunvexus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Chunvexus.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic"
+            ],
+            "family": [
+                "primal dragon"
+            ],
+            "special": [
+                "unique"
+            ],
+            "ancestry": [
+                "umbral dragon"
+            ]
+        }
+    },
+    {
+        "label": "Clacking Skull Swarm",
+        "key": "CrackingSkullSwarmPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/CrackingSkullSwarm.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/CrackingSkullSwarm.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/CrackingSkullSwarm.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/CrackingSkullSwarm.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "clacking skull swarm"
+            ],
+            "special": [
+                "swarm"
+            ]
+        }
+    },
+    {
+        "label": "Cleverquill",
+        "key": "CleverquillPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Cleverquill.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Cleverquill.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Cleverquill.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Cleverquill.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic"
+            ],
+            "ancestry": [
+                "peluda"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Colulus",
+        "key": "ColulusPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Colulus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Colulus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Colulus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Colulus.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "web lurker"
+            ],
+            "family": [
+                "nightmare creature"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Crypt Flower",
+        "key": "CryptFlowerPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/CryptFlower.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/CryptFlower.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/CryptFlower.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/CryptFlower.webp"
+        },
+        "tags": {
+            "category": [
+                "plant"
+            ],
+            "ancestry": [
+                "crypt flower"
+            ]
+        }
+    },
+    {
+        "label": "Cucuy",
+        "key": "CucuyPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Cucuy.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Cucuy.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Cucuy.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Cucuy.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid",
+                "shadow"
+            ],
+            "ancestry": [
+                "rawhead"
+            ],
+            "equipment": [
+                "knife",
+                "unarmored"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Cythriel",
+        "key": "CythrielPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Cythriel.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Cythriel.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Cythriel.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Cythriel.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "family": [
+                "animus shade"
+            ],
+            "ancestry": [
+                "elf"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Deadre Cauchen",
+        "key": "DeadreCauchenPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/DeadreCauchen.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/DeadreCauchen.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/DeadreCauchen.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/DeadreCauchen.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Deathless Researcher",
+        "key": "DeathlessResearcherPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/DeathlessResearcher.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/DeathlessResearcher.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/DeathlessResearcher.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/DeathlessResearcher.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "deathless researcher"
+            ],
+            "family": [
+                "wight"
+            ],
+            "equipment": [
+                "clothing",
+                "sword",
+                "tome"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Dondun Daradun",
+        "key": "DondunDaradunPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/DondunDaradun.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/DondunDaradun.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/DondunDaradun.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/DondunDaradun.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "knife",
+                "unarmored"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Durgao Heav",
+        "key": "DurgaoHeavPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/DurgaoHeav.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/DurgaoHeav.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/DurgaoHeav.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/DurgaoHeav.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dwarf"
+            ],
+            "equipment": [
+                "medium"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Eastapiron",
+        "key": "EastapironPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Eastapiron.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Eastapiron.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Eastapiron.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Eastapiron.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "tomb giant"
+            ],
+            "equipment": [
+                "heavy",
+                "polearm"
+            ],
+            "family": [
+                "giant"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Esobok",
+        "key": "EsobokPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Esobok.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Esobok.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Esobok.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Esobok.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                "esobok"
+            ],
+            "family": [
+                "psychopomp"
+            ]
+        }
+    },
+    {
+        "label": "Essarta",
+        "key": "EssartaPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Essarta.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Essarta.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Essarta.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Essarta.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor",
+                "undead"
+            ],
+            "family": [
+                "mummy"
+            ],
+            "ancestry": [
+                "morrigna"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Etioling Mortic",
+        "key": "EtiolingMorticPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/EtiolingMortic.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/EtiolingMortic.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/EtiolingMortic.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/EtiolingMortic.webp"
+        },
+        "tags": {
+            "ancestry": [
+                "etioling",
+                "gnome"
+            ],
+            "family": [
+                "mortic"
+            ],
+            "category": [
+                "humanoid"
+            ]
+        }
+    },
+    {
+        "label": "Evark Nox",
+        "key": "EvarkNoxPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/EvarkNox.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/EvarkNox.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/EvarkNox.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/EvarkNox.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "tengu"
+            ],
+            "equipment": [
+                "flail",
+                "medium"
+            ],
+            "family": [
+                "groetus"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Evni Zongnoss",
+        "key": "EvniZongnossPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/EvniZongnoss.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/EvniZongnoss.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/EvniZongnoss.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/EvniZongnoss.webp"
+        },
+        "tags": {
+            "family": [
+                "desna",
+                "pathfinder society"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "gnome"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ]
+        }
+    },
+    {
+        "label": "Furcifer",
+        "key": "FurciferPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Furcifer.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Furcifer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Furcifer.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Furcifer.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "furcifer"
+            ]
+        }
+    },
+    {
+        "label": "Fwingolas And Bhaihanial",
+        "key": "FwingolasAndBhaihanialPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/FwingolasAndBhaihanial.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/FwingolasAndBhaihanial.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/FwingolasAndBhaihanial.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/FwingolasAndBhaihanial.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "wild hunt archer",
+                "wild hunt scout"
+            ],
+            "family": [
+                "wild hunt"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "bow",
+                "medium",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Geir",
+        "key": "GeirPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Geir.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Geir.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Geir.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Geir.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "demilich"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Gibrous",
+        "key": "GibrousPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Gibrous.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Gibrous.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Gibrous.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Gibrous.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "etioling",
+                "gnome"
+            ],
+            "family": [
+                "mortic"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "heavy"
+            ]
+        }
+    },
+    {
+        "label": "Gildais",
+        "key": "GildaisPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Gildais.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Gildais.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Gildais.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Gildais.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "winterwight"
+            ],
+            "family": [
+                "skeletal",
+                "wight"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "bow",
+                "scroll",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Gildais",
+        "key": "GildaisBustPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/GildaisBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/GildaisBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/GildaisBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/GildaisBust.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "winterwight"
+            ],
+            "family": [
+                "skeletal",
+                "wight"
+            ],
+            "equipment": [
+                "unarmored"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Glass Golem",
+        "key": "GlassGolemPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/GlassGolem.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/GlassGolem.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/GlassGolem.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/GlassGolem.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "glass golem"
+            ],
+            "family": [
+                "golem"
+            ]
+        }
+    },
+    {
+        "label": "Gurgist Mortic",
+        "key": "GurgistMorticPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/GurgistMortic.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/GurgistMortic.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/GurgistMortic.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/GurgistMortic.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "family": [
+                "mortic"
+            ],
+            "ancestry": [
+                "gurgist",
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Gustari Fallenstag",
+        "key": "GustariFallenstagPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/GustariFallenstag.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/GustariFallenstag.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/GustariFallenstag.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/GustariFallenstag.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "graveknight"
+            ],
+            "equipment": [
+                "axe",
+                "heavy",
+                "shield"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Hyaxia",
+        "key": "HyaxiaPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Hyaxia.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Hyaxia.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Hyaxia.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Hyaxia.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "nephilim"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Iliamaniss",
+        "key": "IliamanissPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Iliamaniss.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Iliamaniss.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Iliamaniss.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Iliamaniss.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "vampire mastermind"
+            ],
+            "family": [
+                "vampire"
+            ],
+            "equipment": [
+                "medium"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Incomplete Tzitzimitl",
+        "key": "IncompleteTzitzimitlPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/IncompleteTzitzimitl.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/IncompleteTzitzimitl.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/IncompleteTzitzimitl.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/IncompleteTzitzimitl.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "tzitzimitl"
+            ]
+        }
+    },
+    {
+        "label": "Istravek",
+        "key": "IstravekPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Istravek.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Istravek.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Istravek.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Istravek.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic",
+                "undead"
+            ],
+            "ancestry": [
+                "black dragon",
+                "ravener"
+            ],
+            "special": [
+                "unique"
+            ],
+            "family": [
+                "chromatic dragon",
+                "skeletal"
+            ]
+        }
+    },
+    {
+        "label": "Istravek",
+        "key": "Istravek2PF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Istravek2.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Istravek2.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Istravek2.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Istravek2.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic",
+                "undead"
+            ],
+            "ancestry": [
+                "black dragon",
+                "ravener"
+            ],
+            "family": [
+                "chromatic dragon",
+                "skeletal"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Iuphasti",
+        "key": "IuphastiPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Iuphasti.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Iuphasti.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Iuphasti.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Iuphasti.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "cornugon"
+            ],
+            "family": [
+                "devil"
+            ],
+            "equipment": [
+                "polearm"
+            ],
+            "features": [
+                "magic"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Jandaroka",
+        "key": "JandarokaPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Jandaroka.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Jandaroka.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Jandaroka.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Jandaroka.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "lich"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "features": [
+                "magic"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Jando Parr",
+        "key": "JandoParrPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/JandoParr.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/JandoParr.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/JandoParr.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/JandoParr.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dromaar"
+            ],
+            "equipment": [
+                "bow",
+                "medium",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Jando Parr",
+        "key": "JandoParrSwordPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/JandoParrSword.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/JandoParrSword.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/JandoParrSword.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/JandoParrSword.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dromaar"
+            ],
+            "equipment": [
+                "bow",
+                "knife",
+                "medium",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Jolizpan Merchant",
+        "key": "JolizpanMerchantPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/JolizpanMerchant.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/JolizpanMerchant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/JolizpanMerchant.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/JolizpanMerchant.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Jolizpan Sportsman",
+        "key": "JolizpanSportPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/JolizpanSport.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/JolizpanSport.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/JolizpanSport.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/JolizpanSport.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "brawling",
+                "clothing",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Kaicharek",
+        "key": "KaicharekPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Kaicharek.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Kaicharek.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Kaicharek.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Kaicharek.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant",
+                "planar"
+            ],
+            "ancestry": [
+                "kaicharek"
+            ]
+        }
+    },
+    {
+        "label": "Kalamuk",
+        "key": "KalamukPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Kalamuk.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Kalamuk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Kalamuk.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Kalamuk.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "pukwudgie"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "bludgeon",
+                "medium"
+            ]
+        }
+    },
+    {
+        "label": "Keirodera Blight",
+        "key": "KeiroderaBlightPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/KeiroderaBlight.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/KeiroderaBlight.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/KeiroderaBlight.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/KeiroderaBlight.webp"
+        },
+        "tags": {
+            "category": [
+                "ooze"
+            ],
+            "ancestry": [
+                "forest blight"
+            ],
+            "family": [
+                "blight"
+            ]
+        }
+    },
+    {
+        "label": "Kellen Shaylee",
+        "key": "KellenShayleePF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/KellenShaylee.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/KellenShaylee.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/KellenShaylee.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/KellenShaylee.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "heavy",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Kilibrandt Erstwhile",
+        "key": "KilibrandtErstwhilePF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/KilibrandtErstwhile.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/KilibrandtErstwhile.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/KilibrandtErstwhile.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/KilibrandtErstwhile.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "gnome"
+            ],
+            "equipment": [
+                "bow",
+                "medium"
+            ]
+        }
+    },
+    {
+        "label": "Kishokish",
+        "key": "KishokishPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Kishokish.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Kishokish.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Kishokish.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Kishokish.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                "shoki"
+            ],
+            "family": [
+                "psychopomp"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "heavy"
+            ]
+        }
+    },
+    {
+        "label": "Klrau Adleon",
+        "key": "KlrauAdleonPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/KlrauAdleon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/KlrauAdleon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/KlrauAdleon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/KlrauAdleon.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "demilich"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Kothas of Merchitar",
+        "key": "ArgenCroatePF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/ArgenCroate.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/ArgenCroate.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/ArgenCroate.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/ArgenCroate.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "nosferatu"
+            ],
+            "family": [
+                "vampire",
+                "whispering way"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Krobdak",
+        "key": "KrobdakPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Krobdak.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Krobdak.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Krobdak.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Krobdak.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                "marut"
+            ],
+            "family": [
+                "aeon"
+            ],
+            "equipment": [
+                "heavy",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Lady Mullana Grive",
+        "key": "LadyMullanaGrivePF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/LadyMullanaGrive.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/LadyMullanaGrive.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/LadyMullanaGrive.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/LadyMullanaGrive.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Leovon Urthadar",
+        "key": "LeovonUrthadarPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/LeovonUrthadar.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/LeovonUrthadar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/LeovonUrthadar.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/LeovonUrthadar.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "geist"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Lifeleecher Mortic",
+        "key": "LifeleecherMorticPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/LifeleecherMortic.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/LifeleecherMortic.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/LifeleecherMortic.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/LifeleecherMortic.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "lifeleecher",
+                "orc"
+            ],
+            "family": [
+                "mortic"
+            ],
+            "equipment": [
+                "clothing",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Lion Alebrije",
+        "key": "LionAlebrijePF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/LionAlebrije.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/LionAlebrije.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/LionAlebrije.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/LionAlebrije.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial",
+                "dream",
+                "planar"
+            ],
+            "ancestry": [
+                "lion alebrije"
+            ],
+            "family": [
+                "alebrije",
+                "cat"
+            ]
+        }
+    },
+    {
+        "label": "Lyanthari",
+        "key": "LyanthariPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Lyanthari.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Lyanthari.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Lyanthari.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Lyanthari.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "child of urgathoa"
+            ],
+            "family": [
+                "urgathoa"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ]
+        }
+    },
+    {
+        "label": "Melacage",
+        "key": "MelacagePF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Melacage.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Melacage.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Melacage.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Melacage.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "melacage"
+            ],
+            "family": [
+                "incorporeal"
+            ]
+        }
+    },
+    {
+        "label": "Mictena",
+        "key": "MictenaPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Mictena.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Mictena.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Mictena.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Mictena.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                "catrina"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ],
+            "family": [
+                "psychopomp"
+            ]
+        }
+    },
+    {
+        "label": "Mictena",
+        "key": "MictenaShortDressPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/MictenaShortDress.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/MictenaShortDress.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/MictenaShortDress.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/MictenaShortDress.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                "catrina"
+            ],
+            "family": [
+                "psychopomp"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Miraina Olviris",
+        "key": "MirainaOlvirisPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/MirainaOlviris.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/MirainaOlviris.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/MirainaOlviris.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/MirainaOlviris.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "scroll"
+            ],
+            "special": [
+                "unique"
+            ],
+            "features": [
+                "alchemy"
+            ]
+        }
+    },
+    {
+        "label": "Miraina Olviris",
+        "key": "MirainaOlvirisBustPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/MirainaOlvirisBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/MirainaOlvirisBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/MirainaOlvirisBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/MirainaOlvirisBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "features": [
+                "alchemy"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Mix Coatl",
+        "key": "MixCoatlPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/MixCoatl.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/MixCoatl.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/MixCoatl.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/MixCoatl.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "mix coatl"
+            ],
+            "family": [
+                "coatl"
+            ]
+        }
+    },
+    {
+        "label": "Moloum Cactoa",
+        "key": "MoloumCactoaPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/MoloumCactoa.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/MoloumCactoa.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/MoloumCactoa.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/MoloumCactoa.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghoul"
+            ],
+            "equipment": [
+                "bomb",
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Monk Soul Shepherd",
+        "key": "MonkSoulShepherdPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/MonkSoulShepherd.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/MonkSoulShepherd.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/MonkSoulShepherd.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/MonkSoulShepherd.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid",
+                "undead"
+            ],
+            "ancestry": [
+                "dwarf",
+                "wraith"
+            ],
+            "equipment": [
+                "brawling",
+                "unarmored"
+            ],
+            "family": [
+                "incorporeal"
+            ]
+        }
+    },
+    {
+        "label": "Morrigna",
+        "key": "MorrignaPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Morrigna.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Morrigna.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Morrigna.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Morrigna.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                "morrigna"
+            ],
+            "family": [
+                "psychopomp"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "knife"
+            ]
+        }
+    },
+    {
+        "label": "Mortal Usher",
+        "key": "MortalUsherPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/MortalUsher.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/MortalUsher.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/MortalUsher.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/MortalUsher.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dhampir"
+            ],
+            "equipment": [
+                "clothing",
+                "polearm"
+            ]
+        }
+    },
+    {
+        "label": "Mortic Monk",
+        "key": "MorticMonkPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/MorticMonk.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/MorticMonk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/MorticMonk.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/MorticMonk.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "gurgist",
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "knife",
+                "medium"
+            ]
+        }
+    },
+    {
+        "label": "Moss Golem",
+        "key": "MossGolemPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/MossGolem.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/MossGolem.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/MossGolem.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/MossGolem.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "moss golem"
+            ],
+            "family": [
+                "golem"
+            ]
+        }
+    },
+    {
+        "label": "Mrs. Pedipalp",
+        "key": "Mrs.PedipalpPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Mrs.Pedipalp.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Mrs.Pedipalp.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Mrs.Pedipalp.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Mrs.Pedipalp.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "aranea"
+            ],
+            "family": [
+                "nightmare creature"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "clothing",
+                "focus"
+            ]
+        }
+    },
+    {
+        "label": "Mutated Dire Bear",
+        "key": "MutatedDireBearPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/MutatedDireBear.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/MutatedDireBear.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/MutatedDireBear.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/MutatedDireBear.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "dire bear"
+            ],
+            "family": [
+                "bear",
+                "mutated"
+            ]
+        }
+    },
+    {
+        "label": "Nocticula",
+        "key": "NocticulaPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Nocticula.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Nocticula.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Nocticula.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Nocticula.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "nocticula"
+            ],
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "special": [
+                "deity",
+                "god",
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Norreth Albo",
+        "key": "NorrethAlboPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/NorrethAlbo.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/NorrethAlbo.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/NorrethAlbo.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/NorrethAlbo.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "bodak"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Nosoi",
+        "key": "NosoiPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Nosoi.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Nosoi.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Nosoi.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Nosoi.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                "nosoi"
+            ],
+            "family": [
+                "psychopomp"
+            ]
+        }
+    },
+    {
+        "label": "Number Three",
+        "key": "NumberThreePF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/NumberThree.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/NumberThree.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/NumberThree.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/NumberThree.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "celedon"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "medium"
+            ]
+        }
+    },
+    {
+        "label": "Numoz Yantis",
+        "key": "NumozYantisPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/NumozYantis.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/NumozYantis.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/NumozYantis.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/NumozYantis.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "commoner ghost"
+            ],
+            "family": [
+                "incorporeal"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Olethros",
+        "key": "OlethrosPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Olethros.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Olethros.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Olethros.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Olethros.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                "olethros"
+            ],
+            "family": [
+                "psychopomp"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Ostog The Unslain",
+        "key": "OstogTheUnslainPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/OstogTheUnslain.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/OstogTheUnslain.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/OstogTheUnslain.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/OstogTheUnslain.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "sword",
+                "unarmored"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Otto Canrivash And Loambones",
+        "key": "OttoCanrivashAndLoambonesPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/OttoCanrivashAndLoambones.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/OttoCanrivashAndLoambones.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/OttoCanrivashAndLoambones.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/OttoCanrivashAndLoambones.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed",
+                "undead"
+            ],
+            "ancestry": [
+                "clay golem",
+                "vampire count"
+            ],
+            "family": [
+                "golem",
+                "vampire"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "clothing",
+                "scroll"
+            ]
+        }
+    },
+    {
+        "label": "Palderren",
+        "key": "PalderrenPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Palderren.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Palderren.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Palderren.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Palderren.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "ximtal"
+            ],
+            "family": [
+                "sahkil"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Pallid Angel",
+        "key": "PallidAngelPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/PallidAngel.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/PallidAngel.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/PallidAngel.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/PallidAngel.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "pallid angel"
+            ],
+            "family": [
+                "urgathoa"
+            ],
+            "equipment": [
+                "clothing",
+                "polearm"
+            ]
+        }
+    },
+    {
+        "label": "Pallid Sunrise",
+        "key": "PallidSunrisePF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/PallidSunrise.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/PallidSunrise.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/PallidSunrise.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/PallidSunrise.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic",
+                "undead"
+            ],
+            "ancestry": [
+                "zombie dragon"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Pest Drake Swarm",
+        "key": "PestDrakeSwarmPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/PestDrakeSwarm.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/PestDrakeSwarm.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/PestDrakeSwarm.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/PestDrakeSwarm.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic"
+            ],
+            "ancestry": [
+                "pest drake swarm"
+            ],
+            "family": [
+                "drake"
+            ],
+            "special": [
+                "swarm"
+            ]
+        }
+    },
+    {
+        "label": "Pixie Circle",
+        "key": "PixieCirclePF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/PixieCircle.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/PixieCircle.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/PixieCircle.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/PixieCircle.webp"
+        },
+        "tags": {
+            "category": [
+                "plant"
+            ],
+            "ancestry": [
+                "pixie circle"
+            ]
+        }
+    },
+    {
+        "label": "Polong",
+        "key": "PolongPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Polong.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Polong.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Polong.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Polong.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "polong"
+            ]
+        }
+    },
+    {
+        "label": "Prince Uspid",
+        "key": "PrinceUspidPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/PrinceUspid.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/PrinceUspid.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/PrinceUspid.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/PrinceUspid.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "tooth fairy"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Ptemiazrol",
+        "key": "PtemiazrolPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Ptemiazrol.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Ptemiazrol.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Ptemiazrol.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Ptemiazrol.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic",
+                "undead"
+            ],
+            "ancestry": [
+                "wyrmwraith"
+            ],
+            "family": [
+                "incorporeal",
+                "wraith"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Queen Carnassial And Skritcher",
+        "key": "QueenCarnassialAndSkritcherPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/QueenCarnassialAndSkritcher.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/QueenCarnassialAndSkritcher.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/QueenCarnassialAndSkritcher.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/QueenCarnassialAndSkritcher.webp"
+        },
+        "tags": {
+            "category": [
+                "fey",
+                "monitor"
+            ],
+            "ancestry": [
+                "esobok",
+                "tooth fairy"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Rasak",
+        "key": "RasakPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Rasak.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Rasak.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Rasak.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Rasak.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "kobold"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "features": [
+                "prosthetic"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Reedreaper",
+        "key": "ReedreaperPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Reedreaper.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Reedreaper.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Reedreaper.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Reedreaper.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "shabti"
+            ],
+            "equipment": [
+                "clothing",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Relictner Mortic",
+        "key": "RelictnerMorticPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/RelictnerMortic.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/RelictnerMortic.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/RelictnerMortic.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/RelictnerMortic.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dwarf",
+                "relictner"
+            ],
+            "family": [
+                "mortic"
+            ],
+            "equipment": [
+                "bludgeon",
+                "heavy"
+            ]
+        }
+    },
+    {
+        "label": "Rhal",
+        "key": "RhalPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Rhal.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Rhal.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Rhal.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Rhal.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "gnome"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "features": [
+                "music"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Roscasco",
+        "key": "RoscascoPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Roscasco.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Roscasco.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Roscasco.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Roscasco.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "flail",
+                "unarmored"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Salighara",
+        "key": "SaligharaPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Salighara.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Salighara.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Salighara.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Salighara.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                "viduus"
+            ],
+            "family": [
+                "psychopomp"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Sceazir",
+        "key": "SceazirPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Sceazir.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Sceazir.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Sceazir.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Sceazir.webp"
+        },
+        "tags": {
+            "category": [
+                "planar",
+                "void"
+            ],
+            "ancestry": [
+                "sceazir"
+            ]
+        }
+    },
+    {
+        "label": "Sealbreaker Knight",
+        "key": "SealbreakerKnightPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/SealbreakerKnight.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/SealbreakerKnight.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/SealbreakerKnight.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/SealbreakerKnight.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "indistinct"
+            ],
+            "equipment": [
+                "heavy",
+                "shield",
+                "sword"
+            ],
+            "family": [
+                "whispering way"
+            ]
+        }
+    },
+    {
+        "label": "Shabti",
+        "key": "ShabtiReadingPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/ShabtiReading.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/ShabtiReading.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/ShabtiReading.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/ShabtiReading.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "shabti"
+            ],
+            "equipment": [
+                "clothing",
+                "scroll"
+            ]
+        }
+    },
+    {
+        "label": "Shoki",
+        "key": "ShookiPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Shooki.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Shooki.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Shooki.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Shooki.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "family": [
+                "psychopomp"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "focus",
+                "scroll"
+            ],
+            "ancestry": [
+                "shoki"
+            ]
+        }
+    },
+    {
+        "label": "Sihn Siphandon",
+        "key": "SihnSiphandonPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/SihnSiphandon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/SihnSiphandon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/SihnSiphandon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/SihnSiphandon.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "features": [
+                "companion"
+            ]
+        }
+    },
+    {
+        "label": "Sir Stalgard",
+        "key": "SirStalgardPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/SirStalgard.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/SirStalgard.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/SirStalgard.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/SirStalgard.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dwarf"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Spectral Schoolgirl",
+        "key": "SpectralSchoolgirlPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/SpectralSchoolgirl.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/SpectralSchoolgirl.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/SpectralSchoolgirl.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/SpectralSchoolgirl.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghost commoner"
+            ],
+            "family": [
+                "incorporeal"
+            ]
+        }
+    },
+    {
+        "label": "Spiritualist Grim Apostle",
+        "key": "SpiritualistGrimApostlePF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/SpiritualistGrimApostle.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/SpiritualistGrimApostle.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/SpiritualistGrimApostle.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/SpiritualistGrimApostle.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dwarf"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Splinter Twin Sceaduinar",
+        "key": "SplinterTwinSceaduinarPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/SplinterTwinSceaduinar.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/SplinterTwinSceaduinar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/SplinterTwinSceaduinar.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/SplinterTwinSceaduinar.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant",
+                "void"
+            ],
+            "family": [
+                "void-ravaged"
+            ],
+            "ancestry": [
+                "sceaduinar"
+            ]
+        }
+    },
+    {
+        "label": "Sump Steward",
+        "key": "SumpStewardPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/SumpSteward.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/SumpSteward.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/SumpSteward.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/SumpSteward.webp"
+        },
+        "tags": {
+            "category": [
+                "plant"
+            ],
+            "ancestry": [
+                "sump steward"
+            ],
+            "equipment": [
+                "bludgeon"
+            ]
+        }
+    },
+    {
+        "label": "Takakazu Ikeda",
+        "key": "TakakazuIkedaPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/TakakazuIkeda.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/TakakazuIkeda.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/TakakazuIkeda.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/TakakazuIkeda.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dhampir"
+            ],
+            "family": [
+                "whispering way"
+            ],
+            "equipment": [
+                "clothing",
+                "knife",
+                "tome"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Tanhild Haskordottir",
+        "key": "TanhildHaskordottirPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/TanhildHaskordottir.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/TanhildHaskordottir.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/TanhildHaskordottir.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/TanhildHaskordottir.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "nemhaith"
+            ],
+            "family": [
+                "incorporeal"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Tar-Baphon",
+        "key": "TarBaphonPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/TarBaphon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/TarBaphon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/TarBaphon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/TarBaphon.webp"
+        },
+        "tags": {
+            "family": [
+                "whispering way"
+            ],
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "lich"
+            ],
+            "special": [
+                "unique"
+            ],
+            "features": [
+                "magic"
+            ],
+            "equipment": [
+                "heavy"
+            ]
+        }
+    },
+    {
+        "label": "Tar-Baphon",
+        "key": "TarBaphonArmorPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/TarBaphonArmor.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/TarBaphonArmor.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/TarBaphonArmor.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/TarBaphonArmor.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "family": [
+                "whispering way"
+            ],
+            "features": [
+                "magic"
+            ],
+            "equipment": [
+                "focus",
+                "heavy",
+                "scroll",
+                "sword"
+            ],
+            "ancestry": [
+                "lich"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Tar-Baphon Simulacrum",
+        "key": "TarBaphonSimulacrumPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/TarBaphonSimulacrum.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/TarBaphonSimulacrum.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/TarBaphonSimulacrum.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/TarBaphonSimulacrum.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "lich"
+            ],
+            "family": [
+                "simulacrum",
+                "whispering way"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "heavy"
+            ]
+        }
+    },
+    {
+        "label": "Tendriculos",
+        "key": "TendriculosPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Tendriculos.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Tendriculos.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Tendriculos.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Tendriculos.webp"
+        },
+        "tags": {
+            "category": [
+                "fungal",
+                "plant"
+            ],
+            "ancestry": [
+                "tendriculos"
+            ]
+        }
+    },
+    {
+        "label": "Thalestris Mytilinos",
+        "key": "ThalestrisMytilinosPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/ThalestrisMytilinos.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/ThalestrisMytilinos.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/ThalestrisMytilinos.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/ThalestrisMytilinos.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "nephilim"
+            ],
+            "equipment": [
+                "clothing",
+                "firearm",
+                "light"
+            ],
+            "features": [
+                "dual-wielding"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "The Haunting Dark",
+        "key": "TheHauntingDarkPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/TheHauntingDark.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/TheHauntingDark.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/TheHauntingDark.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/TheHauntingDark.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "vanyver"
+            ],
+            "family": [
+                "darvakka"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Timberward",
+        "key": "TimberwardPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Timberward.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Timberward.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Timberward.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Timberward.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "wood golem"
+            ],
+            "family": [
+                "golem"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Tletli Coatl",
+        "key": "TletliCoatlPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/TletliCoatl.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/TletliCoatl.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/TletliCoatl.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/TletliCoatl.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "tletli coatl"
+            ],
+            "family": [
+                "coatl"
+            ]
+        }
+    },
+    {
+        "label": "Tooth Faity Monarch",
+        "key": "ToothFaityMonarchPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/ToothFaityMonarch.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/ToothFaityMonarch.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/ToothFaityMonarch.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/ToothFaityMonarch.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "tooth faity"
+            ],
+            "equipment": [
+                "bludgeon",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Trondus",
+        "key": "TrondusPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Trondus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Trondus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Trondus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Trondus.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "zombie lord"
+            ],
+            "family": [
+                "zombie"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Tsomar Trant",
+        "key": "TsomarTrantPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/TsomarTrant.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/TsomarTrant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/TsomarTrant.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/TsomarTrant.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghost commoner"
+            ],
+            "family": [
+                "ghost"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "heavy"
+            ]
+        }
+    },
+    {
+        "label": "Tycha Ghuzmaar",
+        "key": "TychaGhuzmaarPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/TychaGhuzmaar.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/TychaGhuzmaar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/TychaGhuzmaar.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/TychaGhuzmaar.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "graveknight"
+            ],
+            "equipment": [
+                "heavy",
+                "shield",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Umbarno Xipali",
+        "key": "UmbarnoXipaliPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/UmbarnoXipali.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/UmbarnoXipali.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/UmbarnoXipali.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/UmbarnoXipali.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "sword"
+            ],
+            "family": [
+                "ah pook"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Umble And Thoot",
+        "key": "UmbleAndThootPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/UmbleAndThoot.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/UmbleAndThoot.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/UmbleAndThoot.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/UmbleAndThoot.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                "nosoi",
+                "vanth"
+            ],
+            "equipment": [
+                "polearm"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Usundra",
+        "key": "UsundraPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Usundra.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Usundra.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Usundra.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Usundra.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "knife"
+            ],
+            "family": [
+                "urgathoa"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Valthazar Quietus",
+        "key": "ValthazarQuietusPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/ValthazarQuietus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/ValthazarQuietus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/ValthazarQuietus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/ValthazarQuietus.webp"
+        },
+        "tags": {
+            "family": [
+                "whispering way"
+            ],
+            "features": [
+                "companion"
+            ],
+            "special": [
+                "unique"
+            ],
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dhampir"
+            ],
+            "equipment": [
+                "clothing",
+                "tome"
+            ]
+        }
+    },
+    {
+        "label": "Valthazar Quietus",
+        "key": "ValthazarQuietusBustPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/ValthazarQuietusBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/ValthazarQuietusBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/ValthazarQuietusBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/ValthazarQuietusBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dhampir"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "whispering way"
+            ]
+        }
+    },
+    {
+        "label": "Vanth",
+        "key": "VanthPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Vanth.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Vanth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Vanth.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Vanth.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                "vanth"
+            ],
+            "family": [
+                "psychopomp"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Veena Heliu",
+        "key": "VeenaHeliuPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/VeenaHeliu.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/VeenaHeliu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/VeenaHeliu.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/VeenaHeliu.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "aiuvarin"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Venedaemon",
+        "key": "VenedaemonPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Venedaemon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Venedaemon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Venedaemon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Venedaemon.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "venedaemon"
+            ],
+            "family": [
+                "daemon"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Verdant Bombardier",
+        "key": "VerdantBombardierPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/VerdantBombardier.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/VerdantBombardier.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/VerdantBombardier.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/VerdantBombardier.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "cannon golem"
+            ],
+            "family": [
+                "golem"
+            ]
+        }
+    },
+    {
+        "label": "Viduus",
+        "key": "ViduusPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Viduus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Viduus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Viduus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Viduus.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                "viduus"
+            ],
+            "family": [
+                "psychopomp"
+            ],
+            "equipment": [
+                "clothing",
+                "tome"
+            ]
+        }
+    },
+    {
+        "label": "Viduus",
+        "key": "ViduusMaskedPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/ViduusMasked.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/ViduusMasked.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/ViduusMasked.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/ViduusMasked.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                "viduus"
+            ],
+            "family": [
+                "psychopomp"
+            ],
+            "equipment": [
+                "clothing",
+                "scroll"
+            ]
+        }
+    },
+    {
+        "label": "Vithiz",
+        "key": "VithizPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Vithiz.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Vithiz.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Vithiz.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Vithiz.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "wihsaak"
+            ],
+            "family": [
+                "sahkil"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "light"
+            ]
+        }
+    },
+    {
+        "label": "Void-Ravaged Yrthak",
+        "key": "VoidRavagedYrthakPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/VoidRavagedYrthak.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/VoidRavagedYrthak.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/VoidRavagedYrthak.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/VoidRavagedYrthak.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial",
+                "void"
+            ],
+            "ancestry": [
+                "yrthak"
+            ],
+            "family": [
+                "void-ravaged"
+            ]
+        }
+    },
+    {
+        "label": "Voidbones",
+        "key": "VoidbonesPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Voidbones.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Voidbones.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Voidbones.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Voidbones.webp"
+        },
+        "tags": {
+            "category": [
+                "shadow",
+                "undead"
+            ],
+            "ancestry": [
+                "bloody bones"
+            ]
+        }
+    },
+    {
+        "label": "Wallinar",
+        "key": "WallinarPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Wallinar.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Wallinar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Wallinar.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Wallinar.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid",
+                "plant"
+            ],
+            "ancestry": [
+                "amurrun"
+            ],
+            "equipment": [
+                "bomb",
+                "medium",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Watcher-Lord Ulthun II",
+        "key": "WatcherLordUlthunIIPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/WatcherLordUlthunII.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/WatcherLordUlthunII.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/WatcherLordUlthunII.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/WatcherLordUlthunII.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "heavy",
+                "shield",
+                "sword"
+            ],
+            "family": [
+                "iomedae"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Whispering Way Cultist",
+        "key": "WhisperingWayCultistPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/WhisperingWayCultist.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/WhisperingWayCultist.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/WhisperingWayCultist.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/WhisperingWayCultist.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "indistinct"
+            ],
+            "equipment": [
+                "axe",
+                "medium"
+            ],
+            "features": [
+                "dual-wielding"
+            ],
+            "family": [
+                "whispering way"
+            ]
+        }
+    },
+    {
+        "label": "Whispering Way Devotee",
+        "key": "WhisperingWayDevoteePF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/WhisperingWayDevotee.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/WhisperingWayDevotee.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/WhisperingWayDevotee.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/WhisperingWayDevotee.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "aiuvarin"
+            ],
+            "equipment": [
+                "clothing",
+                "knife",
+                "light"
+            ],
+            "special": [
+                "unique"
+            ],
+            "family": [
+                "whispering way"
+            ]
+        }
+    },
+    {
+        "label": "Wyrdwood Soldier",
+        "key": "WyrdwoodSoldierPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/WyrdwoodSoldier.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/WyrdwoodSoldier.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/WyrdwoodSoldier.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/WyrdwoodSoldier.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid",
+                "plant"
+            ],
+            "ancestry": [
+                "wyrdwood"
+            ],
+            "equipment": [
+                "heavy",
+                "medium",
+                "polearm",
+                "shield"
+            ]
+        }
+    },
+    {
+        "label": "Wyrwood Skulk",
+        "key": "WyrwoodSkulkPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/WyrwoodSkulk.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/WyrwoodSkulk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/WyrwoodSkulk.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/WyrwoodSkulk.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid",
+                "plant"
+            ],
+            "ancestry": [
+                "wyrdwood"
+            ],
+            "equipment": [
+                "medium",
+                "sword"
+            ],
+            "features": [
+                "dual-wielding"
+            ]
+        }
+    },
+    {
+        "label": "Xemar",
+        "key": "XemarPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Xemar.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Xemar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Xemar.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Xemar.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Xenopterid Spore Zombie",
+        "key": "XenopteridSporeZombiePF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/XenopteridSporeZombie.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/XenopteridSporeZombie.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/XenopteridSporeZombie.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/XenopteridSporeZombie.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "family": [
+                "spore zombie"
+            ],
+            "ancestry": [
+                "xenopterid"
+            ]
+        }
+    },
+    {
+        "label": "Yamaraj",
+        "key": "YamarajPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Yamaraj.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Yamaraj.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Yamaraj.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Yamaraj.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                "yamaraj"
+            ],
+            "family": [
+                "psychopomp"
+            ]
+        }
+    },
+    {
+        "label": "Yaoguai",
+        "key": "YaoguaiPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Yaoguai.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Yaoguai.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Yaoguai.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Yaoguai.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "yaoguai"
+            ]
+        }
+    },
+    {
+        "label": "Yhalas The Serene",
+        "key": "YhalasTheSerenePF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/YhalasTheSerene.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/YhalasTheSerene.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/YhalasTheSerene.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/YhalasTheSerene.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "graveknight"
+            ],
+            "equipment": [
+                "brawling",
+                "heavy"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Yosiduin",
+        "key": "YosiduinPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/Yosiduin.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/Yosiduin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/Yosiduin.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/Yosiduin.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "elf"
+            ],
+            "family": [
+                "whispering way"
+            ],
+            "equipment": [
+                "bludgeon",
+                "heavy",
+                "knife"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Yosiduin Graveknight",
+        "key": "YosiduinGraveknightPF1eTG",
+        "source": "PF1e Tyrant's Grasp",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-tyrants-grasp/YosiduinGraveknight.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-tyrants-grasp/YosiduinGraveknight.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-tyrants-grasp/YosiduinGraveknight.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-tyrants-grasp/YosiduinGraveknight.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "graveknight"
+            ],
+            "family": [
+                "whispering way"
+            ],
+            "equipment": [
+                "bludgeon",
+                "heavy"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    }
+]

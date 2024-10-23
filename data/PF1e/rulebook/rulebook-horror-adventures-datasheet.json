@@ -1,0 +1,1717 @@
+[
+    {
+        "label": "Adowyn Dodging Magic",
+        "key": "AdowynDodgingMagicPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/AdowynDodgingMagic.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/AdowynDodgingMagic.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/AdowynDodgingMagic.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/AdowynDodgingMagic.webp"
+        },
+        "tags": {
+            "family": [
+                "adowyn"
+            ],
+            "special": [
+                "iconic",
+                "unique"
+            ],
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "medium"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Alahazra Dying",
+        "key": "AlahazraDyingPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/AlahazraDying.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/AlahazraDying.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/AlahazraDying.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/AlahazraDying.webp"
+        },
+        "tags": {
+            "family": [
+                "alahazra"
+            ],
+            "special": [
+                "iconic",
+                "unique"
+            ],
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Alahazra Old",
+        "key": "AlahazraWoldPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/AlahazraWold.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/AlahazraWold.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/AlahazraWold.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/AlahazraWold.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "family": [
+                "alahazra"
+            ],
+            "special": [
+                "iconic",
+                "unique"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "light"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Alain Zombie",
+        "key": "AlainZombiePF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/AlainZombie.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/AlainZombie.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/AlainZombie.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/AlainZombie.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "zombie"
+            ],
+            "special": [
+                "iconic",
+                "unique"
+            ],
+            "equipment": [
+                "flail",
+                "heavy",
+                "polearm",
+                "shield",
+                "sword"
+            ],
+            "family": [
+                "alain"
+            ]
+        }
+    },
+    {
+        "label": "Alchemist Mad Scientist",
+        "key": "AlchemistMadScientistPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/AlchemistMadScientist.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/AlchemistMadScientist.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/AlchemistMadScientist.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/AlchemistMadScientist.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bomb",
+                "clothing",
+                "medium"
+            ],
+            "features": [
+                "alchemy"
+            ]
+        }
+    },
+    {
+        "label": "Amiri Possessed",
+        "key": "AmiriPossessedPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/AmiriPossessed.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/AmiriPossessed.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/AmiriPossessed.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/AmiriPossessed.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "family": [
+                "amiri"
+            ],
+            "special": [
+                "iconic",
+                "unique"
+            ],
+            "equipment": [
+                "axe",
+                "light",
+                "sword",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Apostle",
+        "key": "ApostleVelstractPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/ApostleVelstract.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/ApostleVelstract.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/ApostleVelstract.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/ApostleVelstract.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "apostle"
+            ],
+            "family": [
+                "velstrac"
+            ],
+            "equipment": [
+                "clothing",
+                "medium",
+                "tome"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Babau Implacable Stalker",
+        "key": "BabauImplacableStalkerPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/BabauImplacableStalker.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/BabauImplacableStalker.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/BabauImplacableStalker.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/BabauImplacableStalker.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "babau"
+            ],
+            "family": [
+                "demon",
+                "implacable stalker"
+            ],
+            "equipment": [
+                "brawling",
+                "clothing",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Barbarian Mooncursed",
+        "key": "BarbarianMooncursedPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/BarbarianMooncursed.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/BarbarianMooncursed.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/BarbarianMooncursed.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/BarbarianMooncursed.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "weretiger"
+            ],
+            "family": [
+                "werecreature"
+            ],
+            "equipment": [
+                "clothing",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Champion Martyr",
+        "key": "ChampionMartyrPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/ChampionMartyr.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/ChampionMartyr.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/ChampionMartyr.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/ChampionMartyr.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "heavy",
+                "shield",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Chimera Promethean",
+        "key": "ChimeraPrometheanPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/ChimeraPromethean.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/ChimeraPromethean.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/ChimeraPromethean.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/ChimeraPromethean.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "chimera"
+            ],
+            "family": [
+                "promethean"
+            ],
+            "features": [
+                "prosthetic"
+            ]
+        }
+    },
+    {
+        "label": "Cleric Elder Mythos Cultist",
+        "key": "ClericElderMythosCultistPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/ClericElderMythosCultist.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/ClericElderMythosCultist.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/ClericElderMythosCultist.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/ClericElderMythosCultist.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "indistinct"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ],
+            "family": [
+                "outer god"
+            ]
+        }
+    },
+    {
+        "label": "Crow",
+        "key": "CrowPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/Crow.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/Crow.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/Crow.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/Crow.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "crow"
+            ]
+        }
+    },
+    {
+        "label": "Damiel Wings",
+        "key": "DamielWingsPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/DamielWings.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/DamielWings.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/DamielWings.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/DamielWings.webp"
+        },
+        "tags": {
+            "family": [
+                "damiel"
+            ],
+            "special": [
+                "iconic",
+                "unique"
+            ],
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bomb",
+                "clothing",
+                "light"
+            ]
+        }
+    },
+    {
+        "label": "Dread Lord",
+        "key": "DreadLordPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/DreadLord.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/DreadLord.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/DreadLord.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/DreadLord.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "heavy",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Druid Life Channeler",
+        "key": "DruidLifeChannelerPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/DruidLifeChanneler.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/DruidLifeChanneler.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/DruidLifeChanneler.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/DruidLifeChanneler.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bow",
+                "medium"
+            ]
+        }
+    },
+    {
+        "label": "Enora Bloody",
+        "key": "EnoraBloodyPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/EnoraBloody.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/EnoraBloody.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/EnoraBloody.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/EnoraBloody.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "halfling"
+            ],
+            "equipment": [
+                "axe",
+                "clothing",
+                "focus",
+                "light"
+            ],
+            "family": [
+                "enora"
+            ],
+            "special": [
+                "iconic",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Ezren Lich",
+        "key": "EzrenLichPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/EzrenLich.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/EzrenLich.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/EzrenLich.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/EzrenLich.webp"
+        },
+        "tags": {
+            "family": [
+                "ezren"
+            ],
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "lich"
+            ],
+            "special": [
+                "iconic",
+                "unique"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "focus",
+                "light"
+            ]
+        }
+    },
+    {
+        "label": "Feiya Bloody",
+        "key": "FeiyaBloodyPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/FeiyaBloody.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/FeiyaBloody.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/FeiyaBloody.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/FeiyaBloody.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "family": [
+                "feiya"
+            ],
+            "special": [
+                "iconic",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Feiya Burning",
+        "key": "FeiyaBurningPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/FeiyaBurning.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/FeiyaBurning.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/FeiyaBurning.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/FeiyaBurning.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "family": [
+                "feiya"
+            ],
+            "special": [
+                "iconic",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Gingerbread Witch",
+        "key": "GingerbreadWitchPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/GingerbreadWitch.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/GingerbreadWitch.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/GingerbreadWitch.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/GingerbreadWitch.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "indistinct"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Halfling Scout",
+        "key": "HalflingScoutPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/HalflingScout.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/HalflingScout.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/HalflingScout.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/HalflingScout.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "halfling"
+            ],
+            "equipment": [
+                "clothing",
+                "light",
+                "polearm"
+            ]
+        }
+    },
+    {
+        "label": "Hangman Tree",
+        "key": "HangmanTreePF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/HangmanTree.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/HangmanTree.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/HangmanTree.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/HangmanTree.webp"
+        },
+        "tags": {
+            "category": [
+                "plant"
+            ],
+            "ancestry": [
+                "hangman tree"
+            ]
+        }
+    },
+    {
+        "label": "Harsk Deep One",
+        "key": "HarskDeepOnePF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/HarskDeepOne.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/HarskDeepOne.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/HarskDeepOne.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/HarskDeepOne.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "deep one"
+            ],
+            "equipment": [
+                "axe",
+                "clothing",
+                "crossbow",
+                "light"
+            ],
+            "family": [
+                "harsk"
+            ],
+            "special": [
+                "iconic",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Hive Warrior",
+        "key": "HiveWarriorPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/HiveWarrior.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/HiveWarrior.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/HiveWarrior.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/HiveWarrior.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "hive warrior"
+            ],
+            "family": [
+                "hive"
+            ]
+        }
+    },
+    {
+        "label": "Hobgoblin Fleshwarp",
+        "key": "HobgoblinFleshwarpPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/HobgoblinFleshwarp.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/HobgoblinFleshwarp.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/HobgoblinFleshwarp.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/HobgoblinFleshwarp.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "hobgoblin"
+            ],
+            "equipment": [
+                "axe",
+                "flail",
+                "light",
+                "medium",
+                "shield"
+            ],
+            "features": [
+                "dual-wielding"
+            ]
+        }
+    },
+    {
+        "label": "Human Waxwork",
+        "key": "HumanWaxworkPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/HumanWaxwork.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/HumanWaxwork.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/HumanWaxwork.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/HumanWaxwork.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "wax golem"
+            ],
+            "family": [
+                "golem"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Inquisitor Hexenhammer",
+        "key": "InquisitorHexenhammerPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/InquisitorHexenhammer.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/InquisitorHexenhammer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/InquisitorHexenhammer.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/InquisitorHexenhammer.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "indistinct"
+            ],
+            "equipment": [
+                "clothing",
+                "light",
+                "scroll",
+                "tome"
+            ]
+        }
+    },
+    {
+        "label": "Investigator Gravedigger",
+        "key": "InvestigatorGravediggerPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/InvestigatorGravedigger.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/InvestigatorGravedigger.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/InvestigatorGravedigger.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/InvestigatorGravedigger.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "light"
+            ]
+        }
+    },
+    {
+        "label": "Jirelle Stone",
+        "key": "JirelleStonePF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/JirelleStone.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/JirelleStone.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/JirelleStone.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/JirelleStone.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "aiuvarin"
+            ],
+            "equipment": [
+                "knife",
+                "light",
+                "medium",
+                "shield"
+            ],
+            "family": [
+                "jirelle"
+            ],
+            "special": [
+                "iconic",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Kess Spirit",
+        "key": "KessSpiritPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/KessSpirit.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/KessSpirit.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/KessSpirit.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/KessSpirit.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "brawling",
+                "medium",
+                "unarmored"
+            ],
+            "family": [
+                "kess"
+            ],
+            "special": [
+                "iconic",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Kyra Magic Sword",
+        "key": "KyraMagicSwordPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/KyraMagicSword.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/KyraMagicSword.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/KyraMagicSword.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/KyraMagicSword.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "family": [
+                "kyra"
+            ],
+            "equipment": [
+                "clothing",
+                "light",
+                "medium",
+                "sword"
+            ],
+            "features": [
+                "magic"
+            ],
+            "special": [
+                "iconic",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Kyra Praying",
+        "key": "KyraPrayingPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/KyraPraying.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/KyraPraying.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/KyraPraying.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/KyraPraying.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "family": [
+                "kyra"
+            ],
+            "special": [
+                "iconic",
+                "unique"
+            ],
+            "equipment": [
+                "focus",
+                "light",
+                "medium",
+                "sword"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Kyra Vampire",
+        "key": "KyraVampirePF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/KyraVampire.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/KyraVampire.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/KyraVampire.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/KyraVampire.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "vampire mastermind"
+            ],
+            "family": [
+                "kyra",
+                "vampire"
+            ],
+            "special": [
+                "iconic",
+                "unique"
+            ],
+            "equipment": [
+                "focus",
+                "light",
+                "medium",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Lem Shadowbound",
+        "key": "LemShadowboundPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/LemShadowbound.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/LemShadowbound.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/LemShadowbound.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/LemShadowbound.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "halfling"
+            ],
+            "family": [
+                "lem"
+            ],
+            "special": [
+                "iconic",
+                "unique"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ]
+        }
+    },
+    {
+        "label": "Lesser Death",
+        "key": "LesserDeathPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/LesserDeath.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/LesserDeath.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/LesserDeath.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/LesserDeath.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "lesser death"
+            ],
+            "equipment": [
+                "clothing",
+                "knife",
+                "scroll"
+            ]
+        }
+    },
+    {
+        "label": "Scorpion Swarm",
+        "key": "LiniSwarmedPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/LiniSwarmed.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/LiniSwarmed.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/LiniSwarmed.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/LiniSwarmed.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "special": [
+                "iconic",
+                "swarm"
+            ],
+            "family": [
+                "lini",
+                "scorpion"
+            ],
+            "ancestry": [
+                "scorpion swarm"
+            ]
+        }
+    },
+    {
+        "label": "Lini Werewolf",
+        "key": "LiniWerewolfPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/LiniWerewolf.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/LiniWerewolf.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/LiniWerewolf.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/LiniWerewolf.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "werewolf"
+            ],
+            "family": [
+                "lini",
+                "werecreature"
+            ],
+            "special": [
+                "iconic",
+                "unique"
+            ],
+            "equipment": [
+                "brawling",
+                "medium"
+            ]
+        }
+    },
+    {
+        "label": "Meligaster Maniac",
+        "key": "MeligasterManiacPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/MeligasterManiac.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/MeligasterManiac.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/MeligasterManiac.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/MeligasterManiac.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "halfling"
+            ],
+            "family": [
+                "meligaster"
+            ],
+            "special": [
+                "iconic",
+                "unique"
+            ],
+            "equipment": [
+                "clothing",
+                "focus",
+                "light"
+            ]
+        }
+    },
+    {
+        "label": "Merisiel Hive Mind",
+        "key": "MerisielHiveMindPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/MerisielHiveMind.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/MerisielHiveMind.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/MerisielHiveMind.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/MerisielHiveMind.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "hive warrior"
+            ],
+            "family": [
+                "hive",
+                "merisiel"
+            ],
+            "special": [
+                "iconic"
+            ],
+            "equipment": [
+                "knife",
+                "medium"
+            ]
+        }
+    },
+    {
+        "label": "Mesmerist Dreamstalker",
+        "key": "MesmeristDreamstalkerPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/MesmeristDreamstalker.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/MesmeristDreamstalker.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/MesmeristDreamstalker.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/MesmeristDreamstalker.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Occultist Talisman Crafter",
+        "key": "OccultistTalismanCrafterPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/OccultistTalismanCrafter.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/OccultistTalismanCrafter.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/OccultistTalismanCrafter.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/OccultistTalismanCrafter.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "focus",
+                "light"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Ogre Brute Slasher",
+        "key": "OgreBruteSlasherPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/OgreBruteSlasher.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/OgreBruteSlasher.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/OgreBruteSlasher.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/OgreBruteSlasher.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "ogre warrior"
+            ],
+            "equipment": [
+                "axe",
+                "heavy",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Psuchokineticist",
+        "key": "PsuchokineticistPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/Psuchokineticist.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/Psuchokineticist.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/Psuchokineticist.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/Psuchokineticist.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "medium"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Quinn Stone",
+        "key": "QuinnStonePF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/QuinnStone.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/QuinnStone.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/QuinnStone.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/QuinnStone.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "stone golem"
+            ],
+            "family": [
+                "quinn"
+            ],
+            "special": [
+                "iconic"
+            ],
+            "equipment": [
+                "bludgeon",
+                "knife",
+                "medium"
+            ]
+        }
+    },
+    {
+        "label": "Red Raven Zombie",
+        "key": "RedRavenZombiePF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/RedRavenZombie.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/RedRavenZombie.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/RedRavenZombie.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/RedRavenZombie.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "zombie brute"
+            ],
+            "family": [
+                "red raven"
+            ],
+            "special": [
+                "iconic"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ]
+        }
+    },
+    {
+        "label": "Rivani Meditating",
+        "key": "RivaniMeditatingPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/RivaniMeditating.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/RivaniMeditating.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/RivaniMeditating.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/RivaniMeditating.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "family": [
+                "rivani"
+            ],
+            "special": [
+                "iconic",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Sajan Ghoul",
+        "key": "SajanGhoulPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/SajanGhoul.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/SajanGhoul.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/SajanGhoul.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/SajanGhoul.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghoul"
+            ],
+            "equipment": [
+                "brawling",
+                "clothing",
+                "unarmored"
+            ],
+            "family": [
+                "sajan"
+            ],
+            "special": [
+                "iconic"
+            ]
+        }
+    },
+    {
+        "label": "Seelah Hellbound",
+        "key": "SeelahHellboundPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/SeelahHellbound.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/SeelahHellbound.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/SeelahHellbound.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/SeelahHellbound.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish",
+                "humanoid"
+            ],
+            "ancestry": [
+                "human",
+                "nephilim"
+            ],
+            "equipment": [
+                "heavy",
+                "sword"
+            ],
+            "family": [
+                "seelah"
+            ],
+            "special": [
+                "iconic",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Seltyiel Tentacle",
+        "key": "SeltyielTentaclePF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/SeltyielTentacle.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/SeltyielTentacle.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/SeltyielTentacle.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/SeltyielTentacle.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "aiuvarin"
+            ],
+            "equipment": [
+                "clothing",
+                "light",
+                "tome",
+                "unarmored"
+            ],
+            "features": [
+                "magic"
+            ],
+            "family": [
+                "seltyiel"
+            ],
+            "special": [
+                "iconic",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Seoni Accursed",
+        "key": "SeoniAccursedPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/SeoniAccursed.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/SeoniAccursed.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/SeoniAccursed.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/SeoniAccursed.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "light",
+                "unarmored"
+            ],
+            "family": [
+                "seoni"
+            ],
+            "special": [
+                "iconic",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Seoni Spirit",
+        "key": "SeoniSpiritPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/SeoniSpirit.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/SeoniSpirit.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/SeoniSpirit.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/SeoniSpirit.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "light",
+                "unarmored"
+            ],
+            "family": [
+                "seoni"
+            ],
+            "special": [
+                "iconic",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Slayer Witch Killer",
+        "key": "SlayerWitchKillerPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/SlayerWitchKiller.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/SlayerWitchKiller.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/SlayerWitchKiller.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/SlayerWitchKiller.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "knife",
+                "light",
+                "scroll",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Spiritualist Exciter",
+        "key": "SpiritualistExciterPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/SpiritualistExciter.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/SpiritualistExciter.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/SpiritualistExciter.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/SpiritualistExciter.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "gnome"
+            ],
+            "equipment": [
+                "brawling",
+                "medium"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Trompe L'Oeil Aristocrat",
+        "key": "TrompeLOeilAristocratPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/TrompeLOeilAristocrat.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/TrompeLOeilAristocrat.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/TrompeLOeilAristocrat.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/TrompeLOeilAristocrat.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "trompe l'oeil"
+            ],
+            "equipment": [
+                "clothing",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Unknown",
+        "key": "UnknownPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/Unknown.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/Unknown.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/Unknown.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/Unknown.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "unknown"
+            ],
+            "equipment": [
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Valeros Promethean",
+        "key": "ValerosPrometheanPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/ValerosPromethean.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/ValerosPromethean.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/ValerosPromethean.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/ValerosPromethean.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "heavy",
+                "knife",
+                "sword"
+            ],
+            "features": [
+                "prosthetic"
+            ],
+            "family": [
+                "valeros"
+            ],
+            "special": [
+                "iconic",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Vigilante Serial Killer",
+        "key": "VigilanteSerialKillerPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/VigilanteSerialKiller.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/VigilanteSerialKiller.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/VigilanteSerialKiller.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/VigilanteSerialKiller.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Wizard Undead Master",
+        "key": "WizardUndeadMasterPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/WizardUndeadMaster.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/WizardUndeadMaster.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/WizardUndeadMaster.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/WizardUndeadMaster.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dromaar"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Ysoki Transformation",
+        "key": "YsokiTransformationPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/YsokiTransformation.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/YsokiTransformation.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/YsokiTransformation.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/YsokiTransformation.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "ysoki"
+            ],
+            "equipment": [
+                "medium"
+            ]
+        }
+    },
+    {
+        "label": "Zadim Psycho",
+        "key": "ZadimPsychoPF1eHA",
+        "source": "PF1e Horror Adventures",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-horror-adventures/ZadimPsycho.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-horror-adventures/ZadimPsycho.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-horror-adventures/ZadimPsycho.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-horror-adventures/ZadimPsycho.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "knife",
+                "light",
+                "medium"
+            ],
+            "family": [
+                "zadim"
+            ],
+            "features": [
+                "dual-wielding"
+            ],
+            "special": [
+                "iconic",
+                "unique"
+            ]
+        }
+    }
+]

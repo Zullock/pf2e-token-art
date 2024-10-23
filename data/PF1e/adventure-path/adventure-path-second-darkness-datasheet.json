@@ -1,0 +1,1003 @@
+[
+    {
+        "label": "Abraxas",
+        "key": "AbraxasPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Abraxas.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Abraxas.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Abraxas.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Abraxas.webp"
+        }
+    },
+    {
+        "label": "Akron Erix",
+        "key": "AkronErixPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/AkronErix.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/AkronErix.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/AkronErix.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/AkronErix.webp"
+        }
+    },
+    {
+        "label": "Alicavniss Vonnarc",
+        "key": "AlicavnissVonnarcPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/AlicavnissVonnarc.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/AlicavnissVonnarc.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/AlicavnissVonnarc.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/AlicavnissVonnarc.webp"
+        }
+    },
+    {
+        "label": "Allevrah Azrinae",
+        "key": "AllevrahAzrinaePF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/AllevrahAzrinae.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/AllevrahAzrinae.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/AllevrahAzrinae.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/AllevrahAzrinae.webp"
+        }
+    },
+    {
+        "label": "Allevrah Azrinae Bust",
+        "key": "AllevrahAzrinaeBustPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/AllevrahAzrinaeBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/AllevrahAzrinaeBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/AllevrahAzrinaeBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/AllevrahAzrinaeBust.webp"
+        }
+    },
+    {
+        "label": "Angvar Thestlecrit",
+        "key": "AngvarThestlecritPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/AngvarThestlecrit.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/AngvarThestlecrit.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/AngvarThestlecrit.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/AngvarThestlecrit.webp"
+        }
+    },
+    {
+        "label": "Arlindir",
+        "key": "ArlindirPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Arlindir.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Arlindir.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Arlindir.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Arlindir.webp"
+        }
+    },
+    {
+        "label": "Armistril",
+        "key": "ArmistrilPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Armistril.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Armistril.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Armistril.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Armistril.webp"
+        }
+    },
+    {
+        "label": "Atendri",
+        "key": "AtendriPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Atendri.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Atendri.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Atendri.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Atendri.webp"
+        }
+    },
+    {
+        "label": "Beltias Kruen",
+        "key": "BeltiasKruenPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/BeltiasKruen.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/BeltiasKruen.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/BeltiasKruen.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/BeltiasKruen.webp"
+        }
+    },
+    {
+        "label": "Blast Shadow",
+        "key": "BlastShadowPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/BlastShadow.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/BlastShadow.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/BlastShadow.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/BlastShadow.webp"
+        }
+    },
+    {
+        "label": "Bojask",
+        "key": "BojaskPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Bojask.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Bojask.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Bojask.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Bojask.webp"
+        }
+    },
+    {
+        "label": "Braddikar Faje",
+        "key": "BraddikarFajePF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/BraddikarFaje.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/BraddikarFaje.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/BraddikarFaje.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/BraddikarFaje.webp"
+        }
+    },
+    {
+        "label": "Calistria Cleric",
+        "key": "CalistriaClericPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/CalistriaCleric.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/CalistriaCleric.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/CalistriaCleric.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/CalistriaCleric.webp"
+        }
+    },
+    {
+        "label": "Camazotz",
+        "key": "CamazotzPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Camazotz.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Camazotz.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Camazotz.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Camazotz.webp"
+        }
+    },
+    {
+        "label": "Cayden Cailean Cleric",
+        "key": "CaydenCaileanClericPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/CaydenCaileanCleric.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/CaydenCaileanCleric.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/CaydenCaileanCleric.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/CaydenCaileanCleric.webp"
+        }
+    },
+    {
+        "label": "Clegg Zincher",
+        "key": "CleggZincherPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/CleggZincher.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/CleggZincher.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/CleggZincher.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/CleggZincher.webp"
+        }
+    },
+    {
+        "label": "Darklands Sentinel",
+        "key": "DarklandsSentinelPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/DarklandsSentinel.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/DarklandsSentinel.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/DarklandsSentinel.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/DarklandsSentinel.webp"
+        }
+    },
+    {
+        "label": "Deep Crow",
+        "key": "DeepCrowPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/DeepCrow.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/DeepCrow.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/DeepCrow.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/DeepCrow.webp"
+        }
+    },
+    {
+        "label": "Denrelwe Azrinae",
+        "key": "DenrelweAzrinaePF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/DenrelweAzrinae.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/DenrelweAzrinae.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/DenrelweAzrinae.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/DenrelweAzrinae.webp"
+        }
+    },
+    {
+        "label": "Depora Azrinae",
+        "key": "DeporaAzrinaePF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/DeporaAzrinae.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/DeporaAzrinae.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/DeporaAzrinae.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/DeporaAzrinae.webp"
+        }
+    },
+    {
+        "label": "Deskari",
+        "key": "DeskariPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Deskari.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Deskari.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Deskari.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Deskari.webp"
+        }
+    },
+    {
+        "label": "Drexinis",
+        "key": "DrexinisPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Drexinis.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Drexinis.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Drexinis.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Drexinis.webp"
+        }
+    },
+    {
+        "label": "Drider",
+        "key": "DriderPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Drider.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Drider.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Drider.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Drider.webp"
+        }
+    },
+    {
+        "label": "Drow Pain Tester",
+        "key": "DrowPainTesterPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/DrowPainTester.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/DrowPainTester.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/DrowPainTester.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/DrowPainTester.webp"
+        }
+    },
+    {
+        "label": "Eando Kline",
+        "key": "EandoKlinePF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/EandoKline.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/EandoKline.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/EandoKline.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/EandoKline.webp"
+        }
+    },
+    {
+        "label": "Elf Fleshwarped",
+        "key": "ElfFleshwarpedPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/ElfFleshwarped.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/ElfFleshwarped.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/ElfFleshwarped.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/ElfFleshwarped.webp"
+        }
+    },
+    {
+        "label": "Elreth Treeg",
+        "key": "ElrethTreegPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/ElrethTreeg.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/ElrethTreeg.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/ElrethTreeg.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/ElrethTreeg.webp"
+        }
+    },
+    {
+        "label": "Erdrinneir Vonnarc",
+        "key": "ErdrinneirVonnarcPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/ErdrinneirVonnarc.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/ErdrinneirVonnarc.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/ErdrinneirVonnarc.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/ErdrinneirVonnarc.webp"
+        }
+    },
+    {
+        "label": "Eviana Nirgassan",
+        "key": "EvianaNirgassanPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/EvianaNirgassan.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/EvianaNirgassan.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/EvianaNirgassan.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/EvianaNirgassan.webp"
+        }
+    },
+    {
+        "label": "Faidaeva Vonnarc",
+        "key": "FaidaevaVonnarcPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/FaidaevaVonnarc.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/FaidaevaVonnarc.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/FaidaevaVonnarc.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/FaidaevaVonnarc.webp"
+        }
+    },
+    {
+        "label": "Father Padrick",
+        "key": "FatherPadrickPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/FatherPadrick.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/FatherPadrick.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/FatherPadrick.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/FatherPadrick.webp"
+        }
+    },
+    {
+        "label": "Female Drow",
+        "key": "FemaleDrowPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/FemaleDrow.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/FemaleDrow.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/FemaleDrow.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/FemaleDrow.webp"
+        }
+    },
+    {
+        "label": "Fungal Crawler",
+        "key": "FungalCrawlerPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/FungalCrawler.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/FungalCrawler.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/FungalCrawler.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/FungalCrawler.webp"
+        }
+    },
+    {
+        "label": "Gadak Simiryin",
+        "key": "GadakSimiryinPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/GadakSimiryin.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/GadakSimiryin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/GadakSimiryin.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/GadakSimiryin.webp"
+        }
+    },
+    {
+        "label": "Gaston%20 Cromarcky",
+        "key": "Gaston%20CromarckyPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Gaston%20Cromarcky.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Gaston%20Cromarcky.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Gaston%20Cromarcky.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Gaston%20Cromarcky.webp"
+        }
+    },
+    {
+        "label": "Giseil Voslil",
+        "key": "GiseilVoslilPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/GiseilVoslil.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/GiseilVoslil.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/GiseilVoslil.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/GiseilVoslil.webp"
+        }
+    },
+    {
+        "label": "Gravin Goldhammer",
+        "key": "GravinGoldhammerPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/GravinGoldhammer.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/GravinGoldhammer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/GravinGoldhammer.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/GravinGoldhammer.webp"
+        }
+    },
+    {
+        "label": "Haiten Bhaq",
+        "key": "HaitenBhaqPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/HaitenBhaq.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/HaitenBhaq.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/HaitenBhaq.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/HaitenBhaq.webp"
+        }
+    },
+    {
+        "label": "Hialin",
+        "key": "HialinPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Hialin.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Hialin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Hialin.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Hialin.webp"
+        }
+    },
+    {
+        "label": "Ilverae Parastric",
+        "key": "IlveraeParastricPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/IlveraeParastric.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/IlveraeParastric.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/IlveraeParastric.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/IlveraeParastric.webp"
+        }
+    },
+    {
+        "label": "Ishana",
+        "key": "IshanaPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Ishana.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Ishana.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Ishana.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Ishana.webp"
+        }
+    },
+    {
+        "label": "Jabali",
+        "key": "JabaliPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Jabali.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Jabali.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Jabali.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Jabali.webp"
+        }
+    },
+    {
+        "label": "Jardim Wyvel",
+        "key": "JardimWyvelPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/JardimWyvel.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/JardimWyvel.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/JardimWyvel.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/JardimWyvel.webp"
+        }
+    },
+    {
+        "label": "Josper Creesy",
+        "key": "JosperCreesyPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/JosperCreesy.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/JosperCreesy.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/JosperCreesy.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/JosperCreesy.webp"
+        }
+    },
+    {
+        "label": "Kaerishiel Neirenar",
+        "key": "KaerishielNeirenarPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/KaerishielNeirenar.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/KaerishielNeirenar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/KaerishielNeirenar.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/KaerishielNeirenar.webp"
+        }
+    },
+    {
+        "label": "Kardinnyr Azrinae",
+        "key": "KardinnyrAzrinaePF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/KardinnyrAzrinae.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/KardinnyrAzrinae.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/KardinnyrAzrinae.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/KardinnyrAzrinae.webp"
+        }
+    },
+    {
+        "label": "Kwava",
+        "key": "KwavaPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Kwava.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Kwava.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Kwava.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Kwava.webp"
+        }
+    },
+    {
+        "label": "Kwava Bust",
+        "key": "KwavaBustPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/KwavaBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/KwavaBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/KwavaBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/KwavaBust.webp"
+        }
+    },
+    {
+        "label": "Larur Feldin",
+        "key": "LarurFeldinPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/LarurFeldin.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/LarurFeldin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/LarurFeldin.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/LarurFeldin.webp"
+        }
+    },
+    {
+        "label": "Lashunta",
+        "key": "LashuntaPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Lashunta.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Lashunta.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Lashunta.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Lashunta.webp"
+        }
+    },
+    {
+        "label": "Lixy Parmenter",
+        "key": "LixyParmenterPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/LixyParmenter.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/LixyParmenter.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/LixyParmenter.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/LixyParmenter.webp"
+        }
+    },
+    {
+        "label": "Lodra",
+        "key": "LodraPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Lodra.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Lodra.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Lodra.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Lodra.webp"
+        }
+    },
+    {
+        "label": "Magnamaga",
+        "key": "MagnamagaPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Magnamaga.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Magnamaga.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Magnamaga.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Magnamaga.webp"
+        }
+    },
+    {
+        "label": "Malindil",
+        "key": "MalindilPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Malindil.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Malindil.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Malindil.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Malindil.webp"
+        }
+    },
+    {
+        "label": "Menotherian",
+        "key": "MenotherianPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Menotherian.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Menotherian.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Menotherian.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Menotherian.webp"
+        }
+    },
+    {
+        "label": "Monstrous Cockroach",
+        "key": "MonstrousCockroachPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/MonstrousCockroach.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/MonstrousCockroach.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/MonstrousCockroach.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/MonstrousCockroach.webp"
+        }
+    },
+    {
+        "label": "Nolveniss Azrinae",
+        "key": "NolvenissAzrinaePF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/NolvenissAzrinae.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/NolvenissAzrinae.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/NolvenissAzrinae.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/NolvenissAzrinae.webp"
+        }
+    },
+    {
+        "label": "Old Scratch",
+        "key": "OldScratchPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/OldScratch.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/OldScratch.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/OldScratch.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/OldScratch.webp"
+        }
+    },
+    {
+        "label": "Orrn",
+        "key": "OrrnPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Orrn.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Orrn.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Orrn.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Orrn.webp"
+        }
+    },
+    {
+        "label": "Orvignato",
+        "key": "OrvignatoPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Orvignato.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Orvignato.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Orvignato.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Orvignato.webp"
+        }
+    },
+    {
+        "label": "Perelir",
+        "key": "PerelirPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Perelir.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Perelir.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Perelir.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Perelir.webp"
+        }
+    },
+    {
+        "label": "Quilindra",
+        "key": "QuilindraPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Quilindra.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Quilindra.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Quilindra.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Quilindra.webp"
+        }
+    },
+    {
+        "label": "Roper",
+        "key": "RoperPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Roper.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Roper.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Roper.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Roper.webp"
+        }
+    },
+    {
+        "label": "Safan Domvesia",
+        "key": "SafanDomvesiaPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/SafanDomvesia.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/SafanDomvesia.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/SafanDomvesia.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/SafanDomvesia.webp"
+        }
+    },
+    {
+        "label": "Samaritha Beldusk",
+        "key": "SamarithaBelduskPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/SamarithaBeldusk.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/SamarithaBeldusk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/SamarithaBeldusk.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/SamarithaBeldusk.webp"
+        }
+    },
+    {
+        "label": "Samaritha Beldusk Bust",
+        "key": "SamarithaBelduskBustPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/SamarithaBelduskBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/SamarithaBelduskBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/SamarithaBelduskBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/SamarithaBelduskBust.webp"
+        }
+    },
+    {
+        "label": "Sarlottia Sardavic",
+        "key": "SarlottiaSardavicPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/SarlottiaSardavic.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/SarlottiaSardavic.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/SarlottiaSardavic.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/SarlottiaSardavic.webp"
+        }
+    },
+    {
+        "label": "Saul Vancaskerkin",
+        "key": "SaulVancaskerkinPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/SaulVancaskerkin.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/SaulVancaskerkin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/SaulVancaskerkin.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/SaulVancaskerkin.webp"
+        }
+    },
+    {
+        "label": "Shalelu Andosana",
+        "key": "ShaleluAndosanaPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/ShaleluAndosana.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/ShaleluAndosana.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/ShaleluAndosana.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/ShaleluAndosana.webp"
+        }
+    },
+    {
+        "label": "Shindiira Misraria",
+        "key": "ShindiiraMisrariaPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/ShindiiraMisraria.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/ShindiiraMisraria.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/ShindiiraMisraria.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/ShindiiraMisraria.webp"
+        }
+    },
+    {
+        "label": "Shorafa Pamodae",
+        "key": "ShorafaPamodaePF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/ShorafaPamodae.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/ShorafaPamodae.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/ShorafaPamodae.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/ShorafaPamodae.webp"
+        }
+    },
+    {
+        "label": "Slavemother Undamesta",
+        "key": "SlavemotherUndamestaPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/SlavemotherUndamesta.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/SlavemotherUndamesta.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/SlavemotherUndamesta.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/SlavemotherUndamesta.webp"
+        }
+    },
+    {
+        "label": "Snowcaster Sentry",
+        "key": "SnowcasterSentryPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/SnowcasterSentry.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/SnowcasterSentry.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/SnowcasterSentry.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/SnowcasterSentry.webp"
+        }
+    },
+    {
+        "label": "Swamp Barracuda",
+        "key": "SwampBarracudaPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/SwampBarracuda.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/SwampBarracuda.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/SwampBarracuda.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/SwampBarracuda.webp"
+        }
+    },
+    {
+        "label": "Talgoren",
+        "key": "TalgorenPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Talgoren.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Talgoren.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Talgoren.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Talgoren.webp"
+        }
+    },
+    {
+        "label": "Telandia",
+        "key": "TelandiaPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Telandia.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Telandia.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Telandia.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Telandia.webp"
+        }
+    },
+    {
+        "label": "Thais",
+        "key": "ThaisPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Thais.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Thais.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Thais.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Thais.webp"
+        }
+    },
+    {
+        "label": "The Moldering Emperor",
+        "key": "TheMolderingEmperorPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/TheMolderingEmperor.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/TheMolderingEmperor.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/TheMolderingEmperor.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/TheMolderingEmperor.webp"
+        }
+    },
+    {
+        "label": "Thorns End Guard",
+        "key": "ThornsEndGuardPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/ThornsEndGuard.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/ThornsEndGuard.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/ThornsEndGuard.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/ThornsEndGuard.webp"
+        }
+    },
+    {
+        "label": "Tiryin Vonnarc",
+        "key": "TiryinVonnarcPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/TiryinVonnarc.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/TiryinVonnarc.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/TiryinVonnarc.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/TiryinVonnarc.webp"
+        }
+    },
+    {
+        "label": "Treerazer",
+        "key": "TreerazerPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Treerazer.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Treerazer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Treerazer.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Treerazer.webp"
+        }
+    },
+    {
+        "label": "Tromard Roldheim",
+        "key": "TromardRoldheimPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/TromardRoldheim.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/TromardRoldheim.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/TromardRoldheim.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/TromardRoldheim.webp"
+        }
+    },
+    {
+        "label": "Verez",
+        "key": "VerezPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Verez.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Verez.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Verez.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Verez.webp"
+        }
+    },
+    {
+        "label": "Villastir",
+        "key": "VillastirPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Villastir.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Villastir.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Villastir.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Villastir.webp"
+        }
+    },
+    {
+        "label": "Virashi",
+        "key": "VirashiPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Virashi.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Virashi.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Virashi.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Virashi.webp"
+        }
+    },
+    {
+        "label": "Void Zombie",
+        "key": "VoidZombiePF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/VoidZombie.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/VoidZombie.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/VoidZombie.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/VoidZombie.webp"
+        }
+    },
+    {
+        "label": "Wererat",
+        "key": "WereratPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Wererat.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Wererat.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Wererat.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Wererat.webp"
+        }
+    },
+    {
+        "label": "Widowfang",
+        "key": "WidowfangPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Widowfang.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Widowfang.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Widowfang.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Widowfang.webp"
+        }
+    },
+    {
+        "label": "Wight",
+        "key": "WightPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Wight.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Wight.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Wight.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Wight.webp"
+        }
+    },
+    {
+        "label": "Xakihn",
+        "key": "XakihnPF1eSD",
+        "source": "PF1e Second Darkness",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-second-darkness/Xakihn.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-second-darkness/Xakihn.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-second-darkness/Xakihn.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-second-darkness/Xakihn.webp"
+        }
+    }
+]

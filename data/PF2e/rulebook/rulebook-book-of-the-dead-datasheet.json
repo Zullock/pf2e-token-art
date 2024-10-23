@@ -1,0 +1,2041 @@
+[
+    {
+        "label": "Beetle Carapace",
+        "key": "BeetleCarapace",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/BeetleCarapace.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook/rulebook-book-of-the-dead-bestiary/BeetleCarapace.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/BeetleCarapace.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/BeetleCarapace.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial",
+                "undead"
+            ]
+        }
+    },
+    {
+        "label": "Bhuta",
+        "key": "Bhuta",
+        "source": "PF1e Bestiary 3",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Bhuta.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Bhuta.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Bhuta.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Bhuta.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "Ghost"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ]
+        }
+    },
+    {
+        "label": "Bhuta",
+        "key": "Bhuta_2",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Bhuta_2.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Bhuta_2.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Bhuta_2.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Bhuta_2.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "Ghost"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ]
+        }
+    },
+    {
+        "label": "Bone Croupier",
+        "key": "BoneCroupier",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/BoneCroupier.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/BoneCroupier.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/BoneCroupier.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/BoneCroupier.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "family": [
+                "outcast",
+                "worker"
+            ]
+        }
+    },
+    {
+        "label": "Cadaverous Rake",
+        "key": "CadaverousRake",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/CadaverousRake.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/CadaverousRake.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/CadaverousRake.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/CadaverousRake.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "equipment": [
+                "light",
+                "medium"
+            ]
+        }
+    },
+    {
+        "label": "Child Of Urgathoa",
+        "key": "ChildOfUrgathoa",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/ChildOfUrgathoa.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/ChildOfUrgathoa.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/ChildOfUrgathoa.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/ChildOfUrgathoa.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ]
+        }
+    },
+    {
+        "label": "Combusted",
+        "key": "Combusted",
+        "source": "PF1e Bestiary 6",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Combusted.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Combusted.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Combusted.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Combusted.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ]
+        }
+    },
+    {
+        "label": "Combusted",
+        "key": "Combusted_2",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Combusted_2.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Combusted_2.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Combusted_2.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Combusted_2.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ]
+        }
+    },
+    {
+        "label": "Corpseroot",
+        "key": "Corpseroot",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Corpseroot.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Corpseroot.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Corpseroot.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Corpseroot.webp"
+        },
+        "tags": {
+            "category": [
+                "plant",
+                "undead"
+            ]
+        }
+    },
+    {
+        "label": "Daqqanoenyent",
+        "key": "Daqqanoenyent",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Daqqanoenyent.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Daqqanoenyent.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Daqqanoenyent.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Daqqanoenyent.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ]
+        }
+    },
+    {
+        "label": "Death Coach",
+        "key": "DeathCoach",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/DeathCoach.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/DeathCoach.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/DeathCoach.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/DeathCoach.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ]
+        }
+    },
+    {
+        "label": "Death Coach",
+        "key": "DeathCoach_2",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/DeathCoach_2.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/DeathCoach_2.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/DeathCoach_2.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/DeathCoach_2.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ]
+        }
+    },
+    {
+        "label": "Deathless Acolyte Of Urgathoa",
+        "key": "DeathlessAcolyteOfUrgathoa",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/DeathlessAcolyteOfUrgathoa.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/DeathlessAcolyteOfUrgathoa.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/DeathlessAcolyteOfUrgathoa.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/DeathlessAcolyteOfUrgathoa.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "Zombie"
+            ],
+            "family": [
+                "sage"
+            ],
+            "features": [
+                "magic"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ]
+        }
+    },
+    {
+        "label": "Deathless Hierophant Of Urgathoa",
+        "key": "DeathlessHierophantOfUrgathoa",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/DeathlessHierophantOfUrgathoa.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/DeathlessHierophantOfUrgathoa.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/DeathlessHierophantOfUrgathoa.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/DeathlessHierophantOfUrgathoa.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "Zombie"
+            ],
+            "family": [
+                "sage"
+            ],
+            "features": [
+                "magic"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ]
+        }
+    },
+    {
+        "label": "Decrepit Mummy",
+        "key": "DecrepitMummy",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/DecrepitMummy.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/DecrepitMummy.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/DecrepitMummy.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/DecrepitMummy.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "Mummy"
+            ]
+        }
+    },
+    {
+        "label": "Drake Skeleton",
+        "key": "DrakeSkeleton",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/DrakeSkeleton.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/DrakeSkeleton.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/DrakeSkeleton.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/DrakeSkeleton.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic",
+                "undead"
+            ]
+        }
+    },
+    {
+        "label": "Ecorche",
+        "key": "Ecorche",
+        "source": "PF1e Bestiary 3",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Ecorche.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Ecorche.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Ecorche.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Ecorche.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ]
+        }
+    },
+    {
+        "label": "Ecorche",
+        "key": "Ecorche_2",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Ecorche_2.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Ecorche_2.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Ecorche_2.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Ecorche_2.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ]
+        }
+    },
+    {
+        "label": "Excorion",
+        "key": "Excorion",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Excorion.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Excorion.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Excorion.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Excorion.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ]
+        }
+    },
+    {
+        "label": "Faithless Ecclesiarch",
+        "key": "FaithlessEcclesiarch",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/FaithlessEcclesiarch.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/FaithlessEcclesiarch.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/FaithlessEcclesiarch.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/FaithlessEcclesiarch.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "zombie"
+            ],
+            "equipment": [
+                "clothing",
+                "focus",
+                "light"
+            ],
+            "family": [
+                "sage"
+            ]
+        }
+    },
+    {
+        "label": "Fallen Champion",
+        "key": "FallenChampion",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/FallenChampion.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/FallenChampion.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/FallenChampion.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/FallenChampion.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "skeleton"
+            ],
+            "equipment": [
+                "light",
+                "medium",
+                "shield",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Festering Gnasher",
+        "key": "FesteringGnasher",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/FesteringGnasher.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/FesteringGnasher.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/FesteringGnasher.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/FesteringGnasher.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "zombie"
+            ]
+        }
+    },
+    {
+        "label": "Fiddling Bones",
+        "key": "FiddlingBones",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/FiddlingBones.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/FiddlingBones.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/FiddlingBones.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/FiddlingBones.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "skeleton"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ]
+        }
+    },
+    {
+        "label": "Fluxwraith",
+        "key": "Fluxwraith",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Fluxwraith.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Fluxwraith.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Fluxwraith.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Fluxwraith.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghost"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ]
+        }
+    },
+    {
+        "label": "Gallowdead",
+        "key": "Gallowdead",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Gallowdead.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Gallowdead.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Gallowdead.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Gallowdead.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "skeleton"
+            ],
+            "equipment": [
+                "heavy"
+            ]
+        }
+    },
+    {
+        "label": "Gashadokuro",
+        "key": "Gashadokuro",
+        "source": "PF1e Bestiary 4",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Gashadokuro.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Gashadokuro.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Gashadokuro.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Gashadokuro.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "skeleton"
+            ]
+        }
+    },
+    {
+        "label": "Gashadokuro",
+        "key": "Gashadokuro_2",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Gashadokuro_2.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Gashadokuro_2.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Gashadokuro_2.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Gashadokuro_2.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "skeleton"
+            ]
+        }
+    },
+    {
+        "label": "Geist",
+        "key": "Geist",
+        "source": "PF1e Bestiary 4",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Geist.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Geist.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Geist.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Geist.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghost"
+            ]
+        }
+    },
+    {
+        "label": "Geist",
+        "key": "Geist_2",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Geist_2.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Geist_2.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Geist_2.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Geist_2.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghost"
+            ]
+        }
+    },
+    {
+        "label": "Gholdako",
+        "key": "Gholdako",
+        "source": "PF1e Bestiary 4",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Gholdako.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Gholdako.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Gholdako.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Gholdako.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "cyclops",
+                "mummy"
+            ]
+        }
+    },
+    {
+        "label": "Gholdako",
+        "key": "Gholdako_2",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Gholdako_2.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Gholdako_2.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Gholdako_2.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Gholdako_2.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "cyclops",
+                "mummy"
+            ]
+        }
+    },
+    {
+        "label": "Ghost Pirate Captain",
+        "key": "GhostPirateCaptain",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/GhostPirateCaptain.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/GhostPirateCaptain.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/GhostPirateCaptain.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/GhostPirateCaptain.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghost"
+            ],
+            "equipment": [
+                "clothing",
+                "crossbow",
+                "light",
+                "medium",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Ghul",
+        "key": "Ghul",
+        "source": "PF1e Bestiary 3",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Ghul.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Ghul.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Ghul.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Ghul.webp"
+        },
+        "tags": {
+            "category": [
+                "elemental",
+                "undead"
+            ],
+            "ancestry": [
+                "geniekin"
+            ],
+            "equipment": [
+                "clothing",
+                "tome"
+            ]
+        }
+    },
+    {
+        "label": "Ghul",
+        "key": "Ghul_2",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Ghul_2.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Ghul_2.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Ghul_2.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Ghul_2.webp"
+        },
+        "tags": {
+            "category": [
+                "elemental",
+                "undead"
+            ],
+            "ancestry": [
+                "geniekin"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ]
+        }
+    },
+    {
+        "label": "Grappling Spirit",
+        "key": "GrapplingSpirit",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/GrapplingSpirit.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/GrapplingSpirit.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/GrapplingSpirit.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/GrapplingSpirit.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghost"
+            ],
+            "equipment": [
+                "clothing",
+                "light",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Graveknight Warmaster",
+        "key": "GraveknightWarmaster",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/GraveknightWarmaster.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/GraveknightWarmaster.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/GraveknightWarmaster.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/GraveknightWarmaster.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "zombie"
+            ],
+            "equipment": [
+                "crossbow",
+                "flail",
+                "heavy"
+            ],
+            "features": [
+                "dual-wielding"
+            ],
+            "family": [
+                "warrior"
+            ]
+        }
+    },
+    {
+        "label": "Harlo Krant",
+        "key": "HarloKrant",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/HarloKrant.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/HarloKrant.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/HarloKrant.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/HarloKrant.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "zombie"
+            ],
+            "equipment": [
+                "clothing",
+                "light",
+                "tome"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Hollow Serpent",
+        "key": "HollowSerpent",
+        "source": "PF1e Bestiary 3",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/HollowSerpent.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/HollowSerpent.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/HollowSerpent.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/HollowSerpent.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial",
+                "undead"
+            ]
+        }
+    },
+    {
+        "label": "Hollow Serpent",
+        "key": "HollowSerpent_2",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/HollowSerpent_2.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/HollowSerpent_2.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/HollowSerpent_2.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/HollowSerpent_2.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial",
+                "undead"
+            ]
+        }
+    },
+    {
+        "label": "Horde Lich",
+        "key": "HordeLich",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/HordeLich.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/HordeLich.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/HordeLich.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/HordeLich.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "lich",
+                "skeleton"
+            ],
+            "equipment": [
+                "clothing",
+                "focus",
+                "light",
+                "tome",
+                "unarmored"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Hungry Ghost",
+        "key": "HungryGhost",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/HungryGhost.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/HungryGhost.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/HungryGhost.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/HungryGhost.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghost"
+            ]
+        }
+    },
+    {
+        "label": "Hunter Wight",
+        "key": "HunterWight",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/HunterWight.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/HunterWight.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/HunterWight.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/HunterWight.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "wight"
+            ]
+        }
+    },
+    {
+        "label": "Husk Zombie",
+        "key": "HuskZombie",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/HuskZombie.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/HuskZombie.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/HuskZombie.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/HuskZombie.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "zombie"
+            ]
+        }
+    },
+    {
+        "label": "Ice Mummy",
+        "key": "IceMummy",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/IceMummy.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/IceMummy.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/IceMummy.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/IceMummy.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "mummy"
+            ]
+        }
+    },
+    {
+        "label": "Ichor Slinger",
+        "key": "IchorSlinger",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/IchorSlinger.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/IchorSlinger.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/IchorSlinger.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/IchorSlinger.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ]
+        }
+    },
+    {
+        "label": "Iroran Mummy",
+        "key": "IroranMummy",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/IroranMummy.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/IroranMummy.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/IroranMummy.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/IroranMummy.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "mummy"
+            ]
+        }
+    },
+    {
+        "label": "Iruxi Ossature",
+        "key": "IruxiOssature",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/IruxiOssature.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/IruxiOssature.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/IruxiOssature.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/IruxiOssature.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "iruxi",
+                "skeleton"
+            ]
+        }
+    },
+    {
+        "label": "Jitterbone Contortionist",
+        "key": "JitterboneContortionist",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/JitterboneContortionist.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/JitterboneContortionist.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/JitterboneContortionist.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/JitterboneContortionist.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "halfling"
+            ]
+        }
+    },
+    {
+        "label": "Lacedon",
+        "key": "Lacedon",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Lacedon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Lacedon.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Lacedon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Lacedon.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ]
+        }
+    },
+    {
+        "label": "Last Guard",
+        "key": "LastGuard",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/LastGuard.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/LastGuard.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/LastGuard.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/LastGuard.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghost"
+            ]
+        }
+    },
+    {
+        "label": "Little Man In The Woods",
+        "key": "LittleManInTheWoods",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/LittleManInTheWoods.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/LittleManInTheWoods.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/LittleManInTheWoods.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/LittleManInTheWoods.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ]
+        }
+    },
+    {
+        "label": "Llorona",
+        "key": "Llorona",
+        "source": "PF1e Bestiary 6",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Llorona.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Llorona.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Llorona.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Llorona.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghost"
+            ]
+        }
+    },
+    {
+        "label": "Llorona",
+        "key": "Llorona_2",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Llorona_2.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Llorona_2.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Llorona_2.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Llorona_2.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghost"
+            ]
+        }
+    },
+    {
+        "label": "Minister Of Tumult",
+        "key": "MinisterOfTumult",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/MinisterOfTumult.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/MinisterOfTumult.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/MinisterOfTumult.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/MinisterOfTumult.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "vampire"
+            ]
+        }
+    },
+    {
+        "label": "Mummified Cat",
+        "key": "MummifiedCat",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/MummifiedCat.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/MummifiedCat.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/MummifiedCat.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/MummifiedCat.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial",
+                "undead"
+            ],
+            "ancestry": [
+                "mummy"
+            ]
+        }
+    },
+    {
+        "label": "Mummy Prophet Of Set",
+        "key": "MummyProphetOfSet",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/MummyProphetOfSet.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/MummyProphetOfSet.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/MummyProphetOfSet.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/MummyProphetOfSet.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "mummy"
+            ]
+        }
+    },
+    {
+        "label": "Nasurgeth",
+        "key": "Nasurgeth",
+        "source": "PF1e Bestiary 2",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Nasurgeth.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Nasurgeth.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Nasurgeth.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Nasurgeth.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "darvakka"
+            ]
+        }
+    },
+    {
+        "label": "Nasurgeth",
+        "key": "Nasurgeth_2",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Nasurgeth_2.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Nasurgeth_2.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Nasurgeth_2.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Nasurgeth_2.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "darvakka"
+            ]
+        }
+    },
+    {
+        "label": "Obrousian",
+        "key": "Obrousian",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Obrousian.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Obrousian.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Obrousian.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Obrousian.webp"
+        },
+        "tags": {
+            "category": [
+                "aquatic",
+                "undead"
+            ],
+            "ancestry": [
+                "merfolk"
+            ]
+        }
+    },
+    {
+        "label": "Onryo",
+        "key": "Onryo",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Onryo.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Onryo.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Onryo.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Onryo.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ]
+        }
+    },
+    {
+        "label": "Pale Sovereign",
+        "key": "PaleSovereign",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/PaleSovereign.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/PaleSovereign.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/PaleSovereign.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/PaleSovereign.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ]
+        }
+    },
+    {
+        "label": "Pale Stranger",
+        "key": "PaleStranger",
+        "source": "PF1e Bestiary 3",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/PaleStranger.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/PaleStranger.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/PaleStranger.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/PaleStranger.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "zombie"
+            ]
+        }
+    },
+    {
+        "label": "Pale Stranger",
+        "key": "PaleStranger_2",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/PaleStranger_2.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/PaleStranger_2.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/PaleStranger_2.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/PaleStranger_2.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "zombie"
+            ]
+        }
+    },
+    {
+        "label": "Polong",
+        "key": "Polong",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Polong.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Polong.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Polong.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Polong.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ]
+        }
+    },
+    {
+        "label": "Polong",
+        "key": "Polong_2",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Polong_2.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Polong_2.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Polong_2.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Polong_2.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ]
+        }
+    },
+    {
+        "label": "Predatory Rabbit",
+        "key": "PredatoryRabbit",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/PredatoryRabbit.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/PredatoryRabbit.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/PredatoryRabbit.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/PredatoryRabbit.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial",
+                "undead"
+            ],
+            "ancestry": [
+                "zombie"
+            ]
+        }
+    },
+    {
+        "label": "Priest Of Kabriri",
+        "key": "PriestOfKabriri",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/PriestOfKabriri.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/PriestOfKabriri.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/PriestOfKabriri.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/PriestOfKabriri.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghoul"
+            ]
+        }
+    },
+    {
+        "label": "Provincial Jiang Shi",
+        "key": "ProvincialJiangShi",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/ProvincialJiangShi.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/ProvincialJiangShi.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/ProvincialJiangShi.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/ProvincialJiangShi.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "vampire"
+            ]
+        }
+    },
+    {
+        "label": "Prowler Wight",
+        "key": "ProwlerWight",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/ProwlerWight.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/ProwlerWight.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/ProwlerWight.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/ProwlerWight.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "wight"
+            ]
+        }
+    },
+    {
+        "label": "Queen Sluach",
+        "key": "QueenSluach",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/QueenSluach.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/QueenSluach.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/QueenSluach.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/QueenSluach.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ]
+        }
+    },
+    {
+        "label": "Raw Nerve",
+        "key": "RawNerve",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/RawNerve.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/RawNerve.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/RawNerve.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/RawNerve.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ]
+        }
+    },
+    {
+        "label": "Relictner Eroder",
+        "key": "RelictnerEroder",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/RelictnerEroder.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/RelictnerEroder.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/RelictnerEroder.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/RelictnerEroder.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ]
+        }
+    },
+    {
+        "label": "Runecarved Lich",
+        "key": "RunecarvedLich",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/RunecarvedLich.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/RunecarvedLich.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/RunecarvedLich.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/RunecarvedLich.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "lich",
+                "skeleton"
+            ]
+        }
+    },
+    {
+        "label": "Scorned Hound",
+        "key": "ScornedHound",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/ScornedHound.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/ScornedHound.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/ScornedHound.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/ScornedHound.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial",
+                "undead"
+            ],
+            "ancestry": [
+                "zombie"
+            ]
+        }
+    },
+    {
+        "label": "Seetangeist",
+        "key": "Seetangeist",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Seetangeist.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Seetangeist.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Seetangeist.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Seetangeist.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial",
+                "undead"
+            ],
+            "ancestry": [
+                "zombie"
+            ]
+        }
+    },
+    {
+        "label": "Shadern Immolator",
+        "key": "ShadernImmolator",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/ShadernImmolator.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/ShadernImmolator.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/ShadernImmolator.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/ShadernImmolator.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ]
+        }
+    },
+    {
+        "label": "Shredskin",
+        "key": "Shredskin",
+        "source": "PF1e Bestiary 4",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Shredskin.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Shredskin.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Shredskin.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Shredskin.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ]
+        }
+    },
+    {
+        "label": "Shredskin",
+        "key": "Shredskin_2",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Shredskin_2.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Shredskin_2.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Shredskin_2.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Shredskin_2.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ]
+        }
+    },
+    {
+        "label": "Siabrae",
+        "key": "Siabrae",
+        "source": "PF1e Bestiary 6",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Siabrae.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Siabrae.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Siabrae.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Siabrae.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "skeleton"
+            ]
+        }
+    },
+    {
+        "label": "Silent Stalker",
+        "key": "SilentStalker",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/SilentStalker.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/SilentStalker.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/SilentStalker.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/SilentStalker.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ]
+        }
+    },
+    {
+        "label": "Skeletal Mage",
+        "key": "SkeletalMage",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/SkeletalMage.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/SkeletalMage.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/SkeletalMage.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/SkeletalMage.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "skeleton"
+            ]
+        }
+    },
+    {
+        "label": "Skeletal Soldier",
+        "key": "SkeletalSoldier",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/SkeletalSoldier.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/SkeletalSoldier.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/SkeletalSoldier.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/SkeletalSoldier.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "skeleton"
+            ]
+        }
+    },
+    {
+        "label": "Skeletal Titan",
+        "key": "SkeletalTitan",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/SkeletalTitan.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/SkeletalTitan.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/SkeletalTitan.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/SkeletalTitan.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "skeleton"
+            ]
+        }
+    },
+    {
+        "label": "Sluagh Reaper",
+        "key": "SluaghReaper",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/SluaghReaper.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/SluaghReaper.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/SluaghReaper.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/SluaghReaper.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ]
+        }
+    },
+    {
+        "label": "Sykever",
+        "key": "Sykever",
+        "source": "PF1e Bestiary 2",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Sykever.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Sykever.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Sykever.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Sykever.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "darvakka"
+            ]
+        }
+    },
+    {
+        "label": "Sykever",
+        "key": "Sykever_2",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Sykever_2.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Sykever_2.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Sykever_2.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Sykever_2.webp"
+        },
+        "tags": {
+            "ancestry": [
+                "darvakka"
+            ],
+            "category": [
+                "undead"
+            ]
+        }
+    },
+    {
+        "label": "Taunting Skull",
+        "key": "TauntingSkull",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/TauntingSkull.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/TauntingSkull.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/TauntingSkull.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/TauntingSkull.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "skeleton"
+            ]
+        }
+    },
+    {
+        "label": "Tormented",
+        "key": "Tormented",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Tormented.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Tormented.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Tormented.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Tormented.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "zombie"
+            ]
+        }
+    },
+    {
+        "label": "Unrisen",
+        "key": "Unrisen",
+        "source": "PF1e Bestiary 6",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Unrisen.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Unrisen.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Unrisen.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Unrisen.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ]
+        }
+    },
+    {
+        "label": "Unrisen",
+        "key": "Unrisen_2",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Unrisen_2.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Unrisen_2.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Unrisen_2.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Unrisen_2.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ]
+        }
+    },
+    {
+        "label": "Urveth",
+        "key": "Urveth",
+        "source": "PF1e Bestiary 2",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Urveth.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Urveth.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Urveth.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Urveth.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "darvakka"
+            ]
+        }
+    },
+    {
+        "label": "Urveth",
+        "key": "Urveth_2",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Urveth_2.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Urveth_2.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Urveth_2.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Urveth_2.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "darvakka"
+            ]
+        }
+    },
+    {
+        "label": "Vanyver",
+        "key": "Vanyver",
+        "source": "PF1e Bestiary 2",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Vanyver.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Vanyver.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Vanyver.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Vanyver.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "darvakka"
+            ]
+        }
+    },
+    {
+        "label": "Vanyver",
+        "key": "Vanyver_2",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Vanyver_2.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Vanyver_2.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Vanyver_2.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Vanyver_2.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "darvakka"
+            ]
+        }
+    },
+    {
+        "label": "Vetalarana Emergent",
+        "key": "VetalaranaEmergent",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/VetalaranaEmergent.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/VetalaranaEmergent.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/VetalaranaEmergent.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/VetalaranaEmergent.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "vampire"
+            ]
+        }
+    },
+    {
+        "label": "Vetalarana Manipulator",
+        "key": "VetalaranaManipulator",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/VetalaranaManipulator.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/VetalaranaManipulator.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/VetalaranaManipulator.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/VetalaranaManipulator.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "vampire"
+            ]
+        }
+    },
+    {
+        "label": "Waldgeist",
+        "key": "Waldgeist",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Waldgeist.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Waldgeist.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Waldgeist.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Waldgeist.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghost"
+            ]
+        }
+    },
+    {
+        "label": "Wight Commander",
+        "key": "WightCommander",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/WightCommander.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/WightCommander.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/WightCommander.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/WightCommander.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "wight"
+            ]
+        }
+    },
+    {
+        "label": "Withered",
+        "key": "Withered",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Withered.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/Withered.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/Withered.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Withered.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "zombie"
+            ],
+            "equipment": [
+                "medium",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Wolf Skeleton",
+        "key": "WolfSkeleton",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/WolfSkeleton.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/WolfSkeleton.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/WolfSkeleton.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/WolfSkeleton.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial",
+                "undead"
+            ],
+            "ancestry": [
+                "skeleton"
+            ]
+        }
+    },
+    {
+        "label": "Zombie Lord",
+        "key": "ZombieLord",
+        "source": "PF1e Bestiary 4",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/ZombieLord.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/ZombieLord.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/ZombieLord.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/ZombieLord.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "zombie"
+            ]
+        }
+    },
+    {
+        "label": "Zombie Lord",
+        "key": "ZombieLord_2",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/ZombieLord_2.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/ZombieLord_2.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/ZombieLord_2.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/ZombieLord_2.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "zombie"
+            ]
+        }
+    },
+    {
+        "label": "Zombie Mammoth",
+        "key": "ZombieMammoth",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/ZombieMammoth.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/ZombieMammoth.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/ZombieMammoth.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/ZombieMammoth.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial",
+                "undead"
+            ],
+            "ancestry": [
+                "zombie"
+            ]
+        }
+    },
+    {
+        "label": "Zombie Owlbear",
+        "key": "ZombieOwlbear",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/ZombieOwlbear.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/ZombieOwlbear.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/ZombieOwlbear.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/ZombieOwlbear.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial",
+                "undead"
+            ],
+            "ancestry": [
+                "zombie"
+            ]
+        }
+    },
+    {
+        "label": "Zombie Snake",
+        "key": "ZombieSnake",
+        "source": "Pathfinder Book of the Dead",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/ZombieSnake.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/rulebook/rulebook-book-of-the-dead-bestiary/ZombieSnake.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/rulebook/rulebook-book-of-the-dead-bestiary/ZombieSnake.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/ZombieSnake.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial",
+                "undead"
+            ],
+            "ancestry": [
+                "zombie"
+            ]
+        }
+    }
+]

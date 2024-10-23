@@ -1,0 +1,215 @@
+[
+    {
+        "label": "Burning Mammoth Commando",
+        "key": "burningMammothCommando",
+        "source": "Quest for the Frozen Flame",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/adventure-path/adventure-path-quest-for-the-frozen-flame/BurningMammothCommando.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/adventure-path/adventure-path-quest-for-the-frozen-flame/BurningMammothCommando.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/adventure-path/adventure-path-quest-for-the-frozen-flame/BurningMammothCommando.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/adventure-path/adventure-path-quest-for-the-frozen-flame/BurningMammothCommando.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "equipment": [
+                "light",
+                "medium",
+                "sword"
+            ],
+            "features": [
+                "dual-wielding"
+            ],
+            "ancestry": [
+                "human"
+            ]
+        }
+    },
+    {
+        "label": "Everburning Mammoth",
+        "key": "everburningMammoth",
+        "source": "Quest for the Frozen Flame",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/adventure-path/adventure-path-quest-for-the-frozen-flame/EverburningMammoth.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/adventure-path/adventure-path-quest-for-the-frozen-flame/EverburningMammoth.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/adventure-path/adventure-path-quest-for-the-frozen-flame/EverburningMammoth.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/adventure-path/adventure-path-quest-for-the-frozen-flame/EverburningMammoth.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "axe",
+                "clothing",
+                "light"
+            ],
+            "features": [
+                "dual-wielding",
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Ivarsa",
+        "key": "ivarsa",
+        "source": "Quest for the Frozen Flame",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/adventure-path/adventure-path-quest-for-the-frozen-flame/Ivarsa.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/adventure-path/adventure-path-quest-for-the-frozen-flame/Ivarsa.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/adventure-path/adventure-path-quest-for-the-frozen-flame/Ivarsa.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/adventure-path/adventure-path-quest-for-the-frozen-flame/Ivarsa.webp"
+        },
+        "tags": {
+            "special": [
+                "unique"
+            ],
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "axe",
+                "light",
+                "medium"
+            ],
+            "features": [
+                "dual-wielding",
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Jesseri The Hailstorm",
+        "key": "jesseriTheHailstorm",
+        "source": "Quest for the Frozen Flame",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/adventure-path/adventure-path-quest-for-the-frozen-flame/JesseriTheHailstorm.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/adventure-path/adventure-path-quest-for-the-frozen-flame/JesseriTheHailstorm.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/adventure-path/adventure-path-quest-for-the-frozen-flame/JesseriTheHailstorm.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/adventure-path/adventure-path-quest-for-the-frozen-flame/JesseriTheHailstorm.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "focus",
+                "light"
+            ],
+            "features": [
+                "dual-wielding",
+                "magic",
+                "nature"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Lomok",
+        "key": "lomok",
+        "source": "Quest for the Frozen Flame",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/adventure-path/adventure-path-quest-for-the-frozen-flame/Lomok.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/adventure-path/adventure-path-quest-for-the-frozen-flame/Lomok.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/adventure-path/adventure-path-quest-for-the-frozen-flame/Lomok.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/adventure-path/adventure-path-quest-for-the-frozen-flame/Lomok.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "nephilim"
+            ],
+            "equipment": [
+                "clothing",
+                "light",
+                "medium",
+                "shield",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Metuak",
+        "key": "metuak",
+        "source": "Quest for the Frozen Flame",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/adventure-path/adventure-path-quest-for-the-frozen-flame/Metuak.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/adventure-path/adventure-path-quest-for-the-frozen-flame/Metuak.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/adventure-path/adventure-path-quest-for-the-frozen-flame/Metuak.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/adventure-path/adventure-path-quest-for-the-frozen-flame/Metuak.webp"
+        },
+        "tags": {
+            "special": [
+                "unique"
+            ],
+            "category": [
+                "fiendish",
+                "humanoid"
+            ],
+            "ancestry": [
+                "human",
+                "invidiak"
+            ],
+            "equipment": [
+                "axe",
+                "clothing",
+                "light",
+                "unarmored"
+            ],
+            "features": [
+                "companion",
+                "magic",
+                "winged"
+            ],
+            "family": [
+                "demon"
+            ]
+        }
+    },
+    {
+        "label": "Syarstik Painted Tiger",
+        "key": "syarstikPaintedTiger",
+        "source": "Quest for the Frozen Flame",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF2e/portraits/adventure-path/adventure-path-quest-for-the-frozen-flame/SyarstikPaintedTiger.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF2e/thumbs/adventure-path/adventure-path-quest-for-the-frozen-flame/SyarstikPaintedTiger.webp",
+            "token": "modules/pf2e-token-art/assets/PF2e/tokens/adventure-path/adventure-path-quest-for-the-frozen-flame/SyarstikPaintedTiger.webp",
+            "subject": "modules/pf2e-token-art/assets/PF2e/subjects/adventure-path/adventure-path-quest-for-the-frozen-flame/SyarstikPaintedTiger.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial",
+                "undead"
+            ],
+            "special": [
+                "unique"
+            ],
+            "ancestry": [
+                "ghost",
+                "smilodon"
+            ],
+            "family": [
+                "incorporeal"
+            ]
+        }
+    }
+]

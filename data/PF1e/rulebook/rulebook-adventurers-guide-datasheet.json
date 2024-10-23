@@ -1,0 +1,3392 @@
+[
+    {
+        "label": "A. X. Adrius",
+        "key": "A.X.AdriusPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/A.X.Adrius.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/A.X.Adrius.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/A.X.Adrius.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/A.X.Adrius.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "aspis consortium"
+            ]
+        }
+    },
+    {
+        "label": "Aldori Swordlord",
+        "key": "AldoriSwordlordPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/AldoriSwordlord.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/AldoriSwordlord.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/AldoriSwordlord.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/AldoriSwordlord.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "light",
+                "medium",
+                "sword"
+            ],
+            "family": [
+                "aldori swordlord"
+            ]
+        }
+    },
+    {
+        "label": "Aldori Swordlord Taunt",
+        "key": "AldoriSwordlordTauntPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/AldoriSwordlordTaunt.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/AldoriSwordlordTaunt.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/AldoriSwordlordTaunt.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/AldoriSwordlordTaunt.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "light",
+                "sword"
+            ],
+            "family": [
+                "aldori swordlord"
+            ]
+        }
+    },
+    {
+        "label": "Anandala",
+        "key": "AnandalaPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/Anandala.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/Anandala.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/Anandala.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/Anandala.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "house of perfection"
+            ]
+        }
+    },
+    {
+        "label": "Andira Marusek",
+        "key": "AndiraMarusekPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/AndiraMarusek.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/AndiraMarusek.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/AndiraMarusek.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/AndiraMarusek.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "heavy"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "eagle knight"
+            ]
+        }
+    },
+    {
+        "label": "Arcanist Magaambyan Initiate",
+        "key": "ArcanistMagaambyanInitiatePF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/ArcanistMagaambyanInitiate.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/ArcanistMagaambyanInitiate.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/ArcanistMagaambyanInitiate.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/ArcanistMagaambyanInitiate.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "light"
+            ],
+            "features": [
+                "magic"
+            ],
+            "family": [
+                "magaambya"
+            ]
+        }
+    },
+    {
+        "label": "Argent Dramaturge",
+        "key": "ArgentDramaturgePF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/ArgentDramaturge.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/ArgentDramaturge.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/ArgentDramaturge.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/ArgentDramaturge.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ]
+        }
+    },
+    {
+        "label": "Asavir",
+        "key": "AsavirPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/Asavir.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/Asavir.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/Asavir.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/Asavir.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "heavy",
+                "medium",
+                "sword"
+            ],
+            "features": [
+                "companion"
+            ]
+        }
+    },
+    {
+        "label": "Aspexia Wintrish",
+        "key": "AspexiaWintrishPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/AspexiaWintrish.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/AspexiaWintrish.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/AspexiaWintrish.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/AspexiaWintrish.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "changeling"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "council of thieves"
+            ]
+        }
+    },
+    {
+        "label": "Aspis Agent",
+        "key": "AspisAgentPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/AspisAgent.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/AspisAgent.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/AspisAgent.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/AspisAgent.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "aiuvarin"
+            ],
+            "equipment": [
+                "knife",
+                "medium",
+                "sword"
+            ],
+            "family": [
+                "aspis consortium"
+            ]
+        }
+    },
+    {
+        "label": "Aspis Consortium Affiliated",
+        "key": "AspisConsortiumAffiliatedPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/AspisConsortiumAffiliated.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/AspisConsortiumAffiliated.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/AspisConsortiumAffiliated.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/AspisConsortiumAffiliated.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dhampir"
+            ],
+            "equipment": [
+                "heavy",
+                "sword"
+            ],
+            "family": [
+                "aspis consortium"
+            ]
+        }
+    },
+    {
+        "label": "Barbarian Geminate Invoker",
+        "key": "BarbarianGeminateInvokerPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/BarbarianGeminateInvoker.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/BarbarianGeminateInvoker.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/BarbarianGeminateInvoker.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/BarbarianGeminateInvoker.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "unarmored"
+            ],
+            "features": [
+                "companion"
+            ],
+            "family": [
+                "rivethun"
+            ]
+        }
+    },
+    {
+        "label": "Barbarian Giant Stalker",
+        "key": "BarbarianGiantStalkerPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/BarbarianGiantStalker.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/BarbarianGiantStalker.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/BarbarianGiantStalker.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/BarbarianGiantStalker.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "light",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Bard Argent Voice",
+        "key": "BardArgentVoicePF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/BardArgentVoice.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/BardArgentVoice.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/BardArgentVoice.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/BardArgentVoice.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Bard Brazen Deceiver",
+        "key": "BardBrazenDeceiverPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/BardBrazenDeceiver.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/BardBrazenDeceiver.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/BardBrazenDeceiver.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/BardBrazenDeceiver.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "aiuvarin"
+            ],
+            "equipment": [
+                "knife",
+                "light",
+                "medium"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Bard Ring leader",
+        "key": "BardRingleaderPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/BardRingleader.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/BardRingleader.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/BardRingleader.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/BardRingleader.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "flail",
+                "knife",
+                "light",
+                "medium"
+            ],
+            "features": [
+                "dual-wielding"
+            ]
+        }
+    },
+    {
+        "label": "Beliana",
+        "key": "BelianaPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/Beliana.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/Beliana.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/Beliana.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/Beliana.webp"
+        },
+        "tags": {
+            "category": [
+                "elemental"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "ancestry": [
+                "jann"
+            ],
+            "family": [
+                "al-zabriti",
+                "genie"
+            ]
+        }
+    },
+    {
+        "label": "Bellflower Tiller",
+        "key": "BellflowerTillerPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/BellflowerTiller.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/BellflowerTiller.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/BellflowerTiller.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/BellflowerTiller.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "halfling"
+            ],
+            "equipment": [
+                "bow",
+                "medium"
+            ],
+            "family": [
+                "bellflower network"
+            ]
+        }
+    },
+    {
+        "label": "Blood Mistress Jakalyn",
+        "key": "BloodMistressJakalynPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/BloodMistressJakalyn.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/BloodMistressJakalyn.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/BloodMistressJakalyn.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/BloodMistressJakalyn.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "medium"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "red mantis"
+            ]
+        }
+    },
+    {
+        "label": "Bloodrager Enlightened",
+        "key": "BloodragerEnlightenedPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/BloodragerEnlightened.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/BloodragerEnlightened.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/BloodragerEnlightened.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/BloodragerEnlightened.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "light",
+                "medium",
+                "sword"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Brawler Winding Path Renegade",
+        "key": "BrawlerWindingPathRenegadePF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/BrawlerWindingPathRenegade.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/BrawlerWindingPathRenegade.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/BrawlerWindingPathRenegade.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/BrawlerWindingPathRenegade.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dromaar"
+            ],
+            "equipment": [
+                "heavy",
+                "medium"
+            ]
+        }
+    },
+    {
+        "label": "Cavalier Qadiran Horselord",
+        "key": "CavalierQadiranHorselordPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/CavalierQadiranHorselord.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/CavalierQadiranHorselord.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/CavalierQadiranHorselord.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/CavalierQadiranHorselord.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "indistinct"
+            ],
+            "equipment": [
+                "clothing",
+                "light",
+                "sword"
+            ],
+            "features": [
+                "companion"
+            ]
+        }
+    },
+    {
+        "label": "Cavalier Sister-in-arms",
+        "key": "CavalierSister-in-armsPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/CavalierSister-in-arms.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/CavalierSister-in-arms.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/CavalierSister-in-arms.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/CavalierSister-in-arms.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "heavy",
+                "sword"
+            ],
+            "family": [
+                "gray maiden"
+            ]
+        }
+    },
+    {
+        "label": "Champion Scion Of Talmandor",
+        "key": "ChampionScionOfTalmandorPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/ChampionScionOfTalmandor.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/ChampionScionOfTalmandor.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/ChampionScionOfTalmandor.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/ChampionScionOfTalmandor.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dwarf"
+            ],
+            "equipment": [
+                "heavy",
+                "shield",
+                "sword"
+            ],
+            "family": [
+                "eagle knight",
+                "iomedae"
+            ]
+        }
+    },
+    {
+        "label": "Cirildimina Alasbhallas",
+        "key": "CirildiminaAlasbhallasPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/CirildiminaAlasbhallas.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/CirildiminaAlasbhallas.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/CirildiminaAlasbhallas.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/CirildiminaAlasbhallas.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "light",
+                "medium"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "aspis consortium"
+            ]
+        }
+    },
+    {
+        "label": "Cleric Blossoming Light",
+        "key": "ClericBlossomingLightPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/ClericBlossomingLight.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/ClericBlossomingLight.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/ClericBlossomingLight.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/ClericBlossomingLight.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "aiuvarin"
+            ],
+            "equipment": [
+                "clothing",
+                "focus",
+                "light"
+            ],
+            "features": [
+                "magic"
+            ],
+            "family": [
+                "sarenrae"
+            ]
+        }
+    },
+    {
+        "label": "Council Of Thieves Ghost",
+        "key": "CouncilOfThievesGhostPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/CouncilOfThievesGhost.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/CouncilOfThievesGhost.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/CouncilOfThievesGhost.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/CouncilOfThievesGhost.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "equipment": [
+                "heavy",
+                "medium",
+                "sword"
+            ],
+            "ancestry": [
+                "ghost commoner"
+            ],
+            "family": [
+                "council of thieves",
+                "incorporeal"
+            ]
+        }
+    },
+    {
+        "label": "Crimson Chymist",
+        "key": "CrimsonChymistPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/CrimsonChymist.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/CrimsonChymist.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/CrimsonChymist.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/CrimsonChymist.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "features": [
+                "alchemy"
+            ]
+        }
+    },
+    {
+        "label": "Cyphermage",
+        "key": "CyphermagePF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/Cyphermage.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/Cyphermage.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/Cyphermage.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/Cyphermage.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dwarf"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "light",
+                "medium"
+            ],
+            "family": [
+                "cyphermage"
+            ]
+        }
+    },
+    {
+        "label": "Death Slayer",
+        "key": "DeathSlayerPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/DeathSlayer.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/DeathSlayer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/DeathSlayer.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/DeathSlayer.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "elf"
+            ],
+            "equipment": [
+                "heavy",
+                "knife",
+                "medium",
+                "sword"
+            ],
+            "features": [
+                "dual-wielding"
+            ],
+            "family": [
+                "red mantis"
+            ]
+        }
+    },
+    {
+        "label": "Druid Halcyon",
+        "key": "DruidHalcyonPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/DruidHalcyon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/DruidHalcyon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/DruidHalcyon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/DruidHalcyon.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "halfling"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "features": [
+                "magic"
+            ],
+            "family": [
+                "magaambya"
+            ]
+        }
+    },
+    {
+        "label": "Druid Sunrider",
+        "key": "DruidSunriderPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/DruidSunrider.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/DruidSunrider.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/DruidSunrider.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/DruidSunrider.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "aiuvarin"
+            ],
+            "equipment": [
+                "bow"
+            ],
+            "features": [
+                "companion"
+            ]
+        }
+    },
+    {
+        "label": "Druid Tempest",
+        "key": "DruidTempestPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/DruidTempest.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/DruidTempest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/DruidTempest.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/DruidTempest.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dromaar"
+            ],
+            "equipment": [
+                "light",
+                "medium",
+                "sword"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Eilowyn Summitor",
+        "key": "EilowynSummitorPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/EilowynSummitor.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/EilowynSummitor.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/EilowynSummitor.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/EilowynSummitor.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "aiuvarin"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "cyphermage"
+            ]
+        }
+    },
+    {
+        "label": "Elias Tammerhawk",
+        "key": "EliasTammerhawkPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/EliasTammerhawk.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/EliasTammerhawk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/EliasTammerhawk.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/EliasTammerhawk.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "cyphermage"
+            ]
+        }
+    },
+    {
+        "label": "Fiaro Belagrossi",
+        "key": "FiaroBelagrossiPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/FiaroBelagrossi.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/FiaroBelagrossi.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/FiaroBelagrossi.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/FiaroBelagrossi.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "cyphermage"
+            ]
+        }
+    },
+    {
+        "label": "Fighter Aldori Defender",
+        "key": "FighterAldoriDefenderPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/FighterAldoriDefender.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/FighterAldoriDefender.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/FighterAldoriDefender.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/FighterAldoriDefender.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "indistinct"
+            ],
+            "equipment": [
+                "clothing",
+                "light",
+                "medium",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Fighter Lore Warden",
+        "key": "FighterLoreWardenPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/FighterLoreWarden.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/FighterLoreWarden.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/FighterLoreWarden.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/FighterLoreWarden.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "light",
+                "sword"
+            ],
+            "family": [
+                "pathfinder society"
+            ]
+        }
+    },
+    {
+        "label": "Filarina Grantsliem",
+        "key": "FilarinaGrantsliemPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/FilarinaGrantsliem.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/FilarinaGrantsliem.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/FilarinaGrantsliem.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/FilarinaGrantsliem.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "heavy",
+                "medium"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "gray maiden"
+            ]
+        }
+    },
+    {
+        "label": "Garen Aldori",
+        "key": "GarenAldoriPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/GarenAldori.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/GarenAldori.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/GarenAldori.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/GarenAldori.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "light",
+                "medium"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "aldori swordlord"
+            ]
+        }
+    },
+    {
+        "label": "Golden Legionnaire",
+        "key": "GoldenLegionnairePF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/GoldenLegionnaire.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/GoldenLegionnaire.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/GoldenLegionnaire.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/GoldenLegionnaire.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "heavy",
+                "shield",
+                "sword"
+            ],
+            "features": [
+                "dual-wielding"
+            ],
+            "family": [
+                "eagle knight"
+            ]
+        }
+    },
+    {
+        "label": "Gray Corsair",
+        "key": "GrayCorsairPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/GrayCorsair.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/GrayCorsair.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/GrayCorsair.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/GrayCorsair.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "aiuvarin"
+            ],
+            "equipment": [
+                "clothing",
+                "flail",
+                "knife",
+                "light"
+            ],
+            "family": [
+                "eagle knight"
+            ]
+        }
+    },
+    {
+        "label": "Gray Maiden",
+        "key": "GrayMaidenPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/GrayMaiden.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/GrayMaiden.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/GrayMaiden.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/GrayMaiden.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "indistinct"
+            ],
+            "equipment": [
+                "heavy",
+                "shield",
+                "sword"
+            ],
+            "features": [
+                "dual-wielding"
+            ],
+            "family": [
+                "gray maiden"
+            ]
+        }
+    },
+    {
+        "label": "Great Mother Omak",
+        "key": "GreatMotherOmakPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/GreatMotherOmak.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/GreatMotherOmak.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/GreatMotherOmak.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/GreatMotherOmak.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "mammoth lord"
+            ]
+        }
+    },
+    {
+        "label": "Helena Trellis",
+        "key": "HelenaTrellisPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/HelenaTrellis.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/HelenaTrellis.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/HelenaTrellis.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/HelenaTrellis.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "heavy"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "eagle knight"
+            ]
+        }
+    },
+    {
+        "label": "Hellknight",
+        "key": "HellknightPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/Hellknight.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/Hellknight.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/Hellknight.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/Hellknight.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "indistinct"
+            ],
+            "equipment": [
+                "flail",
+                "heavy"
+            ],
+            "family": [
+                "hellknight"
+            ]
+        }
+    },
+    {
+        "label": "Hellknight Arminger",
+        "key": "FighterArmingerPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/FighterArminger.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/FighterArminger.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/FighterArminger.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/FighterArminger.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "heavy"
+            ],
+            "family": [
+                "hellknight"
+            ]
+        }
+    },
+    {
+        "label": "Hellknight Chain",
+        "key": "HellknightChainPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/HellknightChain.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/HellknightChain.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/HellknightChain.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/HellknightChain.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "elf"
+            ],
+            "equipment": [
+                "flail",
+                "heavy"
+            ],
+            "features": [
+                "magic"
+            ],
+            "family": [
+                "hellknight"
+            ]
+        }
+    },
+    {
+        "label": "Hellknight Signifer",
+        "key": "HellknightSigniferPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/HellknightSignifer.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/HellknightSignifer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/HellknightSignifer.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/HellknightSignifer.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "orc"
+            ],
+            "equipment": [
+                "heavy",
+                "sword"
+            ],
+            "features": [
+                "magic"
+            ],
+            "family": [
+                "hellknight"
+            ]
+        }
+    },
+    {
+        "label": "High Killer Dorel",
+        "key": "HighKillerDorelPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/HighKillerDorel.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/HighKillerDorel.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/HighKillerDorel.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/HighKillerDorel.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "doppelganger"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "red mantis"
+            ]
+        }
+    },
+    {
+        "label": "High Priest Saviya",
+        "key": "HighPriestSaviyaPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/HighPriestSaviya.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/HighPriestSaviya.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/HighPriestSaviya.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/HighPriestSaviya.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "elf"
+            ],
+            "equipment": [
+                "light",
+                "medium"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "red mantis"
+            ]
+        }
+    },
+    {
+        "label": "High Sun-Mage Oyamba",
+        "key": "HighSun-MageOyambaPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/HighSun-MageOyamba.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/HighSun-MageOyamba.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/HighSun-MageOyamba.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/HighSun-MageOyamba.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "magaambya"
+            ]
+        }
+    },
+    {
+        "label": "Hunter Totem-Bonded",
+        "key": "HuntereTotem-BondedPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/HuntereTotem-Bonded.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/HuntereTotem-Bonded.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/HuntereTotem-Bonded.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/HuntereTotem-Bonded.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "axe",
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Jackdaw",
+        "key": "JackdawPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/Jackdaw.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/Jackdaw.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/Jackdaw.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/Jackdaw.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "elf"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "silver raven"
+            ]
+        }
+    },
+    {
+        "label": "Jahin al-Vasti",
+        "key": "JahinAl-VastiPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/JahinAl-Vasti.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/JahinAl-Vasti.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/JahinAl-Vasti.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/JahinAl-Vasti.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "al-zabriti"
+            ]
+        }
+    },
+    {
+        "label": "Janatimo",
+        "key": "JanatimoPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/Janatimo.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/Janatimo.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/Janatimo.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/Janatimo.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "aiuvarin"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "magaambya"
+            ]
+        }
+    },
+    {
+        "label": "Jaydis Milon Malddis IV",
+        "key": "JaydisMilonMalddisIVPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/JaydisMilonMalddisIV.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/JaydisMilonMalddisIV.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/JaydisMilonMalddisIV.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/JaydisMilonMalddisIV.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "aspis consortium"
+            ]
+        }
+    },
+    {
+        "label": "Joba",
+        "key": "JobaPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/Joba.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/Joba.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/Joba.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/Joba.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "storm kindler"
+            ]
+        }
+    },
+    {
+        "label": "Kelles Vel",
+        "key": "KellesVelPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/KellesVel.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/KellesVel.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/KellesVel.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/KellesVel.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "heavy"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "gray maiden"
+            ]
+        }
+    },
+    {
+        "label": "Kreighton Shaine",
+        "key": "KreightonShainePF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/KreightonShaine.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/KreightonShaine.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/KreightonShaine.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/KreightonShaine.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "elf"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "pathfinder society"
+            ]
+        }
+    },
+    {
+        "label": "Kyra Sword",
+        "key": "KyraSwordPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/KyraSword.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/KyraSword.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/KyraSword.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/KyraSword.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "light",
+                "sword"
+            ],
+            "special": [
+                "iconic",
+                "unique"
+            ],
+            "family": [
+                "kyra"
+            ]
+        }
+    },
+    {
+        "label": "Lantern Bearer",
+        "key": "LanternBearerPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/LanternBearer.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/LanternBearer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/LanternBearer.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/LanternBearer.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "elf"
+            ],
+            "equipment": [
+                "bow",
+                "clothing",
+                "light",
+                "medium"
+            ],
+            "family": [
+                "lantern bearer"
+            ]
+        }
+    },
+    {
+        "label": "Lictor Darcyne Wrens",
+        "key": "LictorDarcyneWrensPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/LictorDarcyneWrens.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/LictorDarcyneWrens.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/LictorDarcyneWrens.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/LictorDarcyneWrens.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "heavy"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "hellknight"
+            ]
+        }
+    },
+    {
+        "label": "Lictor Severs \"Boneclaw\" DiViri",
+        "key": "LictorSeversBoneclawDiViriPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/LictorSeversBoneclawDiViri.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/LictorSeversBoneclawDiViri.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/LictorSeversBoneclawDiViri.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/LictorSeversBoneclawDiViri.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "heavy"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "hellknight"
+            ]
+        }
+    },
+    {
+        "label": "Lictor Toulon Vidoc",
+        "key": "LictorToulonVidocPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/LictorToulonVidoc.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/LictorToulonVidoc.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/LictorToulonVidoc.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/LictorToulonVidoc.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "heavy"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "hellknight"
+            ]
+        }
+    },
+    {
+        "label": "Magaambyan Arcanist",
+        "key": "MagaambyanArcanistPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/MagaambyanArcanist.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/MagaambyanArcanist.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/MagaambyanArcanist.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/MagaambyanArcanist.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "light"
+            ],
+            "features": [
+                "magic"
+            ],
+            "family": [
+                "magaambya"
+            ]
+        }
+    },
+    {
+        "label": "Magdelena Fallows",
+        "key": "MagdelenaFallowsPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/MagdelenaFallows.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/MagdelenaFallows.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/MagdelenaFallows.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/MagdelenaFallows.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "halfling"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "bellflower network"
+            ]
+        }
+    },
+    {
+        "label": "Magus Magic Warrior",
+        "key": "MagusMagicWarriorPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/MagusMagicWarrior.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/MagusMagicWarrior.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/MagusMagicWarrior.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/MagusMagicWarrior.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "indistinct"
+            ],
+            "equipment": [
+                "clothing",
+                "unarmored"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Magus Sigilus",
+        "key": "MagusSigilusPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/MagusSigilus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/MagusSigilus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/MagusSigilus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/MagusSigilus.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "medium",
+                "sword",
+                "unarmored"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Mammoth Rider",
+        "key": "MammothRiderPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/MammothRider.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/MammothRider.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/MammothRider.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/MammothRider.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "light",
+                "medium",
+                "polearm"
+            ],
+            "features": [
+                "companion"
+            ],
+            "family": [
+                "mammoth lord"
+            ]
+        }
+    },
+    {
+        "label": "Marcellano Jhaltero",
+        "key": "MarcellanoJhalteroPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/MarcellanoJhaltero.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/MarcellanoJhaltero.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/MarcellanoJhaltero.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/MarcellanoJhaltero.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "council of thieves"
+            ]
+        }
+    },
+    {
+        "label": "Marcos Farabellus",
+        "key": "MarcosFarabellusPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/MarcosFarabellus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/MarcosFarabellus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/MarcosFarabellus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/MarcosFarabellus.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "unarmored"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "pathfinder society"
+            ]
+        }
+    },
+    {
+        "label": "Medium Storm Dreamer",
+        "key": "MediumStormDreamerPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/MediumStormDreamer.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/MediumStormDreamer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/MediumStormDreamer.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/MediumStormDreamer.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "gnome"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "features": [
+                "magic"
+            ],
+            "family": [
+                "storm kindler"
+            ]
+        }
+    },
+    {
+        "label": "Mighty Kuldor",
+        "key": "MightyKuldorPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/MightyKuldor.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/MightyKuldor.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/MightyKuldor.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/MightyKuldor.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "medium"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "mammoth lord"
+            ]
+        }
+    },
+    {
+        "label": "Monk Brazen Disciple",
+        "key": "MonkBrazenDisciplePF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/MonkBrazenDisciple.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/MonkBrazenDisciple.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/MonkBrazenDisciple.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/MonkBrazenDisciple.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Myra Treachleback",
+        "key": "MyraTreachlebackPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/MyraTreachleback.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/MyraTreachleback.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/MyraTreachleback.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/MyraTreachleback.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "storm kindler"
+            ]
+        }
+    },
+    {
+        "label": "Nenakari Ougor",
+        "key": "NenakariOugorPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/NenakariOugor.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/NenakariOugor.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/NenakariOugor.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/NenakariOugor.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dwarf"
+            ],
+            "equipment": [
+                "heavy"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "rivethun"
+            ]
+        }
+    },
+    {
+        "label": "Occultist Curator",
+        "key": "OccultistCuratorPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/OccultistCurator.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/OccultistCurator.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/OccultistCurator.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/OccultistCurator.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "gnome"
+            ],
+            "equipment": [
+                "focus",
+                "light",
+                "medium",
+                "scroll"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Old-Mage Jatembe",
+        "key": "Old-MageJatembePF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/Old-MageJatembe.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/Old-MageJatembe.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/Old-MageJatembe.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/Old-MageJatembe.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "magaambya"
+            ]
+        }
+    },
+    {
+        "label": "Pathfinder Delver",
+        "key": "PathfinderDelverPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/PathfinderDelver.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/PathfinderDelver.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/PathfinderDelver.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/PathfinderDelver.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "gnome"
+            ],
+            "equipment": [
+                "clothing",
+                "knife",
+                "light",
+                "scroll"
+            ],
+            "features": [
+                "music"
+            ],
+            "family": [
+                "pathfinder society"
+            ]
+        }
+    },
+    {
+        "label": "Pathfinder Savant",
+        "key": "PathfinderSavantPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/PathfinderSavant.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/PathfinderSavant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/PathfinderSavant.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/PathfinderSavant.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "medium"
+            ],
+            "features": [
+                "magic"
+            ],
+            "family": [
+                "pathfinder society"
+            ]
+        }
+    },
+    {
+        "label": "Perelir",
+        "key": "PerelirPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/Perelir.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/Perelir.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/Perelir.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/Perelir.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "elf"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "lantern bearer"
+            ]
+        }
+    },
+    {
+        "label": "Qualins Rachmirol",
+        "key": "QualinsRachmirolPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/QualinsRachmirol.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/QualinsRachmirol.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/QualinsRachmirol.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/QualinsRachmirol.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "heavy"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "gray maiden"
+            ]
+        }
+    },
+    {
+        "label": "Rajni Ayasa",
+        "key": "RajniAyasaPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/RajniAyasa.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/RajniAyasa.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/RajniAyasa.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/RajniAyasa.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "house of perfection"
+            ]
+        }
+    },
+    {
+        "label": "Ranger Lantern Lighter",
+        "key": "RangerLanternLighterPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/RangerLanternLighter.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/RangerLanternLighter.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/RangerLanternLighter.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/RangerLanternLighter.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "elf"
+            ],
+            "equipment": [
+                "bow",
+                "knife"
+            ],
+            "family": [
+                "lantern bearer"
+            ]
+        }
+    },
+    {
+        "label": "Ranger Raven Master",
+        "key": "RangerRavenMasterPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/RangerRavenMaster.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/RangerRavenMaster.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/RangerRavenMaster.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/RangerRavenMaster.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "halfling"
+            ],
+            "equipment": [
+                "bow",
+                "heavy",
+                "medium"
+            ],
+            "features": [
+                "companion"
+            ],
+            "family": [
+                "silver raven"
+            ]
+        }
+    },
+    {
+        "label": "Raviyah al-Khurrat",
+        "key": "RaviyahAl-KhurratPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/RaviyahAl-Khurrat.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/RaviyahAl-Khurrat.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/RaviyahAl-Khurrat.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/RaviyahAl-Khurrat.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "al-zabriti"
+            ]
+        }
+    },
+    {
+        "label": "Reginald Cormoth",
+        "key": "ReginaldCormothPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/ReginaldCormoth.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/ReginaldCormoth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/ReginaldCormoth.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/ReginaldCormoth.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "eagle knight"
+            ]
+        }
+    },
+    {
+        "label": "Rexus Victocora",
+        "key": "RexusVictocoraPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/RexusVictocora.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/RexusVictocora.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/RexusVictocora.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/RexusVictocora.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "silver raven"
+            ]
+        }
+    },
+    {
+        "label": "Rivethun Emissary",
+        "key": "RivethunEmissaryPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/RivethunEmissary.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/RivethunEmissary.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/RivethunEmissary.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/RivethunEmissary.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dwarf"
+            ],
+            "equipment": [
+                "light",
+                "medium"
+            ],
+            "features": [
+                "magic"
+            ],
+            "family": [
+                "rivethun"
+            ]
+        }
+    },
+    {
+        "label": "Rogue Bellflower Irrigator",
+        "key": "RogueBellflowerIrrigatorPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/RogueBellflowerIrrigator.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/RogueBellflowerIrrigator.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/RogueBellflowerIrrigator.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/RogueBellflowerIrrigator.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dromaar"
+            ],
+            "equipment": [
+                "heavy",
+                "knife",
+                "medium",
+                "sword"
+            ],
+            "family": [
+                "bellflower network"
+            ]
+        }
+    },
+    {
+        "label": "Rogue Toxic Talon",
+        "key": "RogueToxicTalonPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/RogueToxicTalon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/RogueToxicTalon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/RogueToxicTalon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/RogueToxicTalon.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "dart",
+                "knife",
+                "medium"
+            ],
+            "family": [
+                "eagle knight"
+            ]
+        }
+    },
+    {
+        "label": "Sabriune Misraria",
+        "key": "SabriuneMisrariaPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/SabriuneMisraria.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/SabriuneMisraria.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/SabriuneMisraria.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/SabriuneMisraria.webp"
+        },
+        "tags": {
+            "category": [
+                "darklands",
+                "humanoid"
+            ],
+            "ancestry": [
+                "elf"
+            ],
+            "equipment": [
+                "heavy"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "council of thieves",
+                "drow"
+            ]
+        }
+    },
+    {
+        "label": "Sadif Hadaranvayu",
+        "key": "SadifHadaranvayuPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/SadifHadaranvayu.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/SadifHadaranvayu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/SadifHadaranvayu.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/SadifHadaranvayu.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "geniekin"
+            ],
+            "equipment": [
+                "unarmored"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "house of perfection"
+            ]
+        }
+    },
+    {
+        "label": "Sanguine Angel",
+        "key": "SanguineAngelPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/SanguineAngel.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/SanguineAngel.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/SanguineAngel.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/SanguineAngel.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "indistinct"
+            ],
+            "equipment": [
+                "heavy"
+            ],
+            "family": [
+                "gray maiden"
+            ]
+        }
+    },
+    {
+        "label": "Shaman Name-Keeper",
+        "key": "ShamanName-KeeperPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/ShamanName-Keeper.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/ShamanName-Keeper.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/ShamanName-Keeper.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/ShamanName-Keeper.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "knife",
+                "light",
+                "medium"
+            ],
+            "features": [
+                "dual-wielding",
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Shaman Name-Keeper Researching",
+        "key": "ShamanName-KeeperResearchingPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/ShamanName-KeeperResearching.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/ShamanName-KeeperResearching.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/ShamanName-KeeperResearching.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/ShamanName-KeeperResearching.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "light",
+                "medium",
+                "tome"
+            ]
+        }
+    },
+    {
+        "label": "Sirian Aldori",
+        "key": "SirianAldoriPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/SirianAldori.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/SirianAldori.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/SirianAldori.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/SirianAldori.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "aldori swordlord"
+            ]
+        }
+    },
+    {
+        "label": "Sorrina Westyr",
+        "key": "SorrinaWestyrPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/SorrinaWestyr.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/SorrinaWestyr.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/SorrinaWestyr.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/SorrinaWestyr.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "geniekin"
+            ],
+            "equipment": [
+                "clothing",
+                "unarmored"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "pathfinder society"
+            ]
+        }
+    },
+    {
+        "label": "Spiritualist Involutionist",
+        "key": "SpiritualistInvolutionistPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/SpiritualistInvolutionist.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/SpiritualistInvolutionist.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/SpiritualistInvolutionist.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/SpiritualistInvolutionist.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "ancestry": [
+                "dwarf"
+            ],
+            "features": [
+                "magic"
+            ],
+            "family": [
+                "rivethun"
+            ]
+        }
+    },
+    {
+        "label": "Steel Falcon",
+        "key": "SteelFalconPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/SteelFalcon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/SteelFalcon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/SteelFalcon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/SteelFalcon.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "crossbow",
+                "heavy",
+                "sword"
+            ],
+            "family": [
+                "eagle knight"
+            ]
+        }
+    },
+    {
+        "label": "Storm Kindler",
+        "key": "StormKindlerPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/StormKindler.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/StormKindler.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/StormKindler.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/StormKindler.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "features": [
+                "magic"
+            ],
+            "family": [
+                "storm kindler"
+            ]
+        }
+    },
+    {
+        "label": "Student Of Perfection",
+        "key": "StudentOfPerfectionPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/StudentOfPerfection.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/StudentOfPerfection.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/StudentOfPerfection.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/StudentOfPerfection.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "unarmored"
+            ],
+            "features": [
+                "magic"
+            ],
+            "family": [
+                "house of perfection"
+            ]
+        }
+    },
+    {
+        "label": "Student Of War",
+        "key": "StudentOfWarPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/StudentOfWar.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/StudentOfWar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/StudentOfWar.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/StudentOfWar.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dwarf"
+            ],
+            "equipment": [
+                "heavy",
+                "polearm"
+            ],
+            "features": [
+                "companion"
+            ]
+        }
+    },
+    {
+        "label": "Summoner Devil Binder",
+        "key": "SummonerDevilBinderPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/SummonerDevilBinder.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/SummonerDevilBinder.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/SummonerDevilBinder.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/SummonerDevilBinder.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dwarf"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Swashbuckler Dashing Thief",
+        "key": "SwashbucklerDashingThiefPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/SwashbucklerDashingThief.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/SwashbucklerDashingThief.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/SwashbucklerDashingThief.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/SwashbucklerDashingThief.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "light",
+                "sword",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Swashbuckler Rostland Bravo",
+        "key": "SwashbucklerRostlandBravoPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/SwashbucklerRostlandBravo.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/SwashbucklerRostlandBravo.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/SwashbucklerRostlandBravo.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/SwashbucklerRostlandBravo.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "heavy",
+                "medium",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Telessel Neirenar",
+        "key": "TelesselNeirenarPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/TelesselNeirenar.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/TelesselNeirenar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/TelesselNeirenar.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/TelesselNeirenar.webp"
+        },
+        "tags": {
+            "category": [
+                "darklands",
+                "humanoid"
+            ],
+            "ancestry": [
+                "elf"
+            ],
+            "equipment": [
+                "medium"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "drow",
+                "lantern bearer"
+            ]
+        }
+    },
+    {
+        "label": "Third Rent in the Basalt",
+        "key": "ThirdRentInTheBasaltPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/ThirdRentInTheBasalt.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/ThirdRentInTheBasalt.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/ThirdRentInTheBasalt.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/ThirdRentInTheBasalt.webp"
+        },
+        "tags": {
+            "category": [
+                "elemental"
+            ],
+            "equipment": [
+                "unarmored"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "ancestry": [
+                "jabali"
+            ],
+            "family": [
+                "rivethun"
+            ]
+        }
+    },
+    {
+        "label": "Tieldlara",
+        "key": "TieldlaraPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/Tieldlara.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/Tieldlara.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/Tieldlara.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/Tieldlara.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "elf"
+            ],
+            "equipment": [
+                "clothing",
+                "medium"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "aldori swordlord"
+            ]
+        }
+    },
+    {
+        "label": "Twilight Talon",
+        "key": "TwilightTalonPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/TwilightTalon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/TwilightTalon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/TwilightTalon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/TwilightTalon.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "medium",
+                "shield",
+                "sword"
+            ],
+            "features": [
+                "dual-wielding"
+            ],
+            "family": [
+                "eagle knight"
+            ]
+        }
+    },
+    {
+        "label": "Urif Flameblood",
+        "key": "UrifFlamebloodPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/UrifFlameblood.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/UrifFlameblood.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/UrifFlameblood.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/UrifFlameblood.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "mammoth lord"
+            ]
+        }
+    },
+    {
+        "label": "Vazith Stormblade",
+        "key": "VazithStormbladePF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/VazithStormblade.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/VazithStormblade.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/VazithStormblade.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/VazithStormblade.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "storm kindler"
+            ]
+        }
+    },
+    {
+        "label": "Vigilante Bellflower Harvester",
+        "key": "VigilanteBellflowerHarvesterPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/VigilanteBellflowerHarvester.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/VigilanteBellflowerHarvester.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/VigilanteBellflowerHarvester.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/VigilanteBellflowerHarvester.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "halfling"
+            ],
+            "equipment": [
+                "axe",
+                "heavy",
+                "medium"
+            ],
+            "family": [
+                "bellflower network"
+            ]
+        }
+    },
+    {
+        "label": "Vigilante Masked Maiden",
+        "key": "VigilanteMaskedMaidenPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/VigilanteMaskedMaiden.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/VigilanteMaskedMaiden.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/VigilanteMaskedMaiden.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/VigilanteMaskedMaiden.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "heavy"
+            ],
+            "family": [
+                "gray maiden"
+            ]
+        }
+    },
+    {
+        "label": "Warpriest Mantis Zealot",
+        "key": "WarpriestMantisZealotPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/WarpriestMantisZealot.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/WarpriestMantisZealot.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/WarpriestMantisZealot.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/WarpriestMantisZealot.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dhampir"
+            ],
+            "equipment": [
+                "heavy",
+                "medium",
+                "sword"
+            ],
+            "features": [
+                "dual-wielding"
+            ],
+            "family": [
+                "red mantis"
+            ]
+        }
+    },
+    {
+        "label": "Westcrown Devil",
+        "key": "WestcrownDevilPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/WestcrownDevil.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/WestcrownDevil.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/WestcrownDevil.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/WestcrownDevil.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "flail",
+                "light",
+                "medium",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Wizard Runesage",
+        "key": "WizardRunesagePF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/WizardRunesage.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/WizardRunesage.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/WizardRunesage.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/WizardRunesage.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Xomar Glavit",
+        "key": "XomarGlavitPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/XomarGlavit.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/XomarGlavit.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/XomarGlavit.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/XomarGlavit.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dwarf"
+            ],
+            "equipment": [
+                "heavy"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "rivethun"
+            ]
+        }
+    },
+    {
+        "label": "Zarineth",
+        "key": "ZarinethPF1eAG",
+        "source": "PF1e Adventurers Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-adventurers-guide/Zarineth.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-adventurers-guide/Zarineth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-adventurers-guide/Zarineth.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-adventurers-guide/Zarineth.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "elf"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "lantern bearer"
+            ]
+        }
+    }
+]

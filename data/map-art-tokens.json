@@ -1,0 +1,3847 @@
+{
+  "pf2e.book-of-the-dead-bestiary": {
+    "0PrrwvV1936eSCQy": {
+      "name": "Tormented (Burning)",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Tormented.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Tormented.webp"
+          }
+        }
+      }
+    },
+    "1hdQjYLtup92Jlls": {
+      "name": "Obrousian",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Obrousian.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Obrousian.webp"
+          }
+        }
+      }
+    },
+    "27NxweHr9rB1hDCn": {
+      "name": "Deathless Acolyte Of Urgathoa",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/DeathlessAcolyteOfUrgathoa.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/DeathlessAcolyteOfUrgathoa.webp"
+          }
+        }
+      }
+    },
+    "3CdslCv2CMP7O12F": {
+      "name": "Mummified Cat",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/MummifiedCat.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/MummifiedCat.webp"
+          }
+        }
+      }
+    },
+    "3pQvzrGhxO3bUwYT": {
+      "name": "Iruxi Ossature",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/IruxiOssature.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/IruxiOssature.webp"
+          }
+        }
+      }
+    },
+    "40P14vZZXKLhBD6q": {
+      "name": "Sykever",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Sykever_2.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Sykever_2.webp"
+          }
+        }
+      }
+    },
+    "5ukWvQqK17BQl31O": {
+      "name": "Lacedon",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Lacedon.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Lacedon.webp"
+          }
+        }
+      }
+    },
+    "7JWjoMGf7f7PZgSD": {
+      "name": "Ice Mummy",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/IceMummy.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/IceMummy.webp"
+          }
+        }
+      }
+    },
+    "7pk1DLc96LMcHBB5": {
+      "name": "Vanyver",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Vanyver_2.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Vanyver_2.webp"
+          }
+        }
+      }
+    },
+    "7WqlOvjoqURmeorA": {
+      "name": "Death Coach",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/DeathCoach_2.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/DeathCoach_2.webp"
+          }
+        }
+      }
+    },
+    "8jd6xVMgAeQEfect": {
+      "name": "Nasurgeth",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Nasurgeth_2.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Nasurgeth_2.webp"
+          }
+        }
+      }
+    },
+    "8o27tdIZFp0eTs5N": {
+      "name": "Zombie Lord",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/ZombieLord_2.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/ZombieLord_2.webp"
+          }
+        }
+      }
+    },
+    "8qB0gj8salw8746I": {
+      "name": "Mummy Prophet Of Set",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/MummyProphetOfSet.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/MummyProphetOfSet.webp"
+          }
+        }
+      }
+    },
+    "A5GOni2mXNhVsdRg": {
+      "name": "Faithless Ecclesiarch",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/FaithlessEcclesiarch.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/FaithlessEcclesiarch.webp"
+          }
+        }
+      }
+    },
+    "abnTemoEnsqZPbKZ": {
+      "name": "Last Guard",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/LastGuard.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/LastGuard.webp"
+          }
+        }
+      }
+    },
+    "avBb4LvR3TsYpXma": {
+      "name": "Queen Sluach",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/QueenSluach.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/QueenSluach.webp"
+          }
+        }
+      }
+    },
+    "AXp5EzgP7p8FrYpN": {
+      "name": "Tormented (Crushing)",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Tormented.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Tormented.webp"
+          }
+        }
+      }
+    },
+    "bckYmdaq03CUDdc5": {
+      "name": "Gholdako",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Gholdako_2.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Gholdako_2.webp"
+          }
+        }
+      }
+    },
+    "c6qRZuHQ7RHJEAtj": {
+      "name": "Grappling Spirit",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/GrapplingSpirit.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/GrapplingSpirit.webp"
+          }
+        }
+      }
+    },
+    "cEJh8SY1YDULyhI9": {
+      "name": "Relictner Eroder",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/RelictnerEroder.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/RelictnerEroder.webp"
+          }
+        }
+      }
+    },
+    "Cl1SZNiURw65rz4p": {
+      "name": "Silent Stalker",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/SilentStalker.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/RelictnerEroder.webp"
+          }
+        }
+      }
+    },
+    "dcLHA7tihCF2Mraj": {
+      "name": "Tormented (Drowning)",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Tormented.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/RelictnerEroder.webp"
+          }
+        }
+      }
+    },
+    "dKkHFA4aBgk82QJO": {
+      "name": "Skeletal Soldier",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/SkeletalSoldier.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/SkeletalSoldier.webp"
+          }
+        }
+      }
+    },
+    "dlizffh8cFUFOhUf": {
+      "name": "Jitterbone Contortionist",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/JitterboneContortionist.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/JitterboneContortionist.webp"
+          }
+        }
+      }
+    },
+    "DMZo6DXmScDXJpJd": {
+      "name": "Hunter Wight",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/HunterWight.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/HunterWight.webp"
+          }
+        }
+      }
+    },
+    "DVpP5ObHDoT0OULK": {
+      "name": "Prowler Wight",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/ProwlerWight.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/ProwlerWight.webp"
+          }
+        }
+      }
+    },
+    "e49MDE5dJQ1XFq3O": {
+      "name": "Predatory Rabbit",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/PredatoryRabbit.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/PredatoryRabbit.webp"
+          }
+        }
+      }
+    },
+    "EDhme1IKgO34NDrt": {
+      "name": "Festering Gnasher",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/FesteringGnasher.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/FesteringGnasher.webp"
+          }
+        }
+      }
+    },
+    "eEE3lRhXCjGzlRLJ": {
+      "name": "Shredskin",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Shredskin_2.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Shredskin_2.webp"
+          }
+        }
+      }
+    },
+    "f2dAjBXK55w6rnsh": {
+      "name": "Tormented (Dislocation)",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Tormented.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Tormented.webp"
+          }
+        }
+      }
+    },
+    "GcHzyaMYK5QeKUyM": {
+      "name": "Pale Stranger",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/PaleStranger_2.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/PaleStranger_2.webp"
+          }
+        }
+      }
+    },
+    "gXo04F7O4pwOY698": {
+      "name": "Gallowdead",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Gallowdead_2.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Gallowdead_2.webp"
+          }
+        }
+      }
+    },
+    "h0OtQsMR4OqnYatd": {
+      "name": "Deathless Hierophant Of Urgathoa",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/DeathlessHierophantOfUrgathoa.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/DeathlessHierophantOfUrgathoa.webp"
+          }
+        }
+      }
+    },
+    "hDQmEtisrgRmufUW": {
+      "name": "Fluxwraith",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Fluxwraith.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Fluxwraith.webp"
+          }
+        }
+      }
+    },
+    "hhoSyH9QthtvFptC": {
+      "name": "Siabrae",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Siabrae.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Siabrae.webp"
+          }
+        }
+      }
+    },
+    "hjBcN7ulP6FSK7ie": {
+      "name": "Tormented (Starvation)",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Tormented.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Tormented.webp"
+          }
+        }
+      }
+    },
+    "iEQOUQk1wVHFsajW": {
+      "name": "Geist",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Geist_2.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Geist_2.webp"
+          }
+        }
+      }
+    },
+    "ipVQuGff2OeTVwFK": {
+      "name": "Skeletal Mage",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/SkeletalMage.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/SkeletalMage.webp"
+          }
+        }
+      }
+    },
+    "ishwgxZAlNJxNwGE": {
+      "name": "Daqqanoenyent",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Daqqanoenyent.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Daqqanoenyent.webp"
+          }
+        }
+      }
+    },
+    "j777BjOqZff6S1v9": {
+      "name": "Bhuta",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Bhuta_2.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Bhuta_2.webp"
+          }
+        }
+      }
+    },
+    "j88xR2MqqZrmF5Wz": {
+      "name": "Raw Nerve",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/RawNerve.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/RawNerve.webp"
+          }
+        }
+      }
+    },
+    "JazJz2crkoG9koQR": {
+      "name": "Fallen Champion",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/FallenChampion.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/FallenChampion.webp"
+          }
+        }
+      }
+    },
+    "jIypNMJE7rVYpItG": {
+      "name": "Fiddling Bones",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/FiddlingBones.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/FiddlingBones.webp"
+          }
+        }
+      }
+    },
+    "KhHVStbsPSuPElFI": {
+      "name": "Excorion",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Excorion.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Excorion.webp"
+          }
+        }
+      }
+    },
+    "kY8MSttryLjbI5wN": {
+      "name": "Wight Commander",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/WightCommander.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/WightCommander.webp"
+          }
+        }
+      }
+    },
+    "L0JAq1IGEsjJwTbl": {
+      "name": "Minister Of Tumult",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/MinisterOfTumult.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/MinisterOfTumult.webp"
+          }
+        }
+      }
+    },
+    "laYufBuih3cT95j4": {
+      "name": "Hollow Serpent",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/HollowSerpent_2.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/HollowSerpent_2.webp"
+          }
+        }
+      }
+    },
+    "lhzNUX83TTYpJuma": {
+      "name": "Unrisen",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Unrisen_2.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Unrisen_2.webp"
+          }
+        }
+      }
+    },
+    "LWLUaSHl8YCZdDMH": {
+      "name": "Vetalarana Emergent",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/VetalaranaEmergent.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/VetalaranaEmergent.webp"
+          }
+        }
+      }
+    },
+    "M59XiYnJ4Z3bSwCC": {
+      "name": "Polong",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Polong_2.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Polong_2.webp"
+          }
+        }
+      }
+    },
+    "mL4l2kwPPSMKwzQo": {
+      "name": "Onryo",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Onryo.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Onryo.webp"
+          }
+        }
+      }
+    },
+    "nbVljZhCnWgGxA18": {
+      "name": "Zombie Owlbear",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/ZombieOwlbear.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/ZombieOwlbear.webp"
+          }
+        }
+      }
+    },
+    "NcqruxA82SFvTnD1": {
+      "name": "Child Of Urgathoa",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/ChildOfUrgathoa.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/ChildOfUrgathoa.webp"
+          }
+        }
+      }
+    },
+    "Nzf3AfA46cBiWCwN": {
+      "name": "Vetalarana Manipulator",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/VetalaranaManipulator.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/VetalaranaManipulator.webp"
+          }
+        }
+      }
+    },
+    "ol2lji9lH7PXh1uw": {
+      "name": "Bone Croupier",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/BoneCroupier.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/BoneCroupier.webp"
+          }
+        }
+      }
+    },
+    "OsIjZpdtKmKrrBID": {
+      "name": "Priest Of Kabriri",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/PriestOfKabriri.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/PriestOfKabriri.webp"
+          }
+        }
+      }
+    },
+    "pDA6tCwQ3pE6ji4U": {
+      "name": "Shadern Immolator",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/ShadernImmolator.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/ShadernImmolator.webp"
+          }
+        }
+      }
+    },
+    "qO20so7Mv2pmsLL1": {
+      "name": "Husk Zombie",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/HuskZombie.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/HuskZombie.webp"
+          }
+        }
+      }
+    },
+    "S5dXAmvghYCIrQDe": {
+      "name": "Decrepit Mummy",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/DecrepitMummy.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/DecrepitMummy.webp"
+          }
+        }
+      }
+    },
+    "sgeULAtaLvg0Uhyn": {
+      "name": "Cadaverous Rake",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/CadaverousRake.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/CadaverousRake.webp"
+          }
+        }
+      }
+    },
+    "sucEX2JFrVevTNjU": {
+      "name": "Drake Skeleton",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/DrakeSkeleton.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/DrakeSkeleton.webp"
+          }
+        }
+      }
+    },
+    "T9osQMcC96l4X9lk": {
+      "name": "Beetle Carapace",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/BeetleCarapace.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/BeetleCarapace.webp"
+          }
+        }
+      }
+    },
+    "tb2nr2ycARadI3Pg": {
+      "name": "Iroran Mummy",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/IroranMummy.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/IroranMummy.webp"
+          }
+        }
+      }
+    },
+    "TipfHGlT5ctn1JV0": {
+      "name": "Zombie Mammoth",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/ZombieMammoth.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/ZombieMammoth.webp"
+          }
+        }
+      }
+    },
+    "ToGAEKKOplpXzaQQ": {
+      "name": "Wolf Skeleton",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/WolfSkeleton.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/WolfSkeleton.webp"
+          }
+        }
+      }
+    },
+    "UMDBlaViAdaw2lnN": {
+      "name": "Ghost Pirate Captain",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/GhostPirateCaptain.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/GhostPirateCaptain.webp"
+          }
+        }
+      }
+    },
+    "uqY9TkQTO5n9rCLZ": {
+      "name": "Llorona",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Llorona_2.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Llorona_2.webp"
+          }
+        }
+      }
+    },
+    "Ur3dzfmvtN7lyPNG": {
+      "name": "Taunting Skull",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/TauntingSkull.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/TauntingSkull.webp"
+          }
+        }
+      }
+    },
+    "uURI8Netd0ytD9vc": {
+      "name": "Sluagh Reaper",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/SluaghReaper.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/SluaghReaper.webp"
+          }
+        }
+      }
+    },
+    "vaVIJeQnKFUeaC8K": {
+      "name": "Combusted",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Combusted_2.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Combusted_2.webp"
+          }
+        }
+      }
+    },
+    "vHEJOONP1ERjuxxl": {
+      "name": "Urveth",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Urveth_2.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Urveth_2.webp"
+          }
+        }
+      }
+    },
+    "VN2Vz1dxA9ti66bC": {
+      "name": "Tormented (Impalement)",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Tormented.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Tormented.webp"
+          }
+        }
+      }
+    },
+    "vOuiG3tRcr8yL4jh": {
+      "name": "Ghul",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Ghul_2.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Ghul_2.webp"
+          }
+        }
+      }
+    },
+    "vvxnRuYBU2uCBPPI": {
+      "name": "Little Man In The Woods",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/LittleManInTheWoods.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/LittleManInTheWoods.webp"
+          }
+        }
+      }
+    },
+    "VYLTAIVA9qUsbujo": {
+      "name": "Waldgeist",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Waldgeist.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Waldgeist.webp"
+          }
+        }
+      }
+    },
+    "wGEZUOgoJNkgXx9Z": {
+      "name": "Horde Lich",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/HordeLich.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/HordeLich.webp"
+          }
+        }
+      }
+    },
+    "Wv9iS7JacYjymqlY": {
+      "name": "Harlo Krant",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/HarloKrant.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/HarloKrant.webp"
+          }
+        }
+      }
+    },
+    "XrSjNpkJkBO6ysRG": {
+      "name": "Gashadokuro",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Gashadokuro_2.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Gashadokuro_2.webp"
+          }
+        }
+      }
+    },
+    "xxFiRpQdvbKd0P12": {
+      "name": "Hungry Ghost",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/HungryGhost.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/HungryGhost.webp"
+          }
+        }
+      }
+    },
+    "Y2Fiu9T1xwSBPVTV": {
+      "name": "Corpseroot",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Corpseroot.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Corpseroot.webp"
+          }
+        }
+      }
+    },
+    "ypOgr8kPy6KqXAAd": {
+      "name": "Seetangeist",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Seetangeist.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Seetangeist.webp"
+          }
+        }
+      }
+    },
+    "Yv9e7NSCzPuhlCnH": {
+      "name": "Graveknight Warmaster",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/GraveknightWarmaster.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/GraveknightWarmaster.webp"
+          }
+        }
+      }
+    },
+    "z3BpUMkUFoXqOFgf": {
+      "name": "Scorned Hound",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/ScornedHound.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/ScornedHound.webp"
+          }
+        }
+      }
+    },
+    "z72hPIIjIiLIxnor": {
+      "name": "Withered",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Withered.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Withered.webp"
+          }
+        }
+      }
+    },
+    "z8WJtCyoVHlcSxYy": {
+      "name": "Skeletal Titan",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/SkeletalTitan.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/SkeletalTitan.webp"
+          }
+        }
+      }
+    },
+    "Ze8SKqa4T8lhSDup": {
+      "name": "Pale Sovereign",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/PaleSovereign.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/PaleSovereign.webp"
+          }
+        }
+      }
+    },
+    "zOEuwWcvD7sQA1kc": {
+      "name": "Ichor Slinger",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/IchorSlinger.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/IchorSlinger.webp"
+          }
+        }
+      }
+    },
+    "zPQZLswJISQrvPb7": {
+      "name": "Runecarved Lich",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/RunecarvedLich.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/RunecarvedLich.webp"
+          }
+        }
+      }
+    },
+    "zqftTUpxqkdLx2IY": {
+      "name": "Ecorche",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/Ecorche_2.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/Ecorche_2.webp"
+          }
+        }
+      }
+    },
+    "ZqZlji7aCGCGATMP": {
+      "name": "Zombie Snake",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/ZombieSnake.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/ZombieSnake.webp"
+          }
+        }
+      }
+    },
+    "ZSrMFLrb5CzFH5WX": {
+      "name": "Provincial Jiang Shi",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-book-of-the-dead-bestiary/ProvincialJiangShi.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-book-of-the-dead-bestiary/ProvincialJiangShi.webp"
+          }
+        }
+      }
+    }
+  },
+  "pf2e.crown-of-the-kobold-king-bestiary": {
+    "2D2sECCnlFT8X8OQ": {
+      "name": "Tallow Guardian",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/crown-of-the-kobold-king/tallow-guardian.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/crown-of-the-kobold-king/tallow-guardian.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/crown-of-the-kobold-king/tallow-guardian.webp"
+          }
+        }
+      }
+    },
+    "4kAU6bQdEZYCqEh7": {
+      "name": "Dismemberment Table",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/crown-of-the-kobold-king/dismemberment-table.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/crown-of-the-kobold-king/dismemberment-table.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/crown-of-the-kobold-king/dismemberment-table.webp"
+          }
+        }
+      }
+    },
+    "AnNKQvx9HlUXN4bD": {
+      "name": "Toxic Furnace",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/crown-of-the-kobold-king/toxic-furnace.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/crown-of-the-kobold-king/toxic-furnace.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/crown-of-the-kobold-king/toxic-furnace.webp"
+          }
+        }
+      }
+    },
+    "bwJ79rNvV7Elia5Q": {
+      "name": "Gurtlekep",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/crown-of-the-kobold-king/gurtlekep.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/crown-of-the-kobold-king/gurtlekep.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/crown-of-the-kobold-king/gurtlekep.webp"
+          }
+        }
+      }
+    },
+    "BWOdyTjHnV153RDK": {
+      "name": "Drazmorg",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/crown-of-the-kobold-king/drazmorg.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/crown-of-the-kobold-king/drazmorg.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/crown-of-the-kobold-king/drazmorg.webp"
+          }
+        }
+      }
+    },
+    "C5t3ypLIiJGSUMg6": {
+      "name": "Idooze",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/crown-of-the-kobold-king/idooze.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/crown-of-the-kobold-king/idooze.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/crown-of-the-kobold-king/idooze.webp"
+          }
+        }
+      }
+    },
+    "dcuPAoJUTKSSFx93": {
+      "name": "Jekkajak",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/crown-of-the-kobold-king/jekkajak.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/crown-of-the-kobold-king/jekkajak.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/crown-of-the-kobold-king/jekkajak.webp"
+          }
+        }
+      }
+    },
+    "Erw2pHatcQgUmqop": {
+      "name": "Vargouille",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/crown-of-the-kobold-king/vargouille.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/crown-of-the-kobold-king/vargouille.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/crown-of-the-kobold-king/vargouille.webp"
+          }
+        }
+      }
+    },
+    "gGtA1Dhiai4jOTte": {
+      "name": "Hymmir Urath",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/crown-of-the-kobold-king/hymmir-urath.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/crown-of-the-kobold-king/hymmir-urath.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/crown-of-the-kobold-king/hymmir-urath.webp"
+          }
+        }
+      }
+    },
+    "GXJ3EeN5MH9muvCh": {
+      "name": "Lodestone Trap",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/crown-of-the-kobold-king/lodestone-trap.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/crown-of-the-kobold-king/lodestone-trap.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/crown-of-the-kobold-king/lodestone-trap.webp"
+          }
+        }
+      }
+    },
+    "IZ34VEavH7xRaaeI": {
+      "name": "Ygrik",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/crown-of-the-kobold-king/ygrik.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/crown-of-the-kobold-king/ygrik.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/crown-of-the-kobold-king/ygrik.webp"
+          }
+        }
+      }
+    },
+    "LAButypiGYfsrGis": {
+      "name": "Grick",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/crown-of-the-kobold-king/grick.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/crown-of-the-kobold-king/grick.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/crown-of-the-kobold-king/grick.webp"
+          }
+        }
+      }
+    },
+    "LYSdv8QlMgV0U5Zq": {
+      "name": "Narlynark",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/crown-of-the-kobold-king/narlynark.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/crown-of-the-kobold-king/narlynark.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/crown-of-the-kobold-king/narlynark.webp"
+          }
+        }
+      }
+    },
+    "NGofilVufDzya0uJ": {
+      "name": "Edgrin Galesong",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/crown-of-the-kobold-king/edgrin-galesong.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/crown-of-the-kobold-king/edgrin-galesong.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/crown-of-the-kobold-king/edgrin-galesong.webp"
+          }
+        }
+      }
+    },
+    "qIOi43L0KcLoqCu6": {
+      "name": "Kieragan Skross",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/crown-of-the-kobold-king/kieragan-skross.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/crown-of-the-kobold-king/kieragan-skross.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/crown-of-the-kobold-king/kieragan-skross.webp"
+          }
+        }
+      }
+    },
+    "QkoVg6ETUr2XMueM": {
+      "name": "Cilios",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/crown-of-the-kobold-king/cilios.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/crown-of-the-kobold-king/cilios.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/crown-of-the-kobold-king/cilios.webp"
+          }
+        }
+      }
+    },
+    "rWweGgOu9uJVlnra": {
+      "name": "Thoqqua",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/crown-of-the-kobold-king/thoqqua.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/crown-of-the-kobold-king/thoqqua.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/crown-of-the-kobold-king/thoqqua.webp"
+          }
+        }
+      }
+    },
+    "s2XZc2b1FaZQDnhN": {
+      "name": "Kerrdremak",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/crown-of-the-kobold-king/kerrdremak.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/crown-of-the-kobold-king/kerrdremak.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/crown-of-the-kobold-king/kerrdremak.webp"
+          }
+        }
+      }
+    },
+    "T4ZhpGRLsNT1bKoS": {
+      "name": "Darkmantle",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/crown-of-the-kobold-king/darkmantle.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/crown-of-the-kobold-king/darkmantle.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/crown-of-the-kobold-king/darkmantle.webp"
+          }
+        }
+      }
+    },
+    "WukFzZnikG2vg57F": {
+      "name": "Ulizmila's Cauldron",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/crown-of-the-kobold-king/ulizmila-s-cauldron.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/crown-of-the-kobold-king/ulizmila-s-cauldron.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/crown-of-the-kobold-king/ulizmila-s-cauldron.webp"
+          }
+        }
+      }
+    },
+    "x5UScdVKs3e9rsgb": {
+      "name": "Yurkyurk",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/crown-of-the-kobold-king/yurkyurk.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/crown-of-the-kobold-king/yurkyurk.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/crown-of-the-kobold-king/yurkyurk.webp"
+          }
+        }
+      }
+    },
+    "xDF9jeMsYjrRvuE5": {
+      "name": "Merlokrep",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/crown-of-the-kobold-king/merlokrep.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/crown-of-the-kobold-king/merlokrep.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/crown-of-the-kobold-king/merlokrep.webp"
+          }
+        }
+      }
+    },
+    "XH1Wqnxy8Cq9Z5Cn": {
+      "name": "Grimbal",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/crown-of-the-kobold-king/grimbal.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/crown-of-the-kobold-king/grimbal.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/crown-of-the-kobold-king/grimbal.webp"
+          }
+        }
+      }
+    }
+  },
+  "pf2e.fall-of-plaguestone-bestiary": {
+    "wBCpq9pX4NZFXE0T": {
+      "name": "Vine Lasher",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/fall-of-plaguestone/vine-lasher.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/fall-of-plaguestone/vine-lasher.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/fall-of-plaguestone/vine-lasher.webp"
+          }
+        }
+      }
+    }
+  },
+  "pf2e.lost-omens-highhelm-bestiary": {
+    "6X4zL4GSS9aUcP9f": {
+      "name": "Grand Defender",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-highhelm-bestiary/GrandDefender.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-highhelm-bestiary/GrandDefender.webp"
+          }
+        }
+      }
+    },
+    "AbaAJaz8p6sSsaqy": {
+      "name": "Draft Lizard",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-highhelm-bestiary/DraftLizard.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-highhelm-bestiary/DraftLizard.webp"
+          }
+        }
+      }
+    },
+    "cWHQmwUkLYBlFOGX": {
+      "name": "Augdunar",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-highhelm-bestiary/Augdunar.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-highhelm-bestiary/Augdunar.webp"
+          }
+        }
+      }
+    },
+    "fQvTnIpC2Wq1U32z": {
+      "name": "Pagulin",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-highhelm-bestiary/Pagulin.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-highhelm-bestiary/Pagulin.webp"
+          }
+        }
+      }
+    },
+    "IGoJDxjMiADXa1bm": {
+      "name": "Graul",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-highhelm-bestiary/Graul.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-highhelm-bestiary/Graul.webp"
+          }
+        }
+      }
+    },
+    "McZDmNR9sldfnsBw": {
+      "name": "The Bloodstorm",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-highhelm-bestiary/TheBloodstorm.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-highhelm-bestiary/TheBloodstorm.webp"
+          }
+        }
+      }
+    }
+  },
+  "pf2e.lost-omens-impossible-lands-bestiary": {
+    "1MxubcO4SB8PwmKT": {
+      "name": "Benthic Reaver",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-impossible-lands-bestiary/BenthicReaver.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-impossible-lands-bestiary/BenthicReaver.webp"
+          }
+        }
+      }
+    },
+    "1SIx3wcRvplbfwk3": {
+      "name": "Stone Sister",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-impossible-lands-bestiary/StoneSister.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-impossible-lands-bestiary/StoneSister.webp"
+          }
+        }
+      }
+    },
+    "4DQotKcUZebLfeeL": {
+      "name": "Cursed King",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-impossible-lands-bestiary/CursedKing.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-impossible-lands-bestiary/CursedKing.webp"
+          }
+        }
+      }
+    },
+    "gZ2qX5vbWg7otMVT": {
+      "name": "Quantium Golem (Acid)",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-impossible-lands-bestiary/QuantiumGolem.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-impossible-lands-bestiary/QuantiumGolem.webp"
+          }
+        }
+      }
+    },
+    "JmGKKXdAxUkJtdTm": {
+      "name": "Ugvashi",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-impossible-lands-bestiary/Ugvashi.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-impossible-lands-bestiary/Ugvashi.webp"
+          }
+        }
+      }
+    },
+    "K2AOcLMDOVNbgPXp": {
+      "name": "Fleshforged Conformer",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-impossible-lands-bestiary/FleshforgedConformer.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-impossible-lands-bestiary/FleshforgedConformer.webp"
+          }
+        }
+      }
+    },
+    "KTabPRN489yjTvek": {
+      "name": "Fleshforged Dreadnought",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-impossible-lands-bestiary/FleshforgedDreadnought.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-impossible-lands-bestiary/FleshforgedDreadnought.webp"
+          }
+        }
+      }
+    },
+    "lhr2fjewILo4nyUZ": {
+      "name": "Mutant Gnoll Hulk",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-impossible-lands-bestiary/MutantGnollHulk.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-impossible-lands-bestiary/MutantGnollHulk.webp"
+          }
+        }
+      }
+    },
+    "LVY9JAhTnBC2SeqZ": {
+      "name": "Skinskitter",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-impossible-lands-bestiary/Skinskitter.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-impossible-lands-bestiary/Skinskitter.webp"
+          }
+        }
+      }
+    },
+    "qbfMDAa3RXvwyG7k": {
+      "name": "Gunpowder Ooze",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-impossible-lands-bestiary/GunpowderOoze.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-impossible-lands-bestiary/GunpowderOoze.webp"
+          }
+        }
+      }
+    },
+    "qmw82W0WhPkn9UTW": {
+      "name": "Clockwork Cannoneer",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-impossible-lands-bestiary/ClockworkCannoneer.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-impossible-lands-bestiary/ClockworkCannoneer.webp"
+          }
+        }
+      }
+    },
+    "UgGyHJ39EHztCV5m": {
+      "name": "Kasesh",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-impossible-lands-bestiary/Kasesh.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-impossible-lands-bestiary/Kasesh.webp"
+          }
+        }
+      }
+    },
+    "wjNbuzeqoVSR0Wwm": {
+      "name": "Quantium Golem (Electricity)",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-impossible-lands-bestiary/QuantiumGolem.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-impossible-lands-bestiary/QuantiumGolem.webp"
+          }
+        }
+      }
+    },
+    "xl2UxOFVSDGqaVS5": {
+      "name": "Ratajin Mastermind",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-impossible-lands-bestiary/RatajinMastermind.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-impossible-lands-bestiary/RatajinMastermind.webp"
+          }
+        }
+      }
+    }
+  },
+  "pf2e.lost-omens-monsters-of-myth-bestiary": {
+    "10srqxC7QZy0dq2g": {
+      "name": "Spectral Devil",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-monsters-of-myth-bestiary/SpectralDevil.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-monsters-of-myth-bestiary/SpectralDevil.webp"
+          }
+        }
+      }
+    },
+    "7a57dwK5XrV78ajM": {
+      "name": "Temteki",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-monsters-of-myth-bestiary/Temteki.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-monsters-of-myth-bestiary/Temteki.webp"
+          }
+        }
+      }
+    },
+    "a1vTm01GBVF4TI8f": {
+      "name": "Taljjae (The Beast)",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-monsters-of-myth-bestiary/Taljjae.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-monsters-of-myth-bestiary/Taljjae.webp"
+          }
+        }
+      }
+    },
+    "bhLbKN7MJofTabfK": {
+      "name": "Taljjae",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-monsters-of-myth-bestiary/Taljjae.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-monsters-of-myth-bestiary/Taljjae.webp"
+          }
+        }
+      }
+    },
+    "Bi6bi9Ko5x9OJfDT": {
+      "name": "DesertsHowl",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-monsters-of-myth-bestiary/DesertsHowl.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-monsters-of-myth-bestiary/DesertsHowl.webp"
+          }
+        }
+      }
+    },
+    "C87bRxKDTuJXGkPG": {
+      "name": "SpectralDevil",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-monsters-of-myth-bestiary/Tehialai.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-monsters-of-myth-bestiary/SpectralDevil.webp"
+          }
+        }
+      }
+    },
+    "EXyfhhX9GLOnK1uZ": {
+      "name": "Spring Heeled Jack",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-monsters-of-myth-bestiary/SpringHeeledJack.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-monsters-of-myth-bestiary/SpringHeeledJack.webp"
+          }
+        }
+      }
+    },
+    "FhgZOBWNMa5t7pYV": {
+      "name": "Mosquito Witch (The Legion Leech)",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-monsters-of-myth-bestiary/MosquitoWitch.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-monsters-of-myth-bestiary/MosquitoWitch.webp"
+          }
+        }
+      }
+    },
+    "G1jYZOjA3E3BqrIM": {
+      "name": "Melfesh Monster",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-monsters-of-myth-bestiary/MelfeshMonster.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-monsters-of-myth-bestiary/MelfeshMonster.webp"
+          }
+        }
+      }
+    },
+    "hfi0qJePy2cf4Fqe": {
+      "name": "Taljjae (The Wanderer)",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-monsters-of-myth-bestiary/Taljjae.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-monsters-of-myth-bestiary/Taljjae.webp"
+          }
+        }
+      }
+    },
+    "IO7sPevkM0zvnWbi": {
+      "name": "Taljjae (The Hero)",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-monsters-of-myth-bestiary/Taljjae.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-monsters-of-myth-bestiary/Taljjae.webp"
+          }
+        }
+      }
+    },
+    "j3NhCEMLVm4HSsgr": {
+      "name": "Taljjae (The Nobleman)",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-monsters-of-myth-bestiary/Taljjae.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-monsters-of-myth-bestiary/Taljjae.webp"
+          }
+        }
+      }
+    },
+    "jInkcz2UYdaCzsBU": {
+      "name": "UlgremAxaan",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-monsters-of-myth-bestiary/UlgremAxaan.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-monsters-of-myth-bestiary/UlgremAxaan.webp"
+          }
+        }
+      }
+    },
+    "K7hgO9SEBai2jwYj": {
+      "name": "Krampus Celebrant",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-monsters-of-myth-bestiary/KrampusCelebrant.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-monsters-of-myth-bestiary/KrampusCelebrant.webp"
+          }
+        }
+      }
+    },
+    "KdOwmclPVpcTSPjF": {
+      "name": "Mosquito Witch",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-monsters-of-myth-bestiary/MosquitoWitch.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-monsters-of-myth-bestiary/MosquitoWitch.webp"
+          }
+        }
+      }
+    },
+    "KLxdUFCvZ7HkAP1E": {
+      "name": "Somnalu",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-monsters-of-myth-bestiary/Somnalu.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-monsters-of-myth-bestiary/Somnalu.webp"
+          }
+        }
+      }
+    },
+    "LK3SgIKJqqo4Q4NQ": {
+      "name": "Cuetzmonquali",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-monsters-of-myth-bestiary/Cuetzmonquali.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-monsters-of-myth-bestiary/Cuetzmonquali.webp"
+          }
+        }
+      }
+    },
+    "mE9MQ0hnRmlR9m94": {
+      "name": "Mosquito Witch (The Swarm Seer)",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-monsters-of-myth-bestiary/MosquitoWitch.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-monsters-of-myth-bestiary/MosquitoWitch.webp"
+          }
+        }
+      }
+    },
+    "N3OJ0wxik4wEgTg7": {
+      "name": "Imperfect Automaton",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-monsters-of-myth-bestiary/ImperfectAutomaton.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-monsters-of-myth-bestiary/ImperfectAutomaton.webp"
+          }
+        }
+      }
+    },
+    "ns6fmJ8469hzBOtM": {
+      "name": "Mosquito Witch (The Hemoprophet)",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-monsters-of-myth-bestiary/MosquitoWitch.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-monsters-of-myth-bestiary/MosquitoWitch.webp"
+          }
+        }
+      }
+    },
+    "O4gEaG5vzkLFl7J1": {
+      "name": "Grogrisant",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-monsters-of-myth-bestiary/Grogrisant.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-monsters-of-myth-bestiary/Grogrisant.webp"
+          }
+        }
+      }
+    },
+    "OF0fZDjNapydddM1": {
+      "name": "Kuworsys",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-monsters-of-myth-bestiary/Kuworsys.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-monsters-of-myth-bestiary/Kuworsys.webp"
+          }
+        }
+      }
+    },
+    "RqdL0YzNF1dG163i": {
+      "name": "Kothogaz",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-monsters-of-myth-bestiary/Kothogaz.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-monsters-of-myth-bestiary/Kothogaz.webp"
+          }
+        }
+      }
+    },
+    "sXZExyaijbRnKI2S": {
+      "name": "Taljjae (The Grandmother)",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-monsters-of-myth-bestiary/Taljjae.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-monsters-of-myth-bestiary/Taljjae.webp"
+          }
+        }
+      }
+    },
+    "VCC4nw6EXvqwgmCp": {
+      "name": "Ainamuuren",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-monsters-of-myth-bestiary/Ainamuuren.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-monsters-of-myth-bestiary/Ainamuuren.webp"
+          }
+        }
+      }
+    },
+    "W0oF6Dl7G4UeTBSC": {
+      "name": "Taljjae (The General)",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-monsters-of-myth-bestiary/Taljjae.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-monsters-of-myth-bestiary/Taljjae.webp"
+          }
+        }
+      }
+    },
+    "WdnuPiAoRFaymR8R": {
+      "name": "Fafnheir",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-monsters-of-myth-bestiary/Fafnheir.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-monsters-of-myth-bestiary/Fafnheir.webp"
+          }
+        }
+      }
+    },
+    "XCW1WzJqwGUS1cGi": {
+      "name": "Ulistul",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-monsters-of-myth-bestiary/Ulistul.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-monsters-of-myth-bestiary/Ulistul.webp"
+          }
+        }
+      }
+    },
+    "XLDh6o6vBRCDEKsl": {
+      "name": "Taljjae (The Hermit)",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-monsters-of-myth-bestiary/Taljjae.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-monsters-of-myth-bestiary/Taljjae.webp"
+          }
+        }
+      }
+    },
+    "zE2ykzHZKNS3Rnc3": {
+      "name": "Kallas Devil",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-monsters-of-myth-bestiary/KallasDevil.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-monsters-of-myth-bestiary/KallasDevil.webp"
+          }
+        }
+      }
+    }
+  },
+  "pf2e.lost-omens-mwangi-expanse-bestiary": {
+    "8K5v5q9Y01hcSNug": {
+      "name": "Rompo",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-mwangi-expanse-bestiary/Rompo.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-mwangi-expanse-bestiary/Rompo.webp"
+          }
+        }
+      }
+    },
+    "As0M3PvmrR2055pk": {
+      "name": "Asanbosam",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-mwangi-expanse-bestiary/Asanbosam.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-mwangi-expanse-bestiary/Asanbosam.webp"
+          }
+        }
+      }
+    },
+    "aXXvrcggR8EQJOdm": {
+      "name": "Anadi Hunter",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-mwangi-expanse-bestiary/AnadiHunter.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-mwangi-expanse-bestiary/AnadiHunter.webp"
+          }
+        }
+      }
+    },
+    "hbvxQn0T0m4WoAmZ": {
+      "name": "Karina",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-mwangi-expanse-bestiary/Karina.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-mwangi-expanse-bestiary/Karina.webp"
+          }
+        }
+      }
+    },
+    "IWk8dWUf4Q4D8iww": {
+      "name": "Anadi Sage",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-mwangi-expanse-bestiary/AnadiSage.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-mwangi-expanse-bestiary/AnadiSage.webp"
+          }
+        }
+      }
+    },
+    "j0t62tXPYhBzCLUO": {
+      "name": "Mamlambo",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-mwangi-expanse-bestiary/Mamlambo.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-mwangi-expanse-bestiary/Mamlambo.webp"
+          }
+        }
+      }
+    },
+    "ld3hMGWfeUT7enNf": {
+      "name": "Sie Golou",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-mwangi-expanse-bestiary/SieGolou.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-mwangi-expanse-bestiary/SieGolou.webp"
+          }
+        }
+      }
+    },
+    "N5pG7rsbN1lL1ysb": {
+      "name": "Aigamuxa",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-mwangi-expanse-bestiary/Aigamuxa.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-mwangi-expanse-bestiary/Aigamuxa.webp"
+          }
+        }
+      }
+    },
+    "NvyAvzxxfb8XEQr2": {
+      "name": "Grootslang",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-mwangi-expanse-bestiary/Grootslang.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-mwangi-expanse-bestiary/Grootslang.webp"
+          }
+        }
+      }
+    },
+    "QUyqY6JiZNkEyTnd": {
+      "name": "Charau-Ka Butcher",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-mwangi-expanse-bestiary/CharauKaButcher.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-mwangi-expanse-bestiary/CharauKaButcher.webp"
+          }
+        }
+      }
+    },
+    "rayMMWNm61ivtxuU": {
+      "name": "Biloko Warrior",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-mwangi-expanse-bestiary/Biloko.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-mwangi-expanse-bestiary/Biloko Warrior.webp"
+          }
+        }
+      }
+    },
+    "rBlu1EsygXwCkOvd": {
+      "name": "Zinba",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-mwangi-expanse-bestiary/Zinba.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-mwangi-expanse-bestiary/Zinba.webp"
+          }
+        }
+      }
+    },
+    "rMby02NQRHNrDcTj": {
+      "name": "Kaava",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-mwangi-expanse-bestiary/Kaava.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-mwangi-expanse-bestiary/Kaava.webp"
+          }
+        }
+      }
+    },
+    "rrJqsVeBKizuyqRY": {
+      "name": "Biloko Veteran",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-mwangi-expanse-bestiary/Biloko.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-mwangi-expanse-bestiary/BilokoVeteran.webp"
+          }
+        }
+      }
+    },
+    "RVVSRRYAhQ3dVK2h": {
+      "name": "SolarIbis",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-mwangi-expanse-bestiary/SolarIbis.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-mwangi-expanse-bestiary/SolarIbis.webp"
+          }
+        }
+      }
+    },
+    "TfEGDGqUk3LpokZZ": {
+      "name": "Charau-Ka Warrior",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-mwangi-expanse-bestiary/CharauKaWarrior.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-mwangi-expanse-bestiary/CharauKaWarrior.webp"
+          }
+        }
+      }
+    },
+    "x2udXsqiLZachJHY": {
+      "name": "Maliadi",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-mwangi-expanse-bestiary/Maliadi.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-mwangi-expanse-bestiary/Maliadi.webp"
+          }
+        }
+      }
+    },
+    "XSWDwaLEyshEKSZE": {
+      "name": "Knonna",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-mwangi-expanse-bestiary/Knonna.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-mwangi-expanse-bestiary/Knonna.webp"
+          }
+        }
+      }
+    }
+  },
+  "pf2e.lost-omens-tian-xia-world-guide": {
+    "0J8xJV4NXaphEWgM": {
+      "name": "Jiidon",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-tian-xia-world-guide/Jiidon.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-tian-xia-world-guide/Jiidon.webp"
+          }
+        }
+      }
+    },
+    "0yF82Lo495lKarLS": {
+      "name": "Peng",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-tian-xia-world-guide/Peng.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-tian-xia-world-guide/Peng.webp"
+          }
+        }
+      }
+    },
+    "2hQmiIASF1pvbWhX": {
+      "name": "Five Color Orchid Mantis",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-tian-xia-world-guide/FiveColorOrchidMantis.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-tian-xia-world-guide/FiveColorOrchidMantis.webp"
+          }
+        }
+      }
+    },
+    "374PRwbW4i4Xw1Fe": {
+      "name": "Bul Gae",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-tian-xia-world-guide/BulGae.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-tian-xia-world-guide/BulGae.webp"
+          }
+        }
+      }
+    },
+    "3utPtrLWLyNO1hxt": {
+      "name": "The Great Flood",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-tian-xia-world-guide/TheGreatFlood.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-tian-xia-world-guide/TheGreatFlood.webp"
+          }
+        }
+      }
+    },
+    "6bACPcPqi8syNcVg": {
+      "name": "Imugi",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-tian-xia-world-guide/Imugi.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-tian-xia-world-guide/Imugi.webp"
+          }
+        }
+      }
+    },
+    "6v2HzHeT1mNLaqg9": {
+      "name": "Ijhyeojin",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-tian-xia-world-guide/Ijhyeojin.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-tian-xia-world-guide/Ijhyeojin.webp"
+          }
+        }
+      }
+    },
+    "7RTjMCDWQVc6MKNI": {
+      "name": "Pixiu",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-tian-xia-world-guide/Pixiu.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-tian-xia-world-guide/Pixiu.webp"
+          }
+        }
+      }
+    },
+    "7ZSjqT2yiJB5OKgk": {
+      "name": "Joseung Saja",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-tian-xia-world-guide/JoseungSaja.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-tian-xia-world-guide/JoseungSaja.webp"
+          }
+        }
+      }
+    },
+    "9jvXTVcMNTx3kGfU": {
+      "name": "Nue",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-tian-xia-world-guide/Nue.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-tian-xia-world-guide/Nue.webp"
+          }
+        }
+      }
+    },
+    "B65InLN9TZjlascU": {
+      "name": "Inkdrop",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-tian-xia-world-guide/Inkdrop.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-tian-xia-world-guide/Inkdrop.webp"
+          }
+        }
+      }
+    },
+    "DkQWhW0CelytSWAV": {
+      "name": "Kun",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-tian-xia-world-guide/Kun.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-tian-xia-world-guide/Kun.webp"
+          }
+        }
+      }
+    },
+    "GP61YtH3RvicMTkf": {
+      "name": "Manananggal",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-tian-xia-world-guide/Manananggal.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-tian-xia-world-guide/Manananggal.webp"
+          }
+        }
+      }
+    },
+    "k5f4vITTc7mclQzH": {
+      "name": "Shui Gui",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-tian-xia-world-guide/ShuiGui.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-tian-xia-world-guide/ShuiGui.webp"
+          }
+        }
+      }
+    },
+    "KcwFM5tI2R4jDalx": {
+      "name": "Gau Cho Rong",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-tian-xia-world-guide/GauChoRong.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-tian-xia-world-guide/GauChoRong.webp"
+          }
+        }
+      }
+    },
+    "Lhcwzt64Do7afrbF": {
+      "name": "Aoyin",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-tian-xia-world-guide/Aoyin.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-tian-xia-world-guide/Aoyin.webp"
+          }
+        }
+      }
+    },
+    "mu36UlW90zHYuzww": {
+      "name": "Hopping Head",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-tian-xia-world-guide/HoppingHead.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-tian-xia-world-guide/HoppingHead.webp"
+          }
+        }
+      }
+    },
+    "Mu3obsMXZ0OYlQpo": {
+      "name": "Yeongno",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-tian-xia-world-guide/Yeongno.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-tian-xia-world-guide/Yeongno.webp"
+          }
+        }
+      }
+    },
+    "zrx1qjf1WbSYllvz": {
+      "name": "Aso Berang",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/lost-omens/lost-omens-tian-xia-world-guide/AsoBerang.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/lost-omens/lost-omens-tian-xia-world-guide/AsoBerang.webp"
+          }
+        }
+      }
+    }
+  },
+  "pf2e.one-shot-bestiary": {
+    "BFTodEMAuiYhte03": {
+      "name": "Princess Sunset",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/one-shots/princess-sunset.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/one-shots/princess-sunset.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/standalone-adventure/subjects/one-shots/princess-sunset.webp"
+          }
+        }
+      }
+    },
+    "hfoTGdl5WdS5s1Ss": {
+      "name": "Taxidermic Dog",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/one-shots/taxidermic-dog.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/one-shots/taxidermic-dog.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/one-shots/taxidermic-dog.webp"
+          }
+        }
+      }
+    }
+  },
+  "pf2e.pathfinder-dark-archive": {
+    "34gooaLEuQh0Cu9n": {
+      "name": "Cocoon Of Lucid Potential",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-dark-archive/CocoonOfLucidPotential.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-dark-archive/CocoonOfLucidPotential.webp"
+          }
+        }
+      }
+    },
+    "8Lo4sys48l7YaK5J": {
+      "name": "The Morrowkin",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-dark-archive/TheMorrowkin.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-dark-archive/TheMorrowkin.webp"
+          }
+        }
+      }
+    },
+    "spP95evfvogIuclj": {
+      "name": "The Weaver In Dreams",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-dark-archive/TheWeaverInDreams.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-dark-archive/TheWeaverInDreams.webp"
+          }
+        }
+      }
+    },
+    "WiFzLguamOR69IcD": {
+      "name": "Mother Mitera",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-dark-archive/MotherMitera.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-dark-archive/MotherMitera.webp"
+          }
+        }
+      }
+    },
+    "wmKvVsfc6Hg1Bj8I": {
+      "name": "The Echo",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-dark-archive/TheEcho.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-dark-archive/TheEcho.webp"
+          }
+        }
+      }
+    }
+  },
+  "pf2e.pfs-introductions-bestiary": {
+    "j7hidXUeUNJtQEW4": {
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/society/pfs-introductions-bestiary/swamp_ooze.webp",
+      "token": "modules/pf2e-token-art/assets/PF2e/tokens/society/pfs-introductions-bestiary/swamp ooze.webp"
+    },
+    "LG0Vg7zBMGFQUkvE": {
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/society/pfs-introductions-bestiary/shadow_drake.webp",
+      "token": "modules/pf2e-token-art/assets/PF2e/tokens/society/pfs-introductions-bestiary/shadow_drake.webp"
+    },
+    "RPqISpa2Jq8Jy3dh": {
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/society/pfs-introductions-bestiary/rain_in_cloudy_day.webp",
+      "token": {
+        "img": "modules/pf2e-token-art/assets/PF2e/tokens/society/pfs-introductions-bestiary/rain_in_cloudy_day.webp",
+        "scale": 0.8
+      }
+    }
+  },
+  "pf2e.quest-for-the-frozen-flame-bestiary": {
+    "hNHljzF0xpUBKiA9": {
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/adventure-path/adventure-path-quest-for-the-frozen-flame/JesseriTheHailstorm.webp",
+      "token": {
+        "img": "modules/pf2e-token-art/assets/PF2e/tokens/adventure-path/adventure-path-quest-for-the-frozen-flame/JesseriTheHailstorm.webp",
+        "scale": 1.5
+      }
+    },
+    "nBoysLyDYIZaaAHP": {
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/adventure-path/adventure-path-quest-for-the-frozen-flame/Metuak.webp",
+      "token": {
+        "img": "modules/pf2e-token-art/assets/PF2e/tokens/adventure-path/adventure-path-quest-for-the-frozen-flame/Metuak.webp",
+        "scale": 1.5
+      }
+    },
+    "QC2noL9T0y8Ny5eU": {
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/adventure-path/adventure-path-quest-for-the-frozen-flame/Lomok.webp",
+      "token": {
+        "img": "modules/pf2e-token-art/assets/PF2e/tokens/adventure-path/adventure-path-quest-for-the-frozen-flame/Lomok.webp",
+        "scale": 1.5
+      }
+    },
+    "QdDoqb0RSy1Mer5Q": {
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/adventure-path/adventure-path-quest-for-the-frozen-flame/EverburningMammoth.webp",
+      "token": {
+        "img": "modules/pf2e-token-art/assets/PF2e/tokens/adventure-path/adventure-path-quest-for-the-frozen-flame/EverburningMammoth.webp",
+        "scale": 1.5
+      }
+    },
+    "UGB689LLMK5Vi0Nc": {
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/adventure-path/adventure-path-quest-for-the-frozen-flame/Ivarsa.webp",
+      "token": {
+        "img": "modules/pf2e-token-art/assets/PF2e/tokens/adventure-path/adventure-path-quest-for-the-frozen-flame/Ivarsa.webp",
+        "scale": 1.5
+      }
+    },
+    "vEfQXwx3qetnYcSI": {
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/adventure-path/adventure-path-quest-for-the-frozen-flame/BurningMammothCommando.webp",
+      "token": {
+        "img": "modules/pf2e-token-art/assets/PF2e/tokens/adventure-path/adventure-path-quest-for-the-frozen-flame/BurningMammothCommando.webp",
+        "scale": 1.5
+      }
+    },
+    "ZKxZgklb78PULu10": {
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/adventure-path/adventure-path-quest-for-the-frozen-flame/Pakano12.webp",
+      "token": {
+        "img": "modules/pf2e-token-art/assets/PF2e/tokens/adventure-path/adventure-path-quest-for-the-frozen-flame/Pakano12.webp",
+        "scale": 1.5
+      }
+    }
+  },
+  "pf2e.rage-of-elements-bestiary": {
+    "1cpG2DuXPXq3DMBx": {
+      "name": "Jabali Shuyookh",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/JabaliShuyookh.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/JabaliShuyookh.webp"
+          }
+        }
+      }
+    },
+    "3ItvROg0JbYKUGRu": {
+      "name": "Brochmaw",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/Brochmaw.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/Brochmaw.webp"
+          }
+        }
+      }
+    },
+    "411wAxSMPPAImVz5": {
+      "name": "Brass Bastion",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/BrassBastion.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/BrassBastion.webp"
+          }
+        }
+      }
+    },
+    "5nf90vfzOVFbGEZZ": {
+      "name": "Crystal Strider",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/CrystalStrider.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/CrystalStrider.webp"
+          }
+        }
+      }
+    },
+    "6VCNPJ3xPw4Js52V": {
+      "name": "Blustering Gale",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/BlusteringGale.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/BlusteringGale.webp"
+          }
+        }
+      }
+    },
+    "7C6sSVh7jipvHKbV": {
+      "name": "Vegetable Lamb",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/VegetableLamb.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/VegetableLamb.webp"
+          }
+        }
+      }
+    },
+    "7qRWMhYwrTHv58VG": {
+      "name": "Comozant Wyrd",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/ComozantWyrd.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/ComozantWyrd.webp"
+          }
+        }
+      }
+    },
+    "7Y3DAOMaLzqmRqUh": {
+      "name": "Saltborn Stalkers",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/SaltbornStalkers.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/SaltbornStalkers.webp"
+          }
+        }
+      }
+    },
+    "7zKCt0OyooqW9UkL": {
+      "name": "Ardande Gardener",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/ArdandeGardener.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/ArdandeGardener.webp"
+          }
+        }
+      }
+    },
+    "a2kTygtqIuMCSLIr": {
+      "name": "Zuhra Shuyookh",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/ZuhraShuyookh.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/ZuhraShuyookh.webp"
+          }
+        }
+      }
+    },
+    "AahAJjsv74rPfAG5": {
+      "name": "Oregorger",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/Oregorger.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/Oregorger.webp"
+          }
+        }
+      }
+    },
+    "BKHoKKSWvc7rQoyz": {
+      "name": "Mercurial",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/Mercurial.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/Mercurial.webp"
+          }
+        }
+      }
+    },
+    "bzMyAFhSQ1mfTNx9": {
+      "name": "Nursery Crawler",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/NurseryCrawler.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/NurseryCrawler.webp"
+          }
+        }
+      }
+    },
+    "CKRqlCHgvZp9YL5s": {
+      "name": "Living Lodestone",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/LivingLodestone.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/LivingLodestone.webp"
+          }
+        }
+      }
+    },
+    "d0InnF6QVgDIG4j3": {
+      "name": "Quickiron Plasm",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/QuickironPlasm.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/QuickironPlasm.webp"
+          }
+        }
+      }
+    },
+    "D1WlR977uIedFwAr": {
+      "name": "Lava Otter",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/LavaOtter.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/LavaOtter.webp"
+          }
+        }
+      }
+    },
+    "E3n4MNWQNPR2o3bG": {
+      "name": "Pelegox Cube",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/PelegoxCube.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/PelegoxCube.webp"
+          }
+        }
+      }
+    },
+    "E7OZ0cdycOi5Cuu1": {
+      "name": "Faydhaan Shuyookh",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/FaydhaanShuyookh.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/FaydhaanShuyookh.webp"
+          }
+        }
+      }
+    },
+    "EHowgLz8ohFGTGvG": {
+      "name": "Boiling Spring",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/BoilingSpring.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/BoilingSpring.webp"
+          }
+        }
+      }
+    },
+    "eMbeqzGyypNU1wTS": {
+      "name": "Kizidhar Shuyookh",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/KizidharShuyookh.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/KizidharShuyookh.webp"
+          }
+        }
+      }
+    },
+    "g36FR0xlbMSvWqdS": {
+      "name": "Talos Gadgeteer",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/TalosGadgeteer.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/TalosGadgeteer.webp"
+          }
+        }
+      }
+    },
+    "GdXjhFu8Afg24fM9": {
+      "name": "Elder Outcrop",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/ElderOutcrop.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/ElderOutcrop.webp"
+          }
+        }
+      }
+    },
+    "Gqz1qtpdgAl13pCE": {
+      "name": "Gennayn",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/Gennayn.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/Gennayn.webp"
+          }
+        }
+      }
+    },
+    "hGPjJjjqBc42VrFs": {
+      "name": "Anemos",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/Anemos.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/Anemos.webp"
+          }
+        }
+      }
+    },
+    "IBfXxdi8ja4095km": {
+      "name": "Nightwood Guardian",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/NightwoodGuardian.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/NightwoodGuardian.webp"
+          }
+        }
+      }
+    },
+    "ikcWmhEdL5G0s9T4": {
+      "name": "Painted Stag",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/PaintedStag.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/PaintedStag.webp"
+          }
+        }
+      }
+    },
+    "IPKzI7XwILuDc21S": {
+      "name": "Asp Of Grief",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/AspOfGrief.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/AspOfGrief.webp"
+          }
+        }
+      }
+    },
+    "jKSirpKNicffmRpW": {
+      "name": "Crysmal",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/Crysmal.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/Crysmal.webp"
+          }
+        }
+      }
+    },
+    "JR7VT7ObQRaBtUlk": {
+      "name": "Tantriog",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/Tantriog.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/Tantriog.webp"
+          }
+        }
+      }
+    },
+    "Kv6zyQC3JCEWWwvf": {
+      "name": "Solar Crow",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/SolarCrow.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/SolarCrow.webp"
+          }
+        }
+      }
+    },
+    "kzczIOOaDfPlFc03": {
+      "name": "Lithic Locus",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/LithicLocus.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/LithicLocus.webp"
+          }
+        }
+      }
+    },
+    "LVLf8bfqqLkM56tj": {
+      "name": "Wood Wisp",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/WoodWisp.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/WoodWisp.webp"
+          }
+        }
+      }
+    },
+    "m2WdV4XJ3r70mnJX": {
+      "name": "Rakkatak",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/Rakkatak.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/Rakkatak.webp"
+          }
+        }
+      }
+    },
+    "m6lUcyekHwJxTLzo": {
+      "name": "Vault Keeper",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/VaultKeeper.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/VaultKeeper.webp"
+          }
+        }
+      }
+    },
+    "Mw0sQmrSf9hao5mF": {
+      "name": "Zuhra",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/Zuhra.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/Zuhra.webp"
+          }
+        }
+      }
+    },
+    "nhIxIC4O6XGUZ8Ng": {
+      "name": "Nanoshard Swarm",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/NanoshardSwarm.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/NanoshardSwarm.webp"
+          }
+        }
+      }
+    },
+    "NhmmvWicMmhXuKJo": {
+      "name": "Snapdrake",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/Snapdrake.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/Snapdrake.webp"
+          }
+        }
+      }
+    },
+    "NHWf9R3yN5Iil7Zh": {
+      "name": "DewdropJelly",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/DewdropJelly.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/DewdropJelly.webp"
+          }
+        }
+      }
+    },
+    "O3Rjdf00nJOHF4PE": {
+      "name": "Jaathoom Shuyookh",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/JaathoomShuyookh.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/JaathoomShuyookh.webp"
+          }
+        }
+      }
+    },
+    "P3UcyuiqqYPzAwwF": {
+      "name": "Carved Beast",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/CarvedBeast.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/CarvedBeast.webp"
+          }
+        }
+      }
+    },
+    "PameP0qGSvNrhGeH": {
+      "name": "Avalanche Legion",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/AvalancheLegion.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/AvalancheLegion.webp"
+          }
+        }
+      }
+    },
+    "QkD7kUl6KvUvPAYA": {
+      "name": "Kizidhar",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/Kizidhar.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/Kizidhar.webp"
+          }
+        }
+      }
+    },
+    "RFxLankyC74BEY03": {
+      "name": "Capritellix",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/Capritellix.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/Capritellix.webp"
+          }
+        }
+      }
+    },
+    "RObxZM2z4P6ZW3hN": {
+      "name": "Jann Shuyookh",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/JannShuyookh.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/JannShuyookh.webp"
+          }
+        }
+      }
+    },
+    "Rv14qdCi4cTEBXJ4": {
+      "name": "Murajau",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/Murajau.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/Murajau.webp"
+          }
+        }
+      }
+    },
+    "RZ83RzvCJJHHooyk": {
+      "name": "Veldenar",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/Veldenar.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/Veldenar.webp"
+          }
+        }
+      }
+    },
+    "TlM6ePIW2yHNOMJv": {
+      "name": "Twins Of Rowan",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/TwinsOfRowan.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/TwinsOfRowan.webp"
+          }
+        }
+      }
+    },
+    "uEabVqGzN4TprwHw": {
+      "name": "Sootsoldiers",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/Sootsoldiers.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/Sootsoldiers.webp"
+          }
+        }
+      }
+    },
+    "vM6zlGT02raJqPTu": {
+      "name": "DespairPall",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/DespairPall.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/DespairPall.webp"
+          }
+        }
+      }
+    },
+    "Vtx0UBhy5aUu3UMO": {
+      "name": "Metal Wisp",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/MetalWisp.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/MetalWisp.webp"
+          }
+        }
+      }
+    },
+    "Vv9ffFM1qiTdIEsy": {
+      "name": "Munsahir Trooper",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/MunsahirTrooper.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/MunsahirTrooper.webp"
+          }
+        }
+      }
+    },
+    "WrGYN6jtEfv7k1pV": {
+      "name": "Living Grove",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/LivingGrove.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/LivingGrove.webp"
+          }
+        }
+      }
+    },
+    "XL7B63sTgdDJPbVQ": {
+      "name": "Ifrit Shuyookh",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/IfritShuyookh.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/IfritShuyookh.webp"
+          }
+        }
+      }
+    },
+    "xorqWffvwJFUFuON": {
+      "name": "Olobigonde",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/Olobigonde.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/Olobigonde.webp"
+          }
+        }
+      }
+    },
+    "XvFyRUv2BxgjKm77": {
+      "name": "Lomori Sprout",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/LomoriSprout.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/LomoriSprout.webp"
+          }
+        }
+      }
+    },
+    "XyU6fPkQJjS1VFTb": {
+      "name": "Skymetal Striker",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/SkymetalStriker.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/SkymetalStriker.webp"
+          }
+        }
+      }
+    },
+    "g9hnlCy2R4uspfAI": {
+      "name": "Vault Builder",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/VaultBuilder.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/VaultBuilder.webp"
+          }
+        }
+      }
+    },
+    "YKEPPmyqTvVSApo8": {
+      "name": "Harvest Regimen",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/HarvestRegimen.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/HarvestRegimen.webp"
+          }
+        }
+      }
+    },
+    "ytvGscCgKbOCn0dB": {
+      "name": "Rust Scarab",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/RustScarab.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/RustScarab.webp"
+          }
+        }
+      }
+    },
+    "YWFBlSODRkWD60Je": {
+      "name": "Picture In Clouds",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/rulebook/rulebook-rage-of-elements-bestiary/PictureInClouds.webp",
+      "token": {
+        "randomImg": false,
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/rulebook/rulebook-rage-of-elements-bestiary/PictureInClouds.webp"
+          }
+        }
+      }
+    }
+  },
+  "pf2e.shadows-at-sundown-bestiary": {
+    "8oeuD5h4OzXsxZS5": {
+      "name": "Scarlet Walker",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/shadows-at-sundown/ScarletWalker.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/shadows-at-sundown/ScarletWalker.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/shadows-at-sundown/ScarletWalker.webp"
+          }
+        }
+      }
+    }
+  },
+  "pf2e.the-enmity-cycle-bestiary": {
+    "257nqvaDItlttlG2": {
+      "name": "Scorching Sun Cultist",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/standalone-adventure-the-enmity-cycle/ScorchingSunCultist.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/standalone-adventure-the-enmity-cycle/ScorchingSunCultist.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/standalone-adventure-the-enmity-cycle/ScorchingSunCultist.webp"
+          }
+        }
+      }
+    },
+    "5d0K1rXEMZkILjxu": {
+      "name": "Mechanical Assistant",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/standalone-adventure-the-enmity-cycle/MechanicalAssistant.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/standalone-adventure-the-enmity-cycle/ScarletWalker.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/standalone-adventure-the-enmity-cycle/ScarletWalker.webp"
+          }
+        }
+      }
+    },
+    "gBjrp5li1LCbIO8X": {
+      "name": "Sand Wolf",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/standalone-adventure-the-enmity-cycle/SandWolf.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/standalone-adventure-the-enmity-cycle/SandWolf.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/standalone-adventure-the-enmity-cycle/SandWolf.webp"
+          }
+        }
+      }
+    },
+    "hKXwujYX7CDtsZ5P": {
+      "name": "Scrapborn",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/standalone-adventure-the-enmity-cycle/Scrapborn.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/standalone-adventure-the-enmity-cycle/Scrapborn.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/standalone-adventure-the-enmity-cycle/Scrapborn.webp"
+          }
+        }
+      }
+    },
+    "qsgUxFmUK9rohj0M": {
+      "name": "Vulpinal Twin",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/standalone-adventure-the-enmity-cycle/VulpinalTwin.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/standalone-adventure-the-enmity-cycle/VulpinalTwin.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/standalone-adventure-the-enmity-cycle/VulpinalTwin.webp"
+          }
+        }
+      }
+    },
+    "rCbzflYQbsqxlmiG": {
+      "name": "Usij Cultist",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/standalone-adventure-the-enmity-cycle/UsijCultist.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/standalone-adventure-the-enmity-cycle/UsijCultist.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/standalone-adventure-the-enmity-cycle/UsijCultist.webp"
+          }
+        }
+      }
+    },
+    "TLA7lez6eCf2Qp8v": {
+      "name": "Seddek",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/standalone-adventure-the-enmity-cycle/Seddek.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/standalone-adventure-the-enmity-cycle/Seddek.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/standalone-adventure-the-enmity-cycle/Seddek.webp"
+          }
+        }
+      }
+    },
+    "xfc7t2z45drvafdK": {
+      "name": "Jimbilin",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/standalone-adventure-the-enmity-cycle/Jimbilin.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/standalone-adventure-the-enmity-cycle/Jimbilin.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/standalone-adventure-the-enmity-cycle/Jimbilin.webp"
+          }
+        }
+      }
+    },
+    "xwEcqgkn9Fvrhpv7": {
+      "name": "Zridi",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/standalone-adventure-the-enmity-cycle/Zridi.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/standalone-adventure-the-enmity-cycle/Zridi.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/standalone-adventure-the-enmity-cycle/Zridi.webp"
+          }
+        }
+      }
+    },
+    "Ziy3L849K2Fayesa": {
+      "name": "Noolik",
+      "actor": "modules/pf2e-token-art/assets/PF2e/portraits/standalone-adventure/standalone-adventure-the-enmity-cycle/Noolik.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-token-art/assets/PF2e/tokens/standalone-adventure/standalone-adventure-the-enmity-cycle/Noolik.webp"
+        },
+        "ring": {
+          "enabled": false,
+          "subject": {
+            "texture": "modules/pf2e-token-art/assets/PF2e/subjects/standalone-adventure/standalone-adventure-the-enmity-cycle/Noolik.webp"
+          }
+        }
+      }
+    }
+  }
+}

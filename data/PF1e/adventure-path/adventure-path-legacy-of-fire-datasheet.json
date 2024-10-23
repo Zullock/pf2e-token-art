@@ -1,0 +1,2473 @@
+[
+    {
+        "label": "Almah Roveshki",
+        "key": "AlmahRoveshkiPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/AlmahRoveshki.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/AlmahRoveshki.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/AlmahRoveshki.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/AlmahRoveshki.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Almah Roveshki",
+        "key": "AlmahRoveshkiBustPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/AlmahRoveshkiBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/AlmahRoveshkiBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/AlmahRoveshkiBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/AlmahRoveshkiBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Almah Roveshki",
+        "key": "AlmahRoveshkiFightingPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/AlmahRoveshkiFighting.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/AlmahRoveshkiFighting.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/AlmahRoveshkiFighting.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/AlmahRoveshkiFighting.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Amwyr Yuseifah",
+        "key": "AmwyrYuseifahPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/AmwyrYuseifah.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/AmwyrYuseifah.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/AmwyrYuseifah.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/AmwyrYuseifah.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Anwar Alim",
+        "key": "AnwarAlimPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/AnwarAlim.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/AnwarAlim.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/AnwarAlim.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/AnwarAlim.webp"
+        },
+        "tags": {
+            "category": [
+                "elemental",
+                "humanoid"
+            ],
+            "ancestry": [
+                "azer"
+            ],
+            "equipment": [
+                "heavy",
+                "polearm",
+                "unarmored"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Argbadh Karambagya",
+        "key": "ArgbadhKarambagyaPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/ArgbadhKarambagya.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/ArgbadhKarambagya.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/ArgbadhKarambagya.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/ArgbadhKarambagya.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "bronze giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Artel Norrin",
+        "key": "ArtelNorrinPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/ArtelNorrin.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/ArtelNorrin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/ArtelNorrin.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/ArtelNorrin.webp"
+        },
+        "tags": {
+            "category": [
+                "elemental",
+                "humanoid"
+            ],
+            "ancestry": [
+                "azer"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Badra",
+        "key": "BadraPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Badra.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Badra.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Badra.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Badra.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Black Jinn",
+        "key": "BlackJinnPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/BlackJinn.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/BlackJinn.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/BlackJinn.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/BlackJinn.webp"
+        },
+        "tags": {
+            "category": [
+                "elemental"
+            ],
+            "ancestry": [
+                " black jinn"
+            ],
+            "family": [
+                "genie"
+            ]
+        }
+    },
+    {
+        "label": "Blobog",
+        "key": "BlobogPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Blobog.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Blobog.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Blobog.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Blobog.webp"
+        },
+        "tags": {
+            "family": [
+                "lamashtu"
+            ],
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "goblin"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Buraq",
+        "key": "BuraqPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Buraq.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Buraq.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Buraq.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Buraq.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                " buraq"
+            ]
+        }
+    },
+    {
+        "label": "Carrion Guard",
+        "key": "CarrionGuardPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/CarrionGuard.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/CarrionGuard.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/CarrionGuard.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/CarrionGuard.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "kholo"
+            ],
+            "equipment": [
+                "bow",
+                "brawling",
+                "clothing",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Chemnosit",
+        "key": "ChemnositPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Chemnosit.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Chemnosit.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Chemnosit.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Chemnosit.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                " chemnosit"
+            ],
+            "family": [
+                "spawn of rovagug"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Coeurl",
+        "key": "CoeurlPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Coeurl.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Coeurl.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Coeurl.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Coeurl.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "coeurl"
+            ]
+        }
+    },
+    {
+        "label": "Dashki",
+        "key": "DashkiPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Dashki.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Dashki.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Dashki.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Dashki.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "knife",
+                "sword"
+            ],
+            "features": [
+                "dual-wielding"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Davashuum",
+        "key": "DavashuumPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Davashuum.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Davashuum.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Davashuum.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Davashuum.webp"
+        },
+        "tags": {
+            "category": [
+                "elemental"
+            ],
+            "ancestry": [
+                "jann"
+            ],
+            "family": [
+                "genie"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Dilix Mahad",
+        "key": "DilixMahadPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/DilixMahad.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/DilixMahad.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/DilixMahad.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/DilixMahad.webp"
+        },
+        "tags": {
+            "category": [
+                "elemental"
+            ],
+            "ancestry": [
+                "jabali"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "genie"
+            ]
+        }
+    },
+    {
+        "label": "Dire Shark",
+        "key": "DireSharkPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/DireShark.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/DireShark.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/DireShark.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/DireShark.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "dire shark"
+            ],
+            "family": [
+                "shark"
+            ]
+        }
+    },
+    {
+        "label": "Edimmu",
+        "key": "EdimmuPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Edimmu.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Edimmu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Edimmu.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Edimmu.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                " edimmu"
+            ],
+            "family": [
+                "incorporeal"
+            ]
+        }
+    },
+    {
+        "label": "Emabier",
+        "key": "EmabierPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Emabier.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Emabier.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Emabier.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Emabier.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "eye of the deep"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Emkrah",
+        "key": "EmkrahPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Emkrah.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Emkrah.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Emkrah.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Emkrah.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                " emkrah"
+            ]
+        }
+    },
+    {
+        "label": "Ezer Hazzebaim",
+        "key": "EzerHazzebaimPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/EzerHazzebaim.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/EzerHazzebaim.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/EzerHazzebaim.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/EzerHazzebaim.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "nephilim"
+            ],
+            "family": [
+                "giant"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Fadiyah al'Qirym",
+        "key": "FadiyahAlQirymPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/FadiyahAlQirym.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/FadiyahAlQirym.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/FadiyahAlQirym.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/FadiyahAlQirym.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "spectre"
+            ],
+            "family": [
+                "incorporeal"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Father Jackal",
+        "key": "FatherJackalPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/FatherJackal.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/FatherJackal.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/FatherJackal.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/FatherJackal.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "werejackal"
+            ],
+            "family": [
+                "werecreature"
+            ],
+            "equipment": [
+                "axe",
+                "heavy"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Father Zastoran",
+        "key": "FatherZastoranPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/FatherZastoran.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/FatherZastoran.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/FatherZastoran.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/FatherZastoran.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "family": [
+                "nethys"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Fayar",
+        "key": "FayarPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Fayar.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Fayar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Fayar.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Fayar.webp"
+        },
+        "tags": {
+            "family": [
+                "sarenrae"
+            ],
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "knife",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Faydhaan",
+        "key": "FaydhaanPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Faydhaan.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Faydhaan.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Faydhaan.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Faydhaan.webp"
+        },
+        "tags": {
+            "category": [
+                "elemental"
+            ],
+            "ancestry": [
+                " faydhaan"
+            ],
+            "family": [
+                "genie"
+            ],
+            "equipment": [
+                "clothing",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Faydhaan",
+        "key": "FaydhaanNudePF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/FaydhaanNude.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/FaydhaanNude.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/FaydhaanNude.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/FaydhaanNude.webp"
+        },
+        "tags": {
+            "category": [
+                "elemental"
+            ],
+            "ancestry": [
+                " faydhaan"
+            ],
+            "equipment": [
+                "polearm",
+                "unarmored"
+            ],
+            "family": [
+                "genie"
+            ]
+        }
+    },
+    {
+        "label": "Felliped",
+        "key": "FellipedPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Felliped.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Felliped.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Felliped.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Felliped.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "heavy",
+                "medium"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Fire Cult Iruxi",
+        "key": "FireCultIruxiPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/FireCultIruxi.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/FireCultIruxi.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/FireCultIruxi.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/FireCultIruxi.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "iruxi"
+            ],
+            "equipment": [
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Fire Snake",
+        "key": "FireSnakePF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/FireSnake.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/FireSnake.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/FireSnake.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/FireSnake.webp"
+        },
+        "tags": {
+            "category": [
+                "elemental"
+            ],
+            "ancestry": [
+                "fire snake"
+            ]
+        }
+    },
+    {
+        "label": "Gandareva",
+        "key": "GandarevaPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Gandareva.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Gandareva.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Gandareva.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Gandareva.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic"
+            ],
+            "ancestry": [
+                " gandareva"
+            ],
+            "family": [
+                "azi"
+            ]
+        }
+    },
+    {
+        "label": "Garavel",
+        "key": "GaravelPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Garavel.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Garavel.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Garavel.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Garavel.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Genie Binder",
+        "key": "GenieBinderPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/GenieBinder.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/GenieBinder.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/GenieBinder.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/GenieBinder.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "focus",
+                "light"
+            ]
+        }
+    },
+    {
+        "label": "Get Of Iblis",
+        "key": "GetOfIblisPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/GetOfIblis.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/GetOfIblis.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/GetOfIblis.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/GetOfIblis.webp"
+        },
+        "tags": {
+            "ancestry": [
+                "get of iblis"
+            ],
+            "category": [
+                "aberrant"
+            ]
+        }
+    },
+    {
+        "label": "Ghartok",
+        "key": "GhartokPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Ghartok.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Ghartok.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Ghartok.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Ghartok.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "kholo"
+            ],
+            "family": [
+                "unchosen"
+            ],
+            "equipment": [
+                "axe",
+                "heavy",
+                "medium"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Grand Vizier Abdul-Qawi",
+        "key": "GrandVizierAbdul-QawiPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/GrandVizierAbdul-Qawi.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/GrandVizierAbdul-Qawi.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/GrandVizierAbdul-Qawi.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/GrandVizierAbdul-Qawi.webp"
+        },
+        "tags": {
+            "category": [
+                "elemental"
+            ],
+            "ancestry": [
+                "ifrit"
+            ],
+            "family": [
+                "genie"
+            ],
+            "equipment": [
+                "clothing",
+                "knife",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Grundmoch",
+        "key": "GrundmochPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Grundmoch.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Grundmoch.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Grundmoch.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Grundmoch.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "xulgath"
+            ],
+            "equipment": [
+                "axe",
+                "heavy",
+                "medium"
+            ],
+            "special": [
+                "unique"
+            ],
+            "family": [
+                "rovagug"
+            ]
+        }
+    },
+    {
+        "label": "Hadhayosh",
+        "key": "HadhayoshPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Hadhayosh.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Hadhayosh.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Hadhayosh.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Hadhayosh.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                " hadhayosh"
+            ]
+        }
+    },
+    {
+        "label": "Haidar Yunan",
+        "key": "HaidarYunanPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/HaidarYunan.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/HaidarYunan.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/HaidarYunan.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/HaidarYunan.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human",
+                "wereleopard"
+            ],
+            "equipment": [
+                "clothing",
+                "knife"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Haleen",
+        "key": "HaleenPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Haleen.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Haleen.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Haleen.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Haleen.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Iavesk",
+        "key": "IaveskPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Iavesk.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Iavesk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Iavesk.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Iavesk.webp"
+        },
+        "tags": {
+            "ancestry": [
+                "jaathoom"
+            ],
+            "category": [
+                "elemental"
+            ],
+            "family": [
+                "genie"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Imam Shabendeh",
+        "key": "ImamShabendehPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/ImamShabendeh.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/ImamShabendeh.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/ImamShabendeh.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/ImamShabendeh.webp"
+        },
+        "tags": {
+            "category": [
+                "elemental"
+            ],
+            "ancestry": [
+                "black jinn"
+            ],
+            "family": [
+                "genie"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Imentesh",
+        "key": "ImenteshPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Imentesh.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Imentesh.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Imentesh.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Imentesh.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                " imentesh"
+            ],
+            "family": [
+                "protean"
+            ]
+        }
+    },
+    {
+        "label": "Jann Captain",
+        "key": "JannCaptainPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/JannCaptain.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/JannCaptain.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/JannCaptain.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/JannCaptain.webp"
+        },
+        "tags": {
+            "category": [
+                "elemental"
+            ],
+            "ancestry": [
+                "jann"
+            ],
+            "family": [
+                "genie"
+            ]
+        }
+    },
+    {
+        "label": "Jhavhul",
+        "key": "JhavhulPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Jhavhul.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Jhavhul.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Jhavhul.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Jhavhul.webp"
+        },
+        "tags": {
+            "category": [
+                "elemental"
+            ],
+            "ancestry": [
+                "ifrit"
+            ],
+            "equipment": [
+                "heavy",
+                "unarmored"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Juvenile Rukh",
+        "key": "JuvenileRukhPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/JuvenileRukh.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/JuvenileRukh.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/JuvenileRukh.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/JuvenileRukh.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "rukh"
+            ]
+        }
+    },
+    {
+        "label": "Kardswann",
+        "key": "KardswannPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Kardswann.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Kardswann.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Kardswann.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Kardswann.webp"
+        },
+        "tags": {
+            "category": [
+                "elemental"
+            ],
+            "ancestry": [
+                "jann"
+            ],
+            "equipment": [
+                "axe",
+                "heavy",
+                "medium"
+            ],
+            "special": [
+                "unique"
+            ],
+            "family": [
+                "genie"
+            ]
+        }
+    },
+    {
+        "label": "Katapesh Merchant",
+        "key": "KatapeshMerchantPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/KatapeshMerchant.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/KatapeshMerchant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/KatapeshMerchant.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/KatapeshMerchant.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "features": [
+                "companion"
+            ]
+        }
+    },
+    {
+        "label": "Kazim",
+        "key": "KazimPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Kazim.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Kazim.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Kazim.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Kazim.webp"
+        },
+        "tags": {
+            "family": [
+                "abadar"
+            ],
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Keketar",
+        "key": "KeketarPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Keketar.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Keketar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Keketar.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Keketar.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                " keketar"
+            ],
+            "family": [
+                "protean"
+            ]
+        }
+    },
+    {
+        "label": "Khair al Din",
+        "key": "KhairAlDinPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/KhairAlDin.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/KhairAlDin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/KhairAlDin.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/KhairAlDin.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "axe",
+                "bludgeon",
+                "light",
+                "medium",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ],
+            "family": [
+                "rovagug"
+            ]
+        }
+    },
+    {
+        "label": "Kikkling The Slight",
+        "key": "KikklingTheSlightPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/KikklingTheSlight.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/KikklingTheSlight.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/KikklingTheSlight.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/KikklingTheSlight.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "kholo"
+            ],
+            "equipment": [
+                "medium",
+                "shield",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "King Mokknokk",
+        "key": "KingMokknokkPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/KingMokknokk.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/KingMokknokk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/KingMokknokk.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/KingMokknokk.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "pugwampi"
+            ],
+            "family": [
+                "gremlin"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Kothogaz",
+        "key": "KothogazPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Kothogaz.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Kothogaz.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Kothogaz.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Kothogaz.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                " kothogaz"
+            ],
+            "family": [
+                "spawn of rovagug"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Lahapraset",
+        "key": "LahaprasetPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Lahapraset.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Lahapraset.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Lahapraset.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Lahapraset.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                "imentesh"
+            ],
+            "family": [
+                "protean"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Lazrul",
+        "key": "LazrulPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Lazrul.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Lazrul.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Lazrul.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Lazrul.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "ogre"
+            ],
+            "family": [
+                "giant"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Madfang",
+        "key": "MadfangPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Madfang.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Madfang.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Madfang.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Madfang.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "family": [
+                "lamashtu"
+            ],
+            "equipment": [
+                "axe",
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Marzuk",
+        "key": "MarzukPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Marzuk.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Marzuk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Marzuk.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Marzuk.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Master Matajinn",
+        "key": "MasterMatajinnPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/MasterMatajinn.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/MasterMatajinn.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/MasterMatajinn.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/MasterMatajinn.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "elf",
+                "geniekin"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Miengu",
+        "key": "MienguPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Miengu.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Miengu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Miengu.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Miengu.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "miengu"
+            ]
+        }
+    },
+    {
+        "label": "Narg",
+        "key": "NargPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Narg.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Narg.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Narg.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Narg.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "kholo"
+            ],
+            "family": [
+                "flind"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "heavy",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Narrgok",
+        "key": "NarrgokPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Narrgok.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Narrgok.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Narrgok.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Narrgok.webp"
+        },
+        "tags": {
+            "family": [
+                "rovagug"
+            ],
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "kholo"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "axe",
+                "heavy"
+            ]
+        }
+    },
+    {
+        "label": "Naunet",
+        "key": "NaunetPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Naunet.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Naunet.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Naunet.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Naunet.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                " naunet"
+            ],
+            "family": [
+                "protean"
+            ]
+        }
+    },
+    {
+        "label": "Nefeshti",
+        "key": "NefeshtiPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Nefeshti.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Nefeshti.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Nefeshti.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Nefeshti.webp"
+        },
+        "tags": {
+            "family": [
+                "genie",
+                "gozreh"
+            ],
+            "category": [
+                "elemental"
+            ],
+            "ancestry": [
+                "jaathoom"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Obherak",
+        "key": "ObherakPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Obherak.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Obherak.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Obherak.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Obherak.webp"
+        },
+        "tags": {
+            "category": [
+                "elemental"
+            ],
+            "ancestry": [
+                "jabali"
+            ],
+            "family": [
+                "genie"
+            ],
+            "equipment": [
+                "clothing",
+                "sword",
+                "unarmored"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Pyrolisk",
+        "key": "PyroliskPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Pyrolisk.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Pyrolisk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Pyrolisk.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Pyrolisk.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "pyrolisk"
+            ]
+        }
+    },
+    {
+        "label": "Qilzar Agha Bagoas",
+        "key": "QilzarAghaBagoasPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/QilzarAghaBagoas.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/QilzarAghaBagoas.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/QilzarAghaBagoas.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/QilzarAghaBagoas.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "darnoc",
+                "dwarf"
+            ],
+            "family": [
+                "incorporeal"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Radi Hamdi",
+        "key": "RadiHamdiPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/RadiHamdi.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/RadiHamdi.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/RadiHamdi.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/RadiHamdi.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Rajali",
+        "key": "RajaliPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Rajali.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Rajali.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Rajali.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Rajali.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "heavy",
+                "polearm"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Rayhan Xobhadi",
+        "key": "RayhanXobhadiPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/RayhanXobhadi.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/RayhanXobhadi.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/RayhanXobhadi.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/RayhanXobhadi.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "scroll"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Rokova",
+        "key": "RokovaPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Rokova.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Rokova.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Rokova.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Rokova.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "kholo"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Rombard",
+        "key": "RombardPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Rombard.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Rombard.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Rombard.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Rombard.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "goat"
+            ],
+            "family": [
+                "herd animal"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Rovagug Priest",
+        "key": "RovagugPriestPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/RovagugPriest.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/RovagugPriest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/RovagugPriest.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/RovagugPriest.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "indistinct"
+            ],
+            "family": [
+                "rovagug"
+            ],
+            "equipment": [
+                "axe",
+                "polearm",
+                "unarmored"
+            ],
+            "features": [
+                "dual-wielding"
+            ]
+        }
+    },
+    {
+        "label": "Rukh",
+        "key": "RukhPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Rukh.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Rukh.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Rukh.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Rukh.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                " rukh"
+            ]
+        }
+    },
+    {
+        "label": "Shazathared",
+        "key": "ShazatharedPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Shazathared.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Shazathared.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Shazathared.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Shazathared.webp"
+        },
+        "tags": {
+            "category": [
+                "elemental"
+            ],
+            "ancestry": [
+                "faydhaan"
+            ],
+            "family": [
+                "genie"
+            ],
+            "equipment": [
+                "clothing",
+                "scroll",
+                "unarmored"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Spikestone Guardian",
+        "key": "SpikestoneGuardianPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/SpikestoneGuardian.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/SpikestoneGuardian.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/SpikestoneGuardian.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/SpikestoneGuardian.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "stone golem"
+            ],
+            "family": [
+                "golem"
+            ]
+        }
+    },
+    {
+        "label": "Spooky",
+        "key": "SpookyPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Spooky.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Spooky.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Spooky.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Spooky.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "cat"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Sruvara",
+        "key": "SruvaraPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Sruvara.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Sruvara.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Sruvara.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Sruvara.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic"
+            ],
+            "ancestry": [
+                " sruvara"
+            ],
+            "family": [
+                "azi"
+            ]
+        }
+    },
+    {
+        "label": "Sunlord Thalachos",
+        "key": "SunlordThalachosPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/SunlordThalachos.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/SunlordThalachos.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/SunlordThalachos.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/SunlordThalachos.webp"
+        },
+        "tags": {
+            "family": [
+                "angel",
+                "herald",
+                "sarenrae"
+            ],
+            "category": [
+                "divine"
+            ],
+            "ancestry": [
+                "sunlord thalachos"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "bow",
+                "sword",
+                "unarmored"
+            ],
+            "features": [
+                "dual-wielding"
+            ]
+        }
+    },
+    {
+        "label": "Tamir",
+        "key": "TamirPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Tamir.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Tamir.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Tamir.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Tamir.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "halfling"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "The Carrion King",
+        "key": "TheCarrionKingPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/TheCarrionKing.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/TheCarrionKing.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/TheCarrionKing.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/TheCarrionKing.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "mohrg"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "axe"
+            ]
+        }
+    },
+    {
+        "label": "The Clockwork General",
+        "key": "TheClockworkGeneralPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/TheClockworkGeneral.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/TheClockworkGeneral.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/TheClockworkGeneral.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/TheClockworkGeneral.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                "kolyarut"
+            ],
+            "family": [
+                "aeon"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "bow",
+                "heavy",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "The Seer",
+        "key": "TheSeerPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/TheSeer.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/TheSeer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/TheSeer.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/TheSeer.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "lich"
+            ],
+            "equipment": [
+                "clothing",
+                "knife"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "The Witch",
+        "key": "TheWitchPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/TheWitch.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/TheWitch.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/TheWitch.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/TheWitch.webp"
+        },
+        "tags": {
+            "family": [
+                "rovagug"
+            ],
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "knife",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Ugruk",
+        "key": "UgrukPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Ugruk.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Ugruk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Ugruk.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Ugruk.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "kholo"
+            ],
+            "family": [
+                "flind"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "flail",
+                "heavy",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Umad al-Waliyya",
+        "key": "UmadAlWaliyyaPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/UmadAlWaliyya.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/UmadAlWaliyya.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/UmadAlWaliyya.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/UmadAlWaliyya.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghul"
+            ],
+            "family": [
+                "genie"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Unchosen Kholo",
+        "key": "UnchosenKholoPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/UnchosenKholo.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/UnchosenKholo.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/UnchosenKholo.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/UnchosenKholo.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "kholo"
+            ],
+            "equipment": [
+                "bludgeon",
+                "unarmored"
+            ],
+            "family": [
+                "unchosen"
+            ]
+        }
+    },
+    {
+        "label": "Undrella",
+        "key": "UndrellaPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Undrella.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Undrella.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Undrella.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Undrella.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "harpy"
+            ],
+            "equipment": [
+                "medium"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Venema Shodair",
+        "key": "VenemaShodairPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/VenemaShodair.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/VenemaShodair.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/VenemaShodair.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/VenemaShodair.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "brass dragon",
+                "wyrmskull"
+            ],
+            "special": [
+                "unique"
+            ],
+            "family": [
+                "metallic dragon"
+            ]
+        }
+    },
+    {
+        "label": "Volnagur",
+        "key": "VolnagurPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Volnagur.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Volnagur.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Volnagur.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Volnagur.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                " volnagur"
+            ],
+            "family": [
+                "spawn of rovagug"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Xotani",
+        "key": "XotaniPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Xotani.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Xotani.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Xotani.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Xotani.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                " xotani"
+            ],
+            "family": [
+                "spawn of rovagug"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Zahhak",
+        "key": "ZahhakPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Zahhak.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Zahhak.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Zahhak.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Zahhak.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic"
+            ],
+            "ancestry": [
+                " zahhak"
+            ],
+            "family": [
+                "azi"
+            ]
+        }
+    },
+    {
+        "label": "Zayifid",
+        "key": "ZayifidPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/Zayifid.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/Zayifid.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/Zayifid.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/Zayifid.webp"
+        },
+        "tags": {
+            "category": [
+                "elemental"
+            ],
+            "ancestry": [
+                "jann"
+            ],
+            "family": [
+                "genie"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "brawling",
+                "clothing",
+                "knife",
+                "medium"
+            ]
+        }
+    },
+    {
+        "label": "Zayifid (Human Form)",
+        "key": "ZayifidHumanPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/ZayifidHuman.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/ZayifidHuman.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/ZayifidHuman.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/ZayifidHuman.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "brawling",
+                "clothing",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Zayifid (Human Form)",
+        "key": "ZayifidBustPF1eLoF",
+        "source": "PF1e Legacy of Fire",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-legacy-of-fire/ZayifidBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-legacy-of-fire/ZayifidBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-legacy-of-fire/ZayifidBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-legacy-of-fire/ZayifidBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    }
+]

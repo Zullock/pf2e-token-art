@@ -1,0 +1,2100 @@
+[
+    {
+        "label": "Aiuvarin Druid",
+        "key": "AiuvarinDruidPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/AiuvarinDruid.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/AiuvarinDruid.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/AiuvarinDruid.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/AiuvarinDruid.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "aiuvarin"
+            ],
+            "equipment": [
+                "knife",
+                "medium"
+            ],
+            "features": [
+                "magic",
+                "nature"
+            ]
+        }
+    },
+    {
+        "label": "Aiuvarin Shaman",
+        "key": "AiuvarinShamanPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/AiuvarinShaman.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/AiuvarinShaman.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/AiuvarinShaman.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/AiuvarinShaman.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "aiuvarin"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "focus",
+                "light",
+                "unarmored"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Amurrun Fighter",
+        "key": "AmurunFighterPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/AmurunFighter.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/AmurunFighter.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/AmurunFighter.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/AmurunFighter.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "amurrun"
+            ],
+            "equipment": [
+                "knife",
+                "light",
+                "medium",
+                "sword"
+            ],
+            "features": [
+                "dual-wielding"
+            ]
+        }
+    },
+    {
+        "label": "Amurrun Monk",
+        "key": "AmurunMonkPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/AmurunMonk.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/AmurunMonk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/AmurunMonk.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/AmurunMonk.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "amurrun"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Azarketi Ranger",
+        "key": "AzarketiRangerPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/AzarketiRanger.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/AzarketiRanger.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/AzarketiRanger.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/AzarketiRanger.webp"
+        },
+        "tags": {
+            "category": [
+                "aquatic",
+                "humanoid"
+            ],
+            "ancestry": [
+                "azarketi"
+            ],
+            "equipment": [
+                "clothing",
+                "medium",
+                "unarmored"
+            ],
+            "features": [
+                "nature"
+            ]
+        }
+    },
+    {
+        "label": "Centaur Fighter",
+        "key": "CentaurFighterPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/CentaurFighter.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/CentaurFighter.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/CentaurFighter.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/CentaurFighter.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial",
+                "humanoid"
+            ],
+            "ancestry": [
+                "centaur"
+            ],
+            "equipment": [
+                "heavy",
+                "polearm",
+                "shield",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Changeling Witch",
+        "key": "ChangelingWitchPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/ChangelingWitch.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/ChangelingWitch.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/ChangelingWitch.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/ChangelingWitch.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "changeling"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Dhampir Fighter",
+        "key": "DhampirFighterPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/DhampirFighter.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/DhampirFighter.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/DhampirFighter.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/DhampirFighter.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dhampir"
+            ],
+            "equipment": [
+                "knife",
+                "light",
+                "medium",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Drathnelar Ranger",
+        "key": "DrathnelarRangerPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/DrathnelarRanger.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/DrathnelarRanger.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/DrathnelarRanger.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/DrathnelarRanger.webp"
+        },
+        "tags": {
+            "category": [
+                "darklands",
+                "humanoid"
+            ],
+            "ancestry": [
+                "gnome"
+            ],
+            "equipment": [
+                "clothing",
+                "polearm",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Drider Rogue",
+        "key": "DriderRoguePF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/DriderRogue.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/DriderRogue.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/DriderRogue.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/DriderRogue.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant",
+                "darklands"
+            ],
+            "ancestry": [
+                "drider"
+            ],
+            "equipment": [
+                "heavy",
+                "knife",
+                "medium"
+            ]
+        }
+    },
+    {
+        "label": "Dromaar Barbarian",
+        "key": "DromaarBarbarianPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/DromaarBarbarian.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/DromaarBarbarian.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/DromaarBarbarian.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/DromaarBarbarian.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dromaar"
+            ],
+            "equipment": [
+                "bludgeon",
+                "light",
+                "medium"
+            ]
+        }
+    },
+    {
+        "label": "Dromaar Summoner",
+        "key": "DromaarSummonerPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/DromaarSummoner.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/DromaarSummoner.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/DromaarSummoner.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/DromaarSummoner.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dromaar"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "light",
+                "medium"
+            ],
+            "features": [
+                "companion"
+            ]
+        }
+    },
+    {
+        "label": "Dromaar Warrior",
+        "key": "DromaarWarriorPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/DromaarWarrior.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/DromaarWarrior.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/DromaarWarrior.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/DromaarWarrior.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dromaar"
+            ],
+            "equipment": [
+                "axe",
+                "heavy",
+                "medium",
+                "shield"
+            ],
+            "features": [
+                "dual-wielding"
+            ]
+        }
+    },
+    {
+        "label": "Drow Champion",
+        "key": "DrowChampionPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/DrowChampion.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/DrowChampion.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/DrowChampion.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/DrowChampion.webp"
+        },
+        "tags": {
+            "category": [
+                "darklands",
+                "humanoid"
+            ],
+            "ancestry": [
+                "elf"
+            ],
+            "equipment": [
+                "heavy",
+                "medium",
+                "shield",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Drow Fighter",
+        "key": "DrowFighterPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/DrowFighter.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/DrowFighter.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/DrowFighter.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/DrowFighter.webp"
+        },
+        "tags": {
+            "category": [
+                "darklands",
+                "humanoid"
+            ],
+            "ancestry": [
+                "elf"
+            ],
+            "equipment": [
+                "flail",
+                "heavy",
+                "medium",
+                "shield"
+            ]
+        }
+    },
+    {
+        "label": "Drow Sorcerer",
+        "key": "DrowSorcererPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/DrowSorcerer.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/DrowSorcerer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/DrowSorcerer.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/DrowSorcerer.webp"
+        },
+        "tags": {
+            "category": [
+                "darklands",
+                "humanoid"
+            ],
+            "ancestry": [
+                "elf"
+            ],
+            "equipment": [
+                "clothing",
+                "light",
+                "polearm",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Dwarf Druid",
+        "key": "DwarfDriodPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/DwarfDriod.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/DwarfDriod.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/DwarfDriod.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/DwarfDriod.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dwarf"
+            ],
+            "equipment": [
+                "bludgeon",
+                "crossbow",
+                "heavy",
+                "medium"
+            ]
+        }
+    },
+    {
+        "label": "Dwarf Paladin",
+        "key": "DwarfPaladinPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/DwarfPaladin.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/DwarfPaladin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/DwarfPaladin.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/DwarfPaladin.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dwarf"
+            ],
+            "equipment": [
+                "bludgeon",
+                "heavy",
+                "shield"
+            ]
+        }
+    },
+    {
+        "label": "Elf Cleric",
+        "key": "ElfClericPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/ElfCleric.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/ElfCleric.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/ElfCleric.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/ElfCleric.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "elf"
+            ],
+            "equipment": [
+                "heavy",
+                "medium",
+                "scroll",
+                "sword"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Elf Druid",
+        "key": "ElfDruidPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/ElfDruid.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/ElfDruid.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/ElfDruid.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/ElfDruid.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "elf"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "knife",
+                "light"
+            ],
+            "features": [
+                "companion",
+                "nature"
+            ]
+        }
+    },
+    {
+        "label": "Elf Swashbuckler",
+        "key": "ElfSwashbucklerPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/ElfSwashbuckler.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/ElfSwashbuckler.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/ElfSwashbuckler.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/ElfSwashbuckler.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "elf"
+            ],
+            "equipment": [
+                "clothing",
+                "light",
+                "sword",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Fetchling Assassin",
+        "key": "FetchlingAssassinPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/FetchlingAssassin.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/FetchlingAssassin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/FetchlingAssassin.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/FetchlingAssassin.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "fetchling"
+            ],
+            "equipment": [
+                "clothing",
+                "knife",
+                "light",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Fetchling Druid",
+        "key": "FetchlingDruidPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/FetchlingDruid.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/FetchlingDruid.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/FetchlingDruid.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/FetchlingDruid.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "fetchling"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "features": [
+                "companion",
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Gargoyle Magus",
+        "key": "GargoyleMagusPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/GargoyleMagus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/GargoyleMagus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/GargoyleMagus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/GargoyleMagus.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "gargoyle"
+            ],
+            "equipment": [
+                "heavy",
+                "knife",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Gathlain Druid",
+        "key": "GathlainDruidPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/GathlainDruid.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/GathlainDruid.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/GathlainDruid.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/GathlainDruid.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "gathlain"
+            ],
+            "equipment": [
+                "clothing",
+                "light",
+                "unarmored"
+            ],
+            "features": [
+                "nature",
+                "winged"
+            ]
+        }
+    },
+    {
+        "label": "Gnome Bard",
+        "key": "GnomeBardPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/GnomeBard.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/GnomeBard.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/GnomeBard.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/GnomeBard.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "gnome"
+            ],
+            "equipment": [
+                "clothing",
+                "knife",
+                "light"
+            ],
+            "features": [
+                "music"
+            ]
+        }
+    },
+    {
+        "label": "Gnome Gunslinger",
+        "key": "GnimeGunslingerPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/GnimeGunslinger.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/GnimeGunslinger.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/GnimeGunslinger.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/GnimeGunslinger.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "gnome"
+            ],
+            "equipment": [
+                "firearm",
+                "heavy",
+                "medium"
+            ],
+            "features": [
+                "dual-wielding"
+            ]
+        }
+    },
+    {
+        "label": "Gnome Smith",
+        "key": "GnomeSmithPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/GnomeSmith.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/GnomeSmith.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/GnomeSmith.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/GnomeSmith.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "gnome"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "light",
+                "medium"
+            ]
+        }
+    },
+    {
+        "label": "Goblin Bomber",
+        "key": "GoblinBomberPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/GoblinBomber.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/GoblinBomber.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/GoblinBomber.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/GoblinBomber.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "goblin"
+            ],
+            "features": [
+                "alchemy"
+            ],
+            "equipment": [
+                "bomb",
+                "clothing",
+                "light"
+            ]
+        }
+    },
+    {
+        "label": "Goblin Fighter",
+        "key": "GoblinFighterPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/GoblinFighter.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/GoblinFighter.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/GoblinFighter.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/GoblinFighter.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "goblin"
+            ],
+            "equipment": [
+                "clothing",
+                "knife",
+                "light",
+                "sword"
+            ],
+            "features": [
+                "dual-wielding"
+            ]
+        }
+    },
+    {
+        "label": "Halfling Fighter",
+        "key": "HalflingFighterPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/HalflingFighter.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/HalflingFighter.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/HalflingFighter.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/HalflingFighter.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "halfling"
+            ],
+            "equipment": [
+                "heavy",
+                "shield",
+                "sword"
+            ],
+            "features": [
+                "dual-wielding"
+            ]
+        }
+    },
+    {
+        "label": "Halfling Swashbuckler",
+        "key": "HalflingSwashbucklerPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/HalflingSwashbuckler.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/HalflingSwashbuckler.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/HalflingSwashbuckler.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/HalflingSwashbuckler.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "halfling"
+            ],
+            "equipment": [
+                "clothing",
+                "knife",
+                "light",
+                "sword"
+            ],
+            "features": [
+                "alchemy"
+            ]
+        }
+    },
+    {
+        "label": "Halfling Wizard",
+        "key": "HalflingWizardPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/HalflingWizard.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/HalflingWizard.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/HalflingWizard.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/HalflingWizard.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "halfling"
+            ],
+            "equipment": [
+                "clothing",
+                "focus",
+                "light"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Hobgoblin Fighter",
+        "key": "HobgoblinFighterPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/HobgoblinFighter.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/HobgoblinFighter.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/HobgoblinFighter.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/HobgoblinFighter.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "hobgoblin"
+            ],
+            "equipment": [
+                "heavy",
+                "medium",
+                "sword",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Hobgoblin Monk",
+        "key": "HobgoblinMonkPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/HobgoblinMonk.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/HobgoblinMonk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/HobgoblinMonk.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/HobgoblinMonk.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "hobgoblin"
+            ],
+            "equipment": [
+                "clothing",
+                "light",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Hobgoblin Pirate",
+        "key": "HobgoblinPiratePF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/HobgoblinPirate.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/HobgoblinPirate.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/HobgoblinPirate.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/HobgoblinPirate.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "hobgoblin"
+            ],
+            "equipment": [
+                "light",
+                "medium",
+                "shield",
+                "sword"
+            ],
+            "features": [
+                "dual-wielding"
+            ]
+        }
+    },
+    {
+        "label": "Hryngar Rogue",
+        "key": "HryngarRoguePF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/HryngarRogue.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/HryngarRogue.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/HryngarRogue.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/HryngarRogue.webp"
+        },
+        "tags": {
+            "category": [
+                "darklands",
+                "humanoid"
+            ],
+            "ancestry": [
+                "dwarf"
+            ],
+            "equipment": [
+                "bludgeon",
+                "crossbow",
+                "heavy",
+                "medium"
+            ]
+        }
+    },
+    {
+        "label": "Human Cleric",
+        "key": "HumanClericPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/HumanCleric.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/HumanCleric.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/HumanCleric.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/HumanCleric.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "light",
+                "polearm"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Human Druid",
+        "key": "HumanDruidPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/HumanDruid.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/HumanDruid.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/HumanDruid.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/HumanDruid.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "polearm",
+                "unarmored"
+            ],
+            "features": [
+                "companion"
+            ]
+        }
+    },
+    {
+        "label": "Human Healer",
+        "key": "HumanHealerPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/HumanHealer.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/HumanHealer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/HumanHealer.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/HumanHealer.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "features": [
+                "alchemy"
+            ]
+        }
+    },
+    {
+        "label": "Human Rugged Fighter",
+        "key": "HumanRuggedFighterPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/HumanRuggedFighter.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/HumanRuggedFighter.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/HumanRuggedFighter.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/HumanRuggedFighter.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "axe",
+                "clothing",
+                "knife",
+                "light",
+                "pick"
+            ],
+            "features": [
+                "dual-wielding"
+            ]
+        }
+    },
+    {
+        "label": "Iruxi Druid",
+        "key": "LizardfolkDruidPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/LizardfolkDruid.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/LizardfolkDruid.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/LizardfolkDruid.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/LizardfolkDruid.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "iruxi"
+            ],
+            "equipment": [
+                "bludgeon",
+                "heavy",
+                "medium"
+            ],
+            "features": [
+                "companion"
+            ]
+        }
+    },
+    {
+        "label": "Kasatha Ranger",
+        "key": "KasathaRangerPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/KasathaRanger.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/KasathaRanger.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/KasathaRanger.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/KasathaRanger.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "kasatha"
+            ],
+            "equipment": [
+                "clothing",
+                "light",
+                "polearm",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Kholo Rogue",
+        "key": "KholoRoguePF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/KholoRogue.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/KholoRogue.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/KholoRogue.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/KholoRogue.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "kholo"
+            ],
+            "equipment": [
+                "clothing",
+                "light",
+                "sword",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Kitsune Rogue",
+        "key": "KitsuneRoguePF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/KitsuneRogue.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/KitsuneRogue.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/KitsuneRogue.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/KitsuneRogue.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "kitsune"
+            ],
+            "equipment": [
+                "clothing",
+                "light",
+                "medium"
+            ]
+        }
+    },
+    {
+        "label": "Kobold Ranger",
+        "key": "KoboldRangerPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/KoboldRanger.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/KoboldRanger.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/KoboldRanger.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/KoboldRanger.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "kobold"
+            ],
+            "equipment": [
+                "clothing",
+                "polearm",
+                "unarmored"
+            ],
+            "features": [
+                "alchemy"
+            ]
+        }
+    },
+    {
+        "label": "Kobold Witch",
+        "key": "KoboldWitchPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/KoboldWitch.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/KoboldWitch.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/KoboldWitch.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/KoboldWitch.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "kobold"
+            ],
+            "equipment": [
+                "clothing",
+                "knife",
+                "unarmored"
+            ],
+            "features": [
+                "companion"
+            ]
+        }
+    },
+    {
+        "label": "Merfolk Warrior",
+        "key": "MerfolkWarriorPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/MerfolkWarrior.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/MerfolkWarrior.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/MerfolkWarrior.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/MerfolkWarrior.webp"
+        },
+        "tags": {
+            "category": [
+                "aquatic",
+                "humanoid"
+            ],
+            "ancestry": [
+                "merfolk"
+            ],
+            "equipment": [
+                "polearm",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Naari Fighter",
+        "key": "NaariFighterPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/NaariFighter.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/NaariFighter.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/NaariFighter.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/NaariFighter.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "geniekin"
+            ],
+            "equipment": [
+                "flail",
+                "heavy",
+                "medium"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Naari Shaman",
+        "key": "NaariShamanPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/NaariShaman.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/NaariShaman.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/NaariShaman.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/NaariShaman.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "geniekin"
+            ],
+            "equipment": [
+                "clothing",
+                "focus",
+                "unarmored"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Nagaji Rogue",
+        "key": "NagajiRoguePF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/NagajiRogue.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/NagajiRogue.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/NagajiRogue.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/NagajiRogue.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "nagaji"
+            ],
+            "equipment": [
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Nephilim Cleric",
+        "key": "NephilimClericPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/NephilimCleric.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/NephilimCleric.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/NephilimCleric.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/NephilimCleric.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "nephilim"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ]
+        }
+    },
+    {
+        "label": "Nephilim Cleric Sarenrae",
+        "key": "NephilimClericSarenraePF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/NephilimClericSarenrae.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/NephilimClericSarenrae.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/NephilimClericSarenrae.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/NephilimClericSarenrae.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "nephilim"
+            ],
+            "equipment": [
+                "clothing",
+                "light",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Nephilim Ranger",
+        "key": "NephilimRangerPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/NephilimRanger.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/NephilimRanger.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/NephilimRanger.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/NephilimRanger.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "nephilim"
+            ],
+            "equipment": [
+                "clothing",
+                "light",
+                "medium"
+            ],
+            "features": [
+                "nature"
+            ]
+        }
+    },
+    {
+        "label": "Nephilim Rogue",
+        "key": "NephilimRoguePF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/NephilimRogue.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/NephilimRogue.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/NephilimRogue.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/NephilimRogue.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "nephilim"
+            ],
+            "equipment": [
+                "medium",
+                "sword",
+                "unarmored"
+            ],
+            "features": [
+                "dual-wielding"
+            ]
+        }
+    },
+    {
+        "label": "Nephilim Warrior",
+        "key": "NephilimWarriorPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/NephilimWarrior.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/NephilimWarrior.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/NephilimWarrior.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/NephilimWarrior.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "nephilim"
+            ],
+            "equipment": [
+                "heavy",
+                "sword"
+            ],
+            "features": [
+                "dual-wielding"
+            ]
+        }
+    },
+    {
+        "label": "Ogre Champion",
+        "key": "OgreChampionPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/OgreChampion.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/OgreChampion.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/OgreChampion.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/OgreChampion.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "ogre"
+            ],
+            "equipment": [
+                "heavy",
+                "sword"
+            ],
+            "features": [
+                "dual-wielding"
+            ]
+        }
+    },
+    {
+        "label": "Orc Barbarian",
+        "key": "OrcBarbarianPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/OrcBarbarian.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/OrcBarbarian.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/OrcBarbarian.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/OrcBarbarian.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "orc"
+            ],
+            "equipment": [
+                "clothing",
+                "polearm",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Orc Champion",
+        "key": "OrcChampionPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/OrcChampion.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/OrcChampion.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/OrcChampion.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/OrcChampion.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "orc"
+            ],
+            "equipment": [
+                "flail",
+                "heavy",
+                "shield"
+            ],
+            "features": [
+                "dual-wielding"
+            ]
+        }
+    },
+    {
+        "label": "Oread Monk",
+        "key": "OreadMonkPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/OreadMonk.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/OreadMonk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/OreadMonk.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/OreadMonk.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "geniekin"
+            ],
+            "equipment": [
+                "medium",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Oread Summoner",
+        "key": "OreadSummonerPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/OreadSummoner.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/OreadSummoner.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/OreadSummoner.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/OreadSummoner.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "geniekin"
+            ],
+            "equipment": [
+                "clothing",
+                "light",
+                "pick"
+            ],
+            "features": [
+                "companion",
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Samsaran Sorcerer",
+        "key": "SamsaranSorcererPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/SamsaranSorcerer.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/SamsaranSorcerer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/SamsaranSorcerer.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/SamsaranSorcerer.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "samsaran"
+            ],
+            "equipment": [
+                "clothing",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Strix Ranger",
+        "key": "StrixRangerPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/StrixRanger.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/StrixRanger.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/StrixRanger.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/StrixRanger.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "strix"
+            ],
+            "equipment": [
+                "clothing",
+                "unarmored"
+            ],
+            "features": [
+                "nature",
+                "winged"
+            ]
+        }
+    },
+    {
+        "label": "Suli Shaman",
+        "key": "SuliShamanPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/SuliShaman.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/SuliShaman.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/SuliShaman.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/SuliShaman.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "geniekin"
+            ],
+            "equipment": [
+                "clothing",
+                "unarmored"
+            ],
+            "features": [
+                "nature"
+            ]
+        }
+    },
+    {
+        "label": "Sylph Druid",
+        "key": "SylphDruidPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/SylphDruid.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/SylphDruid.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/SylphDruid.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/SylphDruid.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "geniekin"
+            ],
+            "equipment": [
+                "clothing",
+                "light",
+                "polearm"
+            ],
+            "features": [
+                "companion"
+            ]
+        }
+    },
+    {
+        "label": "Sylph Rogue",
+        "key": "SylphRoguePF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/SylphRogue.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/SylphRogue.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/SylphRogue.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/SylphRogue.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "geniekin"
+            ],
+            "equipment": [
+                "clothing",
+                "knife",
+                "light"
+            ]
+        }
+    },
+    {
+        "label": "Tengu Alchemist",
+        "key": "TenguAlchemistPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/TenguAlchemist.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/TenguAlchemist.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/TenguAlchemist.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/TenguAlchemist.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "tengu"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "features": [
+                "alchemy"
+            ]
+        }
+    },
+    {
+        "label": "Tengu Assassin",
+        "key": "TenguAssassinPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/TenguAssassin.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/TenguAssassin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/TenguAssassin.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/TenguAssassin.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "tengu"
+            ],
+            "equipment": [
+                "clothing",
+                "sword",
+                "unarmored"
+            ],
+            "features": [
+                "dual-wielding"
+            ]
+        }
+    },
+    {
+        "label": "Tengu Jinx Eater",
+        "key": "TenguPiratePF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/TenguPirate.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/TenguPirate.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/TenguPirate.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/TenguPirate.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "tengu"
+            ],
+            "equipment": [
+                "bow",
+                "clothing",
+                "heavy",
+                "medium",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Tripkee Ranger",
+        "key": "TripkeeRangerPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/TripkeeRanger.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/TripkeeRanger.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/TripkeeRanger.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/TripkeeRanger.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "tripkee"
+            ],
+            "equipment": [
+                "bow",
+                "light",
+                "medium"
+            ]
+        }
+    },
+    {
+        "label": "Tripkee Swashbuckler",
+        "key": "TripkeeSwashbucklerPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/TripkeeSwashbuckler.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/TripkeeSwashbuckler.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/TripkeeSwashbuckler.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/TripkeeSwashbuckler.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "tripkee"
+            ],
+            "equipment": [
+                "crossbow",
+                "light",
+                "medium",
+                "sword"
+            ],
+            "features": [
+                "alchemy"
+            ]
+        }
+    },
+    {
+        "label": "Trox Warrior",
+        "key": "TroxWarriorPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/TroxWarrior.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/TroxWarrior.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/TroxWarrior.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/TroxWarrior.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "trox"
+            ],
+            "equipment": [
+                "pick",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Undine Fighter",
+        "key": "UndineFighterPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/UndineFighter.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/UndineFighter.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/UndineFighter.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/UndineFighter.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "geniekin"
+            ],
+            "equipment": [
+                "clothing",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Undine Rogue",
+        "key": "UndineRoguePF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/UndineRogue.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/UndineRogue.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/UndineRogue.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/UndineRogue.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "geniekin"
+            ],
+            "equipment": [
+                "light",
+                "medium",
+                "polearm"
+            ],
+            "features": [
+                "nature"
+            ]
+        }
+    },
+    {
+        "label": "Vanara Ranger",
+        "key": "VanararRangerPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/VanararRanger.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/VanararRanger.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/VanararRanger.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/VanararRanger.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "vanara"
+            ],
+            "features": [
+                "nature"
+            ],
+            "equipment": [
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Vishkanya Rogue",
+        "key": "VishkanyaRoguePF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/VishkanyaRogue.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/VishkanyaRogue.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/VishkanyaRogue.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/VishkanyaRogue.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "vishkanya"
+            ],
+            "equipment": [
+                "clothing",
+                "light",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Wayang Wizard",
+        "key": "WayangWizardPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/WayangWizard.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/WayangWizard.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/WayangWizard.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/WayangWizard.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "wayang"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Wyrdwood Fighter",
+        "key": "WyrdwoodFighterPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/WyrdwoodFighter.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/WyrdwoodFighter.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/WyrdwoodFighter.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/WyrdwoodFighter.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid",
+                "plant"
+            ],
+            "ancestry": [
+                "wyrdwood"
+            ],
+            "equipment": [
+                "clothing",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Wyvaran Fighter",
+        "key": "WyvaranFighterPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/WyvaranFighter.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/WyvaranFighter.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/WyvaranFighter.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/WyvaranFighter.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic",
+                "humanoid"
+            ],
+            "ancestry": [
+                "wyvaran"
+            ],
+            "equipment": [
+                "axe",
+                "heavy"
+            ],
+            "features": [
+                "winged"
+            ]
+        }
+    },
+    {
+        "label": "Ysoki Ranger",
+        "key": "YsokiRangerPF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/YsokiRanger.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/YsokiRanger.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/YsokiRanger.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/YsokiRanger.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "ysoki"
+            ],
+            "equipment": [
+                "clothing",
+                "crossbow",
+                "light",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Ysoki Rogue",
+        "key": "YsokiRoguePF1eARG",
+        "source": "PF1e Advanced Race Guide",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/YsokiRogue.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/YsokiRogue.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-advanced-race-guide/YsokiRogue.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-advanced-race-guide/YsokiRogue.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "ysoki"
+            ],
+            "equipment": [
+                "clothing",
+                "knife",
+                "light"
+            ],
+            "features": [
+                "alchemy"
+            ]
+        }
+    }
+]

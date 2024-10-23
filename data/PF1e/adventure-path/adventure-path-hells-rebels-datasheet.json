@@ -1,0 +1,4960 @@
+[
+    {
+        "label": "Acisazi Scout",
+        "key": "AcisaziScoutPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/AcisaziScout.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/AcisaziScout.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/AcisaziScout.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/AcisaziScout.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "elf"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Adrakash",
+        "key": "AdrakashPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Adrakash.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Adrakash.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Adrakash.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Adrakash.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic",
+                "undead"
+            ],
+            "ancestry": [
+                "wyrmwraith"
+            ],
+            "family": [
+                "incorporeal",
+                "wraith"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Alander Mangvhune",
+        "key": "AlanderMangvhunePF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/AlanderMangvhune.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/AlanderMangvhune.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/AlanderMangvhune.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/AlanderMangvhune.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Aluceda Zhol",
+        "key": "AlucedaZholPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/AlucedaZhol.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/AlucedaZhol.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/AlucedaZhol.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/AlucedaZhol.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "vampire mastermind"
+            ],
+            "family": [
+                "vampire",
+                "zon-kuthon"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "focus",
+                "medium"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Amaya Kaijitsu",
+        "key": "AmayaKaijitsuPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/AmayaKaijitsu.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/AmayaKaijitsu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/AmayaKaijitsu.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/AmayaKaijitsu.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "medium"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Amitrie Leth",
+        "key": "AmitrieLethPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/AmitrieLeth.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/AmitrieLeth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/AmitrieLeth.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/AmitrieLeth.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "aranea"
+            ],
+            "family": [
+                "nethys",
+                "spider"
+            ],
+            "equipment": [
+                "clothing",
+                "scroll",
+                "tome"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Anagondun",
+        "key": "AnagondunPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Anagondun.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Anagondun.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Anagondun.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Anagondun.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "advodaza"
+            ],
+            "family": [
+                "devil"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Apocrisiarius",
+        "key": "ApocrisiariusPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Apocrisiarius.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Apocrisiarius.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Apocrisiarius.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Apocrisiarius.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "apocrisiarius"
+            ],
+            "family": [
+                "velstrac"
+            ],
+            "equipment": [
+                "knife",
+                "medium"
+            ]
+        }
+    },
+    {
+        "label": "Aroden Priest",
+        "key": "ArodenPriestPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/ArodenPriest.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/ArodenPriest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/ArodenPriest.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/ArodenPriest.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "heavy",
+                "sword"
+            ],
+            "family": [
+                "aroden"
+            ]
+        }
+    },
+    {
+        "label": "Asmoden",
+        "key": "AsmodenPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Asmoden.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Asmoden.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Asmoden.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Asmoden.webp"
+        },
+        "tags": {
+            "family": [
+                "asmodeus"
+            ],
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "huecuva"
+            ],
+            "equipment": [
+                "heavy",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Athannah Quhurill",
+        "key": "AthannahQuhurillPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/AthannahQuhurill.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/AthannahQuhurill.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/AthannahQuhurill.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/AthannahQuhurill.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "aiuvarin"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Athany Ironmane",
+        "key": "AthanyIronmanePF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/AthanyIronmane.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/AthanyIronmane.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/AthanyIronmane.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/AthanyIronmane.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dwarf"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Athtinia Anadite",
+        "key": "AthtiniaAnaditePF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/AthtiniaAnadite.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/AthtiniaAnadite.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/AthtiniaAnadite.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/AthtiniaAnadite.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "aiuvarin"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Ayavah",
+        "key": "AyavahPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Ayavah.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Ayavah.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Ayavah.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Ayavah.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "nephilim"
+            ],
+            "equipment": [
+                "clothing",
+                "knife"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Azrana",
+        "key": "AzranaPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Azrana.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Azrana.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Azrana.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Azrana.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                "morrigna"
+            ],
+            "family": [
+                "pharasma",
+                "psychopomp"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "knife",
+                "light",
+                "medium"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Azvernathi Raul",
+        "key": "AzvernathiRaulPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/AzvernathiRaul.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/AzvernathiRaul.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/AzvernathiRaul.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/AzvernathiRaul.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "heavy"
+            ],
+            "features": [
+                "dual-wielding"
+            ],
+            "special": [
+                "unique"
+            ],
+            "family": [
+                "asmodeus"
+            ]
+        }
+    },
+    {
+        "label": "Barzillai Thrune",
+        "key": "BarzillaiThrunePF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/BarzillaiThrune.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/BarzillaiThrune.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/BarzillaiThrune.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/BarzillaiThrune.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "knife"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Barzillai Thrune",
+        "key": "BarzillaiThruneArnoredPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/BarzillaiThruneArnored.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/BarzillaiThruneArnored.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/BarzillaiThruneArnored.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/BarzillaiThruneArnored.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "heavy",
+                "knife"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Barzillai Thrune",
+        "key": "BarzillaiThruneBustPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/BarzillaiThruneBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/BarzillaiThruneBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/BarzillaiThruneBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/BarzillaiThruneBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "heavy"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Barzillai Thrune",
+        "key": "BarzillaiThruneEnhancedPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/BarzillaiThruneEnhanced.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/BarzillaiThruneEnhanced.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/BarzillaiThruneEnhanced.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/BarzillaiThruneEnhanced.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "osyluth"
+            ],
+            "family": [
+                "asmodeus",
+                "devil"
+            ],
+            "equipment": [
+                "bludgeon",
+                "flail",
+                "heavy"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Barzillai Thrune",
+        "key": "BarzillaiThruneFightingPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/BarzillaiThruneFighting.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/BarzillaiThruneFighting.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/BarzillaiThruneFighting.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/BarzillaiThruneFighting.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "heavy",
+                "knife"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Barzillai Thrune",
+        "key": "BarzillaiThruneGeniusLociPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/BarzillaiThruneGeniusLoci.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/BarzillaiThruneGeniusLoci.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/BarzillaiThruneGeniusLoci.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/BarzillaiThruneGeniusLoci.webp"
+        },
+        "tags": {
+            "category": [
+                "spirit"
+            ],
+            "ancestry": [
+                "genius loci"
+            ],
+            "family": [
+                "incorporeal"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "heavy"
+            ]
+        }
+    },
+    {
+        "label": "Bejakra",
+        "key": "BejakraPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Bejakra.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Bejakra.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Bejakra.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Bejakra.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "aiuvarin"
+            ],
+            "equipment": [
+                "clothing",
+                "knife",
+                "light"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Belcara Jarvis",
+        "key": "BelcaraJarvisPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/BelcaraJarvis.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/BelcaraJarvis.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/BelcaraJarvis.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/BelcaraJarvis.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Blosodriette",
+        "key": "BlosodriettePF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Blosodriette.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Blosodriette.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Blosodriette.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Blosodriette.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "imp"
+            ],
+            "family": [
+                "devil"
+            ],
+            "equipment": [
+                "clothing",
+                "polearm",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Canton Jhaltero",
+        "key": "CantonJhalteroPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/CantonJhaltero.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/CantonJhaltero.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/CantonJhaltero.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/CantonJhaltero.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Carliss Mayhart",
+        "key": "CarlissMayhartPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/CarlissMayhart.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/CarlissMayhart.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/CarlissMayhart.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/CarlissMayhart.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Cassius Sargaeta",
+        "key": "CassiusSargaetaPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/CassiusSargaeta.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/CassiusSargaeta.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/CassiusSargaeta.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/CassiusSargaeta.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "shield",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Cassius Sargaeta",
+        "key": "CassiusSargaetaBustPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/CassiusSargaetaBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/CassiusSargaetaBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/CassiusSargaetaBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/CassiusSargaetaBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Changeling Cultist",
+        "key": "ChangelingCultistPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/ChangelingCultist.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/ChangelingCultist.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/ChangelingCultist.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/ChangelingCultist.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "changeling"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "family": [
+                "mahathallah"
+            ]
+        }
+    },
+    {
+        "label": "Chelish Citizens Group Thug",
+        "key": "ChelishCitizensGroupThugPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/ChelishCitizensGroupThug.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/ChelishCitizensGroupThug.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/ChelishCitizensGroupThug.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/ChelishCitizensGroupThug.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "medium"
+            ]
+        }
+    },
+    {
+        "label": "Chessadril Odranata",
+        "key": "ChessadrilOdranataPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/ChessadrilOdranata.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/ChessadrilOdranata.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/ChessadrilOdranata.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/ChessadrilOdranata.webp"
+        },
+        "tags": {
+            "category": [
+                "darklands",
+                "humanoid"
+            ],
+            "ancestry": [
+                "elf"
+            ],
+            "family": [
+                "drow"
+            ],
+            "equipment": [
+                "clothing",
+                "crossbow",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Cizmekris",
+        "key": "CizmekrisPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Cizmekris.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Cizmekris.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Cizmekris.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Cizmekris.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "osyluth"
+            ],
+            "family": [
+                "asmodeus",
+                "devil"
+            ],
+            "equipment": [
+                "bludgeon",
+                "unarmored"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Cordulegaster",
+        "key": "CordulegasterPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Cordulegaster.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Cordulegaster.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Cordulegaster.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Cordulegaster.webp"
+        },
+        "tags": {
+            "ancestry": [
+                "cordulegaster"
+            ],
+            "category": [
+                "fiendish"
+            ]
+        }
+    },
+    {
+        "label": "Corinstian Grivenner",
+        "key": "CorinstianGrivennerPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/CorinstianGrivenner.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/CorinstianGrivenner.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/CorinstianGrivenner.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/CorinstianGrivenner.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ],
+            "family": [
+                "asmodeus"
+            ],
+            "special": [
+                "unique"
+            ],
+            "features": [
+                "dual-wielding"
+            ]
+        }
+    },
+    {
+        "label": "Corinstian Grivenner",
+        "key": "CorinstianGrivennerBustPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/CorinstianGrivennerBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/CorinstianGrivennerBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/CorinstianGrivennerBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/CorinstianGrivennerBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "family": [
+                "asmodeus"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Corinstian Grivenner",
+        "key": "CorinstianGrivennerWraithPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/CorinstianGrivennerWraith.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/CorinstianGrivennerWraith.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/CorinstianGrivennerWraith.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/CorinstianGrivennerWraith.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "wraith"
+            ],
+            "family": [
+                "incorporeal"
+            ],
+            "equipment": [
+                "clothing",
+                "unarmored"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Corrgin Shandur",
+        "key": "CorrginShandurPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/CorrginShandur.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/CorrginShandur.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/CorrginShandur.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/CorrginShandur.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "aiuvarin"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Cruciarus",
+        "key": "CruciarusPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Cruciarus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Cruciarus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Cruciarus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Cruciarus.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "cruciarus"
+            ],
+            "family": [
+                "incorporeal"
+            ]
+        }
+    },
+    {
+        "label": "Damon Vancaskerkin",
+        "key": "DamonVancaskerkinPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/DamonVancaskerkin.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/DamonVancaskerkin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/DamonVancaskerkin.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/DamonVancaskerkin.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bow",
+                "heavy",
+                "knife",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Delaraius Solzakarr",
+        "key": "DelaraiusSolzakarrPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/DelaraiusSolzakarr.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/DelaraiusSolzakarr.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/DelaraiusSolzakarr.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/DelaraiusSolzakarr.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "family": [
+                "norgorber"
+            ],
+            "equipment": [
+                "clothing",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Delexia",
+        "key": "DelexiaPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Delexia.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Delexia.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Delexia.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Delexia.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dromaar"
+            ],
+            "equipment": [
+                "brawling",
+                "clothing",
+                "light"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Disciple Of Shax",
+        "key": "DiscipleOfShaxPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/DiscipleOfShax.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/DiscipleOfShax.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/DiscipleOfShax.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/DiscipleOfShax.webp"
+        },
+        "tags": {
+            "family": [
+                "demon",
+                "shax"
+            ],
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "cambion"
+            ],
+            "equipment": [
+                "heavy",
+                "knife",
+                "shield"
+            ]
+        }
+    },
+    {
+        "label": "Dottari Guard",
+        "key": "DottariGuardPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/DottariGuard.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/DottariGuard.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/DottariGuard.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/DottariGuard.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "bow",
+                "knife",
+                "medium",
+                "shield"
+            ]
+        }
+    },
+    {
+        "label": "Eldonna Aulamaxa",
+        "key": "EldonnaAulamaxaPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/EldonnaAulamaxa.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/EldonnaAulamaxa.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/EldonnaAulamaxa.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/EldonnaAulamaxa.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Elgadazum The Hateful",
+        "key": "ElgadazumTheHatefulPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/ElgadazumTheHateful.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/ElgadazumTheHateful.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/ElgadazumTheHateful.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/ElgadazumTheHateful.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "barbazu"
+            ],
+            "family": [
+                "devil"
+            ],
+            "equipment": [
+                "polearm"
+            ]
+        }
+    },
+    {
+        "label": "Elia Nones",
+        "key": "EliaNonesPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/EliaNones.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/EliaNones.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/EliaNones.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/EliaNones.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "aiuvarin"
+            ],
+            "equipment": [
+                "firearm",
+                "medium",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Ermelind Orazio",
+        "key": "ErmelindOrazioPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/ErmelindOrazio.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/ErmelindOrazio.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/ErmelindOrazio.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/ErmelindOrazio.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Fangrane",
+        "key": "FangranePF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Fangrane.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Fangrane.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Fangrane.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Fangrane.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "deimavigga"
+            ],
+            "family": [
+                "devil"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "brawling",
+                "heavy"
+            ]
+        }
+    },
+    {
+        "label": "Ferrugon",
+        "key": "FerrugonPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Ferrugon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Ferrugon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Ferrugon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Ferrugon.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "ferrugon"
+            ],
+            "family": [
+                "devil"
+            ]
+        }
+    },
+    {
+        "label": "Forsaken Foot Soldier",
+        "key": "ForsakenFootSoldierPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/ForsakenFootSoldier.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/ForsakenFootSoldier.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/ForsakenFootSoldier.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/ForsakenFootSoldier.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "forsaken foot soldier"
+            ],
+            "family": [
+                "forsaken"
+            ],
+            "equipment": [
+                "medium",
+                "polearm",
+                "shield"
+            ]
+        }
+    },
+    {
+        "label": "Garavel",
+        "key": "GaravelPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Garavel.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Garavel.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Garavel.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Garavel.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "light",
+                "medium",
+                "sword",
+                "tome"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Gatlynn Keidros",
+        "key": "GatlynnKeidrosPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/GatlynnKeidros.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/GatlynnKeidros.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/GatlynnKeidros.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/GatlynnKeidros.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "crossbow",
+                "heavy",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ],
+            "family": [
+                "gray maiden"
+            ]
+        }
+    },
+    {
+        "label": "Geoff Tanessen",
+        "key": "GeoffTanessenPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/GeoffTanessen.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/GeoffTanessen.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/GeoffTanessen.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/GeoffTanessen.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Gray Man",
+        "key": "GrayManPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/GrayMan.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/GrayMan.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/GrayMan.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/GrayMan.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial",
+                "fiendish"
+            ],
+            "ancestry": [
+                "xenopterid"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Grundlescorn Sister",
+        "key": "GrundlescornSisterPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/GrundlescornSister.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/GrundlescornSister.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/GrundlescornSister.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/GrundlescornSister.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "storm hag"
+            ],
+            "family": [
+                "hag"
+            ],
+            "equipment": [
+                "clothing",
+                "knife"
+            ],
+            "features": [
+                "magic"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Guttugger",
+        "key": "GuttuggerPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Guttugger.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Guttugger.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Guttugger.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Guttugger.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "deinonychus"
+            ],
+            "family": [
+                "dinosaur"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Hei Fen",
+        "key": "HeiFenPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/HeiFen.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/HeiFen.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/HeiFen.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/HeiFen.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Hei Fen",
+        "key": "HeiFenWereratPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/HeiFenWererat.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/HeiFenWererat.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/HeiFenWererat.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/HeiFenWererat.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "wererat"
+            ],
+            "family": [
+                "werecreature"
+            ],
+            "equipment": [
+                "medium",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Hetamon Haace",
+        "key": "HetamonHaacePF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/HetamonHaace.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/HetamonHaace.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/HetamonHaace.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/HetamonHaace.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "nephilim"
+            ],
+            "equipment": [
+                "bludgeon",
+                "medium",
+                "shield"
+            ],
+            "family": [
+                "milani"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Hirakonu",
+        "key": "HirakonuPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Hirakonu.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Hirakonu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Hirakonu.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Hirakonu.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "fire yai"
+            ],
+            "family": [
+                "oni"
+            ],
+            "equipment": [
+                "bow",
+                "clothing",
+                "medium",
+                "sword"
+            ],
+            "features": [
+                "magic"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Hortense Lierre",
+        "key": "HortenseLierrePF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/HortenseLierre.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/HortenseLierre.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/HortenseLierre.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/HortenseLierre.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "family": [
+                "hellknight"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Hound Of Old Kintargo",
+        "key": "HoundOfOldKintargoPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/HoundOfOldKintargo.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/HoundOfOldKintargo.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/HoundOfOldKintargo.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/HoundOfOldKintargo.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial",
+                "fiendish"
+            ],
+            "ancestry": [
+                "nessian warhound"
+            ]
+        }
+    },
+    {
+        "label": "Ikiko",
+        "key": "IkikoPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Ikiko.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Ikiko.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Ikiko.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Ikiko.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "tengu"
+            ],
+            "equipment": [
+                "knife",
+                "medium",
+                "shield",
+                "sword"
+            ],
+            "features": [
+                "music"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Inquisitor Troop",
+        "key": "InquisitorTroopPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/InquisitorTroop.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/InquisitorTroop.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/InquisitorTroop.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/InquisitorTroop.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "medium",
+                "sword"
+            ],
+            "special": [
+                "troop"
+            ]
+        }
+    },
+    {
+        "label": "Insome Filas",
+        "key": "InsomeFilasPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/InsomeFilas.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/InsomeFilas.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/InsomeFilas.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/InsomeFilas.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Ithanothaur",
+        "key": "IthanothaurPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Ithanothaur.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Ithanothaur.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Ithanothaur.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Ithanothaur.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic"
+            ],
+            "ancestry": [
+                "umbral dragon"
+            ],
+            "family": [
+                "primal dragon"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Iylvana Desdoros",
+        "key": "IylvanaDesdorosPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/IylvanaDesdoros.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/IylvanaDesdoros.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/IylvanaDesdoros.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/IylvanaDesdoros.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "aiuvarin"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Jackdaw",
+        "key": "JackdawPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Jackdaw.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Jackdaw.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Jackdaw.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Jackdaw.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "elf"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "silver raven"
+            ]
+        }
+    },
+    {
+        "label": "Jenna Aeldervenk",
+        "key": "JennaAeldervenkPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/JennaAeldervenk.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/JennaAeldervenk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/JennaAeldervenk.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/JennaAeldervenk.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Jilia Bainilus",
+        "key": "JiliaBainilusPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/JiliaBainilus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/JiliaBainilus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/JiliaBainilus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/JiliaBainilus.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "vampire count"
+            ],
+            "family": [
+                "vampire"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Jilia Bainilus",
+        "key": "JiliaBainilusBustPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/JiliaBainilusBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/JiliaBainilusBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/JiliaBainilusBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/JiliaBainilusBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Jilia Bainilus",
+        "key": "JiliaBainilusCombatPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/JiliaBainilusCombat.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/JiliaBainilusCombat.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/JiliaBainilusCombat.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/JiliaBainilusCombat.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "light",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Korva Fushi",
+        "key": "KorvaFushiPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/KorvaFushi.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/KorvaFushi.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/KorvaFushi.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/KorvaFushi.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "tengu"
+            ],
+            "equipment": [
+                "knife",
+                "medium",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Kossrani",
+        "key": "KossraniPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Kossrani.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Kossrani.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Kossrani.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Kossrani.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dwarf"
+            ],
+            "equipment": [
+                "bludgeon",
+                "bow",
+                "knife",
+                "medium",
+                "shield"
+            ],
+            "family": [
+                "asmodeus"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Kyrre Ekodyre",
+        "key": "KyrreEkodyrePF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/KyrreEkodyre.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/KyrreEkodyre.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/KyrreEkodyre.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/KyrreEkodyre.webp"
+        },
+        "tags": {
+            "family": [
+                "hellknight"
+            ],
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "heavy",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Laria Longroad",
+        "key": "LariaLongroadPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/LariaLongroad.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/LariaLongroad.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/LariaLongroad.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/LariaLongroad.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "halfling"
+            ],
+            "equipment": [
+                "clothing",
+                "medium",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ],
+            "family": [
+                "bellflower network"
+            ]
+        }
+    },
+    {
+        "label": "Laria Longroad",
+        "key": "LariaLongroadBustPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/LariaLongroadBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/LariaLongroadBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/LariaLongroadBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/LariaLongroadBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "halfling"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "bellflower network"
+            ]
+        }
+    },
+    {
+        "label": "Lessaj Gilvrand",
+        "key": "LessajGilvrandPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/LessajGilvrand.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/LessajGilvrand.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/LessajGilvrand.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/LessajGilvrand.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "changeling"
+            ],
+            "equipment": [
+                "clothing",
+                "medium",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Lictor Octavio Sabinus",
+        "key": "LictorOctavioSabinusPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/LictorOctavioSabinus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/LictorOctavioSabinus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/LictorOctavioSabinus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/LictorOctavioSabinus.webp"
+        },
+        "tags": {
+            "family": [
+                "hellknight"
+            ],
+            "special": [
+                "unique"
+            ],
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "heavy",
+                "polearm",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Lictor Octavio Sabinus",
+        "key": "LictorOctavioSabinusArmorPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/LictorOctavioSabinusArmor.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/LictorOctavioSabinusArmor.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/LictorOctavioSabinusArmor.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/LictorOctavioSabinusArmor.webp"
+        },
+        "tags": {
+            "family": [
+                "hellknight"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "heavy",
+                "polearm"
+            ],
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ]
+        }
+    },
+    {
+        "label": "Lictor Octavio Sabinus",
+        "key": "LictorOctavioSabinusBustPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/LictorOctavioSabinusBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/LictorOctavioSabinusBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/LictorOctavioSabinusBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/LictorOctavioSabinusBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "heavy"
+            ],
+            "family": [
+                "hellknight"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Lorelu",
+        "key": "LoreluPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Lorelu.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Lorelu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Lorelu.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Lorelu.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghost commoner"
+            ],
+            "family": [
+                "incorporeal"
+            ],
+            "equipment": [
+                "medium"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Lucian Thrune",
+        "key": "LucianThrunePF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/LucianThrune.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/LucianThrune.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/LucianThrune.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/LucianThrune.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "heavy",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Luculla Gens",
+        "key": "LucullaGensPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/LucullaGens.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/LucullaGens.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/LucullaGens.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/LucullaGens.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "changeling"
+            ],
+            "equipment": [
+                "medium",
+                "sword"
+            ],
+            "family": [
+                "mahathallah"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Luculla Gens",
+        "key": "LucullaGensBustPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/LucullaGensBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/LucullaGensBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/LucullaGensBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/LucullaGensBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "changeling"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "family": [
+                "mahathallah"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Maercin Kelimber",
+        "key": "MaercinKelimberPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/MaercinKelimber.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/MaercinKelimber.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/MaercinKelimber.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/MaercinKelimber.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Magadaz",
+        "key": "MagadazPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Magadaz.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Magadaz.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Magadaz.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Magadaz.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "magadaz"
+            ],
+            "family": [
+                "devil"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Mahathallah Priest",
+        "key": "MahathallahPriestPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/MahathallahPriest.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/MahathallahPriest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/MahathallahPriest.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/MahathallahPriest.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "family": [
+                "mahathallah"
+            ],
+            "features": [
+                "magic"
+            ],
+            "equipment": [
+                "clothing",
+                "knife",
+                "light"
+            ]
+        }
+    },
+    {
+        "label": "Malin The Prophet",
+        "key": "MalinTheProphetPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/MalinTheProphet.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/MalinTheProphet.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/MalinTheProphet.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/MalinTheProphet.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "android"
+            ],
+            "equipment": [
+                "clothing",
+                "firearm",
+                "light",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Manguhune",
+        "key": "ManguhunePF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Manguhune.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Manguhune.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Manguhune.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Manguhune.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "babau"
+            ],
+            "special": [
+                "unique"
+            ],
+            "family": [
+                "demon"
+            ],
+            "equipment": [
+                "heavy",
+                "sword",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Mangvhune",
+        "key": "MangvhunePF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Mangvhune.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Mangvhune.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Mangvhune.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Mangvhune.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "babau"
+            ],
+            "family": [
+                "demon"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "medium",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Manticce Kaleekii",
+        "key": "ManticceKaleekiiPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/ManticceKaleekii.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/ManticceKaleekii.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/ManticceKaleekii.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/ManticceKaleekii.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "nephilim"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Marquel Aulorian",
+        "key": "MarquelAulorianPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/MarquelAulorian.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/MarquelAulorian.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/MarquelAulorian.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/MarquelAulorian.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "medium",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Melodia Delronge",
+        "key": "MelodiaDelrongePF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/MelodiaDelronge.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/MelodiaDelronge.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/MelodiaDelronge.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/MelodiaDelronge.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Menador Soldier",
+        "key": "MenadorSoldierPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/MenadorSoldier.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/MenadorSoldier.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/MenadorSoldier.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/MenadorSoldier.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "crossbow",
+                "knife",
+                "medium"
+            ]
+        }
+    },
+    {
+        "label": "Menotheguro",
+        "key": "MenotheguroPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Menotheguro.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Menotheguro.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Menotheguro.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Menotheguro.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant",
+                "aquatic"
+            ],
+            "ancestry": [
+                "aboleth"
+            ],
+            "family": [
+                "alghollthu"
+            ],
+            "special": [
+                "unique"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Mephistopheles Priest",
+        "key": "MephistophelesPriestPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/MephistophelesPriest.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/MephistophelesPriest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/MephistophelesPriest.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/MephistophelesPriest.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "family": [
+                "mephistopheles"
+            ],
+            "equipment": [
+                "clothing",
+                "heavy",
+                "polearm"
+            ]
+        }
+    },
+    {
+        "label": "Mialari Docur",
+        "key": "MialariDocurPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/MialariDocur.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/MialariDocur.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/MialariDocur.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/MialariDocur.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "elf"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Molly Mayapple",
+        "key": "MollyMayapplePF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/MollyMayapple.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/MollyMayapple.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/MollyMayapple.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/MollyMayapple.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "halfling"
+            ],
+            "equipment": [
+                "clothing",
+                "crossbow",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Morgar Manthai",
+        "key": "MorgarManthaiPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/MorgarManthai.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/MorgarManthai.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/MorgarManthai.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/MorgarManthai.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Morgodea",
+        "key": "MorgodeaPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Morgodea.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Morgodea.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Morgodea.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Morgodea.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "morgodea"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Nasperiah",
+        "key": "NasperiahPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Nasperiah.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Nasperiah.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Nasperiah.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Nasperiah.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "witchfire"
+            ],
+            "family": [
+                "incorporeal",
+                "mahathallah"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Nasperiah",
+        "key": "NasperiahBustPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/NasperiahBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/NasperiahBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/NasperiahBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/NasperiahBust.webp"
+        },
+        "tags": {
+            "family": [
+                "incorporeal",
+                "mahathallah"
+            ],
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "witchfire"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Natsiel",
+        "key": "NatsielPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Natsiel.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Natsiel.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Natsiel.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Natsiel.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish",
+                "humanoid"
+            ],
+            "family": [
+                "demon",
+                "half-fiend"
+            ],
+            "ancestry": [
+                "human",
+                "succubus"
+            ],
+            "equipment": [
+                "clothing",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Nereza Rigalio",
+        "key": "NerezaRigalioPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/NerezaRigalio.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/NerezaRigalio.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/NerezaRigalio.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/NerezaRigalio.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "bow",
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Nereza Rigalio",
+        "key": "NerezaRigalioBustPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/NerezaRigalioBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/NerezaRigalioBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/NerezaRigalioBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/NerezaRigalioBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bow",
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Nerrenn Aeelamna",
+        "key": "NerrennAeelamnaPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/NerrennAeelamna.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/NerrennAeelamna.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/NerrennAeelamna.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/NerrennAeelamna.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "elf"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Nightprowler",
+        "key": "NightprowlerPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Nightprowler.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Nightprowler.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Nightprowler.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Nightprowler.webp"
+        },
+        "tags": {
+            "family": [
+                "darvakka"
+            ],
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "nightprowler"
+            ]
+        }
+    },
+    {
+        "label": "Nirikki",
+        "key": "NirikkiPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Nirikki.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Nirikki.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Nirikki.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Nirikki.webp"
+        },
+        "tags": {
+            "category": [
+                "divine"
+            ],
+            "ancestry": [
+                "lillend"
+            ],
+            "family": [
+                "azata"
+            ],
+            "equipment": [
+                "unarmored"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Nirukni",
+        "key": "NirukniPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Nirukni.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Nirukni.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Nirukni.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Nirukni.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "cambion"
+            ],
+            "equipment": [
+                "bomb",
+                "clothing",
+                "knife",
+                "light"
+            ],
+            "features": [
+                "alchemy"
+            ],
+            "special": [
+                "unique"
+            ],
+            "family": [
+                "demon"
+            ]
+        }
+    },
+    {
+        "label": "Nox",
+        "key": "NoxPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Nox.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Nox.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Nox.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Nox.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "axe",
+                "medium",
+                "polearm"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Nox",
+        "key": "NoxDevilBoundPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/NoxDevilBound.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/NoxDevilBound.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/NoxDevilBound.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/NoxDevilBound.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "family": [
+                "broken soul"
+            ],
+            "equipment": [
+                "axe",
+                "medium",
+                "polearm"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Nurla Botve",
+        "key": "NurlaBotvePF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/NurlaBotve.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/NurlaBotve.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/NurlaBotve.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/NurlaBotve.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Odexidie",
+        "key": "OdexidiePF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Odexidie.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Odexidie.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Odexidie.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Odexidie.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "phistophilus"
+            ],
+            "family": [
+                "devil"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "clothing",
+                "scroll",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Olradi Ormovor",
+        "key": "OlradiOrmovorPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/OlradiOrmovor.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/OlradiOrmovor.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/OlradiOrmovor.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/OlradiOrmovor.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Oughorthan",
+        "key": "OughorthanPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Oughorthan.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Oughorthan.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Oughorthan.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Oughorthan.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "pit fiend"
+            ],
+            "equipment": [
+                "polearm",
+                "scroll",
+                "unarmored"
+            ],
+            "special": [
+                "unique"
+            ],
+            "family": [
+                "devil"
+            ]
+        }
+    },
+    {
+        "label": "Phistophilus",
+        "key": "PhistophilusPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Phistophilus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Phistophilus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Phistophilus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Phistophilus.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "phistophilus"
+            ],
+            "family": [
+                "devil"
+            ],
+            "equipment": [
+                "clothing",
+                "scroll"
+            ]
+        }
+    },
+    {
+        "label": "Procyal",
+        "key": "ProcyalPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Procyal.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Procyal.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Procyal.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Procyal.webp"
+        },
+        "tags": {
+            "category": [
+                "divine"
+            ],
+            "ancestry": [
+                "procyal"
+            ],
+            "family": [
+                "agathion"
+            ],
+            "equipment": [
+                "clothing",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Raenna Solstine",
+        "key": "RaennaSolstinePF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/RaennaSolstine.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/RaennaSolstine.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/RaennaSolstine.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/RaennaSolstine.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "aiuvarin"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Ravzee",
+        "key": "RavzeePF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Ravzee.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Ravzee.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Ravzee.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Ravzee.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "tengu"
+            ],
+            "equipment": [
+                "heavy"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Rexus Victocora",
+        "key": "RexusVictocoraPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/RexusVictocora.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/RexusVictocora.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/RexusVictocora.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/RexusVictocora.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Rexus Victocora",
+        "key": "RexusVictocoraBustPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/RexusVictocoraBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/RexusVictocoraBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/RexusVictocoraBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/RexusVictocoraBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Rinston \"Clenchjaw\" Jon",
+        "key": "ClenchjawPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Clenchjaw.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Clenchjaw.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Clenchjaw.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Clenchjaw.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "medium",
+                "unarmored"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Sabo The Spider",
+        "key": "SaboTheSpiderPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/SaboTheSpider.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/SaboTheSpider.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/SaboTheSpider.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/SaboTheSpider.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "family": [
+                "asmodeus"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "bludgeon",
+                "heavy",
+                "shield"
+            ]
+        }
+    },
+    {
+        "label": "Saybel Eraskian",
+        "key": "SaybelEraskianPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/SaybelEraskian.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/SaybelEraskian.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/SaybelEraskian.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/SaybelEraskian.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Scarplume",
+        "key": "ScarplumePF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Scarplume.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Scarplume.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Scarplume.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Scarplume.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "strix"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "features": [
+                "magic"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Scrivenite",
+        "key": "ScrivenitePF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Scrivenite.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Scrivenite.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Scrivenite.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Scrivenite.webp"
+        },
+        "tags": {
+            "ancestry": [
+                "scrivenite"
+            ],
+            "category": [
+                "monitor"
+            ]
+        }
+    },
+    {
+        "label": "Scythe Glass Swarm",
+        "key": "ScytheGlassSwarmPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/ScytheGlassSwarm.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/ScytheGlassSwarm.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/ScytheGlassSwarm.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/ScytheGlassSwarm.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "scythe glass swarm"
+            ],
+            "special": [
+                "swarm"
+            ]
+        }
+    },
+    {
+        "label": "Seer Of Saint Senex",
+        "key": "SeerOfSaintSenexPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/SeerOfSaintSenex.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/SeerOfSaintSenex.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/SeerOfSaintSenex.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/SeerOfSaintSenex.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Sendi Vashnarstill",
+        "key": "SendiVashnarstillPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/SendiVashnarstill.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/SendiVashnarstill.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/SendiVashnarstill.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/SendiVashnarstill.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Setrona Sabinus",
+        "key": "SetronaSabinusPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/SetronaSabinus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/SetronaSabinus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/SetronaSabinus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/SetronaSabinus.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "knife",
+                "medium"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Shadow Golem",
+        "key": "ShadowGolemPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/ShadowGolem.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/ShadowGolem.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/ShadowGolem.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/ShadowGolem.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "shadow golem"
+            ],
+            "family": [
+                "golem"
+            ]
+        }
+    },
+    {
+        "label": "Sheko-Maru",
+        "key": "ShekoMaruPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/ShekoMaru.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/ShekoMaru.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/ShekoMaru.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/ShekoMaru.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "medium",
+                "sword"
+            ],
+            "features": [
+                "dual-wielding"
+            ],
+            "family": [
+                "red mantis"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Shell Sentinel",
+        "key": "ShellSentinelPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/ShellSentinel.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/ShellSentinel.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/ShellSentinel.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/ShellSentinel.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "shell sentinel"
+            ]
+        }
+    },
+    {
+        "label": "Shensen",
+        "key": "ShensenPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Shensen.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Shensen.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Shensen.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Shensen.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "aiuvarin"
+            ],
+            "equipment": [
+                "flail",
+                "knife",
+                "medium",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ],
+            "family": [
+                "silver raven"
+            ]
+        }
+    },
+    {
+        "label": "Shensen",
+        "key": "ShensenBustPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/ShensenBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/ShensenBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/ShensenBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/ShensenBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "aiuvarin"
+            ],
+            "equipment": [
+                "clothing",
+                "medium"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "silver raven"
+            ]
+        }
+    },
+    {
+        "label": "Shensen",
+        "key": "ShensenSingingPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/ShensenSinging.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/ShensenSinging.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/ShensenSinging.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/ShensenSinging.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "aiuvarin"
+            ],
+            "equipment": [
+                "knife",
+                "medium",
+                "sword"
+            ],
+            "features": [
+                "music"
+            ],
+            "special": [
+                "unique"
+            ],
+            "family": [
+                "silver raven"
+            ]
+        }
+    },
+    {
+        "label": "Skunk Ape Skeleton",
+        "key": "SkunkApeSkeletonPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/SkunkApeSkeleton.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/SkunkApeSkeleton.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/SkunkApeSkeleton.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/SkunkApeSkeleton.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "sasquatch",
+                "skeleton"
+            ]
+        }
+    },
+    {
+        "label": "Sluucoroth",
+        "key": "SluucorothPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Sluucoroth.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Sluucoroth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Sluucoroth.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Sluucoroth.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "sarglagon"
+            ],
+            "family": [
+                "devil"
+            ],
+            "special": [
+                "unique"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Solmestria",
+        "key": "SolmestriaPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Solmestria.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Solmestria.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Solmestria.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Solmestria.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "strix"
+            ],
+            "equipment": [
+                "knife",
+                "medium"
+            ],
+            "features": [
+                "dual-wielding"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Solmestria",
+        "key": "SolmestriaAttackPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/SolmestriaAttack.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/SolmestriaAttack.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/SolmestriaAttack.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/SolmestriaAttack.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "strix"
+            ],
+            "features": [
+                "dual-wielding"
+            ],
+            "equipment": [
+                "knife",
+                "medium"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Strea Vestori",
+        "key": "StreaVestoriPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/StreaVestori.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/StreaVestori.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/StreaVestori.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/StreaVestori.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "nephilim"
+            ],
+            "equipment": [
+                "medium"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Strix Archer",
+        "key": "StrixArcherPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/StrixArcher.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/StrixArcher.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/StrixArcher.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/StrixArcher.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "strix"
+            ],
+            "equipment": [
+                "bow",
+                "medium",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Strix Lancer",
+        "key": "StrixLancerPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/StrixLancer.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/StrixLancer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/StrixLancer.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/StrixLancer.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "strix"
+            ],
+            "equipment": [
+                "medium",
+                "polearm"
+            ]
+        }
+    },
+    {
+        "label": "Strix Ranger",
+        "key": "StrixRangerPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/StrixRanger.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/StrixRanger.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/StrixRanger.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/StrixRanger.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "strix"
+            ],
+            "equipment": [
+                "clothing",
+                "flail",
+                "knife",
+                "shield",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Sulkimy",
+        "key": "SulkimyPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Sulkimy.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Sulkimy.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Sulkimy.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Sulkimy.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish",
+                "humanoid"
+            ],
+            "ancestry": [
+                "popobawa"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Tancis Thrune",
+        "key": "TancisThrunePF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/TancisThrune.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/TancisThrune.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/TancisThrune.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/TancisThrune.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Tavoul Abramos",
+        "key": "TavoulAbramosPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/TavoulAbramos.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/TavoulAbramos.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/TavoulAbramos.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/TavoulAbramos.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "flail",
+                "heavy",
+                "medium"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Tayacet Tiora",
+        "key": "TayacetTioraPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/TayacetTiora.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/TayacetTiora.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/TayacetTiora.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/TayacetTiora.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "knife",
+                "medium",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Tayacet Tiora",
+        "key": "TayacetTioraBustPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/TayacetTioraBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/TayacetTioraBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/TayacetTioraBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/TayacetTioraBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "medium"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Telgrodradt",
+        "key": "TelgrodradtPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Telgrodradt.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Telgrodradt.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Telgrodradt.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Telgrodradt.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "telgrodradt"
+            ]
+        }
+    },
+    {
+        "label": "The First Warden",
+        "key": "TheFirstWardenPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/TheFirstWarden.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/TheFirstWarden.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/TheFirstWarden.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/TheFirstWarden.webp"
+        },
+        "tags": {
+            "family": [
+                "asmodeus"
+            ],
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "lich"
+            ],
+            "equipment": [
+                "bludgeon",
+                "heavy",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "The Gardener",
+        "key": "TheGardenerPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/TheGardener.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/TheGardener.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/TheGardener.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/TheGardener.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "vishkanya"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "The Newt",
+        "key": "TheNewtPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/TheNewt.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/TheNewt.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/TheNewt.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/TheNewt.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "gnome"
+            ],
+            "equipment": [
+                "bomb",
+                "clothing"
+            ],
+            "features": [
+                "alchemy"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "The Terrible Tup",
+        "key": "TheTerribleTupPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/TheTerribleTup.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/TheTerribleTup.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/TheTerribleTup.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/TheTerribleTup.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "goblin"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "light"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Thirothryn",
+        "key": "ThirothrynPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Thirothryn.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Thirothryn.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Thirothryn.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Thirothryn.webp"
+        },
+        "tags": {
+            "category": [
+                "divine"
+            ],
+            "ancestry": [
+                "ghaele"
+            ],
+            "family": [
+                "azata"
+            ],
+            "equipment": [
+                "clothing",
+                "unarmored"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Tiarise Izoni",
+        "key": "TiariseIzoniPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/TiariseIzoni.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/TiariseIzoni.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/TiariseIzoni.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/TiariseIzoni.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "knife",
+                "medium"
+            ],
+            "features": [
+                "companion",
+                "magic"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Tiarise Izoni",
+        "key": "TiariseIzoniBustPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/TiariseIzoniBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/TiariseIzoniBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/TiariseIzoniBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/TiariseIzoniBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Tiarise Izoni",
+        "key": "TiariseIzoniNemhainPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/TiariseIzoniNemhain.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/TiariseIzoniNemhain.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/TiariseIzoniNemhain.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/TiariseIzoniNemhain.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "nemhaith"
+            ],
+            "family": [
+                "incorporeal"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Tombus Regegious",
+        "key": "TombusRegegiousPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/TombusRegegious.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/TombusRegegious.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/TombusRegegious.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/TombusRegegious.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "medium",
+                "sword"
+            ],
+            "features": [
+                "dual-wielding"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Trazel Rainwater",
+        "key": "TrazelRainwaterPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/TrazelRainwater.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/TrazelRainwater.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/TrazelRainwater.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/TrazelRainwater.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "fossegrim"
+            ],
+            "equipment": [
+                "clothing",
+                "knife"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Ulat-Kini",
+        "key": "UlatKiniPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/UlatKini.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/UlatKini.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/UlatKini.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/UlatKini.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "ulat-kini"
+            ],
+            "family": [
+                "alghollthu"
+            ],
+            "equipment": [
+                "crossbow",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Ulat-Kini Cultist",
+        "key": "UlatKiniCultistPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/UlatKiniCultist.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/UlatKiniCultist.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/UlatKiniCultist.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/UlatKiniCultist.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "ulat-kini"
+            ],
+            "family": [
+                "alghollthu"
+            ],
+            "equipment": [
+                "clothing",
+                "knife"
+            ]
+        }
+    },
+    {
+        "label": "Ulat-Kini Ranger",
+        "key": "UlatKiniRangerPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/UlatKiniRanger.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/UlatKiniRanger.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/UlatKiniRanger.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/UlatKiniRanger.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "ulat-kini"
+            ],
+            "family": [
+                "alghollthu"
+            ],
+            "features": [
+                "companion"
+            ],
+            "equipment": [
+                "medium",
+                "polearm"
+            ]
+        }
+    },
+    {
+        "label": "Ungol-Pagh",
+        "key": "UngolPaghPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/UngolPagh.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/UngolPagh.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/UngolPagh.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/UngolPagh.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "equipment": [
+                "bludgeon",
+                "unarmored"
+            ],
+            "features": [
+                "magic"
+            ],
+            "ancestry": [
+                "ulat-kini"
+            ],
+            "family": [
+                "alghollthu"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Unselm Oldurac",
+        "key": "UnselmOlduracPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/UnselmOldurac.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/UnselmOldurac.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/UnselmOldurac.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/UnselmOldurac.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bomb",
+                "heavy"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Vadoma Gall",
+        "key": "VadomaGallPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/VadomaGall.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/VadomaGall.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/VadomaGall.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/VadomaGall.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "light",
+                "tome"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Vannases Trex",
+        "key": "VannasesTrexPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/VannasesTrex.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/VannasesTrex.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/VannasesTrex.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/VannasesTrex.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bow",
+                "medium",
+                "shield",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Varl Wex",
+        "key": "VarlWexPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/VarlWex.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/VarlWex.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/VarlWex.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/VarlWex.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "knife",
+                "medium"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Vendalfek",
+        "key": "VendalfekPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Vendalfek.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Vendalfek.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Vendalfek.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Vendalfek.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic",
+                "fey"
+            ],
+            "ancestry": [
+                "fey dragonet"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Vespasio Vespam",
+        "key": "VespasioVespamPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/VespasioVespam.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/VespasioVespam.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/VespasioVespam.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/VespasioVespam.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Vizmaravash",
+        "key": "VizmaravashPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Vizmaravash.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Vizmaravash.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Vizmaravash.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Vizmaravash.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "raja-krodha"
+            ],
+            "family": [
+                "rakshasa"
+            ],
+            "special": [
+                "unique"
+            ],
+            "features": [
+                "magic"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Warmonger Guardian",
+        "key": "WarmongerGuardianPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/WarmongerGuardian.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/WarmongerGuardian.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/WarmongerGuardian.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/WarmongerGuardian.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "levaloch"
+            ],
+            "family": [
+                "devil"
+            ],
+            "equipment": [
+                "heavy",
+                "polearm"
+            ]
+        }
+    },
+    {
+        "label": "Wraithwing",
+        "key": "WraithwingPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Wraithwing.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Wraithwing.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Wraithwing.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Wraithwing.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "wraithwing"
+            ]
+        }
+    },
+    {
+        "label": "Wretchghost",
+        "key": "WretchghostPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Wretchghost.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Wretchghost.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Wretchghost.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Wretchghost.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "wretchghost"
+            ],
+            "family": [
+                "incorporeal"
+            ],
+            "equipment": [
+                "clothing",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Xerelilah",
+        "key": "XerelilahPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Xerelilah.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Xerelilah.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Xerelilah.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Xerelilah.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Zachrin Vhast",
+        "key": "ZachrinVhastPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/ZachrinVhast.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/ZachrinVhast.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/ZachrinVhast.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/ZachrinVhast.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "family": [
+                "shelyn"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Zea",
+        "key": "ZeaPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Zea.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Zea.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Zea.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Zea.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "nephilim"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Zebub Archer",
+        "key": "ZebubArcherPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/ZebubArcher.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/ZebubArcher.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/ZebubArcher.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/ZebubArcher.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "zebub"
+            ],
+            "family": [
+                "devil"
+            ],
+            "equipment": [
+                "bow",
+                "medium"
+            ]
+        }
+    },
+    {
+        "label": "Zella Zidlii",
+        "key": "ZellaZidliiPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/ZellaZidlii.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/ZellaZidlii.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/ZellaZidlii.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/ZellaZidlii.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "knife"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Zephyr",
+        "key": "ZephyrPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Zephyr.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Zephyr.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Zephyr.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Zephyr.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "zephyr"
+            ]
+        }
+    },
+    {
+        "label": "Zorumar",
+        "key": "ZorumarPF1eHR",
+        "source": "PF1e Hell's Rebels",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-hells-rebels/Zorumar.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-hells-rebels/Zorumar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-hells-rebels/Zorumar.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-hells-rebels/Zorumar.webp"
+        },
+        "tags": {
+            "category": [
+                "elemental"
+            ],
+            "ancestry": [
+                "jann"
+            ],
+            "family": [
+                "genie"
+            ],
+            "equipment": [
+                "clothing",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    }
+]

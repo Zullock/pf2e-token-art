@@ -1,0 +1,2681 @@
+[
+    {
+        "label": "Aberian Arvanxi",
+        "key": "AberianArvanxiPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/AberianArvanxi.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/AberianArvanxi.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/AberianArvanxi.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/AberianArvanxi.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Aberten Vittershins",
+        "key": "AbertenVittershinsPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/AbertenVittershins.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/AbertenVittershins.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/AbertenVittershins.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/AbertenVittershins.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "halfling"
+            ],
+            "equipment": [
+                "knife",
+                "medium"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Adhukait",
+        "key": "AdhukaitPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Adhukait.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Adhukait.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Adhukait.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Adhukait.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "adhukait"
+            ],
+            "family": [
+                "asura"
+            ]
+        }
+    },
+    {
+        "label": "Advodaza",
+        "key": "AdvodazaPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Advodaza.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Advodaza.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Advodaza.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Advodaza.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "advodaza"
+            ],
+            "family": [
+                "devil"
+            ]
+        }
+    },
+    {
+        "label": "Ailyn Ghontasavos",
+        "key": "AilynGhontasavosPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/AilynGhontasavos.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/AilynGhontasavos.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/AilynGhontasavos.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/AilynGhontasavos.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "sword",
+                "tome"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Apurva Arkona",
+        "key": "ApurvaArkonaPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/ApurvaArkona.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/ApurvaArkona.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/ApurvaArkona.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/ApurvaArkona.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "raja-krodha"
+            ],
+            "family": [
+                "rakshasa"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "clothing",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Ara Verennie",
+        "key": "AraVerenniePF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/AraVerennie.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/AraVerennie.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/AraVerennie.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/AraVerennie.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghost"
+            ],
+            "family": [
+                "hellknight",
+                "incorporeal"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Arael",
+        "key": "AraelPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Arael.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Arael.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Arael.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Arael.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "aiuvarin"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "family": [
+                "iomedae"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Asmodeus Priest",
+        "key": "AsmodeusPriestPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/AsmodeusPriest.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/AsmodeusPriest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/AsmodeusPriest.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/AsmodeusPriest.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "family": [
+                "asmodeus"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Aspidochelone",
+        "key": "AspidochelonePF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Aspidochelone.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Aspidochelone.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Aspidochelone.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Aspidochelone.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "aspidochelone"
+            ]
+        }
+    },
+    {
+        "label": "Avahzi Serafian",
+        "key": "AvahziSerafianPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/AvahziSerafian.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/AvahziSerafian.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/AvahziSerafian.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/AvahziSerafian.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "elf"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "family": [
+                "mammon"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Basileus",
+        "key": "BasileusPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Basileus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Basileus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Basileus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Basileus.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "basileus"
+            ],
+            "family": [
+                "asmodeus",
+                "devil",
+                "herald"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ]
+        }
+    },
+    {
+        "label": "Burning Guardian",
+        "key": "BurningGuardianPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/BurningGuardian.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/BurningGuardian.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/BurningGuardian.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/BurningGuardian.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "stone golem"
+            ],
+            "family": [
+                "golem"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Calikang",
+        "key": "CalikangPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Calikang.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Calikang.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Calikang.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Calikang.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "calikang"
+            ],
+            "equipment": [
+                "heavy",
+                "sword",
+                "unarmored"
+            ],
+            "features": [
+                "dual-wielding"
+            ]
+        }
+    },
+    {
+        "label": "Calseinica Nymmis",
+        "key": "CalseinicaNymmisPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/CalseinicaNymmis.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/CalseinicaNymmis.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/CalseinicaNymmis.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/CalseinicaNymmis.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Chammady Drovenge",
+        "key": "ChammadyDrovengePF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/ChammadyDrovenge.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/ChammadyDrovenge.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/ChammadyDrovenge.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/ChammadyDrovenge.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Chortov",
+        "key": "ChortovPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Chortov.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Chortov.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Chortov.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Chortov.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "chortov"
+            ],
+            "family": [
+                "devil"
+            ],
+            "equipment": [
+                "light",
+                "polearm",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Crosael Rasdovain",
+        "key": "CrosaelPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Crosael.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Crosael.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Crosael.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Crosael.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "nephilim"
+            ],
+            "equipment": [
+                "medium",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Crosael Rasdovain",
+        "key": "CrosaelRasdovainPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/CrosaelRasdovain.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/CrosaelRasdovain.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/CrosaelRasdovain.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/CrosaelRasdovain.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "nephilim"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Dravano The Digger",
+        "key": "DravanoTheDiggerPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/DravanoTheDigger.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/DravanoTheDigger.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/DravanoTheDigger.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/DravanoTheDigger.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "nephilim"
+            ],
+            "equipment": [
+                "heavy"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Ebon Acolytus",
+        "key": "EbonAcolytusPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/EbonAcolytus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/EbonAcolytus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/EbonAcolytus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/EbonAcolytus.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "ebon acolytus"
+            ]
+        }
+    },
+    {
+        "label": "Ecarrdian Drovenge",
+        "key": "EcarrdianDrovengePF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/EcarrdianDrovenge.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/EcarrdianDrovenge.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/EcarrdianDrovenge.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/EcarrdianDrovenge.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "nephilim"
+            ],
+            "equipment": [
+                "heavy",
+                "medium",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Ecarrdian Drovenge",
+        "key": "EcarrdianDrovengeBustPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/EcarrdianDrovengeBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/EcarrdianDrovengeBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/EcarrdianDrovengeBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/EcarrdianDrovengeBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "nephilim"
+            ],
+            "equipment": [
+                "heavy"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Eirtein Oberigo",
+        "key": "EirteinOberigoPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/EirteinOberigo.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/EirteinOberigo.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/EirteinOberigo.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/EirteinOberigo.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Ephialtes",
+        "key": "EphialtesPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Ephialtes.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Ephialtes.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Ephialtes.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Ephialtes.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "ephialtes"
+            ],
+            "family": [
+                "velstrac"
+            ]
+        }
+    },
+    {
+        "label": "General Vourne",
+        "key": "GeneralVournePF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/GeneralVourne.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/GeneralVourne.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/GeneralVourne.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/GeneralVourne.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "medium"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Gidim",
+        "key": "GidimPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Gidim.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Gidim.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Gidim.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Gidim.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "gidim"
+            ],
+            "family": [
+                "devil"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Graveknight",
+        "key": "GraveknightPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Graveknight.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Graveknight.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Graveknight.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Graveknight.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "graveknight"
+            ],
+            "equipment": [
+                "bludgeon",
+                "heavy"
+            ]
+        }
+    },
+    {
+        "label": "Hand Of The Inheritor",
+        "key": "HandOfTheInheritorPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/HandOfTheInheritor.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/HandOfTheInheritor.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/HandOfTheInheritor.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/HandOfTheInheritor.webp"
+        },
+        "tags": {
+            "family": [
+                "angel",
+                "herald",
+                "iomedae"
+            ],
+            "category": [
+                "divine"
+            ],
+            "ancestry": [
+                "hand of the inheritor"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "heavy"
+            ]
+        }
+    },
+    {
+        "label": "Hell Dog",
+        "key": "HellDogPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/HellDog.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/HellDog.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/HellDog.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/HellDog.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial",
+                "fiendish"
+            ],
+            "ancestry": [
+                "riding dog"
+            ],
+            "family": [
+                "dog"
+            ]
+        }
+    },
+    {
+        "label": "Hell Gigas",
+        "key": "HellGigasPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/HellGigas.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/HellGigas.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/HellGigas.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/HellGigas.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "hell gigas"
+            ],
+            "family": [
+                "giant",
+                "gigas"
+            ]
+        }
+    },
+    {
+        "label": "Hellknight Lancer",
+        "key": "HellknightLancerPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/HellknightLancer.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/HellknightLancer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/HellknightLancer.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/HellknightLancer.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "heavy",
+                "polearm",
+                "sword"
+            ],
+            "family": [
+                "hellknight"
+            ]
+        }
+    },
+    {
+        "label": "Hellknight Order Of The Pyre",
+        "key": "HellknightOrderOfThePyrePF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/HellknightOrderOfThePyre.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/HellknightOrderOfThePyre.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/HellknightOrderOfThePyre.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/HellknightOrderOfThePyre.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "elf"
+            ],
+            "family": [
+                "hellknight"
+            ],
+            "equipment": [
+                "heavy"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Hellknight Order Of The Rack",
+        "key": "HellknightOrderOfTheRackPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/HellknightOrderOfTheRack.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/HellknightOrderOfTheRack.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/HellknightOrderOfTheRack.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/HellknightOrderOfTheRack.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "indistinct"
+            ],
+            "equipment": [
+                "heavy",
+                "sword"
+            ],
+            "family": [
+                "hellknight"
+            ]
+        }
+    },
+    {
+        "label": "Human Thieve",
+        "key": "HumanThievePF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/HumanThieve.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/HumanThieve.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/HumanThieve.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/HumanThieve.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "knife",
+                "medium"
+            ]
+        }
+    },
+    {
+        "label": "Ilnerik Sivanshin",
+        "key": "IlnerikSivanshinPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/IlnerikSivanshin.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/IlnerikSivanshin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/IlnerikSivanshin.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/IlnerikSivanshin.webp"
+        },
+        "tags": {
+            "ancestry": [
+                "vampire count"
+            ],
+            "family": [
+                "vampire"
+            ],
+            "equipment": [
+                "medium"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "category": [
+                "undead"
+            ]
+        }
+    },
+    {
+        "label": "Iomedae Priest",
+        "key": "IomedaePriestPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/IomedaePriest.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/IomedaePriest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/IomedaePriest.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/IomedaePriest.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "family": [
+                "iomedae"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Jade Idol",
+        "key": "JadeIdolPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/JadeIdol.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/JadeIdol.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/JadeIdol.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/JadeIdol.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "jade idol"
+            ],
+            "family": [
+                "idol"
+            ]
+        }
+    },
+    {
+        "label": "Jair",
+        "key": "JairPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Jair.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Jair.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Jair.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Jair.webp"
+        },
+        "tags": {
+            "family": [
+                "norgorber",
+                "vampire"
+            ],
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "vampire count"
+            ],
+            "equipment": [
+                "light",
+                "medium",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Janiven",
+        "key": "JanivenPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Janiven.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Janiven.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Janiven.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Janiven.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "medium",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Janiven",
+        "key": "JanivenBustPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/JanivenBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/JanivenBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/JanivenBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/JanivenBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Jarvis Alebrecht",
+        "key": "JarvisAlebrechtPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/JarvisAlebrecht.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/JarvisAlebrecht.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/JarvisAlebrecht.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/JarvisAlebrecht.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Jerusen",
+        "key": "JerusenPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Jerusen.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Jerusen.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Jerusen.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Jerusen.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "vampire spawn"
+            ],
+            "equipment": [
+                "clothing",
+                "unarmored"
+            ],
+            "special": [
+                "unique"
+            ],
+            "family": [
+                "vampire"
+            ]
+        }
+    },
+    {
+        "label": "Jezeletrix",
+        "key": "JezeletrixPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Jezeletrix.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Jezeletrix.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Jezeletrix.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Jezeletrix.webp"
+        },
+        "tags": {
+            "category": [
+                "divine",
+                "fiendish"
+            ],
+            "ancestry": [
+                "vulpinal"
+            ],
+            "family": [
+                "agathion",
+                "broken soul"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Khazrae Kuelata",
+        "key": "KhazraeKuelataPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/KhazraeKuelata.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/KhazraeKuelata.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/KhazraeKuelata.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/KhazraeKuelata.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "erinys"
+            ],
+            "family": [
+                "devil"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Lar",
+        "key": "LarPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Lar.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Lar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Lar.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Lar.webp"
+        },
+        "tags": {
+            "category": [
+                "spirit"
+            ],
+            "ancestry": [
+                "lar"
+            ]
+        }
+    },
+    {
+        "label": "Liebdaga The Twin",
+        "key": "LiebdagaTheTwinPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/LiebdagaTheTwin.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/LiebdagaTheTwin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/LiebdagaTheTwin.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/LiebdagaTheTwin.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "liebdaga",
+                "pit fiend"
+            ],
+            "family": [
+                "devil",
+                "infernal duke"
+            ],
+            "special": [
+                "deity",
+                "quasideity",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Liebdaga The Twin",
+        "key": "LiebdagaTheTwinBustPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/LiebdagaTheTwinBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/LiebdagaTheTwinBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/LiebdagaTheTwinBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/LiebdagaTheTwinBust.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "liebdaga",
+                "pit fiend"
+            ],
+            "family": [
+                "devil",
+                "infernal duke"
+            ],
+            "special": [
+                "bust",
+                "deity",
+                "quasideity",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Livia",
+        "key": "LiviaPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Livia.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Livia.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Livia.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Livia.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "imp"
+            ],
+            "family": [
+                "devil"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Lord Mayor Aberian Arvanxi",
+        "key": "LordMayorAberianArvanxiPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/LordMayorAberianArvanxi.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/LordMayorAberianArvanxi.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/LordMayorAberianArvanxi.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/LordMayorAberianArvanxi.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Lord Mayor Aberian Arvanxi Beaten",
+        "key": "LordMayorAberianArvanxiBeatenPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/LordMayorAberianArvanxiBeaten.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/LordMayorAberianArvanxiBeaten.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/LordMayorAberianArvanxiBeaten.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/LordMayorAberianArvanxiBeaten.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Madjaw",
+        "key": "MadjawPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Madjaw.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Madjaw.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Madjaw.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Madjaw.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "satyr"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "axe",
+                "clothing",
+                "knife",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Maglin",
+        "key": "MaglinPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Maglin.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Maglin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Maglin.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Maglin.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "knife",
+                "medium"
+            ]
+        }
+    },
+    {
+        "label": "Mammon Priest",
+        "key": "HammonPriestPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/HammonPriest.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/HammonPriest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/HammonPriest.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/HammonPriest.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "family": [
+                "mammon"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Manus Undiomede",
+        "key": "ManusUndiomedePF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/ManusUndiomede.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/ManusUndiomede.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/ManusUndiomede.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/ManusUndiomede.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "mohrg"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Melavengian",
+        "key": "MelavengianPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Melavengian.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Melavengian.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Melavengian.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Melavengian.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "hamatula"
+            ],
+            "family": [
+                "devil",
+                "mammon"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Millech The Hump",
+        "key": "MillechTheHumpPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/MillechTheHump.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/MillechTheHump.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/MillechTheHump.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/MillechTheHump.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Mother Of Flies",
+        "key": "MotherOfFliesPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/MotherOfFlies.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/MotherOfFlies.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/MotherOfFlies.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/MotherOfFlies.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "green hag"
+            ],
+            "family": [
+                "hag"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Nephelim Champion",
+        "key": "NephelimThoragPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/NephelimThorag.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/NephelimThorag.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/NephelimThorag.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/NephelimThorag.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "nephilim"
+            ],
+            "family": [
+                "thorag"
+            ],
+            "equipment": [
+                "bludgeon",
+                "heavy"
+            ]
+        }
+    },
+    {
+        "label": "Nephelim Thug",
+        "key": "NephelimThugPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/NephelimThug.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/NephelimThug.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/NephelimThug.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/NephelimThug.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "nephilim"
+            ],
+            "equipment": [
+                "crossbow",
+                "medium"
+            ]
+        }
+    },
+    {
+        "label": "Nephelim Wizard",
+        "key": "NephelimWizardPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/NephelimWizard.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/NephelimWizard.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/NephelimWizard.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/NephelimWizard.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "nephilim"
+            ],
+            "equipment": [
+                "clothing",
+                "focus"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Nihiloi",
+        "key": "NihiloiPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Nihiloi.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Nihiloi.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Nihiloi.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Nihiloi.webp"
+        },
+        "tags": {
+            "category": [
+                "planar",
+                "shadow"
+            ],
+            "ancestry": [
+                "nihiloi"
+            ]
+        }
+    },
+    {
+        "label": "Palaveen",
+        "key": "PalaveenPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Palaveen.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Palaveen.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Palaveen.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Palaveen.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "nephilim"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "family": [
+                "asmodeus"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Paralictor Gonville Chard",
+        "key": "ParalictorGonvilleChardPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/ParalictorGonvilleChard.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/ParalictorGonvilleChard.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/ParalictorGonvilleChard.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/ParalictorGonvilleChard.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "heavy",
+                "sword"
+            ],
+            "family": [
+                "hellknight"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Paralictor Gonville Chard",
+        "key": "ParalictorGonvilleChardBustPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/ParalictorGonvilleChardBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/ParalictorGonvilleChardBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/ParalictorGonvilleChardBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/ParalictorGonvilleChardBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "heavy"
+            ],
+            "family": [
+                "hellknight"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Rance Lucca",
+        "key": "RanceLuccaPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/RanceLucca.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/RanceLucca.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/RanceLucca.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/RanceLucca.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Rat Swarm",
+        "key": "LemRatSwarmPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/LemRatSwarm.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/LemRatSwarm.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/LemRatSwarm.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/LemRatSwarm.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "rat swarm"
+            ],
+            "special": [
+                "iconic",
+                "swarm"
+            ],
+            "family": [
+                "lem"
+            ]
+        }
+    },
+    {
+        "label": "Ravener Behemoth",
+        "key": "RavenerBehemothPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/RavenerBehemoth.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/RavenerBehemoth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/RavenerBehemoth.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/RavenerBehemoth.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "ravener behemoth"
+            ],
+            "family": [
+                "behemoth"
+            ]
+        }
+    },
+    {
+        "label": "Robahl Nonon",
+        "key": "RobahlNononPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/RobahlNonon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/RobahlNonon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/RobahlNonon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/RobahlNonon.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Rolan",
+        "key": "RolanPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Rolan.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Rolan.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Rolan.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Rolan.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dwarf"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Rot Grub Swarm",
+        "key": "RotGrubSwarmPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/RotGrubSwarm.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/RotGrubSwarm.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/RotGrubSwarm.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/RotGrubSwarm.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "rot grub swarm"
+            ],
+            "family": [
+                "maggot"
+            ],
+            "special": [
+                "swarm"
+            ]
+        }
+    },
+    {
+        "label": "Sascar Tilernos",
+        "key": "SacarTilernosPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/SacarTilernos.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/SacarTilernos.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/SacarTilernos.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/SacarTilernos.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Salikotal",
+        "key": "SalikotalPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Salikotal.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Salikotal.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Salikotal.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Salikotal.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "salikotal"
+            ],
+            "family": [
+                "devil"
+            ],
+            "equipment": [
+                "knife"
+            ]
+        }
+    },
+    {
+        "label": "Sandor The Strange",
+        "key": "SandorTheStrangePF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/SandorTheStrange.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/SandorTheStrange.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/SandorTheStrange.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/SandorTheStrange.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ],
+            "features": [
+                "magic"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Sewer Goblin",
+        "key": "SewerGoblinPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/SewerGoblin.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/SewerGoblin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/SewerGoblin.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/SewerGoblin.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "goblin"
+            ],
+            "equipment": [
+                "knife",
+                "light"
+            ],
+            "features": [
+                "dual-wielding"
+            ]
+        }
+    },
+    {
+        "label": "Shadowey Triceratops Skeleton",
+        "key": "ShadoweyTriceratopsSkeletonPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/ShadoweyTriceratopsSkeleton.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/ShadoweyTriceratopsSkeleton.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/ShadoweyTriceratopsSkeleton.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/ShadoweyTriceratopsSkeleton.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "triceratops skeleton"
+            ],
+            "family": [
+                "dinosaur",
+                "shadowey"
+            ]
+        }
+    },
+    {
+        "label": "Shadowgarm",
+        "key": "ShadowgarmPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Shadowgarm.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Shadowgarm.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Shadowgarm.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Shadowgarm.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant",
+                "planar",
+                "shadow"
+            ],
+            "ancestry": [
+                "shadowgarm"
+            ]
+        }
+    },
+    {
+        "label": "Shanwen Shanwen",
+        "key": "ShanwenShanwenPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/ShanwenShanwen.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/ShanwenShanwen.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/ShanwenShanwen.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/ShanwenShanwen.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "family": [
+                "hellknight"
+            ],
+            "equipment": [
+                "heavy"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Sian Daemodus",
+        "key": "SianDaemodusPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/SianDaemodus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/SianDaemodus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/SianDaemodus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/SianDaemodus.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "nephilim"
+            ],
+            "equipment": [
+                "heavy",
+                "knife",
+                "medium"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Sister Of Eiseth",
+        "key": "SisterOfEisethPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/SisterOfEiseth.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/SisterOfEiseth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/SisterOfEiseth.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/SisterOfEiseth.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "knife"
+            ],
+            "family": [
+                "asmodeus"
+            ]
+        }
+    },
+    {
+        "label": "Skarx Veskandi",
+        "key": "SkarxVeskandiPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/SkarxVeskandi.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/SkarxVeskandi.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/SkarxVeskandi.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/SkarxVeskandi.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "nephilim"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Soulbound Doll",
+        "key": "SoulboundDollPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/SoulboundDoll.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/SoulboundDoll.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/SoulboundDoll.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/SoulboundDoll.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "soulbound doll"
+            ],
+            "family": [
+                "soulbound"
+            ]
+        }
+    },
+    {
+        "label": "Spartolos",
+        "key": "SpartolosPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Spartolos.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Spartolos.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Spartolos.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Spartolos.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "spartolos"
+            ],
+            "equipment": [
+                "heavy",
+                "polearm",
+                "shield"
+            ]
+        }
+    },
+    {
+        "label": "Stiglor",
+        "key": "StiglorPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Stiglor.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Stiglor.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Stiglor.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Stiglor.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "axe",
+                "heavy",
+                "medium",
+                "unarmored"
+            ],
+            "features": [
+                "dual-wielding"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Stone Idol",
+        "key": "StoneIdolPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/StoneIdol.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/StoneIdol.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/StoneIdol.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/StoneIdol.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "stone idol"
+            ],
+            "family": [
+                "idol"
+            ]
+        }
+    },
+    {
+        "label": "Strix Warrior",
+        "key": "StrixWarriorPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/StrixWarrior.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/StrixWarrior.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/StrixWarrior.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/StrixWarrior.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "strix"
+            ],
+            "equipment": [
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Szasmir",
+        "key": "SzasmirPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Szasmir.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Szasmir.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Szasmir.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Szasmir.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "barbazu"
+            ],
+            "family": [
+                "devil"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "The Mazeflesh Man",
+        "key": "TheMazefleshManPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/TheMazefleshMan.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/TheMazefleshMan.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/TheMazefleshMan.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/TheMazefleshMan.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "vampire spawn"
+            ],
+            "family": [
+                "vampire"
+            ],
+            "equipment": [
+                "clothing",
+                "crossbow",
+                "unarmored"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "The Outcast King",
+        "key": "TheOutcastKingPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/TheOutcastKing.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/TheOutcastKing.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/TheOutcastKing.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/TheOutcastKing.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant",
+                "fiendish"
+            ],
+            "family": [
+                "amalgam",
+                "devil"
+            ],
+            "ancestry": [
+                "barbazu",
+                "otyugh"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Thesing The Vampire",
+        "key": "ThesingTheVampirePF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/ThesingTheVampire.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/ThesingTheVampire.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/ThesingTheVampire.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/ThesingTheVampire.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "vampire count"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ],
+            "family": [
+                "vampire"
+            ]
+        }
+    },
+    {
+        "label": "Thesing Umbero Ulvaud",
+        "key": "ThesingUmberoUlvaudPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/ThesingUmberoUlvaud.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/ThesingUmberoUlvaud.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/ThesingUmberoUlvaud.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/ThesingUmberoUlvaud.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Torble",
+        "key": "TorblePF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Torble.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Torble.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Torble.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Torble.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial",
+                "ooze"
+            ],
+            "ancestry": [
+                "torble"
+            ],
+            "family": [
+                "vermin"
+            ]
+        }
+    },
+    {
+        "label": "Ukobach",
+        "key": "UkobachPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Ukobach.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Ukobach.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Ukobach.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Ukobach.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "ukobach"
+            ],
+            "family": [
+                "devil"
+            ],
+            "equipment": [
+                "polearm"
+            ]
+        }
+    },
+    {
+        "label": "Uniila",
+        "key": "UniilaPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Uniila.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Uniila.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Uniila.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Uniila.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "uniila"
+            ],
+            "family": [
+                "devil"
+            ],
+            "equipment": [
+                "clothing",
+                "focus",
+                "knife",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Vahnwynne Malkistra",
+        "key": "VahnwynneMalkistraPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/VahnwynneMalkistra.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/VahnwynneMalkistra.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/VahnwynneMalkistra.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/VahnwynneMalkistra.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "vampire count"
+            ],
+            "equipment": [
+                "knife",
+                "medium"
+            ],
+            "features": [
+                "dual-wielding"
+            ],
+            "family": [
+                "vampire"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Varpnall",
+        "key": "VarpnallPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Varpnall.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Varpnall.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Varpnall.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Varpnall.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "otyugh"
+            ],
+            "family": [
+                "plague bearer"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Vassindio Drovenge",
+        "key": "VassindioDrovengePF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/VassindioDrovenge.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/VassindioDrovenge.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/VassindioDrovenge.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/VassindioDrovenge.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Visbaronetess Delour Aulamaxa",
+        "key": "VisbaronetessDelourAulamaxaPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/VisbaronetessDelourAulamaxa.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/VisbaronetessDelourAulamaxa.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/VisbaronetessDelourAulamaxa.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/VisbaronetessDelourAulamaxa.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "features": [
+                "music"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Visbaronetess Delour Aulamaxa",
+        "key": "VisbaronetessDelourAulamaxaBustPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/VisbaronetessDelourAulamaxaBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/VisbaronetessDelourAulamaxaBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/VisbaronetessDelourAulamaxaBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/VisbaronetessDelourAulamaxaBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "features": [
+                "music"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Vouivre",
+        "key": "VouivrePF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Vouivre.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Vouivre.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Vouivre.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Vouivre.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "vouivre"
+            ]
+        }
+    },
+    {
+        "label": "Vuiper Ghivel",
+        "key": "VuiperGhivelPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/VuiperGhivel.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/VuiperGhivel.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/VuiperGhivel.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/VuiperGhivel.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "family": [
+                "abadar"
+            ],
+            "equipment": [
+                "clothing",
+                "crossbow",
+                "light"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Zol",
+        "key": "ZolPF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Zol.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Zol.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Zol.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Zol.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dromaar"
+            ],
+            "equipment": [
+                "brawling",
+                "clothing",
+                "unarmored"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Zovarue",
+        "key": "ZovaruePF1eCoT",
+        "source": "PF1e Council of Thieves",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-council-of-thieves/Zovarue.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-council-of-thieves/Zovarue.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path/adventure-path-council-of-thieves/Zovarue.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path-council-of-thieves/Zovarue.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "medusa"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    }
+]

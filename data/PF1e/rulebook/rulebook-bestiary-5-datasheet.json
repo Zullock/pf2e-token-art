@@ -1,0 +1,4893 @@
+[
+    {
+        "label": "Aatheriexa",
+        "key": "AatheriexaPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Aatheriexa.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Aatheriexa.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Aatheriexa.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Aatheriexa.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "aatheriexa"
+            ]
+        }
+    },
+    {
+        "label": "Abrikandilu",
+        "key": "AbrikandiluPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Abrikandilu.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Abrikandilu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Abrikandilu.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Abrikandilu.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "abrikandilu"
+            ],
+            "family": [
+                "demon"
+            ]
+        }
+    },
+    {
+        "label": "Aerial Servant",
+        "key": "Aerial%20ServantPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Aerial%20Servant.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Aerial%20Servant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Aerial%20Servant.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Aerial%20Servant.webp"
+        },
+        "tags": {
+            "category": [
+                "elemental"
+            ],
+            "ancestry": [
+                "aerial servant"
+            ]
+        }
+    },
+    {
+        "label": "Aether Elemental",
+        "key": "AetherElementalPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/AetherElemental.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/AetherElemental.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/AetherElemental.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/AetherElemental.webp"
+        },
+        "tags": {
+            "category": [
+                "elemental"
+            ],
+            "ancestry": [
+                "aether elemental"
+            ]
+        }
+    },
+    {
+        "label": "Agnishvatta",
+        "key": "AgnishvattaPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Agnishvatta.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Agnishvatta.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Agnishvatta.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Agnishvatta.webp"
+        },
+        "tags": {
+            "category": [
+                "divine"
+            ],
+            "ancestry": [
+                "agnishvatta"
+            ],
+            "family": [
+                "manasaputra"
+            ],
+            "special": [
+                "mythic"
+            ]
+        }
+    },
+    {
+        "label": "Ahkhat",
+        "key": "AhkhatPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Ahkhat.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Ahkhat.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Ahkhat.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Ahkhat.webp"
+        },
+        "tags": {
+            "category": [
+                "elemental"
+            ],
+            "ancestry": [
+                "ahkhat"
+            ]
+        }
+    },
+    {
+        "label": "Ahool",
+        "key": "AhoolPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Ahool.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Ahool.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Ahool.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Ahool.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "ahool"
+            ],
+            "family": [
+                "bat"
+            ]
+        }
+    },
+    {
+        "label": "Akaname",
+        "key": "AkanamePF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Akaname.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Akaname.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Akaname.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Akaname.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "akaname"
+            ]
+        }
+    },
+    {
+        "label": "Amarok",
+        "key": "AmarokPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Amarok.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Amarok.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Amarok.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Amarok.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "amarok"
+            ]
+        }
+    },
+    {
+        "label": "Amphipteres",
+        "key": "AmphipteresPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Amphipteres.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Amphipteres.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Amphipteres.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Amphipteres.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic"
+            ],
+            "ancestry": [
+                "amphipteres"
+            ],
+            "family": [
+                "snake"
+            ]
+        }
+    },
+    {
+        "label": "Ancient Astral Dragon",
+        "key": "AncientAstralDragonPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/AncientAstralDragon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/AncientAstralDragon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/AncientAstralDragon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/AncientAstralDragon.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic"
+            ],
+            "ancestry": [
+                "astral dragon"
+            ],
+            "family": [
+                "esoteric dragon"
+            ]
+        }
+    },
+    {
+        "label": "Ancient Dream Dragon",
+        "key": "AncientDreamDragonPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/AncientDreamDragon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/AncientDreamDragon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/AncientDreamDragon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/AncientDreamDragon.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic"
+            ],
+            "ancestry": [
+                "dream dragon"
+            ],
+            "family": [
+                "esoteric dragon"
+            ]
+        }
+    },
+    {
+        "label": "Ancient Etheric Dragon",
+        "key": "AncientEthericDragonPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/AncientEthericDragon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/AncientEthericDragon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/AncientEthericDragon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/AncientEthericDragon.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic"
+            ],
+            "ancestry": [
+                "etheric dragon"
+            ],
+            "family": [
+                "esoteric dragon"
+            ]
+        }
+    },
+    {
+        "label": "Ancient Nightmare Dragon",
+        "key": "AncientNightmareDragonPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/AncientNightmareDragon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/AncientNightmareDragon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/AncientNightmareDragon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/AncientNightmareDragon.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic"
+            ],
+            "ancestry": [
+                "nightmare dragon"
+            ],
+            "family": [
+                "esoteric dragon"
+            ]
+        }
+    },
+    {
+        "label": "Ancient Occult Dragon",
+        "key": "AncientOccultDragonPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/AncientOccultDragon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/AncientOccultDragon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/AncientOccultDragon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/AncientOccultDragon.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic"
+            ],
+            "ancestry": [
+                "occult dragon"
+            ],
+            "family": [
+                "esoteric dragon"
+            ]
+        }
+    },
+    {
+        "label": "Android Rogue",
+        "key": "AndroidRoguePF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/AndroidRogue.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/AndroidRogue.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/AndroidRogue.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/AndroidRogue.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "android"
+            ]
+        }
+    },
+    {
+        "label": "Anemos",
+        "key": "AnemosPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Anemos.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Anemos.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Anemos.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Anemos.webp"
+        },
+        "tags": {
+            "category": [
+                "elemental"
+            ],
+            "ancestry": [
+                "anemos"
+            ]
+        }
+    },
+    {
+        "label": "Animate Hair",
+        "key": "AnimateHairPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/AnimateHair.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/AnimateHair.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/AnimateHair.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/AnimateHair.webp"
+        },
+        "tags": {
+            "category": [
+                "ooze"
+            ],
+            "ancestry": [
+                "animate hair"
+            ]
+        }
+    },
+    {
+        "label": "Annihilator",
+        "key": "AnnihilatorPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Annihilator.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Annihilator.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Annihilator.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Annihilator.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "annihilator"
+            ],
+            "family": [
+                "robot"
+            ]
+        }
+    },
+    {
+        "label": "Anunnaki",
+        "key": "AnunnakiPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Anunnaki.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Anunnaki.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Anunnaki.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Anunnaki.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "anunnaki"
+            ],
+            "special": [
+                "mythic"
+            ]
+        }
+    },
+    {
+        "label": "Apallie",
+        "key": "ApalliePF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Apallie.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Apallie.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Apallie.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Apallie.webp"
+        },
+        "tags": {
+            "category": [
+                "ooze"
+            ],
+            "ancestry": [
+                "apallie"
+            ]
+        }
+    },
+    {
+        "label": "Apkallu",
+        "key": "ApkalluPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Apkallu.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Apkallu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Apkallu.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Apkallu.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                "apkallu"
+            ],
+            "special": [
+                "mythic"
+            ]
+        }
+    },
+    {
+        "label": "Astomoi",
+        "key": "AstomoiPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Astomoi.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Astomoi.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Astomoi.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Astomoi.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "astomoi"
+            ]
+        }
+    },
+    {
+        "label": "Ayngavhaul",
+        "key": "AyngavhaulPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Ayngavhaul.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Ayngavhaul.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Ayngavhaul.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Ayngavhaul.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "ayngavhaul"
+            ],
+            "family": [
+                "devil"
+            ]
+        }
+    },
+    {
+        "label": "Bagiennik",
+        "key": "BagiennikPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Bagiennik.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Bagiennik.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Bagiennik.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Bagiennik.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "bagiennik"
+            ]
+        }
+    },
+    {
+        "label": "Balisse",
+        "key": "BalissePF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Balisse.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Balisse.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Balisse.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Balisse.webp"
+        },
+        "tags": {
+            "category": [
+                "divine"
+            ],
+            "ancestry": [
+                "balisse"
+            ],
+            "family": [
+                "angel"
+            ]
+        }
+    },
+    {
+        "label": "Barhisad",
+        "key": "BarhisadPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Barhisad.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Barhisad.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Barhisad.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Barhisad.webp"
+        },
+        "tags": {
+            "category": [
+                "divine"
+            ],
+            "ancestry": [
+                "barhisad"
+            ],
+            "family": [
+                "manasaputra"
+            ]
+        }
+    },
+    {
+        "label": "Beastkin Ranger",
+        "key": "BeastkinRangerPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/BeastkinRanger.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/BeastkinRanger.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/BeastkinRanger.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/BeastkinRanger.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "beastkin"
+            ]
+        }
+    },
+    {
+        "label": "Bisha Ga Tsuku",
+        "key": "BishaGaTsukuPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/BishaGaTsuku.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/BishaGaTsuku.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/BishaGaTsuku.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/BishaGaTsuku.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "bisha ga tsuku"
+            ]
+        }
+    },
+    {
+        "label": "Blightspawn",
+        "key": "BlightspawnPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Blightspawn.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Blightspawn.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Blightspawn.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Blightspawn.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "blightspawn"
+            ],
+            "family": [
+                "mosquito"
+            ]
+        }
+    },
+    {
+        "label": "Blue Whale",
+        "key": "BlueWhalePF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/BlueWhale.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/BlueWhale.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/BlueWhale.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/BlueWhale.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "blue whale"
+            ],
+            "family": [
+                "whale"
+            ]
+        }
+    },
+    {
+        "label": "Bone Ship",
+        "key": "BoneShipPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/BoneShip.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/BoneShip.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/BoneShip.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/BoneShip.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "bone ship"
+            ]
+        }
+    },
+    {
+        "label": "Boroboroton",
+        "key": "BoroborotonPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Boroboroton.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Boroboroton.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Boroboroton.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Boroboroton.webp"
+        },
+        "tags": {
+            "category": [
+                "kami"
+            ],
+            "ancestry": [
+                "boroboroton"
+            ],
+            "family": [
+                "tsukumogami"
+            ]
+        }
+    },
+    {
+        "label": "Brain Mole",
+        "key": "BrainMolePF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/BrainMole.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/BrainMole.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/BrainMole.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/BrainMole.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "brain mole"
+            ]
+        }
+    },
+    {
+        "label": "Brain Mole Monarch",
+        "key": "BrainMoleMonarchPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/BrainMoleMonarch.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/BrainMoleMonarch.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/BrainMoleMonarch.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/BrainMoleMonarch.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "brain mole"
+            ]
+        }
+    },
+    {
+        "label": "Caligni Rogue",
+        "key": "CaligniRoguePF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/CaligniRogue.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/CaligniRogue.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/CaligniRogue.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/CaligniRogue.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "caligni"
+            ]
+        }
+    },
+    {
+        "label": "Caller In Darkness",
+        "key": "CallerInDarknessPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/CallerInDarkness.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/CallerInDarkness.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/CallerInDarkness.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/CallerInDarkness.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "caller in darkness"
+            ],
+            "family": [
+                "incorporeal"
+            ]
+        }
+    },
+    {
+        "label": "Cambion",
+        "key": "CambionPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Cambion.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Cambion.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Cambion.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Cambion.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "cambion"
+            ],
+            "family": [
+                "demon"
+            ]
+        }
+    },
+    {
+        "label": "Cameroceras",
+        "key": "CamerocerasPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Cameroceras.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Cameroceras.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Cameroceras.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Cameroceras.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "cameroceras"
+            ],
+            "family": [
+                "squid"
+            ]
+        }
+    },
+    {
+        "label": "Capramace",
+        "key": "CapramacePF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Capramace.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Capramace.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Capramace.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Capramace.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "capramace"
+            ]
+        }
+    },
+    {
+        "label": "Celedon",
+        "key": "CeledonPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Celedon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Celedon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Celedon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Celedon.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "celedon"
+            ]
+        }
+    },
+    {
+        "label": "Cervinal",
+        "key": "CervinalPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Cervinal.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Cervinal.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Cervinal.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Cervinal.webp"
+        },
+        "tags": {
+            "category": [
+                "divine"
+            ],
+            "ancestry": [
+                "cervinal"
+            ],
+            "family": [
+                "agathion"
+            ]
+        }
+    },
+    {
+        "label": "Cerynitis",
+        "key": "CerynitisPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Cerynitis.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Cerynitis.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Cerynitis.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Cerynitis.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "cerynitis"
+            ]
+        }
+    },
+    {
+        "label": "Cetus",
+        "key": "CetusPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Cetus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Cetus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Cetus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Cetus.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic"
+            ],
+            "ancestry": [
+                "cetus"
+            ],
+            "family": [
+                "shark"
+            ]
+        }
+    },
+    {
+        "label": "Cherufe",
+        "key": "CherufePF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Cherufe.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Cherufe.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Cherufe.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Cherufe.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "cherufe"
+            ]
+        }
+    },
+    {
+        "label": "Choral",
+        "key": "ChoralPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Choral.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Choral.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Choral.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Choral.webp"
+        },
+        "tags": {
+            "category": [
+                "divine"
+            ],
+            "ancestry": [
+                "choral"
+            ],
+            "family": [
+                "angel"
+            ]
+        }
+    },
+    {
+        "label": "Chuspiki",
+        "key": "ChuspikiPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Chuspiki.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Chuspiki.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Chuspiki.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Chuspiki.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "chuspiki"
+            ]
+        }
+    },
+    {
+        "label": "Clockwork Familiar",
+        "key": "ClockworkFamiliarPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/ClockworkFamiliar.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/ClockworkFamiliar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/ClockworkFamiliar.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/ClockworkFamiliar.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "clockwork familiar"
+            ],
+            "family": [
+                "clockwork"
+            ]
+        }
+    },
+    {
+        "label": "Corpse Lotus",
+        "key": "CorpseLotusPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/CorpseLotus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/CorpseLotus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/CorpseLotus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/CorpseLotus.webp"
+        },
+        "tags": {
+            "category": [
+                "plant"
+            ],
+            "ancestry": [
+                "corpse lotus"
+            ]
+        }
+    },
+    {
+        "label": "Crone Queen",
+        "key": "CroneQueenPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/CroneQueen.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/CroneQueen.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/CroneQueen.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/CroneQueen.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "crone queen"
+            ],
+            "family": [
+                "crone"
+            ]
+        }
+    },
+    {
+        "label": "Crystal Golem",
+        "key": "CrystalGolemPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/CrystalGolem.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/CrystalGolem.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/CrystalGolem.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/CrystalGolem.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "crystal golem"
+            ],
+            "family": [
+                "golem"
+            ]
+        }
+    },
+    {
+        "label": "Cuero",
+        "key": "CueroPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Cuero.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Cuero.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Cuero.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Cuero.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "cuero"
+            ]
+        }
+    },
+    {
+        "label": "Cursed King",
+        "key": "CursedKingPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/CursedKing.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/CursedKing.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/CursedKing.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/CursedKing.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "cursed king"
+            ],
+            "family": [
+                "mummy"
+            ]
+        }
+    },
+    {
+        "label": "Cytillipede",
+        "key": "CytillipedePF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Cytillipede.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Cytillipede.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Cytillipede.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Cytillipede.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "cytillipede"
+            ],
+            "family": [
+                "centipede"
+            ]
+        }
+    },
+    {
+        "label": "Danava",
+        "key": "DanavaPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Danava.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Danava.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Danava.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Danava.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "danava"
+            ],
+            "family": [
+                "titan"
+            ]
+        }
+    },
+    {
+        "label": "Death Coach",
+        "key": "DeathCoachPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/DeathCoach.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/DeathCoach.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/DeathCoach.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/DeathCoach.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "death coach"
+            ]
+        }
+    },
+    {
+        "label": "Deep Merfolk",
+        "key": "DeepMerfolkPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/DeepMerfolk.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/DeepMerfolk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/DeepMerfolk.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/DeepMerfolk.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "merfolk"
+            ]
+        }
+    },
+    {
+        "label": "Deep One",
+        "key": "DeepOnePF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/DeepOne.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/DeepOne.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/DeepOne.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/DeepOne.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "deep one"
+            ]
+        }
+    },
+    {
+        "label": "Deep One Hybrid",
+        "key": "DeepOneHybridPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/DeepOneHybrid.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/DeepOneHybrid.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/DeepOneHybrid.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/DeepOneHybrid.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "deep one"
+            ]
+        }
+    },
+    {
+        "label": "Deimavigga",
+        "key": "DeimaviggaPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Deimavigga.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Deimavigga.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Deimavigga.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Deimavigga.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "deimavigga"
+            ],
+            "family": [
+                "devil"
+            ]
+        }
+    },
+    {
+        "label": "Delgeth",
+        "key": "DelgethPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Delgeth.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Delgeth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Delgeth.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Delgeth.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "delgeth"
+            ]
+        }
+    },
+    {
+        "label": "Devastator",
+        "key": "DevastatorPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Devastator.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Devastator.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Devastator.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Devastator.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "devastator"
+            ],
+            "special": [
+                "mythic"
+            ]
+        }
+    },
+    {
+        "label": "Digmaul",
+        "key": "DigmaulPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Digmaul.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Digmaul.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Digmaul.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Digmaul.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "digmaul"
+            ],
+            "family": [
+                "cat"
+            ]
+        }
+    },
+    {
+        "label": "Doppeldrek",
+        "key": "DoppeldrekPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Doppeldrek.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Doppeldrek.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Doppeldrek.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Doppeldrek.webp"
+        },
+        "tags": {
+            "category": [
+                "ooze"
+            ],
+            "ancestry": [
+                "doppeldrek"
+            ]
+        }
+    },
+    {
+        "label": "Dragonkin",
+        "key": "DragonkinPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Dragonkin.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Dragonkin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Dragonkin.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Dragonkin.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic"
+            ],
+            "ancestry": [
+                "dragonkin"
+            ]
+        }
+    },
+    {
+        "label": "Duppy",
+        "key": "DuppyPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Duppy.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Duppy.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Duppy.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Duppy.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "duppy"
+            ],
+            "family": [
+                "incorporeal"
+            ]
+        }
+    },
+    {
+        "label": "Dwiergeth",
+        "key": "DwiergethPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Dwiergeth.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Dwiergeth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Dwiergeth.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Dwiergeth.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "dwiergeth"
+            ]
+        }
+    },
+    {
+        "label": "Echeneis",
+        "key": "EcheneisPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Echeneis.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Echeneis.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Echeneis.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Echeneis.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "echeneis"
+            ]
+        }
+    },
+    {
+        "label": "Eclipse Giant",
+        "key": "EclipseGiantPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/EclipseGiant.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/EclipseGiant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/EclipseGiant.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/EclipseGiant.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "eclipse giant"
+            ],
+            "family": [
+                "giant"
+            ]
+        }
+    },
+    {
+        "label": "Egregore",
+        "key": "EgregorePF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Egregore.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Egregore.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Egregore.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Egregore.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "egregore"
+            ]
+        }
+    },
+    {
+        "label": "Elder Deep One",
+        "key": "ElderDeepOnePF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/ElderDeepOne.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/ElderDeepOne.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/ElderDeepOne.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/ElderDeepOne.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "deep one"
+            ]
+        }
+    },
+    {
+        "label": "Emotion Ooze",
+        "key": "EmotionOozePF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/EmotionOoze.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/EmotionOoze.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/EmotionOoze.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/EmotionOoze.webp"
+        },
+        "tags": {
+            "category": [
+                "ooze"
+            ],
+            "ancestry": [
+                "emotion ooze"
+            ]
+        }
+    },
+    {
+        "label": "Empyrean",
+        "key": "EmpyreanPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Empyrean.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Empyrean.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Empyrean.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Empyrean.webp"
+        },
+        "tags": {
+            "category": [
+                "divine"
+            ],
+            "ancestry": [
+                "empyrean"
+            ],
+            "family": [
+                "angel"
+            ]
+        }
+    },
+    {
+        "label": "Encantado",
+        "key": "EncantadoPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Encantado.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Encantado.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Encantado.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Encantado.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "encantado"
+            ]
+        }
+    },
+    {
+        "label": "Esipil",
+        "key": "EsipilPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Esipil.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Esipil.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Esipil.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Esipil.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "esipil"
+            ],
+            "family": [
+                "sahkil"
+            ]
+        }
+    },
+    {
+        "label": "Ether Drake",
+        "key": "EtherDrakePF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/EtherDrake.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/EtherDrake.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/EtherDrake.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/EtherDrake.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic"
+            ],
+            "ancestry": [
+                "ether drake"
+            ],
+            "family": [
+                "drake"
+            ]
+        }
+    },
+    {
+        "label": "Etiainen",
+        "key": "EtiainenPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Etiainen.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Etiainen.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Etiainen.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Etiainen.webp"
+        },
+        "tags": {
+            "category": [
+                "spirit"
+            ],
+            "ancestry": [
+                "etiainen"
+            ],
+            "family": [
+                "incorporeal"
+            ]
+        }
+    },
+    {
+        "label": "Exscinder",
+        "key": "ExscinderPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Exscinder.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Exscinder.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Exscinder.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Exscinder.webp"
+        },
+        "tags": {
+            "category": [
+                "divine"
+            ],
+            "ancestry": [
+                "exscinder"
+            ],
+            "family": [
+                "archon"
+            ]
+        }
+    },
+    {
+        "label": "Fastachee",
+        "key": "FastacheePF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Fastachee.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Fastachee.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Fastachee.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Fastachee.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "fastachee"
+            ]
+        }
+    },
+    {
+        "label": "Fext",
+        "key": "FextPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Fext.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Fext.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Fext.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Fext.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "fext"
+            ]
+        }
+    },
+    {
+        "label": "Firbolg",
+        "key": "FirbolgPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Firbolg.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Firbolg.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Firbolg.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Firbolg.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "firbolg"
+            ],
+            "family": [
+                "giant"
+            ]
+        }
+    },
+    {
+        "label": "Flytrap Leshy",
+        "key": "FlytrapLeshyPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/FlytrapLeshy.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/FlytrapLeshy.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/FlytrapLeshy.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/FlytrapLeshy.webp"
+        },
+        "tags": {
+            "category": [
+                "plant"
+            ],
+            "ancestry": [
+                "leshy"
+            ],
+            "family": [
+                "flytrap"
+            ]
+        }
+    },
+    {
+        "label": "Frog Father",
+        "key": "FrogFatherPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/FrogFather.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/FrogFather.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/FrogFather.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/FrogFather.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "frog father"
+            ],
+            "family": [
+                "toad"
+            ]
+        }
+    },
+    {
+        "label": "Gancanagh",
+        "key": "GancanaghPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Gancanagh.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Gancanagh.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Gancanagh.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Gancanagh.webp"
+        },
+        "tags": {
+            "category": [
+                "divine"
+            ],
+            "ancestry": [
+                "gancanagh"
+            ],
+            "family": [
+                "azata"
+            ]
+        }
+    },
+    {
+        "label": "Gate Archon",
+        "key": "GateArchonPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/GateArchon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/GateArchon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/GateArchon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/GateArchon.webp"
+        },
+        "tags": {
+            "category": [
+                "divine"
+            ],
+            "ancestry": [
+                "gate archon"
+            ],
+            "family": [
+                "archon"
+            ]
+        }
+    },
+    {
+        "label": "Gearsman",
+        "key": "GearsmanPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Gearsman.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Gearsman.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Gearsman.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Gearsman.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "gearsman"
+            ],
+            "family": [
+                "robot"
+            ]
+        }
+    },
+    {
+        "label": "Gegenees",
+        "key": "GegeneesPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Gegenees.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Gegenees.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Gegenees.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Gegenees.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "gegenees"
+            ],
+            "family": [
+                "giant"
+            ]
+        }
+    },
+    {
+        "label": "Ghoran Ranger",
+        "key": "GhoranBardPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/GhoranBard.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/GhoranBard.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/GhoranBard.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/GhoranBard.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid",
+                "plant"
+            ],
+            "ancestry": [
+                "ghoran"
+            ]
+        }
+    },
+    {
+        "label": "Giant Mantis Shrimp",
+        "key": "GiantMantisShrimpPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/GiantMantisShrimp.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/GiantMantisShrimp.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/GiantMantisShrimp.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/GiantMantisShrimp.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "giant mantis shrimp"
+            ],
+            "family": [
+                "mantis"
+            ]
+        }
+    },
+    {
+        "label": "Giant Muckdweller",
+        "key": "GiantMuckdwellerPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/GiantMuckdweller.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/GiantMuckdweller.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/GiantMuckdweller.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/GiantMuckdweller.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "giant muckdweller"
+            ],
+            "family": [
+                "muckdweller"
+            ]
+        }
+    },
+    {
+        "label": "Giant Scarab",
+        "key": "GiantScarabPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/GiantScarab.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/GiantScarab.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/GiantScarab.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/GiantScarab.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "giant scarab"
+            ],
+            "family": [
+                "beetle"
+            ]
+        }
+    },
+    {
+        "label": "Glaistig",
+        "key": "GlaistigPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Glaistig.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Glaistig.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Glaistig.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Glaistig.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "glaistig"
+            ],
+            "special": [
+                "mythic"
+            ]
+        }
+    },
+    {
+        "label": "Gravebound",
+        "key": "GraveboundPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Gravebound.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Gravebound.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Gravebound.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Gravebound.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "gravebound"
+            ]
+        }
+    },
+    {
+        "label": "Gray",
+        "key": "GrayPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Gray.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Gray.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Gray.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Gray.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "gray"
+            ]
+        }
+    },
+    {
+        "label": "Gray Goo",
+        "key": "GrayGooPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/GrayGoo.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/GrayGoo.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/GrayGoo.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/GrayGoo.webp"
+        },
+        "tags": {
+            "category": [
+                "ooze"
+            ],
+            "ancestry": [
+                "gray goo"
+            ]
+        }
+    },
+    {
+        "label": "Great Assassin Bug",
+        "key": "GreatAssassinBugPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/GreatAssassinBug.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/GreatAssassinBug.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/GreatAssassinBug.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/GreatAssassinBug.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "great assassin bug"
+            ],
+            "family": [
+                "vermin"
+            ]
+        }
+    },
+    {
+        "label": "Griefgall",
+        "key": "GriefgallPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Griefgall.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Griefgall.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Griefgall.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Griefgall.webp"
+        },
+        "tags": {
+            "category": [
+                "plant"
+            ],
+            "ancestry": [
+                "griefgall"
+            ]
+        }
+    },
+    {
+        "label": "Grim Reaper",
+        "key": "GrimReaperPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/GrimReaper.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/GrimReaper.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/GrimReaper.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/GrimReaper.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "grim reaper"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Grimslake",
+        "key": "GrimslakePF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Grimslake.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Grimslake.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Grimslake.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Grimslake.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "family": [
+                "maggot"
+            ]
+        }
+    },
+    {
+        "label": "Grioth",
+        "key": "GriothPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Grioth.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Grioth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Grioth.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Grioth.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "grioth"
+            ]
+        }
+    },
+    {
+        "label": "Gristly Demodand",
+        "key": "GristlyDemodandPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/GristlyDemodand.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/GristlyDemodand.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/GristlyDemodand.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/GristlyDemodand.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "gristly demodand"
+            ],
+            "family": [
+                "demodand"
+            ]
+        }
+    },
+    {
+        "label": "Guardian Scroll",
+        "key": "GuardianScrollPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/GuardianScroll.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/GuardianScroll.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/GuardianScroll.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/GuardianScroll.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "guardian scroll"
+            ]
+        }
+    },
+    {
+        "label": "Gunpowder Ooze",
+        "key": "GunpowderOozePF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/GunpowderOoze.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/GunpowderOoze.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/GunpowderOoze.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/GunpowderOoze.webp"
+        },
+        "tags": {
+            "category": [
+                "ooze"
+            ],
+            "ancestry": [
+                "gunpowder ooze"
+            ]
+        }
+    },
+    {
+        "label": "Hag Eye Ooze",
+        "key": "HagEyeOozePF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/HagEyeOoze.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/HagEyeOoze.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/HagEyeOoze.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/HagEyeOoze.webp"
+        },
+        "tags": {
+            "category": [
+                "ooze"
+            ],
+            "ancestry": [
+                "hag eye ooze"
+            ]
+        }
+    },
+    {
+        "label": "Heikegani",
+        "key": "HeikeganiPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Heikegani.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Heikegani.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Heikegani.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Heikegani.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "heikegani"
+            ],
+            "family": [
+                "crab"
+            ]
+        }
+    },
+    {
+        "label": "Hobkins",
+        "key": "HobkinsPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Hobkins.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Hobkins.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Hobkins.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Hobkins.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "hobkins"
+            ],
+            "family": [
+                "gremlin"
+            ]
+        }
+    },
+    {
+        "label": "Horn Caterpillar",
+        "key": "HornCaterpillarPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/HornCaterpillar.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/HornCaterpillar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/HornCaterpillar.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/HornCaterpillar.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "horn caterpillar"
+            ],
+            "family": [
+                "maggot"
+            ]
+        }
+    },
+    {
+        "label": "Hundun",
+        "key": "HundunPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Hundun.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Hundun.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Hundun.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Hundun.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "hundun"
+            ]
+        }
+    },
+    {
+        "label": "Hunter Urchin",
+        "key": "HunterUrchinPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/HunterUrchin.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/HunterUrchin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/HunterUrchin.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/HunterUrchin.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "hunter urchin"
+            ]
+        }
+    },
+    {
+        "label": "Ichthyocentaur",
+        "key": "IchthyocentaurPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Ichthyocentaur.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Ichthyocentaur.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Ichthyocentaur.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Ichthyocentaur.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial",
+                "humanoid"
+            ],
+            "ancestry": [
+                "ichthyocentaur"
+            ]
+        }
+    },
+    {
+        "label": "Isonade",
+        "key": "IsonadePF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Isonade.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Isonade.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Isonade.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Isonade.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "family": [
+                "shark"
+            ],
+            "ancestry": [
+                "isonade"
+            ]
+        }
+    },
+    {
+        "label": "Jungle Drake",
+        "key": "JungleDrakePF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/JungleDrake.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/JungleDrake.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/JungleDrake.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/JungleDrake.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic"
+            ],
+            "ancestry": [
+                "jungle drake"
+            ],
+            "family": [
+                "drake"
+            ]
+        }
+    },
+    {
+        "label": "Kabandha",
+        "key": "KabandhaPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Kabandha.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Kabandha.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Kabandha.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Kabandha.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "kabandha"
+            ],
+            "family": [
+                "cyclops"
+            ]
+        }
+    },
+    {
+        "label": "Karkadann",
+        "key": "KarkadannPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Karkadann.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Karkadann.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Karkadann.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Karkadann.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "karkadann"
+            ]
+        }
+    },
+    {
+        "label": "Kawa Akago",
+        "key": "KawaAkagoPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/KawaAkago.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/KawaAkago.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/KawaAkago.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/KawaAkago.webp"
+        },
+        "tags": {
+            "category": [
+                "plant"
+            ],
+            "ancestry": [
+                "kawa akago"
+            ]
+        }
+    },
+    {
+        "label": "Ketesthius",
+        "key": "KetesthiusPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Ketesthius.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Ketesthius.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Ketesthius.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Ketesthius.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "ketesthius"
+            ]
+        }
+    },
+    {
+        "label": "Khala",
+        "key": "KhalaPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Khala.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Khala.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Khala.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Khala.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic"
+            ],
+            "ancestry": [
+                "khala"
+            ]
+        }
+    },
+    {
+        "label": "Kikimora",
+        "key": "KikimoraPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Kikimora.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Kikimora.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Kikimora.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Kikimora.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "kikimora"
+            ]
+        }
+    },
+    {
+        "label": "Kimenhul",
+        "key": "KimenhulPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Kimenhul.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Kimenhul.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Kimenhul.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Kimenhul.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "kimenhul"
+            ],
+            "family": [
+                "sahkil"
+            ]
+        }
+    },
+    {
+        "label": "Kurobozu",
+        "key": "KurobozuPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Kurobozu.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Kurobozu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Kurobozu.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Kurobozu.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "kurobozu"
+            ]
+        }
+    },
+    {
+        "label": "Lamhigyn",
+        "key": "LamhigynPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Lamhigyn.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Lamhigyn.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Lamhigyn.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Lamhigyn.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "lamhigyn"
+            ]
+        }
+    },
+    {
+        "label": "Kaprosuchus",
+        "key": "LaprosuchusPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Laprosuchus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Laprosuchus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Laprosuchus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Laprosuchus.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "kaprosuchus"
+            ],
+            "family": [
+                "crocodile",
+                "megafauna"
+            ]
+        }
+    },
+    {
+        "label": "Lead Golem",
+        "key": "LeadGolemPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/LeadGolem.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/LeadGolem.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/LeadGolem.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/LeadGolem.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "lead golem"
+            ],
+            "family": [
+                "golem"
+            ]
+        }
+    },
+    {
+        "label": "Leechroot",
+        "key": "LeechrootPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Leechroot.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Leechroot.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Leechroot.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Leechroot.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "leechroot"
+            ]
+        }
+    },
+    {
+        "label": "Leng Ghoul",
+        "key": "LengGhoulPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/LengGhoul.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/LengGhoul.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/LengGhoul.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/LengGhoul.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghoul"
+            ],
+            "family": [
+                "leng"
+            ]
+        }
+    },
+    {
+        "label": "Levaloch",
+        "key": "LevalochPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Levaloch.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Levaloch.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Levaloch.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Levaloch.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "levaloch"
+            ],
+            "family": [
+                "devil"
+            ]
+        }
+    },
+    {
+        "label": "Liminal Sprite",
+        "key": "LiminalSpritePF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/LiminalSprite.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/LiminalSprite.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/LiminalSprite.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/LiminalSprite.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "liminal sprite"
+            ],
+            "family": [
+                "sprite"
+            ]
+        }
+    },
+    {
+        "label": "Lipika",
+        "key": "LipikaPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Lipika.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Lipika.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Lipika.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Lipika.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                "lipika"
+            ],
+            "family": [
+                "aeon"
+            ]
+        }
+    },
+    {
+        "label": "Living Mirage",
+        "key": "LivingMiragePF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/LivingMirage.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/LivingMirage.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/LivingMirage.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/LivingMirage.webp"
+        },
+        "tags": {
+            "category": [
+                "ooze"
+            ],
+            "ancestry": [
+                "living mirage"
+            ]
+        }
+    },
+    {
+        "label": "Locust Plague Swarm",
+        "key": "LocustPlagueSwarmPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/LocustPlagueSwarm.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/LocustPlagueSwarm.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/LocustPlagueSwarm.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/LocustPlagueSwarm.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "locust plague swarm"
+            ],
+            "family": [
+                "locust"
+            ],
+            "special": [
+                "plague",
+                "swarm"
+            ]
+        }
+    },
+    {
+        "label": "Lotus Leshy",
+        "key": "LotusLeshyPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/LotusLeshy.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/LotusLeshy.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/LotusLeshy.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/LotusLeshy.webp"
+        },
+        "tags": {
+            "category": [
+                "plant"
+            ],
+            "ancestry": [
+                "leshy"
+            ]
+        }
+    },
+    {
+        "label": "Lotus Tree",
+        "key": "LotusTreePF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/LotusTree.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/LotusTree.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/LotusTree.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/LotusTree.webp"
+        },
+        "tags": {
+            "category": [
+                "plant"
+            ],
+            "ancestry": [
+                "lotus tree"
+            ]
+        }
+    },
+    {
+        "label": "Lusca",
+        "key": "LuscaPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Lusca.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Lusca.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Lusca.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Lusca.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "lusca"
+            ],
+            "family": [
+                "shark"
+            ]
+        }
+    },
+    {
+        "label": "Maharishi Manu",
+        "key": "MaharishiManuPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/MaharishiManu.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/MaharishiManu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/MaharishiManu.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/MaharishiManu.webp"
+        },
+        "tags": {
+            "category": [
+                "divine"
+            ],
+            "ancestry": [
+                "maharishi manu"
+            ],
+            "family": [
+                "manasaputra"
+            ]
+        }
+    },
+    {
+        "label": "Manu",
+        "key": "ManuPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Manu.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Manu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Manu.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Manu.webp"
+        },
+        "tags": {
+            "family": [
+                "manasaputra"
+            ],
+            "category": [
+                "divine"
+            ],
+            "ancestry": [
+                "manu"
+            ]
+        }
+    },
+    {
+        "label": "Megapon Ant",
+        "key": "MegaponAntPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/MegaponAnt.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/MegaponAnt.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/MegaponAnt.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/MegaponAnt.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "megapon ant"
+            ],
+            "family": [
+                "ant"
+            ]
+        }
+    },
+    {
+        "label": "Megaprimatus",
+        "key": "MegaprimatusPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Megaprimatus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Megaprimatus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Megaprimatus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Megaprimatus.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "megaprimatus"
+            ],
+            "family": [
+                "ape",
+                "megafauna"
+            ]
+        }
+    },
+    {
+        "label": "Mngwa",
+        "key": "MngwaPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Mngwa.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Mngwa.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Mngwa.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Mngwa.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "mngwa"
+            ],
+            "family": [
+                "cat"
+            ]
+        }
+    },
+    {
+        "label": "Moa",
+        "key": "MoaPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Moa.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Moa.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Moa.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Moa.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "moa"
+            ]
+        }
+    },
+    {
+        "label": "Moon Dog",
+        "key": "MoonDogPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/MoonDog.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/MoonDog.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/MoonDog.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/MoonDog.webp"
+        },
+        "tags": {
+            "category": [
+                "divine"
+            ],
+            "ancestry": [
+                "moon dog"
+            ]
+        }
+    },
+    {
+        "label": "Moon Giant",
+        "key": "MoonGiantPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/MoonGiant.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/MoonGiant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/MoonGiant.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/MoonGiant.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "moon giant"
+            ],
+            "family": [
+                "giant"
+            ]
+        }
+    },
+    {
+        "label": "Mummy Lord",
+        "key": "MummyLordPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/MummyLord.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/MummyLord.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/MummyLord.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/MummyLord.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "mummy lord"
+            ],
+            "family": [
+                "mummy"
+            ]
+        }
+    },
+    {
+        "label": "Muse",
+        "key": "MusePF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Muse.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Muse.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Muse.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Muse.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "muse"
+            ]
+        }
+    },
+    {
+        "label": "Mutant Orc",
+        "key": "MutantOrcPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/MutantOrc.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/MutantOrc.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/MutantOrc.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/MutantOrc.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "orc"
+            ],
+            "family": [
+                "mutant"
+            ]
+        }
+    },
+    {
+        "label": "Myrmidon",
+        "key": "MyrmidonPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Myrmidon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Myrmidon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Myrmidon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Myrmidon.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "myrmidon"
+            ],
+            "family": [
+                "robot"
+            ]
+        }
+    },
+    {
+        "label": "Nemhaith",
+        "key": "NemhainPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Nemhain.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Nemhain.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Nemhain.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Nemhain.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "nemhaith"
+            ],
+            "family": [
+                "incorporeal"
+            ]
+        }
+    },
+    {
+        "label": "Ningen",
+        "key": "NingenPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Ningen.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Ningen.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Ningen.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Ningen.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "ningen"
+            ]
+        }
+    },
+    {
+        "label": "Nulmind",
+        "key": "NulmindPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Nulmind.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Nulmind.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Nulmind.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Nulmind.webp"
+        },
+        "tags": {
+            "category": [
+                "fungal"
+            ],
+            "ancestry": [
+                "nulmind"
+            ]
+        }
+    },
+    {
+        "label": "Nuno",
+        "key": "NunoPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Nuno.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Nuno.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Nuno.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Nuno.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "nuno"
+            ],
+            "family": [
+                "gremlin"
+            ]
+        }
+    },
+    {
+        "label": "Ophiotaurus",
+        "key": "OphiotaurusPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Ophiotaurus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Ophiotaurus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Ophiotaurus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Ophiotaurus.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "ophiotaurus"
+            ],
+            "special": [
+                "mythic"
+            ]
+        }
+    },
+    {
+        "label": "Orang-Pendak Fighter",
+        "key": "Orang-PendakFighterPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Orang-PendakFighter.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Orang-PendakFighter.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Orang-PendakFighter.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Orang-PendakFighter.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "sasquatch"
+            ]
+        }
+    },
+    {
+        "label": "Ostovite",
+        "key": "OstovitePF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Ostovite.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Ostovite.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Ostovite.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Ostovite.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "ostovite"
+            ]
+        }
+    },
+    {
+        "label": "Othaos",
+        "key": "OthaosPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Othaos.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Othaos.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Othaos.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Othaos.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                "othaos"
+            ],
+            "family": [
+                "aeon"
+            ]
+        }
+    },
+    {
+        "label": "Ovinnik",
+        "key": "OvinnikPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Ovinnik.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Ovinnik.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Ovinnik.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Ovinnik.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "ovinnik"
+            ],
+            "family": [
+                "house spirit"
+            ]
+        }
+    },
+    {
+        "label": "Pakalchi",
+        "key": "PakalchiPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Pakalchi.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Pakalchi.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Pakalchi.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Pakalchi.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "pakalchi"
+            ],
+            "family": [
+                "sahkil"
+            ]
+        }
+    },
+    {
+        "label": "Papinijuwari",
+        "key": "PapinijuwariPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Papinijuwari.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Papinijuwari.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Papinijuwari.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Papinijuwari.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "papinijuwari"
+            ],
+            "family": [
+                "giant"
+            ]
+        }
+    },
+    {
+        "label": "Peuchen",
+        "key": "PeuchenPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Peuchen.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Peuchen.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Peuchen.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Peuchen.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "peuchen"
+            ],
+            "family": [
+                "serpent"
+            ]
+        }
+    },
+    {
+        "label": "Pharaonic Guardian",
+        "key": "PharaonicGuardianPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/PharaonicGuardian.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/PharaonicGuardian.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/PharaonicGuardian.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/PharaonicGuardian.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "pharaonic guardian"
+            ]
+        }
+    },
+    {
+        "label": "Plagued Horse",
+        "key": "PlaguedBeastPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/PlaguedBeast.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/PlaguedBeast.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/PlaguedBeast.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/PlaguedBeast.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "plagued horse"
+            ],
+            "family": [
+                "plagued beast"
+            ]
+        }
+    },
+    {
+        "label": "Plankta",
+        "key": "PlanktaPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Plankta.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Plankta.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Plankta.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Plankta.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "plankta"
+            ],
+            "family": [
+                "crab"
+            ]
+        }
+    },
+    {
+        "label": "Plesiosaurus",
+        "key": "PlesiosaurusPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Plesiosaurus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Plesiosaurus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Plesiosaurus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Plesiosaurus.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "plesiosaurus"
+            ],
+            "family": [
+                "dinosaur"
+            ]
+        }
+    },
+    {
+        "label": "Polar Bear",
+        "key": "PolarBearPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/PolarBear.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/PolarBear.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/PolarBear.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/PolarBear.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "polar bear"
+            ],
+            "family": [
+                "bear"
+            ]
+        }
+    },
+    {
+        "label": "Polong",
+        "key": "PolongPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Polong.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Polong.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Polong.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Polong.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "polong"
+            ]
+        }
+    },
+    {
+        "label": "Psychemental",
+        "key": "PsychementalPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Psychemental.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Psychemental.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Psychemental.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Psychemental.webp"
+        },
+        "tags": {
+            "category": [
+                "astral"
+            ],
+            "ancestry": [
+                "psychemental"
+            ],
+            "family": [
+                "incorporeal"
+            ]
+        }
+    },
+    {
+        "label": "Psychepore",
+        "key": "PsycheporePF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Psychepore.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Psychepore.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Psychepore.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Psychepore.webp"
+        },
+        "tags": {
+            "category": [
+                "fungal"
+            ],
+            "ancestry": [
+                "psychepore"
+            ]
+        }
+    },
+    {
+        "label": "Putrid Ooze",
+        "key": "PutridOozePF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/PutridOoze.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/PutridOoze.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/PutridOoze.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/PutridOoze.webp"
+        },
+        "tags": {
+            "category": [
+                "ooze"
+            ],
+            "ancestry": [
+                "putrid ooze"
+            ]
+        }
+    },
+    {
+        "label": "Pyrausta",
+        "key": "PyraustaPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Pyrausta.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Pyrausta.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Pyrausta.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Pyrausta.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic"
+            ],
+            "ancestry": [
+                "pyrausta"
+            ]
+        }
+    },
+    {
+        "label": "Qolok",
+        "key": "QolokPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Qolok.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Qolok.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Qolok.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Qolok.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "qolok"
+            ],
+            "family": [
+                "sahkil"
+            ]
+        }
+    },
+    {
+        "label": "Raelis",
+        "key": "RaelisPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Raelis.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Raelis.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Raelis.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Raelis.webp"
+        },
+        "tags": {
+            "category": [
+                "divine"
+            ],
+            "ancestry": [
+                "raelis"
+            ],
+            "family": [
+                "azata"
+            ]
+        }
+    },
+    {
+        "label": "Ramidreju",
+        "key": "RamidrejuPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Ramidreju.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Ramidreju.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Ramidreju.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Ramidreju.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "ramidreju"
+            ]
+        }
+    },
+    {
+        "label": "Red Panda",
+        "key": "RedPandaPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/RedPanda.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/RedPanda.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/RedPanda.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/RedPanda.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "red panda"
+            ]
+        }
+    },
+    {
+        "label": "Reptial",
+        "key": "ReptialPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Reptial.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Reptial.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Reptial.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Reptial.webp"
+        },
+        "tags": {
+            "category": [
+                "divine"
+            ],
+            "ancestry": [
+                "reptial"
+            ],
+            "family": [
+                "agathion"
+            ]
+        }
+    },
+    {
+        "label": "Reptoid",
+        "key": "ReptoidPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Reptoid.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Reptoid.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Reptoid.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Reptoid.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "reptoid"
+            ]
+        }
+    },
+    {
+        "label": "Rhu-Chalik",
+        "key": "Rhu-ChalikPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Rhu-Chalik.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Rhu-Chalik.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Rhu-Chalik.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Rhu-Chalik.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "rhu-chalik"
+            ],
+            "family": [
+                "dominion of the black"
+            ]
+        }
+    },
+    {
+        "label": "Riftcreeper",
+        "key": "RiftcreeperPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Riftcreeper.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Riftcreeper.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Riftcreeper.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Riftcreeper.webp"
+        },
+        "tags": {
+            "category": [
+                "ooze"
+            ],
+            "ancestry": [
+                "riftcreeper"
+            ]
+        }
+    },
+    {
+        "label": "Rishi Manu",
+        "key": "RishiManuPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/RishiManu.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/RishiManu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/RishiManu.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/RishiManu.webp"
+        },
+        "tags": {
+            "category": [
+                "divine"
+            ],
+            "ancestry": [
+                "rishi manu"
+            ],
+            "family": [
+                "manasaputra"
+            ]
+        }
+    },
+    {
+        "label": "Roiling Oil",
+        "key": "RoilingOilPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/RoilingOil.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/RoilingOil.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/RoilingOil.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/RoilingOil.webp"
+        },
+        "tags": {
+            "category": [
+                "ooze"
+            ],
+            "ancestry": [
+                "roiling oil"
+            ]
+        }
+    },
+    {
+        "label": "Rope Dragon",
+        "key": "RopeDragonPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/RopeDragon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/RopeDragon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/RopeDragon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/RopeDragon.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic"
+            ],
+            "ancestry": [
+                "rope dragon"
+            ]
+        }
+    },
+    {
+        "label": "Sangoi",
+        "key": "SangoiPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Sangoi.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Sangoi.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Sangoi.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Sangoi.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "sangoi"
+            ]
+        }
+    },
+    {
+        "label": "Skulltaker",
+        "key": "SaxraPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Saxra.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Saxra.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Saxra.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Saxra.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "skulltaker"
+            ]
+        }
+    },
+    {
+        "label": "Scitalis",
+        "key": "ScitalisPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Scitalis.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Scitalis.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Scitalis.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Scitalis.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic"
+            ],
+            "ancestry": [
+                "scitalis"
+            ],
+            "family": [
+                "serpent"
+            ]
+        }
+    },
+    {
+        "label": "Seilenos",
+        "key": "SeilenosPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Seilenos.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Seilenos.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Seilenos.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Seilenos.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "seilenos"
+            ]
+        }
+    },
+    {
+        "label": "Seraptis",
+        "key": "SeraptisPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Seraptis.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Seraptis.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Seraptis.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Seraptis.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "seraptis"
+            ],
+            "family": [
+                "demon"
+            ]
+        }
+    },
+    {
+        "label": "Sha",
+        "key": "ShaPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Sha.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Sha.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Sha.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Sha.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "sha"
+            ]
+        }
+    },
+    {
+        "label": "Shabti",
+        "key": "ShabtiPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Shabti.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Shabti.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Shabti.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Shabti.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "shabti"
+            ]
+        }
+    },
+    {
+        "label": "Shadow Collector",
+        "key": "ShadowCollectorPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/ShadowCollector.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/ShadowCollector.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/ShadowCollector.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/ShadowCollector.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "shadow collector"
+            ]
+        }
+    },
+    {
+        "label": "Shasalqu",
+        "key": "ShasalquPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Shasalqu.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Shasalqu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Shasalqu.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Shasalqu.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "shasalqu"
+            ],
+            "family": [
+                "lizard"
+            ]
+        }
+    },
+    {
+        "label": "Shen",
+        "key": "ShenPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Shen.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Shen.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Shen.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Shen.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic"
+            ],
+            "ancestry": [
+                "shen"
+            ],
+            "special": [
+                "mythic"
+            ]
+        }
+    },
+    {
+        "label": "Somalcygot",
+        "key": "SomalcygotPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Somalcygot.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Somalcygot.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Somalcygot.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Somalcygot.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "somalcygot"
+            ]
+        }
+    },
+    {
+        "label": "Sphinx Colossus",
+        "key": "SphinxColossusPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/SphinxColossus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/SphinxColossus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/SphinxColossus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/SphinxColossus.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "sphinx colossus"
+            ],
+            "family": [
+                "colossus",
+                "sphinx"
+            ]
+        }
+    },
+    {
+        "label": "Stormghost",
+        "key": "StormghostPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Stormghost.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Stormghost.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Stormghost.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Stormghost.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "stormghost"
+            ]
+        }
+    },
+    {
+        "label": "Storm Hag",
+        "key": "StormHagPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/StormHag.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/StormHag.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/StormHag.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/StormHag.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "storm hag"
+            ],
+            "family": [
+                "hag"
+            ]
+        }
+    },
+    {
+        "label": "Stranglereed",
+        "key": "StranglereedPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Stranglereed.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Stranglereed.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Stranglereed.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Stranglereed.webp"
+        },
+        "tags": {
+            "category": [
+                "plant"
+            ],
+            "ancestry": [
+                "stranglereed"
+            ]
+        }
+    },
+    {
+        "label": "Stringy Demodand",
+        "key": "StringyDemodandPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/StringyDemodand.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/StringyDemodand.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/StringyDemodand.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/StringyDemodand.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "stringy demodand"
+            ],
+            "family": [
+                "demodand"
+            ]
+        }
+    },
+    {
+        "label": "Su",
+        "key": "SuPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Su.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Su.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Su.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Su.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "su"
+            ]
+        }
+    },
+    {
+        "label": "Sun Giant",
+        "key": "SunGiantPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/SunGiant.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/SunGiant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/SunGiant.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/SunGiant.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "sun giant"
+            ],
+            "family": [
+                "giant"
+            ]
+        }
+    },
+    {
+        "label": "Swamp Mummy",
+        "key": "SwampMummyPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/SwampMummy.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/SwampMummy.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/SwampMummy.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/SwampMummy.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "swamp mummy"
+            ],
+            "family": [
+                "mummy"
+            ]
+        }
+    },
+    {
+        "label": "Syricta",
+        "key": "SyrictaPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Syricta.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Syricta.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Syricta.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Syricta.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "syricta"
+            ]
+        }
+    },
+    {
+        "label": "Taxidermic Grizzly Bear",
+        "key": "TaxidermicGrizzlyBearPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/TaxidermicGrizzlyBear.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/TaxidermicGrizzlyBear.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/TaxidermicGrizzlyBear.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/TaxidermicGrizzlyBear.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "taxidermic grizzly bear"
+            ],
+            "family": [
+                "taxidermic creature"
+            ]
+        }
+    },
+    {
+        "label": "Termite Swarm",
+        "key": "TermiteSwarmPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/TermiteSwarm.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/TermiteSwarm.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/TermiteSwarm.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/TermiteSwarm.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "termite swarm"
+            ],
+            "family": [
+                "ant"
+            ],
+            "special": [
+                "swarm"
+            ]
+        }
+    },
+    {
+        "label": "Terraformer",
+        "key": "TerraformerPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Terraformer.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Terraformer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Terraformer.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Terraformer.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "terraformer"
+            ],
+            "family": [
+                "robot"
+            ]
+        }
+    },
+    {
+        "label": "Therizinosaurus",
+        "key": "TherizinosaurusPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Therizinosaurus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Therizinosaurus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Therizinosaurus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Therizinosaurus.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "therizinosaurus"
+            ],
+            "family": [
+                "dinosaur"
+            ]
+        }
+    },
+    {
+        "label": "Thought Eater",
+        "key": "ThoughtEaterPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/ThoughtEater.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/ThoughtEater.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/ThoughtEater.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/ThoughtEater.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant",
+                "ethereal"
+            ],
+            "ancestry": [
+                "thought eater"
+            ]
+        }
+    },
+    {
+        "label": "Thriae Constructor",
+        "key": "ThriaeConstructorPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/ThriaeConstructor.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/ThriaeConstructor.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/ThriaeConstructor.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/ThriaeConstructor.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "thriae constructor"
+            ],
+            "family": [
+                "thriae"
+            ]
+        }
+    },
+    {
+        "label": "Thriae Dancer",
+        "key": "ThriaeDancerPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/ThriaeDancer.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/ThriaeDancer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/ThriaeDancer.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/ThriaeDancer.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "thriae dancer"
+            ],
+            "family": [
+                "thriae"
+            ]
+        }
+    },
+    {
+        "label": "Tiyanak",
+        "key": "TiyanakPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Tiyanak.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Tiyanak.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Tiyanak.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Tiyanak.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "tiyanak"
+            ]
+        }
+    },
+    {
+        "label": "Tizheruk",
+        "key": "TizherukPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Tizheruk.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Tizheruk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Tizheruk.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Tizheruk.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "tizheruk"
+            ]
+        }
+    },
+    {
+        "label": "Trench Mist",
+        "key": "TrenchMistPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/TrenchMist.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/TrenchMist.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/TrenchMist.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/TrenchMist.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "trench mist"
+            ]
+        }
+    },
+    {
+        "label": "Tsaalgrend",
+        "key": "TsaalgrendPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Tsaalgrend.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Tsaalgrend.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Tsaalgrend.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Tsaalgrend.webp"
+        },
+        "tags": {
+            "category": [
+                "plant"
+            ],
+            "ancestry": [
+                "tsaalgrend"
+            ]
+        }
+    },
+    {
+        "label": "Human Tulpa Monk",
+        "key": "TulpaMonkPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/TulpaMonk.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/TulpaMonk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/TulpaMonk.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/TulpaMonk.webp"
+        },
+        "tags": {
+            "category": [
+                "astral"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "family": [
+                "tulpa"
+            ]
+        }
+    },
+    {
+        "label": "Turul",
+        "key": "TurulPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Turul.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Turul.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Turul.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Turul.webp"
+        },
+        "tags": {
+            "category": [
+                "vitality"
+            ],
+            "ancestry": [
+                "turul"
+            ]
+        }
+    },
+    {
+        "label": "Undigested",
+        "key": "UndigestedPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Undigested.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Undigested.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Undigested.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Undigested.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "undigested"
+            ]
+        }
+    },
+    {
+        "label": "Unfettered Phantom",
+        "key": "UnfetteredPhantomPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/UnfetteredPhantom.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/UnfetteredPhantom.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/UnfetteredPhantom.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/UnfetteredPhantom.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "unfettered phantom"
+            ],
+            "family": [
+                "incorporeal",
+                "phantom"
+            ]
+        }
+    },
+    {
+        "label": "Uraeus",
+        "key": "UraeusPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Uraeus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Uraeus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Uraeus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Uraeus.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "uraeus"
+            ],
+            "family": [
+                "serpent"
+            ]
+        }
+    },
+    {
+        "label": "Urannag",
+        "key": "UrannagPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Urannag.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Urannag.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Urannag.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Urannag.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "urannag"
+            ]
+        }
+    },
+    {
+        "label": "Ursikka",
+        "key": "UrsikkaPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Ursikka.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Ursikka.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Ursikka.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Ursikka.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "ursikka"
+            ]
+        }
+    },
+    {
+        "label": "Vahana",
+        "key": "VahanaPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Vahana.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Vahana.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Vahana.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Vahana.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "vahana"
+            ]
+        }
+    },
+    {
+        "label": "Ved",
+        "key": "VedPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Ved.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Ved.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Ved.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Ved.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "ved"
+            ],
+            "family": [
+                "giant"
+            ]
+        }
+    },
+    {
+        "label": "Vescavor Queen",
+        "key": "VescavorQueenPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/VescavorQueen.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/VescavorQueen.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/VescavorQueen.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/VescavorQueen.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "vescavor queen"
+            ],
+            "family": [
+                "vescavor"
+            ]
+        }
+    },
+    {
+        "label": "Vescavor Swarm",
+        "key": "VescavorSwarmPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/VescavorSwarm.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/VescavorSwarm.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/VescavorSwarm.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/VescavorSwarm.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "vescavor swarm"
+            ],
+            "family": [
+                "vescavor"
+            ]
+        }
+    },
+    {
+        "label": "Vilderavn",
+        "key": "VilderavnPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Vilderavn.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Vilderavn.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Vilderavn.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Vilderavn.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "vilderavn"
+            ]
+        }
+    },
+    {
+        "label": "Vishap",
+        "key": "VishapPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Vishap.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Vishap.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Vishap.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Vishap.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic"
+            ],
+            "ancestry": [
+                "vishap"
+            ]
+        }
+    },
+    {
+        "label": "Vukodlak",
+        "key": "VukodlakPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Vukodlak.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Vukodlak.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Vukodlak.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Vukodlak.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "vukodlak"
+            ]
+        }
+    },
+    {
+        "label": "Wakandagi",
+        "key": "WakandagiPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Wakandagi.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Wakandagi.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Wakandagi.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Wakandagi.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "wakandagi"
+            ]
+        }
+    },
+    {
+        "label": "Warmonger Wasp",
+        "key": "WarmongerWaspPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/WarmongerWasp.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/WarmongerWasp.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/WarmongerWasp.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/WarmongerWasp.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "warmonger wasp"
+            ],
+            "family": [
+                "wasp"
+            ]
+        }
+    },
+    {
+        "label": "Water Leaper",
+        "key": "WaterLeaperPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/WaterLeaper.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/WaterLeaper.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/WaterLeaper.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/WaterLeaper.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "water leaper"
+            ]
+        }
+    },
+    {
+        "label": "Water Veela",
+        "key": "WaterVellaPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/WaterVella.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/WaterVella.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/WaterVella.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/WaterVella.webp"
+        },
+        "tags": {
+            "ancestry": [
+                "water veela"
+            ],
+            "family": [
+                "veela"
+            ],
+            "category": [
+                "elemental"
+            ]
+        }
+    },
+    {
+        "label": "Wihsaak",
+        "key": "WihsaakPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Wihsaak.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Wihsaak.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Wihsaak.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Wihsaak.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "wihsaak"
+            ],
+            "family": [
+                "sahkil"
+            ]
+        }
+    },
+    {
+        "label": "Wisp",
+        "key": "WispPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Wisp.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Wisp.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Wisp.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Wisp.webp"
+        },
+        "tags": {
+            "category": [
+                "elemental"
+            ],
+            "family": [
+                "wisp"
+            ]
+        }
+    },
+    {
+        "label": "Witchcrow",
+        "key": "WitchcrowPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Witchcrow.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Witchcrow.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Witchcrow.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Witchcrow.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "witchcrow"
+            ]
+        }
+    },
+    {
+        "label": "Wizards Shackle",
+        "key": "WizardsShacklePF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/WizardsShackle.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/WizardsShackle.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/WizardsShackle.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/WizardsShackle.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "wizards shackle"
+            ],
+            "family": [
+                "lamprey"
+            ]
+        }
+    },
+    {
+        "label": "Wolliped",
+        "key": "WollipedPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Wolliped.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Wolliped.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Wolliped.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Wolliped.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "wolliped"
+            ]
+        }
+    },
+    {
+        "label": "Wood Colossus",
+        "key": "WoodColossusPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/WoodColossus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/WoodColossus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/WoodColossus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/WoodColossus.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "wood colossus"
+            ],
+            "family": [
+                "colossus"
+            ]
+        }
+    },
+    {
+        "label": "Wyrmwraith",
+        "key": "WyrmwraithPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Wyrmwraith.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Wyrmwraith.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Wyrmwraith.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Wyrmwraith.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic",
+                "undead"
+            ],
+            "ancestry": [
+                "wyrmwraith"
+            ],
+            "family": [
+                "incorporeal",
+                "wraith"
+            ]
+        }
+    },
+    {
+        "label": "Xiao",
+        "key": "XiaoPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Xiao.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Xiao.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Xiao.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Xiao.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "xiao"
+            ]
+        }
+    },
+    {
+        "label": "Yangethe",
+        "key": "YangethePF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Yangethe.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Yangethe.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Yangethe.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Yangethe.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "yangethe"
+            ]
+        }
+    },
+    {
+        "label": "Zygomind",
+        "key": "ZygomindPF1eB5",
+        "source": "PF1e Bestiary 5",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-5/Zygomind.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-5/Zygomind.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-5/Zygomind.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-5/Zygomind.webp"
+        },
+        "tags": {
+            "category": [
+                "fungal"
+            ],
+            "ancestry": [
+                "zygomind"
+            ]
+        }
+    }
+]

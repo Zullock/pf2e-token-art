@@ -1,0 +1,41 @@
+[
+    {
+        "label": "Allip",
+        "key": "AllipPF1eBonusB",
+        "source": "PF1e Bonus Bestiary",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bonus-bestiary/Allip.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bonus-bestiary/Allip.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bonus-bestiary/Allip.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bonus-bestiary/Allip.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "allip"
+            ]
+        }
+    },
+    {
+        "label": "Faerie Dragon",
+        "key": "FaerieDragonPF1eBonusB",
+        "source": "PF1e Bonus Bestiary",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bonus-bestiary/FaerieDragon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bonus-bestiary/FaerieDragon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bonus-bestiary/FaerieDragon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bonus-bestiary/FaerieDragon.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic",
+                "fey"
+            ],
+            "ancestry": [
+                "fey dragonet"
+            ]
+        }
+    }
+]

@@ -1,0 +1,3414 @@
+[
+    {
+        "label": "Abraun Chalest",
+        "key": "AbraunChalestPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/AbraunChalest.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/AbraunChalest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/AbraunChalest.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/AbraunChalest.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Acrietia",
+        "key": "AcrietiaPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Acrietia.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Acrietia.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Acrietia.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Acrietia.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "wight"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Adivion Adrissant",
+        "key": "AdivionAdrissantPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/AdivionAdrissant.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/AdivionAdrissant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/AdivionAdrissant.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/AdivionAdrissant.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "lich"
+            ],
+            "equipment": [
+                "clothing",
+                "polearm",
+                "unarmored"
+            ],
+            "features": [
+                "magic"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Adivion Adrissant",
+        "key": "AdivionAdrissantBustPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/AdivionAdrissantBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/AdivionAdrissantBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/AdivionAdrissantBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/AdivionAdrissantBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Admarus Ionacu",
+        "key": "AdmarusIonacuPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/AdmarusIonacu.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/AdmarusIonacu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/AdmarusIonacu.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/AdmarusIonacu.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "werewolf"
+            ],
+            "family": [
+                "werecreature"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "heavy",
+                "shield",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Agent Of The Grave",
+        "key": "AgentOfTheGravePF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/AgentOfTheGrave.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/AgentOfTheGrave.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/AgentOfTheGrave.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/AgentOfTheGrave.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "indistinct"
+            ],
+            "features": [
+                "magic"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ]
+        }
+    },
+    {
+        "label": "Aisa Dublesse",
+        "key": "AisaDublessePF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/AisaDublesse.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/AisaDublesse.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/AisaDublesse.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/AisaDublesse.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "vampire mastermind"
+            ],
+            "family": [
+                "vampire"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "features": [
+                "companion"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Albor Voltiaro",
+        "key": "AlborVoltiaroPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/AlborVoltiaro.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/AlborVoltiaro.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/AlborVoltiaro.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/AlborVoltiaro.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "family": [
+                "dagon"
+            ],
+            "equipment": [
+                "clothing",
+                "light",
+                "polearm"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Arazni",
+        "key": "ArazniPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Arazni.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Arazni.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Arazni.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Arazni.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "lich"
+            ],
+            "equipment": [
+                "clothing",
+                "sword"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ],
+            "family": [
+                "mythic"
+            ]
+        }
+    },
+    {
+        "label": "Auren Vrood",
+        "key": "AurenVroodPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/AurenVrood.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/AurenVrood.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/AurenVrood.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/AurenVrood.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "light"
+            ],
+            "features": [
+                "magic"
+            ],
+            "family": [
+                "whispering way"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Barrister Gustav Kaple",
+        "key": "BarristerGustavKaplePF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/BarristerGustavKaple.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/BarristerGustavKaple.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/BarristerGustavKaple.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/BarristerGustavKaple.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Benjan Caeller",
+        "key": "BenjanCaellerPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/BenjanCaeller.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/BenjanCaeller.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/BenjanCaeller.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/BenjanCaeller.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "medium"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Boruta",
+        "key": "BorutaPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Boruta.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Boruta.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Boruta.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Boruta.webp"
+        },
+        "tags": {
+            "category": [
+                "plant"
+            ],
+            "ancestry": [
+                "boruta"
+            ]
+        }
+    },
+    {
+        "label": "Boverde Hoptler",
+        "key": "BoverdeHoptlerPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/BoverdeHoptler.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/BoverdeHoptler.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/BoverdeHoptler.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/BoverdeHoptler.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Brother Swarm",
+        "key": "BrotherSwarmPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/BrotherSwarm.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/BrotherSwarm.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/BrotherSwarm.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/BrotherSwarm.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "wraith"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Carmilla Caliphvaso",
+        "key": "CarmillaCaliphvasoPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/CarmillaCaliphvaso.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/CarmillaCaliphvaso.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/CarmillaCaliphvaso.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/CarmillaCaliphvaso.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Cilas Graydon",
+        "key": "CilasGraydonPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/CilasGraydon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/CilasGraydon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/CilasGraydon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/CilasGraydon.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Clanartus Viliras",
+        "key": "ClanartusVilirasPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/ClanartusViliras.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/ClanartusViliras.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/ClanartusViliras.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/ClanartusViliras.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "knife"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Coffin Mimic",
+        "key": "CoffinMimicPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/CoffinMimic.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/CoffinMimic.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/CoffinMimic.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/CoffinMimic.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "mimic"
+            ]
+        }
+    },
+    {
+        "label": "Corpulent Ghoul",
+        "key": "CorpulentGhoulPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/CorpulentGhoul.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/CorpulentGhoul.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/CorpulentGhoul.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/CorpulentGhoul.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghoul"
+            ]
+        }
+    },
+    {
+        "label": "Corvin Tergsvor",
+        "key": "CorvinTergsvorPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/CorvinTergsvor.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/CorvinTergsvor.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/CorvinTergsvor.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/CorvinTergsvor.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Councilman Hearthmount",
+        "key": "CouncilmanHearthmountPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/CouncilmanHearthmount.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/CouncilmanHearthmount.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/CouncilmanHearthmount.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/CouncilmanHearthmount.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Count Alpon Caromarc",
+        "key": "CountAlponCaromarcPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/CountAlponCaromarc.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/CountAlponCaromarc.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/CountAlponCaromarc.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/CountAlponCaromarc.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Count Galdana",
+        "key": "CountGaldanaPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/CountGaldana.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/CountGaldana.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/CountGaldana.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/CountGaldana.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Cybrisa Dorzhanev",
+        "key": "CybrisaDorzhanevPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/CybrisaDorzhanev.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/CybrisaDorzhanev.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/CybrisaDorzhanev.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/CybrisaDorzhanev.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "werewolf"
+            ],
+            "family": [
+                "werecreature"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "clothing",
+                "unarmored"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Dark Young Of Shub-Niggurath",
+        "key": "DarkYoungOfShubNiggurathPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/DarkYoungOfShubNiggurath.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/DarkYoungOfShubNiggurath.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/DarkYoungOfShubNiggurath.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/DarkYoungOfShubNiggurath.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "family": [
+                "shub-niggurath"
+            ],
+            "ancestry": [
+                "dark young of shub-niggurath"
+            ]
+        }
+    },
+    {
+        "label": "Delgros Kroitzcer",
+        "key": "DelgrosKroitzcerPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/DelgrosKroitzcer.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/DelgrosKroitzcer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/DelgrosKroitzcer.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/DelgrosKroitzcer.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bow",
+                "medium"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Desmond Kote",
+        "key": "DesmondKotePF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/DesmondKote.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/DesmondKote.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/DesmondKote.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/DesmondKote.webp"
+        },
+        "tags": {
+            "family": [
+                "zaebos"
+            ],
+            "ancestry": [
+                "vampire mastermind"
+            ],
+            "category": [
+                "undead"
+            ],
+            "equipment": [
+                "bludgeon",
+                "heavy",
+                "shield"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Dhauggota",
+        "key": "DhauggotaPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Dhauggota.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Dhauggota.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Dhauggota.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Dhauggota.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "devilfish"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Dimensional Shambler",
+        "key": "DimensionalShamblerPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/DimensionalShambler.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/DimensionalShambler.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/DimensionalShambler.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/DimensionalShambler.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "dimensional shambler"
+            ]
+        }
+    },
+    {
+        "label": "Dissayn",
+        "key": "DissaynPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Dissayn.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Dissayn.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Dissayn.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Dissayn.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "winterwight"
+            ],
+            "family": [
+                "wight"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Dolthysuun",
+        "key": "DolthysuunPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Dolthysuun.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Dolthysuun.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Dolthysuun.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Dolthysuun.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "glabrezu"
+            ],
+            "family": [
+                "demon"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Dr. Beaurigmand Trice",
+        "key": "DrBeaurigmandTricePF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/DrBeaurigmandTrice.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/DrBeaurigmandTrice.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/DrBeaurigmandTrice.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/DrBeaurigmandTrice.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Duristan Silvio Ariesir",
+        "key": "DuristanSilvioAriesirPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/DuristanSilvioAriesir.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/DuristanSilvioAriesir.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/DuristanSilvioAriesir.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/DuristanSilvioAriesir.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "werewolf"
+            ],
+            "family": [
+                "werecreature"
+            ],
+            "equipment": [
+                "heavy",
+                "shield",
+                "sword",
+                "unarmored"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Duristan Silvio Ariesir",
+        "key": "DuristanSilvioAriesirBustPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/DuristanSilvioAriesirBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/DuristanSilvioAriesirBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/DuristanSilvioAriesirBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/DuristanSilvioAriesirBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bow",
+                "medium"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Edjureus Modd",
+        "key": "EdjureusModdPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/EdjureusModd.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/EdjureusModd.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/EdjureusModd.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/EdjureusModd.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "sword"
+            ],
+            "family": [
+                "esoteric order"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Esoteric Order Of The Palatine Eye Member",
+        "key": "EsotericOrderOfThePalatineEyeMemberPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/EsotericOrderOfThePalatineEyeMember.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/EsotericOrderOfThePalatineEyeMember.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/EsotericOrderOfThePalatineEyeMember.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/EsotericOrderOfThePalatineEyeMember.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "sword"
+            ],
+            "family": [
+                "esoteric order"
+            ]
+        }
+    },
+    {
+        "label": "Estovion Lozarov",
+        "key": "EstovionLozarovPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/EstovionLozarov.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/EstovionLozarov.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/EstovionLozarov.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/EstovionLozarov.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "tome"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Faceless Flesh Golem",
+        "key": "FacelessFleshGolemPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/FacelessFleshGolem.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/FacelessFleshGolem.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/FacelessFleshGolem.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/FacelessFleshGolem.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "flesh golem"
+            ],
+            "family": [
+                "golem"
+            ]
+        }
+    },
+    {
+        "label": "Father Grimburrow",
+        "key": "FatherGrimburrowPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/FatherGrimburrow.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/FatherGrimburrow.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/FatherGrimburrow.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/FatherGrimburrow.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "family": [
+                "pharasma"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Flesh Golem Hound",
+        "key": "FleshGolemHoundPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/FleshGolemHound.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/FleshGolemHound.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/FleshGolemHound.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/FleshGolemHound.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "flesh golem"
+            ],
+            "family": [
+                "golem"
+            ]
+        }
+    },
+    {
+        "label": "Forsaken Lich",
+        "key": "ForsakenLichPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/ForsakenLich.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/ForsakenLich.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/ForsakenLich.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/ForsakenLich.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "lich"
+            ],
+            "equipment": [
+                "bludgeon",
+                "medium",
+                "sword"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Gargoyle Abductor",
+        "key": "GargoyleAbductorPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/GargoyleAbductor.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/GargoyleAbductor.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/GargoyleAbductor.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/GargoyleAbductor.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "gargoyle"
+            ]
+        }
+    },
+    {
+        "label": "Ghast",
+        "key": "GhastPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Ghast.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Ghast.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Ghast.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Ghast.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghoul"
+            ],
+            "equipment": [
+                "medium"
+            ]
+        }
+    },
+    {
+        "label": "Giant Crab Spider",
+        "key": "GiantCrabSpiderPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/GiantCrabSpider.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/GiantCrabSpider.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/GiantCrabSpider.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/GiantCrabSpider.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "giant crab spider"
+            ],
+            "family": [
+                "merisiel",
+                "spider"
+            ],
+            "special": [
+                "iconic"
+            ]
+        }
+    },
+    {
+        "label": "Giant Stirge",
+        "key": "GiantStirgePF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/GiantStirge.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/GiantStirge.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/GiantStirge.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/GiantStirge.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "bloodseeker"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Gibs Hephenus",
+        "key": "GibsHephenusPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/GibsHephenus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/GibsHephenus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/GibsHephenus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/GibsHephenus.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "knife"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Gnoph-Keh",
+        "key": "GnophKehPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/GnophKeh.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/GnophKeh.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/GnophKeh.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/GnophKeh.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "gnoph-keh"
+            ]
+        }
+    },
+    {
+        "label": "Grim Reaper",
+        "key": "GrimReaperPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/GrimReaper.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/GrimReaper.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/GrimReaper.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/GrimReaper.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "grim reaper"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "heavy",
+                "polearm"
+            ]
+        }
+    },
+    {
+        "label": "Grine",
+        "key": "GrinePF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Grine.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Grine.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Grine.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Grine.webp"
+        },
+        "tags": {
+            "category": [
+                "darklands",
+                "humanoid"
+            ],
+            "ancestry": [
+                "caligni creeper"
+            ],
+            "family": [
+                "caligni"
+            ],
+            "equipment": [
+                "axe",
+                "medium"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Guardian Of The Tower",
+        "key": "GuardianOfTheTowerPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/GuardianOfTheTower.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/GuardianOfTheTower.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/GuardianOfTheTower.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/GuardianOfTheTower.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "angazhani",
+                "flesh golem"
+            ],
+            "family": [
+                "golem"
+            ]
+        }
+    },
+    {
+        "label": "Guardian Phantom Armor",
+        "key": "GuardianPhantomArmorPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/GuardianPhantomArmor.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/GuardianPhantomArmor.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/GuardianPhantomArmor.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/GuardianPhantomArmor.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "guardian phantom armor"
+            ],
+            "family": [
+                "phantom armor"
+            ],
+            "equipment": [
+                "axe",
+                "heavy"
+            ]
+        }
+    },
+    {
+        "label": "Gurtis Vortch",
+        "key": "GurtisVortchPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/GurtisVortch.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/GurtisVortch.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/GurtisVortch.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/GurtisVortch.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "skeletal champion"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "axe"
+            ]
+        }
+    },
+    {
+        "label": "Halloran Idriss",
+        "key": "HalloranIdrissPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/HalloranIdriss.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/HalloranIdriss.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/HalloranIdriss.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/HalloranIdriss.webp"
+        },
+        "tags": {
+            "ancestry": [
+                "vampire count"
+            ],
+            "category": [
+                "undead"
+            ],
+            "family": [
+                "iomedae",
+                "vampire"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "heavy",
+                "shield",
+                "sword"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Hangman Tree",
+        "key": "HangmanTreePF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/HangmanTree.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/HangmanTree.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/HangmanTree.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/HangmanTree.webp"
+        },
+        "tags": {
+            "category": [
+                "plant"
+            ],
+            "ancestry": [
+                "hangman tree"
+            ]
+        }
+    },
+    {
+        "label": "Headsman's Scythe",
+        "key": "HeadsmansScythePF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/HeadsmansScythe.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/HeadsmansScythe.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/HeadsmansScythe.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/HeadsmansScythe.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "headsmans scythe"
+            ],
+            "family": [
+                "animated object"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Hetna Dublesse",
+        "key": "HetnaDublessePF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/HetnaDublesse.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/HetnaDublesse.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/HetnaDublesse.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/HetnaDublesse.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ],
+            "features": [
+                "companion"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Horace Croon",
+        "key": "HoraceCroonPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/HoraceCroon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/HoraceCroon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/HoraceCroon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/HoraceCroon.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Iq'lothatuaa",
+        "key": "IqLothatuaaPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/IqLothatuaa.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/IqLothatuaa.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/IqLothatuaa.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/IqLothatuaa.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "ulat-kini"
+            ],
+            "family": [
+                "alghollthu"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "axe",
+                "clothing",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Jack-o'-Lantern",
+        "key": "JackOLanternPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/JackOLantern.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/JackOLantern.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/JackOLantern.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/JackOLantern.webp"
+        },
+        "tags": {
+            "category": [
+                "plant"
+            ],
+            "ancestry": [
+                "jack-o'-lantern"
+            ]
+        }
+    },
+    {
+        "label": "Judge Daramid",
+        "key": "JudgeDaramidPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/JudgeDaramid.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/JudgeDaramid.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/JudgeDaramid.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/JudgeDaramid.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "tome"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Kaleb Hesse",
+        "key": "KalebHessePF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/KalebHesse.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/KalebHesse.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/KalebHesse.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/KalebHesse.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "flail"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Kendra Lorrimor",
+        "key": "KendraLorrimorPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/KendraLorrimor.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/KendraLorrimor.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/KendraLorrimor.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/KendraLorrimor.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "tome"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Knight Of Ozen",
+        "key": "KnightOfOzenPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/KnightOfOzen.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/KnightOfOzen.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/KnightOfOzen.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/KnightOfOzen.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "axe",
+                "heavy",
+                "sword"
+            ],
+            "features": [
+                "dual-wielding"
+            ]
+        }
+    },
+    {
+        "label": "Lady Evgenya Zunaida",
+        "key": "LadyEvgenyaZunaidaPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/LadyEvgenyaZunaida.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/LadyEvgenyaZunaida.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/LadyEvgenyaZunaida.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/LadyEvgenyaZunaida.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ],
+            "ancestry": [
+                "vampire count"
+            ],
+            "family": [
+                "vampire"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Leng Spider",
+        "key": "LengSpiderPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/LengSpider.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/LengSpider.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/LengSpider.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/LengSpider.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "leng spider"
+            ],
+            "family": [
+                "leng",
+                "spider"
+            ]
+        }
+    },
+    {
+        "label": "Lucimar The Lich Wolf",
+        "key": "LucimarTheLichWolfPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/LucimarTheLichWolf.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/LucimarTheLichWolf.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/LucimarTheLichWolf.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/LucimarTheLichWolf.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "werewolf"
+            ],
+            "family": [
+                "werecreature"
+            ],
+            "equipment": [
+                "brawling",
+                "clothing",
+                "unarmored"
+            ],
+            "features": [
+                "magic"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Luvick Siervage",
+        "key": "LuvickSiervagePF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/LuvickSiervage.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/LuvickSiervage.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/LuvickSiervage.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/LuvickSiervage.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "vampire mastermind"
+            ],
+            "family": [
+                "vampire"
+            ],
+            "equipment": [
+                "heavy",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Luvick Siervage",
+        "key": "LuvickSiervageBustPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/LuvickSiervageBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/LuvickSiervageBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/LuvickSiervageBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/LuvickSiervageBust.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "vampire mastermind"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "vampire"
+            ]
+        }
+    },
+    {
+        "label": "Madame Ivanja",
+        "key": "MadameIvanjaPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/MadameIvanja.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/MadameIvanja.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/MadameIvanja.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/MadameIvanja.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Malyas",
+        "key": "MalyasPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Malyas.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Malyas.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Malyas.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Malyas.webp"
+        },
+        "tags": {
+            "family": [
+                "urgathoa",
+                "vampire"
+            ],
+            "special": [
+                "unique"
+            ],
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "vampire mastermind"
+            ],
+            "equipment": [
+                "heavy",
+                "shield",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Markiza Welgory",
+        "key": "MarkizaWelgoryPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/MarkizaWelgory.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/MarkizaWelgory.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/MarkizaWelgory.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/MarkizaWelgory.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Marrowgarth",
+        "key": "MarrowgarthPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Marrowgarth.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Marrowgarth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Marrowgarth.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Marrowgarth.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic",
+                "undead"
+            ],
+            "ancestry": [
+                "ravener",
+                "red dragon"
+            ],
+            "family": [
+                "chromatic dragon",
+                "skeletal"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Mathus Mordrinacht",
+        "key": "MathusMordrinachtPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/MathusMordrinacht.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/MathusMordrinacht.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/MathusMordrinacht.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/MathusMordrinacht.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "werewolf"
+            ],
+            "equipment": [
+                "heavy",
+                "knife",
+                "medium",
+                "sword"
+            ],
+            "features": [
+                "dual-wielding"
+            ],
+            "family": [
+                "werecreature"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Mayor Early Greedle",
+        "key": "MayorEarlyGreedlePF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/MayorEarlyGreedle.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/MayorEarlyGreedle.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/MayorEarlyGreedle.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/MayorEarlyGreedle.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Menadoran Festrog",
+        "key": "MenadoranFestrogPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/MenadoranFestrog.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/MenadoranFestrog.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/MenadoranFestrog.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/MenadoranFestrog.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "festrog"
+            ]
+        }
+    },
+    {
+        "label": "Merrick Sais",
+        "key": "MerrickSaisPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/MerrickSais.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/MerrickSais.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/MerrickSais.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/MerrickSais.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "vampire count"
+            ],
+            "equipment": [
+                "knife",
+                "medium"
+            ],
+            "special": [
+                "unique"
+            ],
+            "family": [
+                "vampire"
+            ]
+        }
+    },
+    {
+        "label": "Mi-Go",
+        "key": "MiGoPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/MiGo.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/MiGo.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/MiGo.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/MiGo.webp"
+        },
+        "tags": {
+            "category": [
+                "fungal"
+            ],
+            "ancestry": [
+                "mi-go"
+            ],
+            "family": [
+                "dominion of the black"
+            ]
+        }
+    },
+    {
+        "label": "Mother's Maw",
+        "key": "MothersMawPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/MothersMaw.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/MothersMaw.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/MothersMaw.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/MothersMaw.webp"
+        },
+        "tags": {
+            "category": [
+                "planar",
+                "undead"
+            ],
+            "ancestry": [
+                "mother's maw"
+            ],
+            "family": [
+                "herald",
+                "urgathoa"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Nalthezzar",
+        "key": "NalthezzarPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Nalthezzar.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Nalthezzar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Nalthezzar.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Nalthezzar.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "lich"
+            ],
+            "equipment": [
+                "medium"
+            ],
+            "features": [
+                "magic"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Natisha Pavalanis",
+        "key": "NatishaPavalanisPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/NatishaPavalanis.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/NatishaPavalanis.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/NatishaPavalanis.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/NatishaPavalanis.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "vampire count"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "family": [
+                "vampire"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Nosoi",
+        "key": "NosoiPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Nosoi.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Nosoi.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Nosoi.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Nosoi.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                "nosoi"
+            ],
+            "family": [
+                "psychopomp"
+            ]
+        }
+    },
+    {
+        "label": "Nyarlathotep",
+        "key": "NyarlathotepPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Nyarlathotep.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Nyarlathotep.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Nyarlathotep.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Nyarlathotep.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "nyarlathotep"
+            ],
+            "family": [
+                "outer god"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Ogg'gggol",
+        "key": "OgggggolPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Ogggggol.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Ogggggol.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Ogggggol.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Ogggggol.webp"
+        },
+        "tags": {
+            "category": [
+                "fungal"
+            ],
+            "ancestry": [
+                "cerebric fungus"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Ogre Skeleton",
+        "key": "OgreSkeletonPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/OgreSkeleton.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/OgreSkeleton.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/OgreSkeleton.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/OgreSkeleton.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "skeletal giant"
+            ],
+            "equipment": [
+                "bludgeon",
+                "heavy"
+            ]
+        }
+    },
+    {
+        "label": "Packlord Kvalca Sain",
+        "key": "PacklordKvalcaSainPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/PacklordKvalcaSain.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/PacklordKvalcaSain.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/PacklordKvalcaSain.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/PacklordKvalcaSain.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "werewolf"
+            ],
+            "family": [
+                "werecreature"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "clothing",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Pharasma Priest",
+        "key": "PharasmaPriestPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/PharasmaPriest.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/PharasmaPriest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/PharasmaPriest.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/PharasmaPriest.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "family": [
+                "pharasma"
+            ],
+            "equipment": [
+                "clothing",
+                "knife"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Poltergeist",
+        "key": "PoltergeistPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Poltergeist.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Poltergeist.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Poltergeist.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Poltergeist.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "poltergeist"
+            ]
+        }
+    },
+    {
+        "label": "Quinley Basdel",
+        "key": "QuinleyBasdelPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/QuinleyBasdel.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/QuinleyBasdel.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/QuinleyBasdel.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/QuinleyBasdel.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dhampir"
+            ],
+            "equipment": [
+                "heavy",
+                "knife",
+                "shield",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Radvir Giovanni",
+        "key": "RadvirGiovanniPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/RadvirGiovanni.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/RadvirGiovanni.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/RadvirGiovanni.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/RadvirGiovanni.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "vampire mastermind"
+            ],
+            "equipment": [
+                "bludgeon",
+                "knife",
+                "light"
+            ],
+            "special": [
+                "unique"
+            ],
+            "family": [
+                "vampire"
+            ]
+        }
+    },
+    {
+        "label": "Ramoska Arkminos",
+        "key": "RamoskaArkminosPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/RamoskaArkminos.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/RamoskaArkminos.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/RamoskaArkminos.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/RamoskaArkminos.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "nosferatu"
+            ],
+            "family": [
+                "vampire"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Renchurch Novice",
+        "key": "RenchurchNovicePF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/RenchurchNovice.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/RenchurchNovice.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/RenchurchNovice.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/RenchurchNovice.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "brawling",
+                "clothing",
+                "knife"
+            ]
+        }
+    },
+    {
+        "label": "Rhakis Szadro",
+        "key": "RhakisSzadroPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/RhakisSzadro.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/RhakisSzadro.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/RhakisSzadro.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/RhakisSzadro.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "werewolf"
+            ],
+            "family": [
+                "werecreature"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "clothing",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Sanguine Ooze Swarm",
+        "key": "SanguineOozeSwarmPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/SanguineOozeSwarm.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/SanguineOozeSwarm.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/SanguineOozeSwarm.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/SanguineOozeSwarm.webp"
+        },
+        "tags": {
+            "category": [
+                "ooze"
+            ],
+            "ancestry": [
+                "sanguine ooze swarm"
+            ],
+            "special": [
+                "swarm"
+            ]
+        }
+    },
+    {
+        "label": "Scion Of The Sea",
+        "key": "ScionOfTheSeaPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/ScionOfTheSea.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/ScionOfTheSea.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/ScionOfTheSea.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/ScionOfTheSea.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "chuul"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Shanda Faravan",
+        "key": "ShandaFaravanPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/ShandaFaravan.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/ShandaFaravan.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/ShandaFaravan.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/ShandaFaravan.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Shub-Niggurath",
+        "key": "ShubNiggurathPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/ShubNiggurath.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/ShubNiggurath.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/ShubNiggurath.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/ShubNiggurath.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "shub-niggurath"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ],
+            "family": [
+                "outer god"
+            ]
+        }
+    },
+    {
+        "label": "Sicnavier V",
+        "key": "SicnavierVPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/SicnavierV.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/SicnavierV.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/SicnavierV.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/SicnavierV.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic"
+            ],
+            "family": [
+                "primal dragon"
+            ],
+            "special": [
+                "unique"
+            ],
+            "ancestry": [
+                "umbral dragon"
+            ]
+        }
+    },
+    {
+        "label": "Skin Stealer",
+        "key": "SkinStealerPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/SkinStealer.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/SkinStealer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/SkinStealer.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/SkinStealer.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "skin stealer"
+            ]
+        }
+    },
+    {
+        "label": "Snapjaw Homunculus",
+        "key": "SnapjawHomunculusPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/SnapjawHomunculus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/SnapjawHomunculus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/SnapjawHomunculus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/SnapjawHomunculus.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "homunculus"
+            ]
+        }
+    },
+    {
+        "label": "Socorro",
+        "key": "SocorroPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Socorro.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Socorro.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Socorro.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Socorro.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "lich"
+            ],
+            "equipment": [
+                "clothing",
+                "polearm"
+            ],
+            "features": [
+                "magic"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Spawning Canker",
+        "key": "SpawningCankerPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/SpawningCanker.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/SpawningCanker.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/SpawningCanker.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/SpawningCanker.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "spawning canker"
+            ]
+        }
+    },
+    {
+        "label": "Steward Of The Skein",
+        "key": "StewardOfTheSkeinPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/StewardOfTheSkein.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/StewardOfTheSkein.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/StewardOfTheSkein.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/StewardOfTheSkein.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                "steward of the skein"
+            ],
+            "equipment": [
+                "heavy"
+            ],
+            "family": [
+                "herald",
+                "pharasma",
+                "psychopomp"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Svoac The Gate Tender",
+        "key": "SvoacTheGateTenderPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/SvoacTheGateTender.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/SvoacTheGateTender.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/SvoacTheGateTender.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/SvoacTheGateTender.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "athach"
+            ],
+            "family": [
+                "giant"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Tar-Baphon",
+        "key": "TarBaphonPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/TarBaphon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/TarBaphon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/TarBaphon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/TarBaphon.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "lich"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "knife",
+                "light"
+            ],
+            "family": [
+                "whispering way"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "The Beast Of Lepidstadt",
+        "key": "TheBeastOfLepidstadtPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/TheBeastOfLepidstadt.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/TheBeastOfLepidstadt.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/TheBeastOfLepidstadt.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/TheBeastOfLepidstadt.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "flesh golem"
+            ],
+            "family": [
+                "golem"
+            ],
+            "equipment": [
+                "clothing",
+                "unarmored"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "The Beast Of Lepidstadt",
+        "key": "TheBeastOfLepidstadtBustPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/TheBeastOfLepidstadtBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/TheBeastOfLepidstadtBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/TheBeastOfLepidstadtBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/TheBeastOfLepidstadtBust.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "flesh golem"
+            ],
+            "family": [
+                "golem"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "The Gray Friar",
+        "key": "TheGrayFriarPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/TheGrayFriar.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/TheGrayFriar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/TheGrayFriar.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/TheGrayFriar.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "huecuva"
+            ],
+            "special": [
+                "unique"
+            ],
+            "family": [
+                "urgathoa"
+            ],
+            "equipment": [
+                "clothing",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "The Lopper",
+        "key": "TheLopperPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/TheLopper.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/TheLopper.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/TheLopper.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/TheLopper.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "wraith"
+            ],
+            "equipment": [
+                "axe",
+                "clothing",
+                "unarmored"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "The Urgathoan Fly",
+        "key": "TheUrgathoanFlyPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/TheUrgathoanFly.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/TheUrgathoanFly.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/TheUrgathoanFly.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/TheUrgathoanFly.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "iron golem"
+            ],
+            "family": [
+                "golem"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Troll And Trollhound",
+        "key": "TrollAndTrollhoundPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/TrollAndTrollhound.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/TrollAndTrollhound.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/TrollAndTrollhound.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/TrollAndTrollhound.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial",
+                "humanoid"
+            ],
+            "ancestry": [
+                "forest troll",
+                "trollhound"
+            ]
+        }
+    },
+    {
+        "label": "Ulat-Kini Sentry",
+        "key": "UlatKiniSentryPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/UlatKiniSentry.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/UlatKiniSentry.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/UlatKiniSentry.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/UlatKiniSentry.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "ulat-kini"
+            ],
+            "family": [
+                "alghollthu"
+            ],
+            "equipment": [
+                "polearm",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Urca Namat",
+        "key": "UrcaNamatPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/UrcaNamat.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/UrcaNamat.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/UrcaNamat.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/UrcaNamat.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "worm that walks"
+            ],
+            "special": [
+                "swarm",
+                "unique"
+            ],
+            "equipment": [
+                "clothing",
+                "polearm"
+            ]
+        }
+    },
+    {
+        "label": "Urgathoa Priest",
+        "key": "UrgathoaPriestPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/UrgathoaPriest.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/UrgathoaPriest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/UrgathoaPriest.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/UrgathoaPriest.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "family": [
+                "urgathoa"
+            ],
+            "equipment": [
+                "clothing",
+                "polearm"
+            ]
+        }
+    },
+    {
+        "label": "Vanth",
+        "key": "VanthPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Vanth.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Vanth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Vanth.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Vanth.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                "vanth"
+            ],
+            "family": [
+                "psychopomp"
+            ]
+        }
+    },
+    {
+        "label": "Vesorianna Hawkran",
+        "key": "VesoriannaHawkranPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/VesoriannaHawkran.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/VesoriannaHawkran.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/VesoriannaHawkran.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/VesoriannaHawkran.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghost commoner"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ],
+            "family": [
+                "incorporeal"
+            ]
+        }
+    },
+    {
+        "label": "Vesorianna Hawkran",
+        "key": "VesoriannaHawkranBustPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/VesoriannaHawkranBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/VesoriannaHawkranBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/VesoriannaHawkranBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/VesoriannaHawkranBust.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghost commoner"
+            ],
+            "family": [
+                "incorporeal"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Vicar Of The Indomitable Sea",
+        "key": "VicarOfTheIndomitableSeaPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/VicarOfTheIndomitableSea.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/VicarOfTheIndomitableSea.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/VicarOfTheIndomitableSea.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/VicarOfTheIndomitableSea.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ],
+            "family": [
+                "dagon"
+            ]
+        }
+    },
+    {
+        "label": "Vilkacis",
+        "key": "VilkacisPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Vilkacis.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Vilkacis.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Vilkacis.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Vilkacis.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "vilkacis"
+            ],
+            "family": [
+                "incorporeal"
+            ]
+        }
+    },
+    {
+        "label": "Vollensag Stalker",
+        "key": "VollensagStalkerPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/VollensagStalker.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/VollensagStalker.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/VollensagStalker.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/VollensagStalker.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "werewolf"
+            ],
+            "family": [
+                "werecreature"
+            ],
+            "equipment": [
+                "clothing",
+                "sword",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Wax Golem",
+        "key": "WaxGolemPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/WaxGolem.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/WaxGolem.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/WaxGolem.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/WaxGolem.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "wax golem"
+            ],
+            "family": [
+                "golem"
+            ]
+        }
+    },
+    {
+        "label": "Weaverworm",
+        "key": "WeaverwormPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Weaverworm.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Weaverworm.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Weaverworm.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Weaverworm.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "weaverworm"
+            ]
+        }
+    },
+    {
+        "label": "Werebat",
+        "key": "WerebatPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Werebat.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Werebat.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Werebat.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Werebat.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "werebat"
+            ],
+            "family": [
+                "werecreature"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Wererat",
+        "key": "WereratPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Wererat.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Wererat.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Wererat.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Wererat.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "wererat"
+            ],
+            "family": [
+                "werecreature"
+            ]
+        }
+    },
+    {
+        "label": "Weretiger",
+        "key": "WeretigerPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Weretiger.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Weretiger.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Weretiger.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Weretiger.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "weretiger"
+            ],
+            "family": [
+                "werecreature"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Whispering Way Curate",
+        "key": "WhisperingWayCuratePF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/WhisperingWayCurate.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/WhisperingWayCurate.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/WhisperingWayCurate.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/WhisperingWayCurate.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "family": [
+                "urgathoa",
+                "whispering way"
+            ],
+            "equipment": [
+                "clothing",
+                "polearm"
+            ]
+        }
+    },
+    {
+        "label": "Wilendithas The Eternal Hag",
+        "key": "WilendithasTheEternalHagPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/WilendithasTheEternalHag.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/WilendithasTheEternalHag.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/WilendithasTheEternalHag.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/WilendithasTheEternalHag.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "green hag",
+                "lich"
+            ],
+            "family": [
+                "urgathoa"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Yamaraj",
+        "key": "YamarajPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Yamaraj.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Yamaraj.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Yamaraj.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Yamaraj.webp"
+        },
+        "tags": {
+            "category": [
+                "monitor"
+            ],
+            "ancestry": [
+                "yamaraj"
+            ],
+            "family": [
+                "psychopomp"
+            ]
+        }
+    },
+    {
+        "label": "Yib Thoolp",
+        "key": "YibThoolpPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/YibThoolp.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/YibThoolp.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/YibThoolp.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/YibThoolp.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "marsh giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Zhabh-boath",
+        "key": "ZhabhBoathPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/ZhabhBoath.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/ZhabhBoath.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/ZhabhBoath.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/ZhabhBoath.webp"
+        },
+        "tags": {
+            "ancestry": [
+                "ulat-kini"
+            ],
+            "category": [
+                "humanoid"
+            ],
+            "family": [
+                "alghollthu",
+                "shub-niggurath"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Zhabh-boath",
+        "key": "ZhabhBoathBustPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/ZhabhBoathBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/ZhabhBoathBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/ZhabhBoathBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/ZhabhBoathBust.webp"
+        },
+        "tags": {
+            "family": [
+                "alghollthu",
+                "shub-niggurath"
+            ],
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "ulat-kini"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Zokar Elkarid",
+        "key": "ZokarElkaridPF1eCC",
+        "source": "PF1e Carrion Crown",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/ZokarElkarid.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/ZokarElkarid.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/ZokarElkarid.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/ZokarElkarid.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "unarmored"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    }
+]
