@@ -1,15 +1,8 @@
 # 3.0.0
 
 -	Convertida imagenes a webp para reducir espacio (tokens y subjects).
--	Añadidos portraits, tokens y subjects de Howl of the Wild.
--	Añadidos tokens y subjects de Book of the Dead.
--	Añadidos tokens y subjects de Dark Archive.
--	Añadidos tokens y subjects de LO Highhelm.
--	Añadidos tokens y subjects de LO Impossible Lands.
--	Añadidos tokens y subjects de LO Monsters of Myth.
--	Añadidos tokens y subjects de LO The Mwangi Expanse.
--	Añadidos tokens y subjects de LO Tian Xia World Guide.
--	Añadidos subjects de Rage of Elements.
+-	Añadidos portraits de PF1e (APs, algunos modulos y algunos rulebook).
+-	Empezar a dar soporte a Character Gallery.
 
 # 2.0.0
 
