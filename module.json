@@ -1,6 +1,6 @@
 {
-  "title": "PF2e Token Art",
-  "description": "A module to add art to system tokens",
+  "title": "Paizo Token Art",
+  "description": "A module to add Paizo related art",
   "authors": [
     {
       "name": "Zullock",
@@ -8,14 +8,14 @@
       "flags": {}
     }
   ],
-  "version": "2.0.0",
+  "version": "3.0.0",
   "compatibility": {
     "minimum": "10.291",
     "verified": "12"
   },
   "url": "https://github.com/Zullock/pf2e-token-art",
   "manifest": "https://raw.githubusercontent.com/Zullock/pf2e-token-art/main/module.json",
-  "download": "https://github.com/Zullock/pf2e-token-art/releases/download/v2.0.0/module.zip",
+  "download": "https://github.com/Zullock/pf2e-token-art/releases/download/v3.0.0/module.zip",
   "changelog": "https://github.com/Zullock/pf2e-token-art/blob/main/CHANGELOG.md",
   "flags": {
    "galleryDatasheets": {
