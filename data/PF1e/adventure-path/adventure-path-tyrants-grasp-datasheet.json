@@ -312,7 +312,7 @@
         }
     },
     {
-        "label": "Arazni Bust",
+        "label": "Arazni",
         "key": "ArazniBustPF1eTG",
         "source": "PF1e Tyrant's Grasp",
         "art": {
@@ -343,7 +343,7 @@
         }
     },
     {
-        "label": "Arazni Demigod",
+        "label": "Arazni",
         "key": "ArazniDemigodPF1eTG",
         "source": "PF1e Tyrant's Grasp",
         "art": {
@@ -374,7 +374,7 @@
         }
     },
     {
-        "label": "Arazni Mask",
+        "label": "Arazni",
         "key": "ArazniMaskPF1eTG",
         "source": "PF1e Tyrant's Grasp",
         "art": {
@@ -4088,11 +4088,11 @@
             "equipment": [
                 "polearm"
             ],
-            "family": [
-                "psychopomp"
-            ],
             "special": [
                 "unique"
+            ],
+            "family": [
+                "psychopomp"
             ]
         }
     },
