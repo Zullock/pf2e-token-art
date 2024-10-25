@@ -121,7 +121,7 @@
         },
         "pf1e-rulebook-book-of-the-dammed-datasheet": {
             "label": "PF1e Rulebook Book of the Dammed",
-            "sheet": "modules/pf2e-token-art/data/PF1e/rulebook/rulebook-book-of-the-dammed-datasheet.json"
+            "sheet": "modules/pf2e-token-art/data/PF1e/rulebook/rulebook-book-of-the-damned-datasheet.json"
         },
         "pf1e-rulebook-gamemastery-guide-datasheet": {
             "label": "PF1e Rulebook Gamemastery Guide",

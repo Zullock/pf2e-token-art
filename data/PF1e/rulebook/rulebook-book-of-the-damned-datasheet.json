@@ -1,0 +1,2071 @@
+[
+    {
+        "label": "Abraxas",
+        "key": "AbraxasPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Abraxas.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Abraxas.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Abraxas.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Abraxas.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "abraxas"
+            ],
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Ahriman",
+        "key": "AhrimanPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Ahriman.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Ahriman.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Ahriman.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Ahriman.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "ahriman"
+            ],
+            "family": [
+                "div",
+                "div lord"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Aldinach",
+        "key": "AldinachPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Aldinach.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Aldinach.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Aldinach.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Aldinach.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "aldinach"
+            ],
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Alichino",
+        "key": "AlichinoPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Alichino.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Alichino.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Alichino.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Alichino.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "alichino"
+            ],
+            "family": [
+                "devil",
+                "malebranche"
+            ],
+            "special": [
+                "deity",
+                "quasideity",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Andirifkhu",
+        "key": "AndirifkhuPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Andirifkhu.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Andirifkhu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Andirifkhu.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Andirifkhu.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "andirifkhu"
+            ],
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Angazhan",
+        "key": "AngazhanPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Angazhan.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Angazhan.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Angazhan.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Angazhan.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "angazhan"
+            ],
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Apollyon",
+        "key": "ApollyonPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Apollyon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Apollyon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Apollyon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Apollyon.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "family": [
+                "daemon",
+                "horsemen"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ],
+            "ancestry": [
+                "apollyon"
+            ]
+        }
+    },
+    {
+        "label": "Ardad Lili",
+        "key": "ArdadLiliPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/ArdadLili.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/ArdadLili.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/ArdadLili.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/ArdadLili.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "ardad lili"
+            ],
+            "family": [
+                "devil",
+                "queen of the night"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Areshkagal",
+        "key": "AreshkagalPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Areshkagal.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Areshkagal.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Areshkagal.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Areshkagal.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "areshkagal"
+            ],
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Asmodeus",
+        "key": "AsmodeusPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Asmodeus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Asmodeus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Asmodeus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Asmodeus.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "asmodeus"
+            ],
+            "family": [
+                "core deity",
+                "devil"
+            ],
+            "special": [
+                "deity",
+                "god",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Baalzebul",
+        "key": "BaalzebulPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Baalzebul.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Baalzebul.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Baalzebul.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Baalzebul.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "baalzebul"
+            ],
+            "family": [
+                "archdevil",
+                "devil"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Baphomet",
+        "key": "BaphometPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Baphomet.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Baphomet.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Baphomet.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Baphomet.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "baphomet"
+            ],
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Barbatos",
+        "key": "BarbatosPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Barbatos.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Barbatos.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Barbatos.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Barbatos.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "barbatos"
+            ],
+            "family": [
+                "archdevil",
+                "devil"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Belial",
+        "key": "BelialPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Belial.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Belial.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Belial.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Belial.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "belial"
+            ],
+            "family": [
+                "archdevil",
+                "devil"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Bushyasta",
+        "key": "BushyastaPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Bushyasta.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Bushyasta.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Bushyasta.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Bushyasta.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "bushyasta"
+            ],
+            "family": [
+                "div"
+            ]
+        }
+    },
+    {
+        "label": "Charon",
+        "key": "CharonPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Charon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Charon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Charon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Charon.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "charon"
+            ],
+            "family": [
+                "daemon",
+                "horsemen"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Cyth-V'Sug",
+        "key": "Cyth-VSugPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Cyth-VSug.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Cyth-VSug.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Cyth-VSug.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Cyth-VSug.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "cyth-v'sug"
+            ],
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Dagon",
+        "key": "DagonPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Dagon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Dagon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Dagon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Dagon.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "dagon"
+            ],
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Deinochos",
+        "key": "DeinochosPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Deinochos.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Deinochos.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Deinochos.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Deinochos.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "deinochos"
+            ],
+            "family": [
+                "qlippoth"
+            ]
+        }
+    },
+    {
+        "label": "Deskari",
+        "key": "DeskariPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Deskari.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Deskari.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Deskari.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Deskari.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "deskari"
+            ],
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Dispater",
+        "key": "DispaterPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Dispater.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Dispater.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Dispater.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Dispater.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "dispater"
+            ],
+            "family": [
+                "archdevil",
+                "devil"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Doloras",
+        "key": "DolorasPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Doloras.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Doloras.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Doloras.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Doloras.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "doloras"
+            ],
+            "family": [
+                "devil",
+                "queen of the night"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Eiseth",
+        "key": "EisethPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Eiseth.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Eiseth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Eiseth.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Eiseth.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "eiseth"
+            ],
+            "family": [
+                "devil",
+                "queen of the night"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Elf Diabolist",
+        "key": "ElfDiabolistPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/ElfDiabolist.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/ElfDiabolist.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/ElfDiabolist.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/ElfDiabolist.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "elf"
+            ],
+            "equipment": [
+                "clothing",
+                "focus",
+                "light",
+                "tome"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Fiend Worshiper",
+        "key": "FiendWorshiperPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/FiendWorshiper.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/FiendWorshiper.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/FiendWorshiper.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/FiendWorshiper.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "indistinct"
+            ],
+            "equipment": [
+                "light",
+                "medium"
+            ]
+        }
+    },
+    {
+        "label": "Flauros",
+        "key": "FlaurosPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Flauros.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Flauros.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Flauros.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Flauros.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "flauros"
+            ],
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Folca",
+        "key": "FolcaPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Folca.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Folca.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Folca.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Folca.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "folca"
+            ],
+            "family": [
+                "daemon",
+                "daemon harbinger"
+            ],
+            "special": [
+                "deity",
+                "quasideity",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Geryon",
+        "key": "GeryonPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Geryon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Geryon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Geryon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Geryon.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "geryon"
+            ],
+            "family": [
+                "archdevil",
+                "devil"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Ghalzarokh",
+        "key": "GhalzarokhPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Ghalzarokh.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Ghalzarokh.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Ghalzarokh.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Ghalzarokh.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "ghalzarokh"
+            ],
+            "family": [
+                "demon"
+            ]
+        }
+    },
+    {
+        "label": "Gogunta",
+        "key": "GoguntaPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Gogunta.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Gogunta.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Gogunta.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Gogunta.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "gogunta"
+            ],
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Haagenti",
+        "key": "HaagentiPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Haagenti.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Haagenti.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Haagenti.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Haagenti.webp"
+        },
+        "tags": {
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "haagenti"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Inma",
+        "key": "InmaPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Inma.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Inma.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Inma.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Inma.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "inma"
+            ],
+            "family": [
+                "oni",
+                "oni daimyo"
+            ],
+            "special": [
+                "deity",
+                "quasideity",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Jezelda",
+        "key": "JezeldaPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Jezelda.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Jezelda.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Jezelda.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Jezelda.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "jezelda"
+            ],
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Jubilex",
+        "key": "JubilexPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Jubilex.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Jubilex.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Jubilex.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Jubilex.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "ancestry": [
+                "jubilex"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Kabriri",
+        "key": "KabririPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Kabriri.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Kabriri.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Kabriri.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Kabriri.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "kabriri"
+            ],
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Kostchtchie",
+        "key": "KostchtchiePF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Kostchtchie.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Kostchtchie.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Kostchtchie.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Kostchtchie.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "kostchtchie"
+            ],
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Lamashtu",
+        "key": "LamashtuPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Lamashtu.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Lamashtu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Lamashtu.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Lamashtu.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "lamashtu"
+            ],
+            "family": [
+                "core deity",
+                "demon"
+            ],
+            "special": [
+                "deity",
+                "god",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Mahathallah",
+        "key": "MahathallahPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Mahathallah.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Mahathallah.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Mahathallah.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Mahathallah.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "mahathallah"
+            ],
+            "family": [
+                "devil",
+                "queen of the night"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Mammon",
+        "key": "MammonPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Mammon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Mammon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Mammon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Mammon.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "mammon"
+            ],
+            "family": [
+                "archdevil",
+                "devil"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Mazmezz",
+        "key": "MazmezzPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Mazmezz.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Mazmezz.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Mazmezz.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Mazmezz.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "mazmezz"
+            ],
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Mestama",
+        "key": "MestamaPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Mestama.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Mestama.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Mestama.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Mestama.webp"
+        },
+        "tags": {
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "mestama"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Moloch",
+        "key": "MolochPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Moloch.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Moloch.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Moloch.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Moloch.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "moloch"
+            ],
+            "family": [
+                "archdevil",
+                "devil"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Munagola",
+        "key": "MunagolaPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Munagola.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Munagola.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Munagola.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Munagola.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "munagola"
+            ],
+            "family": [
+                "devil"
+            ]
+        }
+    },
+    {
+        "label": "Najikai",
+        "key": "NajikaiPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Najikai.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Najikai.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Najikai.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Najikai.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "najikai"
+            ],
+            "family": [
+                "oni"
+            ]
+        }
+    },
+    {
+        "label": "Nikaramsa",
+        "key": "NikaramsaPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Nikaramsa.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Nikaramsa.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Nikaramsa.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Nikaramsa.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "nikaramsa"
+            ],
+            "family": [
+                "fiend"
+            ]
+        }
+    },
+    {
+        "label": "Nocticula",
+        "key": "NocticulaPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Nocticula.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Nocticula.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Nocticula.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Nocticula.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "ancestry": [
+                "nocticula"
+            ],
+            "special": [
+                "deity",
+                "god",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Nucol",
+        "key": "NucolPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Nucol.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Nucol.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Nucol.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Nucol.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "nucol"
+            ],
+            "family": [
+                "sahkil"
+            ]
+        }
+    },
+    {
+        "label": "Nurgal",
+        "key": "NurgalPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Nurgal.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Nurgal.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Nurgal.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Nurgal.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "nurgal"
+            ],
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Oitos",
+        "key": "OitosPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Oitos.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Oitos.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Oitos.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Oitos.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "oitos"
+            ],
+            "family": [
+                "velstrac"
+            ]
+        }
+    },
+    {
+        "label": "Orcus",
+        "key": "OrcusPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Orcus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Orcus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Orcus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Orcus.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "orcus"
+            ],
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Orsatka",
+        "key": "OrsatkaPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Orsatka.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Orsatka.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Orsatka.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Orsatka.webp"
+        },
+        "tags": {
+            "family": [
+                "rakshasa"
+            ],
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "orsatka"
+            ]
+        }
+    },
+    {
+        "label": "Pazuzu",
+        "key": "PazuzuPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Pazuzu.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Pazuzu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Pazuzu.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Pazuzu.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "pazuzu"
+            ],
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Petitioner",
+        "key": "PetitionerPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Petitioner.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Petitioner.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Petitioner.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Petitioner.webp"
+        },
+        "tags": {
+            "category": [
+                "planar"
+            ],
+            "ancestry": [
+                "petitioner"
+            ]
+        }
+    },
+    {
+        "label": "Ravana",
+        "key": "RavanaPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Ravana.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Ravana.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Ravana.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Ravana.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "ravana"
+            ],
+            "family": [
+                "rakshasa",
+                "rakshasa immortal"
+            ],
+            "special": [
+                "deity",
+                "quasideity",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Ruzel",
+        "key": "RuzelPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Ruzel.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Ruzel.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Ruzel.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Ruzel.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "ruzel"
+            ],
+            "family": [
+                "devil",
+                "infernal duke"
+            ],
+            "special": [
+                "deity",
+                "quasideity",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Sepsidaemon",
+        "key": "SepsidaemonPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Sepsidaemon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Sepsidaemon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Sepsidaemon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Sepsidaemon.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "sepsidaemon"
+            ],
+            "family": [
+                "daemon"
+            ]
+        }
+    },
+    {
+        "label": "Shax",
+        "key": "ShaxPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Shax.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Shax.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Shax.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Shax.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "shax"
+            ],
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Shivaska",
+        "key": "ShivaskaPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Shivaska.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Shivaska.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Shivaska.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Shivaska.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "shivaska"
+            ],
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Sifkesh",
+        "key": "SifkeshPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Sifkesh.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Sifkesh.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Sifkesh.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Sifkesh.webp"
+        },
+        "tags": {
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "sifkesh"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Socothbenoth",
+        "key": "SocothbenothPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Socothbenoth.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Socothbenoth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Socothbenoth.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Socothbenoth.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "socothbenoth"
+            ],
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Squamous Demodand",
+        "key": "SquamousDemodandPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/SquamousDemodand.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/SquamousDemodand.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/SquamousDemodand.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/SquamousDemodand.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "squamous demodand"
+            ],
+            "family": [
+                "demodand"
+            ]
+        }
+    },
+    {
+        "label": "Sugroz",
+        "key": "SugrozPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Sugroz.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Sugroz.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Sugroz.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Sugroz.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "sugroz"
+            ],
+            "family": [
+                "velstrac",
+                "velstrac demagogue"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Szuriel",
+        "key": "SzurielPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Szuriel.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Szuriel.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Szuriel.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Szuriel.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "szuriel"
+            ],
+            "family": [
+                "daemon",
+                "horsemen"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Tiefling Demoniac",
+        "key": "TieflingDemoniacPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/TieflingDemoniac.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/TieflingDemoniac.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/TieflingDemoniac.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/TieflingDemoniac.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "nephilim"
+            ],
+            "equipment": [
+                "clothing",
+                "knife",
+                "light"
+            ],
+            "features": [
+                "magic",
+                "winged"
+            ]
+        }
+    },
+    {
+        "label": "Tiefling Souldrinker",
+        "key": "TieflingSouldrinkerPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/TieflingSouldrinker.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/TieflingSouldrinker.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/TieflingSouldrinker.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/TieflingSouldrinker.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "nephilim"
+            ],
+            "equipment": [
+                "focus",
+                "heavy",
+                "medium",
+                "polearm"
+            ],
+            "features": [
+                "magic"
+            ]
+        }
+    },
+    {
+        "label": "Treerazer",
+        "key": "TreerazerPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Treerazer.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Treerazer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Treerazer.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Treerazer.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "treerazer"
+            ],
+            "family": [
+                "demon",
+                "nascent demon lord"
+            ],
+            "special": [
+                "deity",
+                "quasideity",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Trelmarixian",
+        "key": "TrelmarixianPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Trelmarixian.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Trelmarixian.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Trelmarixian.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Trelmarixian.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "trelmarixian"
+            ],
+            "family": [
+                "daemon",
+                "horsemen"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Urxehl",
+        "key": "UrxehlPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Urxehl.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Urxehl.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Urxehl.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Urxehl.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "urxehl"
+            ],
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Voice Of The Damned",
+        "key": "VoiceOfTheDamnedPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/VoiceOfTheDamned.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/VoiceOfTheDamned.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/VoiceOfTheDamned.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/VoiceOfTheDamned.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "voice of the damned"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Vorasha",
+        "key": "VorashaPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Vorasha.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Vorasha.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Vorasha.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Vorasha.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "vorasha"
+            ],
+            "family": [
+                "daemon",
+                "daemon harbinger"
+            ],
+            "special": [
+                "deity",
+                "quasideity",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Xoveron",
+        "key": "XoveronPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Xoveron.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Xoveron.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Xoveron.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Xoveron.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "xoveron"
+            ],
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Yamasoth",
+        "key": "YamasothPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Yamasoth.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Yamasoth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Yamasoth.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Yamasoth.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "yamasoth"
+            ],
+            "family": [
+                "qlippoth",
+                "qlippoth lord"
+            ],
+            "special": [
+                "deity",
+                "quasideity",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Yhidothrus",
+        "key": "YhidothrusPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Yhidothrus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Yhidothrus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Yhidothrus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Yhidothrus.webp"
+        },
+        "tags": {
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ],
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "yhidothrus"
+            ]
+        }
+    },
+    {
+        "label": "Zeugavizeb",
+        "key": "ZeugavizebPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Zeugavizeb.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Zeugavizeb.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Zeugavizeb.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Zeugavizeb.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "zeugavizeb"
+            ],
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Zipacna",
+        "key": "ZipacnaPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Zipacna.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Zipacna.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Zipacna.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Zipacna.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "zipacna"
+            ],
+            "family": [
+                "sahkil",
+                "sahkil tormentor"
+            ],
+            "special": [
+                "deity",
+                "quasideity",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Zura",
+        "key": "ZuraPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Zura.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Zura.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Zura.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Zura.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "family": [
+                "demon",
+                "demon lord"
+            ],
+            "ancestry": [
+                "zura"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Zyphus",
+        "key": "ZyphusPF1eBotD",
+        "source": "PF1e Book of the Damned",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Zyphus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Zyphus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-book-of-the-damned/Zyphus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-book-of-the-damned/Zyphus.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "zyphus"
+            ],
+            "family": [
+                "daemon"
+            ],
+            "special": [
+                "deity",
+                "god",
+                "unique"
+            ]
+        }
+    }
+]
