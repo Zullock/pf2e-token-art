@@ -46,7 +46,7 @@
 			- [X] Portraits
 			- [ ] Dynamic Tokens
 			- [X] Character Gallery
-		- [ ] Book of the Dammed
+		- [ ] Book of the Damned
 			- [X] Portraits
 			- [ ] Dynamic Tokens
 			- [X] Character Gallery
@@ -71,6 +71,172 @@
 		- [ ] Ultimate Magic
 		- [ ] Ultimate Wilderness
 		- [ ] Villain Codex
+	- [ ] Campaign
+		- [ ] Andoran, Birthplace of Freedom
+		- [ ] Aquatic Adventures
+		- [ ] Artifacts & Legends
+		- [ ] Belkzen, Hold of the Orc Hordes
+		- [ ] Book of the Damned, Volume 1
+		- [ ] Book of the Damned, Volume 2
+		- [ ] Book of the Damned, Volume 3
+		- [ ] Castles of the Inner Sea
+		- [ ] Cheliax, The Infernal Empire
+		- [ ] Chronicle of the Righteous
+		- [ ] Concordance of Rivals
+		- [ ] Constructs Handbook
+		- [ ] Darklands Revisited
+		- [ ] Demons Revisited
+		- [ ] Distant Realms
+		- [ ] Distant Shores
+		- [ ] Distant Worlds
+		- [ ] Dragon Empires Gazetteer
+		- [ ] Dragon Empires Primer
+		- [ ] Dragons Unleashed
+		- [ ] Druma, Profit and Prophecy
+		- [ ] Dungeons of Golarion
+		- [ ] Faiths of Golarion
+		- [ ] Fey Revisited
+		- [ ] First World, Realm of the Fey
+		- [ ] Giants Revisited
+		- [ ] Heaven Unleashed
+		- [ ] Horror Realms
+		- [ ] Inner Sea Bestiary
+		- [ ] Inner Sea Combat
+		- [ ] Inner Sea Faiths
+		- [ ] Inner Sea Gods
+		- [ ] Inner Sea Intrigue
+		- [ ] Inner Sea Magic
+		- [ ] Inner Sea Monster Codex
+		- [ ] Inner Sea NPC Codex
+		- [ ] Inner Sea Races
+		- [ ] Inner Sea Taverns
+		- [ ] Inner Sea Temples
+		- [ ] Inner Sea World Guide
+		- [ ] Irrisen, Land of Eternal Winter
+		- [ ] Isles of the Shackles
+		- [ ] Lands of Conflict
+		- [ ] Lands of the Linnorm Kings
+		- [ ] Lost Cities of Golarion
+		- [ ] Lost Kingdoms
+		- [ ] Lost Treasures
+		- [ ] Magnimar, City of Monuments
+		- [ ] Misfit Monsters Redeemed
+		- [ ] Mystery Monsters Revisited
+		- [ ] Mythic Realms
+		- [ ] Mythical Monsters Revisited
+		- [ ] Nidal, Land of Shadows
+		- [ ] Numeria, Land of Fallen Stars
+		- [ ] Occult Bestiary
+		- [ ] Occult Mysteries
+		- [ ] Occult Realms
+		- [ ] Osirion, Legacy of Pharaohs
+		- [ ] Path of the Hellknight
+		- [ ] Pathfinder Society Field Guide
+		- [ ] Paths of Prestige
+		- [ ] Planes of Power
+		- [ ] Qadira, Jewel of the East
+		- [ ] Rival Guide
+		- [ ] Rule of Fear
+		- [ ] Sandpoint, Light of the Lost Coast
+		- [ ] Ships of the Inner Sea
+		- [ ] Taldor, the First Empire
+		- [ ] Technology Guide
+		- [ ] The Worldwound
+		- [ ] Tombs of Golarion
+		- [ ] Towns of the Inner Sea
+		- [ ] Undead Revisited
+		- [ ] Undead Unleashed
+	- [ ] Adventure Paths
+		- [ ] Rise of the Runelords
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Curse of the Crimson Throne
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Second Darkness
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Legacy of Fire
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Council of Thieves
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Kingmaker
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Serpent's Skull
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Carrion Crown
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Jade Regent
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Skull & Shackles
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Shattered Star
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Reign of Winter
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Wrath of the Righteous
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Mummy's Mask
+		- [ ] Iron Gods
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Giantslayers
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Hell's Rebels
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Hell's Vengeance
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Strange Aeons
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Ironfang Invasion
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Ruins of Azlant
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] War for the Crown
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [ ] Return of the Runelords
+			- [X] Portraits
+			- [ ] Dynamic Tokens
+			- [X] Character Gallery
+		- [X] Tyrant's Grasp
 - [ ] 2e
 	- [ ] Rulebooks
 		- [ ] Book of the Dead
@@ -117,14 +283,11 @@
 			- [X] Tokens
 			- [ ] Dynamic Tokens
 			- [ ] Character Gallery
-		- [ ]  Fall of Plaguestone
+		- [ ] Fall of Plaguestone
 		- [ ] Malevolence
 		- [ ] Night of the Gray Death
 		- [ ] Shadows at Sundown
 		- [ ] The Enmity Cycle
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [ ] Character Gallery
 		- [ ] The Slithering
 		- [ ] Troubles in Otari
 	- [ ] Adventure Paths
