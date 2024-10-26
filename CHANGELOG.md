@@ -1,5 +1,9 @@
 # 3.0.0
 
+-	Añadidos subjects de Tyrant's Grasp
+
+# 3.0.0
+
 -	Convertida imagenes a webp para reducir espacio (tokens y subjects).
 -	Añadidos portraits de PF1e (APs, algunos modulos y algunos rulebook).
 -	Empezar a dar soporte a Character Gallery.
