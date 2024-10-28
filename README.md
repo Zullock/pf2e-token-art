@@ -173,54 +173,76 @@
 		- [ ] Character Gallery
 - [ ] PZO95 - Modules
 	- [ ] PF1e
-		- [ ] Academy of Secrets
-		- [ ] Broken Chains
-		- [ ] Carrion Hill
-		- [ ] City of Golden Death
-		- [ ] Cradle of Night
-		- [ ] Crypt of the Everflame
-		- [ ] Cult of the Ebon Destroyers
-		- [ ] Curse of the Riven Sky
-		- [ ] Daughters of Fury
-		- [ ] Dawn of the Scarlet Sun
-		- [ ] Down the Blighted Path
-		- [ ] Fangwood Keep
-		- [ ] Feast of Dust
-		- [ ] Feast of Ravenmoor
-		- [ ] From Shore to Sea
-		- [ ] Gallows of Madness
-		- [ ] Ire of the Storm
-		- [ ] LB1 Tower of the Last Baron
-		- [ ] LB2 Treasure of Chimera Cove
-		- [ ] Masks of the Living God
-		- [ ] Master of the Fallen Fortress
-		- [ ] Murders Mask
-		- [ ] No Response from Deepmar
-		- [ ] Plunder and Peril
-		- [ ] Realm of the Fellnight Queen
-		- [ ] Risen from the Sands
-		- [ ] S1 Clash of the Kingslayers
-		- [ ] Seers of the Drowned City
-		- [ ] Tears at Bitter Manor
-		- [ ] The Dragon's Demand
-		- [ ] The Emerald Spire Superdungeon
-		- [ ] The Gauntlet
-		- [ ] The Godsmouth Heresy
-		- [ ] The Harrowing
-		- [ ] The House on Hook Street
-		- [ ] The Midnight Mirror
-		- [ ] The Moonscar
-		- [ ] The Ruby Phoenix Tournament
-		- [ ] The Witchwar Legacy
-		- [ ] Tomb of the Iron Medusa
-		- [ ] Wardens of the Reborn Forge
-		- [ ] We b4 Goblins
-		- [ ] We be 5uper Goblins
-		- [ ] We be Goblins
-		- [ ] We be Goblins Free
-		- [ ] We be Goblins Too
+		- [ ] PZO9500 - Hollow's Last Hope
+		- [ ] PZO9500-2 - Revenge of the Kobold King
+		- [ ] PZO9500-4 - Master of the Fallen Fortress
+		- [ ] PZO9500-5 - We Be Goblins!
+		- [ ] PZO9500-6 - Dawn of the Scarlet Sun
+		- [ ] PZO9500-7 - We Be Goblins Too!
+		- [ ] PZO9500-8 - Risen From the Sands
+		- [ ] PZO9500-9 - We Be Goblins Free!
+		- [ ] PZO9500-10 - We B4 Goblins!
+		- [ ] PZO9500-12 - We Be 5uper Goblins!
+		- [ ] PZO9500-TC1 - Into the Haunted Forest
+		- [ ] PZO9501 - Crown of the Kobold King
+		- [ ] PZO9502 - Conquest of Bloodsworn Vale
+		- [ ] PZO9503 - Seven Swords of Sin
+		- [ ] PZO9504 - Gallery of Evil
+		- [ ] PZO9505 - Entombed with the Pharoahs
+		- [ ] PZO9506 - Carnival of Tears
+		- [ ] PZO9507 - Guardians of Dragonfall
+		- [ ] PZO9508 - Hangman's Noose
+		- [ ] PZO9509 - Crucible of Chaos
+		- [ ] PZO9510 - River into Darkness
+		- [ ] PZO9511 - The Demon Within
+		- [ ] PZO9512 - Flight of the Red Raven
+		- [ ] PZO9513 - Tower of the Last Baron
+		- [ ] PZO9514 - Treasure of Chimera Cove
+		- [ ] PZO9515 - Hungry are the Dead
+		- [ ] PZO9516 - The Pact Stone Pyramid
+		- [ ] PZO9517 - Clash of the Kingslayers
+		- [ ] PZO9518 - Blood of Dragonscar
+		- [ ] PZO9519 - Beyond the Vault of Souls
+		- [ ] PZO9520 - Crypt of the Everflame
+		- [ ] PZO9521 - Carrion Hill
+		- [ ] PZO9522 - Masks of the Living God
+		- [ ] PZO9523 - Realm of the Fellnight Queen
+		- [ ] PZO9524 - City of Golden Death
+		- [ ] PZO9525 - From Shore to Sea
+		- [ ] PZO9526 - Curse of the Riven Sky
+		- [ ] PZO9527 - The Witchwar Legacy
+		- [ ] PZO9528 - The Godsmouth Heresy
+		- [ ] PZO9529 - Cult of the Ebon Destroyers
+		- [ ] PZO9530 - Tomb of the Iron Medusa
+		- [ ] PZO9531 - Academy of Secrets
+		- [ ] PZO9532 - The Harrowing
+		- [ ] PZO9533 - Feast of Ravenmoor
+		- [ ] PZO9534 - The Ruby Phoenix Tournament
+		- [ ] PZO9535 - The Midnight Mirror
+		- [ ] PZO9536 - No Response from Deepmar
+		- [ ] PZO9537 - The Moonscar
+		- [ ] PZO9538 - Murder's Mark
+		- [ ] PZO9539 - Broken Chains
+		- [ ] PZO9540 - Fangwood Keep
+		- [ ] PZO9541 - Doom Comes to Dustpawn
+		- [ ] PZO9542 - The Dragon's Demand
+		- [ ] PZO9543 - Wardens of the Reborn Forge
+		- [ ] PZO9544 - Tears at Bitter Manor
+		- [ ] PZO9545 - The Emerald Spire Superdungeon
+		- [ ] PZO9546 - Plunder & Peril
+		- [ ] PZO9547 - Daughters of Fury
+		- [ ] PZO9548 - Feast of Dust
+		- [ ] PZO9549 - The House on Hook Street
+		- [ ] PZO9550 - Down the Blighted Path
+		- [ ] PZO9551 - Ire of the Storm
+		- [ ] PZO9552 - Gallows of Madness
+		- [ ] PZO9553 - Seers of the Drowned City
+		- [ ] PZO9554 - Cradle of Night
+		- [ ] PZOGAUNTLET - The Gauntlet
+		- [ ] PZOGENA001 - Heroes for Highdelve
 	- [ ] PF2e
 		- [ ] PZO9555 - Fall of Plaguestone
+		- [ ] PZO9556 - The Dead God's Hand
 		- [ ] PZO9557 - The Slithering
 		- [ ] PZO9558 - Troubles in Otari
 		- [ ] PZO9559 - Malevolence
