@@ -69,7 +69,28 @@
 		- [ ] PZO90195-99 - Season of Ghosts
 		- [ ] PZO90200 - Seven Dooms for Sandpoint
 - [ ] PZO92 - PF1e Campaign Setting
+	- [ ] PZO1105 - Gazetteer
+	- [ ] PZO1106 - Guide to Korvosa
+	- [ ] PZO1107 - Classic Monsters Revisited
+	- [ ] PZO1108 - Guide to Darkmoon Vale
+	- [ ] PZO1111 - Campaign Setting
+	- [ ] PZO9202 - Gods and Magic
+	- [ ] PZO9204 - Into the Darklands
+	- [ ] PZO9205 - Guide to Absalom
+	- [ ] PZO9207 - Dragons Revisited
+	- [ ] PZO9208 - Dark Markets, a Guide to Katapesh
+	- [ ] PZO9209 - The Great Beyond, A Guide to the Multiverse
+	- [ ] PZO9210 - Dungeon Denizens Revisited
+	- [ ] PZO9211 - Seekers of Secrets, A Guide to the Pathfinder Society
 	- [ ] PZO9213 - Book of the Damned, Volume 1
+	- [ ] PZO9214 - Cities of Golarion
+	- [ ] PZO9216 - Classic Horrors Revisited
+	- [ ] PZO9217 - Guide to the River Kingdoms
+	- [ ] PZO9219 - NPC Guide
+	- [ ] PZO9220 - Classic Treasures Revisited
+	- [ ] PZO9221 - Faction Guide
+	- [ ] PZO9222 - Heart of the Jungle
+	- [ ] PZO9223 - City Of Strangers
 	- [ ] PZO9225 - Book of the Damned, Volume 2
 	- [ ] PZO9226 - Inner Sea World Guide
 	- [ ] PZO9227 - Misfit Monsters Redeemed
