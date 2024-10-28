@@ -1,299 +1,353 @@
 ## Roadmap
 
-- [ ] 1e
-	- [ ] Rulebooks
-		- [ ] Advanced Class Guide
+- [ ] PZO90 - Adventure Paths
+	- [ ] PF1e
+		- [ ] PZO9001-06 - Rise of the Runelords
 			- [X] Portraits
 			- [ ] Dynamic Tokens
 			- [X] Character Gallery
-		- [ ] Advanced Player's Guide
+		- [ ] PZO9007-12 - Curse of the Crimson Throne
 			- [X] Portraits
 			- [ ] Dynamic Tokens
 			- [X] Character Gallery
-		- [ ] Advanced Race Guide
+		- [ ] PZO9013-18 - Second Darkness
+		- [ ] PZO9019-24 - Legacy of Fire
 			- [X] Portraits
 			- [ ] Dynamic Tokens
 			- [X] Character Gallery
-		- [ ] Adventurer's Guide
+		- [ ] PZO9025-30 - Council of Thieves
 			- [X] Portraits
 			- [ ] Dynamic Tokens
 			- [X] Character Gallery
-		- [ ] Bestiary 1
+		- [ ] PZO9031-36 - Kingmaker
 			- [X] Portraits
 			- [ ] Dynamic Tokens
 			- [X] Character Gallery
-		- [ ] Bestiary 2
+		- [ ] PZO9037-42 - Serpent's Skull
+		- [X] PZO9043-48 - Carrion Crown
+		- [ ] PZO9049-54 - Jade Regent
+		- [ ] PZO9055-60 - Skull & Shackles
+		- [ ] PZO9061-66 - Shattered Star
+		- [ ] PZO9067-72 - Reign of Winter
+		- [ ] PZO9073-78 - Wrath of the Righteous
+		- [ ] PZO9079-84 - Mummy's Mask
+		- [ ] PZO9085-90 - Iron Gods
 			- [X] Portraits
 			- [ ] Dynamic Tokens
 			- [X] Character Gallery
-		- [ ] Bestiary 3
+		- [ ] PZO9091-96 - Giantslayers
 			- [X] Portraits
 			- [ ] Dynamic Tokens
 			- [X] Character Gallery
-		- [ ] Bestiary 4
+		- [ ] PZO9097-102 - Hell's Rebels
 			- [X] Portraits
 			- [ ] Dynamic Tokens
 			- [X] Character Gallery
-		- [ ] Bestiary 5
+		- [ ] PZO90103-108 - Hell's Vengeance
 			- [X] Portraits
 			- [ ] Dynamic Tokens
 			- [X] Character Gallery
-		- [ ] Bestiary 6
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] Bestiary Bonus
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] Book of the Damned
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] Core Rulebook
-		- [ ] Gamemastery Guide
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] Horror Adventures
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] Monster Codex
-		- [ ] Mythic Adventures
-		- [ ] NPC Codex
-		- [ ] Pathfinder Unchained
-		- [ ] Planar Adventures
-		- [ ] Ultimate Campaign
-		- [ ] Ultimate Combat
-		- [ ] Ultimate Equipment
-		- [ ] Ultimate Intrigue
-		- [ ] Ultimate Magic
-		- [ ] Ultimate Wilderness
-		- [ ] Villain Codex
-	- [ ] Campaign
-		- [ ] Andoran, Birthplace of Freedom
-		- [ ] Aquatic Adventures
-		- [ ] Artifacts & Legends
-		- [ ] Belkzen, Hold of the Orc Hordes
-		- [ ] Book of the Damned, Volume 1
-		- [ ] Book of the Damned, Volume 2
-		- [ ] Book of the Damned, Volume 3
-		- [ ] Castles of the Inner Sea
-		- [ ] Cheliax, The Infernal Empire
-		- [ ] Chronicle of the Righteous
-		- [ ] Concordance of Rivals
-		- [ ] Constructs Handbook
-		- [ ] Darklands Revisited
-		- [ ] Demons Revisited
-		- [ ] Distant Realms
-		- [ ] Distant Shores
-		- [ ] Distant Worlds
-		- [ ] Dragon Empires Gazetteer
-		- [ ] Dragon Empires Primer
-		- [ ] Dragons Unleashed
-		- [ ] Druma, Profit and Prophecy
-		- [ ] Dungeons of Golarion
-		- [ ] Faiths of Golarion
-		- [ ] Fey Revisited
-		- [ ] First World, Realm of the Fey
-		- [ ] Giants Revisited
-		- [ ] Heaven Unleashed
-		- [ ] Horror Realms
-		- [ ] Inner Sea Bestiary
-		- [ ] Inner Sea Combat
-		- [ ] Inner Sea Faiths
-		- [ ] Inner Sea Gods
-		- [ ] Inner Sea Intrigue
-		- [ ] Inner Sea Magic
-		- [ ] Inner Sea Monster Codex
-		- [ ] Inner Sea NPC Codex
-		- [ ] Inner Sea Races
-		- [ ] Inner Sea Taverns
-		- [ ] Inner Sea Temples
-		- [ ] Inner Sea World Guide
-		- [ ] Irrisen, Land of Eternal Winter
-		- [ ] Isles of the Shackles
-		- [ ] Lands of Conflict
-		- [ ] Lands of the Linnorm Kings
-		- [ ] Lost Cities of Golarion
-		- [ ] Lost Kingdoms
-		- [ ] Lost Treasures
-		- [ ] Magnimar, City of Monuments
-		- [ ] Misfit Monsters Redeemed
-		- [ ] Mystery Monsters Revisited
-		- [ ] Mythic Realms
-		- [ ] Mythical Monsters Revisited
-		- [ ] Nidal, Land of Shadows
-		- [ ] Numeria, Land of Fallen Stars
-		- [ ] Occult Bestiary
-		- [ ] Occult Mysteries
-		- [ ] Occult Realms
-		- [ ] Osirion, Legacy of Pharaohs
-		- [ ] Path of the Hellknight
-		- [ ] Pathfinder Society Field Guide
-		- [ ] Paths of Prestige
-		- [ ] Planes of Power
-		- [ ] Qadira, Jewel of the East
-		- [ ] Rival Guide
-		- [ ] Rule of Fear
-		- [ ] Sandpoint, Light of the Lost Coast
-		- [ ] Ships of the Inner Sea
-		- [ ] Taldor, the First Empire
-		- [ ] Technology Guide
-		- [ ] The Worldwound
-		- [ ] Tombs of Golarion
-		- [ ] Towns of the Inner Sea
-		- [ ] Undead Revisited
-		- [ ] Undead Unleashed
-	- [ ] Adventure Paths
-		- [ ] Rise of the Runelords
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] Curse of the Crimson Throne
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] Second Darkness
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] Legacy of Fire
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] Council of Thieves
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] Kingmaker
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] Serpent's Skull
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] Carrion Crown
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] Jade Regent
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] Skull & Shackles
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] Shattered Star
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] Reign of Winter
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] Wrath of the Righteous
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] Mummy's Mask
-		- [ ] Iron Gods
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] Giantslayers
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] Hell's Rebels
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] Hell's Vengeance
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] Strange Aeons
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] Ironfang Invasion
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] Ruins of Azlant
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] War for the Crown
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] Return of the Runelords
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [X] Tyrant's Grasp
-- [ ] 2e
-	- [ ] Rulebooks
-		- [ ] Book of the Dead
-			- [X] Portraits
-			- [X] Dynamic Tokens
-			- [ ] Character Gallery
-		- [ ] Howl of the Wild
-			- [ ] Portraits
-			- [ ] Dynamic Tokens
-			- [ ] Character Gallery
-		- [ ] Rage of Elements
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [ ] Character Gallery
-		- [ ] Dark Archive
-			- [X] Portraits
-			- [X] Dynamic Tokens
-			- [ ] Character Gallery
-	- [ ] Lost Omens
-		- [ ] Highhelm
-			- [X] Portraits
-			- [X] Dynamic Tokens
-			- [ ] Character Gallery
-		- [ ] Impossible Lands
-			- [X] Portraits
-			- [X] Dynamic Tokens
-			- [ ] Character Gallery
-		- [ ] Monsters of Myth
-			- [X] Portraits
-			- [X] Dynamic Tokens
-			- [ ] Character Gallery
-		- [ ] The Mwangi Expanse
-			- [X] Portraits
-			- [X] Dynamic Tokens
-			- [ ] Character Gallery
-		- [ ] Tian Xia World Guide
-			- [X] Portraits
-			- [X] Dynamic Tokens
-			- [ ] Character Gallery
-		- [ ] Tian Xia Character Guide
-	- [ ] Standalone Adventures
-		- [ ] Crown of the Kobold King
+		- [X] PZO90109-114 - Strange Aeons
+		- [ ] PZO90115-120 - Ironfang Invasion
+		- [ ] PZO90121-126 - Ruins of Azlant
+		- [ ] PZO90127-132 - War for the Crown
+		- [ ] PZO90133-138 - Return of the Runelords
+		- [X] PZO90139-144 - Tyrant's Grasp
+	- [ ] PF2e
+		- [ ] PZO90145-50 - Age of Ashes
+		- [ ] PZO90151-56 - Extinction Curse
+		- [ ] PZO90157-62 - Agents of Edgewatch
+		- [ ] PZO90163-65 - Abomination Vaults
+		- [ ] PZO90166-68 - Fists of the Ruby Phoenix
+		- [ ] PZO90169-74 - Strenght of Thousands
+		- [ ] PZO90175-77 - Quest for the Frozen Flame
+		- [ ] PZO90178-80 - Outlaws of Alkenstar
+		- [ ] PZO90181-86 - Blood Lords
+		- [ ] PZO90187-89 - Gatewalkers
+		- [ ] PZO90190-92 - Stolen Fate
+		- [ ] PZO90193-95 - Sky King's Tomb
+		- [ ] PZO90195-99 - Season of Ghosts
+		- [ ] PZO90200 - Seven Dooms for Sandpoint
+- [ ] PZO92 - PF1e Campaign Setting
+	- [ ] PZO9213 - Book of the Damned, Volume 1
+	- [ ] PZO9225 - Book of the Damned, Volume 2
+	- [ ] PZO9226 - Inner Sea World Guide
+	- [ ] PZO9227 - Misfit Monsters Redeemed
+	- [ ] PZO9229 - Lost Cities of Golarion
+	- [ ] PZO9231 - Rule of Fear
+	- [ ] PZO9232 - Rival Guide
+	- [ ] PZO9233 - Undead Revisited
+	- [ ] PZO9234 - Dungeons of Golarion
+	- [ ] PZO9235 - Pathfinder Society Field Guide
+	- [ ] PZO9237 - Inner Sea Magic
+	- [ ] PZO9238 - Lands of the Linnorm Kings
+	- [ ] PZO9239 - Book of the Damned, Volume 3
+	- [ ] PZO9240 - Dragon Empires Gazetteer
+	- [ ] PZO9241 - Mythical Monsters Revisited
+	- [ ] PZO9243 - Distant Worlds
+	- [ ] PZO9244 - Isles of the Shackles
+	- [ ] PZO9245 - Giants Revisited
+	- [ ] PZO9246 - Lost Kingdoms
+	- [ ] PZO9248 - Magnimar, City of Monuments
+	- [ ] PZO9249 - Paths of Prestige
+	- [ ] PZO9250 - Artifacts & Legends
+	- [ ] PZO9251 - Inner Sea Bestiary
+	- [ ] PZO9252 - Mystery Monsters Revisited
+	- [ ] PZO9253 - Irrisen, Land of Eternal Winter
+	- [ ] PZO9255 - Chronicle of the Righteous
+	- [ ] PZO9256 - Fey Revisited
+	- [ ] PZO9257 - Castles of the Inner Sea
+	- [ ] PZO9258 - Dragons Unleashed
+	- [ ] PZO9259 - The Worldwound
+	- [ ] PZO9261 - Demons Revisited
+	- [ ] PZO9262 - Mythic Realms
+	- [ ] PZO9263 - Towns of the Inner Sea
+	- [ ] PZO9264 - Inner Sea NPC Codex
+	- [ ] PZO9265 - Osirion, Legacy of Pharaohs
+	- [ ] PZO9267 - Inner Sea Gods
+	- [ ] PZO9268 - Inner Sea Combat
+	- [ ] PZO9269 - Occult Mysteries
+	- [ ] PZO9270 - Numeria, Land of Fallen Stars
+	- [ ] PZO9272 - Technology Guide
+	- [ ] PZO9273 - Undead Unleashed
+	- [ ] PZO9274 - Ships of the Inner Sea
+	- [ ] PZO9275 - Lost Treasures
+	- [ ] PZO9276 - Belkzen, Hold of the Orc Hordes
+	- [ ] PZO9278 - Tombs of Golarion
+	- [ ] PZO9279 - Andoran, Birthplace of Freedom
+	- [ ] PZO9280 - Inner Sea Races
+	- [ ] PZO9281 - Hell Unleashed
+	- [ ] PZO9283 - Inner Sea Monster Codex
+	- [ ] PZO9284 - Occult Bestiary
+	- [ ] PZO9285 - Distant Shores
+	- [ ] PZO9286 - Occult Realms
+	- [ ] PZO9287 - Cheliax, The Infernal Empire
+	- [ ] PZO9289 - Darklands Revisited
+	- [ ] PZO9290 - Inner Sea Faiths
+	- [ ] PZO9291 - Heaven Unleashed
+	- [ ] PZO9292 - Inner Sea Intrigue
+	- [ ] PZO9293 - Path of the Hellknight
+	- [ ] PZO9295 - Planes of Power
+	- [ ] PZO9296 - Inner Sea Temples
+	- [ ] PZO9297 - Horror Realms
+	- [ ] PZO9298 - First World, Realm of the Fey
+	- [ ] PZO9299 - Qadira, Jewel of the East
+	- [ ] PZO92101 - Lands of Conflict
+	- [ ] PZO92102 - Aquatic Adventures
+	- [ ] PZO92104 - Constructs Handbook
+	- [ ] PZO92105 - Taldor, the First Empire
+	- [ ] PZO92107 - Inner Sea Taverns
+	- [ ] PZO92108 - Nidal, Land of Shadows
+	- [ ] PZO92109 - Distant Realms
+	- [ ] PZO92111 - Sandpoint, Light of the Lost Coast
+	- [ ] PZO92112 - Faiths of Golarion
+	- [ ] PZO92114 - Concordance of Rivals
+	- [ ] PZO92116 - Druma, Profit and Prophecy
+- [ ] PZO93 - Lost Omens Setting
+	- [ ] PZO9301 - World Guide
+	- [ ] PZO9302 - Character Guide
+	- [ ] PZO9303 - Gods and Magic
+	- [ ] PZO9304 - Absalom, City of Lost Omens
+	- [ ] PZO9306 - Lost Omens Legends
+	- [ ] PZO9307 - Pathfinder Society Guide
+	- [ ] PZO9308 - Ancestry Guide
+	- [ ] PZO9309 - The Mwangi Expanse
+		- [X] Portraits
+		- [X] Dynamic Tokens
+		- [ ] Character Gallery
+	- [ ] PZO9310 - The Grand Bazaar
+	- [ ] PZO9311 - Monsters of Myth
+		- [X] Portraits
+		- [X] Dynamic Tokens
+		- [ ] Character Gallery
+	- [ ] PZO9312 - Knights of Lastwall
+	- [ ] PZO9313 - Travel Guide
+	- [ ] PZO9314 - Impossible Lands
+		- [X] Portraits
+		- [X] Dynamic Tokens
+		- [ ] Character Gallery
+	- [ ] PZO9315 - Firebrands
+	- [ ] PZO9316 - Highhelm
+		- [X] Portraits
+		- [X] Dynamic Tokens
+		- [ ] Character Gallery
+- [ ] PZO95 - Modules
+	- [ ] PF1e
+		- [ ] Academy of Secrets
+		- [ ] Broken Chains
+		- [ ] Carrion Hill
+		- [ ] City of Golden Death
+		- [ ] Cradle of Night
+		- [ ] Crypt of the Everflame
+		- [ ] Cult of the Ebon Destroyers
+		- [ ] Curse of the Riven Sky
+		- [ ] Daughters of Fury
+		- [ ] Dawn of the Scarlet Sun
+		- [ ] Down the Blighted Path
+		- [ ] Fangwood Keep
+		- [ ] Feast of Dust
+		- [ ] Feast of Ravenmoor
+		- [ ] From Shore to Sea
+		- [ ] Gallows of Madness
+		- [ ] Ire of the Storm
+		- [ ] LB1 Tower of the Last Baron
+		- [ ] LB2 Treasure of Chimera Cove
+		- [ ] Masks of the Living God
+		- [ ] Master of the Fallen Fortress
+		- [ ] Murders Mask
+		- [ ] No Response from Deepmar
+		- [ ] Plunder and Peril
+		- [ ] Realm of the Fellnight Queen
+		- [ ] Risen from the Sands
+		- [ ] S1 Clash of the Kingslayers
+		- [ ] Seers of the Drowned City
+		- [ ] Tears at Bitter Manor
+		- [ ] The Dragon's Demand
+		- [ ] The Emerald Spire Superdungeon
+		- [ ] The Gauntlet
+		- [ ] The Godsmouth Heresy
+		- [ ] The Harrowing
+		- [ ] The House on Hook Street
+		- [ ] The Midnight Mirror
+		- [ ] The Moonscar
+		- [ ] The Ruby Phoenix Tournament
+		- [ ] The Witchwar Legacy
+		- [ ] Tomb of the Iron Medusa
+		- [ ] Wardens of the Reborn Forge
+		- [ ] We b4 Goblins
+		- [ ] We be 5uper Goblins
+		- [ ] We be Goblins
+		- [ ] We be Goblins Free
+		- [ ] We be Goblins Too
+	- [ ] PF2e
+		- [ ] PZO9555 - Fall of Plaguestone
+		- [ ] PZO9557 - The Slithering
+		- [ ] PZO9558 - Troubles in Otari
+		- [ ] PZO9559 - Malevolence
+		- [ ] PZO9560 - Night of the Gray Death
+		- [ ] PZO9561 - Shadows at Sundown
+		- [ ] PZO9562 - Crown of the Kobold King
 			- [X] Portraits
 			- [X] Tokens
 			- [ ] Dynamic Tokens
 			- [ ] Character Gallery
-		- [ ] Fall of Plaguestone
-		- [ ] Malevolence
-		- [ ] Night of the Gray Death
-		- [ ] Shadows at Sundown
-		- [ ] The Enmity Cycle
-		- [ ] The Slithering
-		- [ ] Troubles in Otari
-	- [ ] Adventure Paths
-		- [ ] Age of Ashes
-		- [ ] Agents of Edgewatch
-		- [ ] Extinction Curse
-		- [ ] Fists of the Ruby Phoenix
-		- [ ] Quest for the Frozen Flame
-		- [ ] Strenght of Thousands
+		- [ ] PZO9563 - The Enmity Cycle
+		- [ ] PZO9564 - Rusthenge
+- [ ] PZO10 - Pathfinder Pawns
+- [ ] PZO11 - PF1e Rulebooks
+	- [ ] PZO1110 - Core Rulebook
+	- [ ] PZO1112 - Bestiary 1
+		- [X] Portraits
+		- [ ] Dynamic Tokens
+		- [X] Character Gallery
+	- [ ] PZO1114 - Gamemastery Guide
+		- [X] Portraits
+		- [ ] Dynamic Tokens
+		- [X] Character Gallery
+	- [ ] PZO1115 - Advanced Player's Guide
+		- [X] Portraits
+		- [ ] Dynamic Tokens
+	- [ ] PZO1116 - Bestiary 2
+		- [X] Portraits
+		- [ ] Dynamic Tokens
+		- [X] Character Gallery
+	- [ ] PZO1117 - Ultimate Magic
+	- [ ] PZO1118 - Ultimate Combat
+	- [ ] PZO1120 - Bestiary 3
+		- [X] Portraits
+		- [ ] Dynamic Tokens
+		- [X] Character Gallery
+	- [ ] PZO1121 - Advanced Race Guide
+		- [X] Portraits
+		- [ ] Dynamic Tokens
+		- [X] Character Gallery
+	- [ ] PZO1123 - Ultimate Equipment
+	- [ ] PZO1124 - NPC Codex
+	- [ ] PZO1125 - Ultimate Campaign
+	- [ ] PZO1126 - Mythic Adventures
+	- [ ] PZO1127 - Bestiary 4
+		- [X] Portraits
+		- [ ] Dynamic Tokens
+		- [X] Character Gallery
+	- [X] PZO1128 - Strategy Guide
+	- [ ] PZO1129 - Advanced Class Guide
+		- [X] Portraits
+		- [ ] Dynamic Tokens
+		- [X] Character Gallery
+		- [X] Character Gallery
+	- [ ] PZO1130 - Monster Codex
+	- [ ] PZO1131 - Pathfinder Unchained
+	- [ ] PZO1132 - Occult Adventures
+	- [ ] PZO1133 - Bestiary 5
+		- [X] Portraits
+		- [ ] Dynamic Tokens
+		- [X] Character Gallery
+	- [ ] PZO1134 - Ultimate Intrigue
+	- [ ] PZO1135 - Horror Adventures
+		- [X] Portraits
+		- [ ] Dynamic Tokens
+		- [X] Character Gallery
+	- [ ] PZO1136 - Villain Codex
+	- [ ] PZO1137 - Bestiary 6
+		- [X] Portraits
+		- [ ] Dynamic Tokens
+		- [X] Character Gallery
+	- [ ] PZO1138 - Adventurer's Guide
+		- [X] Portraits
+		- [ ] Dynamic Tokens
+		- [X] Character Gallery
+	- [ ] PZO1139 - Book of the Damned
+		- [X] Portraits
+		- [ ] Dynamic Tokens
+		- [X] Character Gallery
+	- [ ] PZO1140 - Ultimate Wilderness
+	- [ ] PZO1141 - Planar Adventures
+	- [ ] PZO9500-3 - Bestiary Bonus
+		- [X] Portraits
+		- [ ] Dynamic Tokens
+		- [X] Character Gallery
+- [ ] PZO21 - PF2e Rulebooks
+	- [ ] PZO2101 - Core Rulebook
+	- [ ] PZO2102 - Bestiary
+	- [ ] PZO2103 - Gamemastery Guide
+	- [ ] PZO2104 - Bestiary 2
+	- [ ] PZO2105 - Advanced Player's Guide
+	- [ ] PZO2107 - Bestiary 3
+	- [ ] PZO2108 - Secrets of Magic
+	- [ ] PZO2109 - Guns & Gears
+	- [ ] PZO2110 - Book of the Dead
+		- [X] Portraits
+		- [X] Dynamic Tokens
+		- [ ] Character Gallery
+	- [ ] PZO2111 - Dark Archive
+		- [X] Portraits
+		- [X] Dynamic Tokens
+		- [ ] Character Gallery
+	- [ ] PZO2112 - Treasure Vault
+	- [ ] PZO2113 - Rage of Elements
+		- [X] Portraits
+		- [ ] Dynamic Tokens
+		- [ ] Character Gallery
+- [ ] PZO12 - Remaster PF2e Rulebooks
+	- [ ] PZO12001 - Player Core
+	- [ ] PZO12002 - GM Core
+	- [ ] PZO12003 - Monster Core
+	- [ ] PZO12004 - Player Core 2
+	- [ ] PZO12005 - Howl of the Wild
+	- [ ] PZO12006 - War of Immortals
+	- [ ] PZO12007 - NPC Core
+	- [ ] PZO12008 - Battlecry!
+- [ ] PZO13 - Remaster PF2e Lost Omens Setting
+	- [ ] PZO13001 - Tian Xia World Guide
+		- [X] Portraits
+		- [X] Dynamic Tokens
+		- [ ] Character Gallery
+	- [ ] PZO13002 - Tian Xia Character Guide
+	- [ ] PZO13003 - Divine Mysteries
+- [ ] PZO14 - Remaster PF2e Standalone Adventures
+	- [ ] PZO14002 - Prey for Death
+	- [ ] PZO14003 - Claws of the Tyrant
+- [ ] PZO15 - Remaster PF2e Adventure Paths
+	- [ ] PZO15201-03 - Wardens of Wildwood
+	- [ ] PZO15204-06 - Curtain Call
+	- [ ] PZO15207-09 - Triumph of the Tusk
