@@ -1,6 +1,10 @@
-# 3.0.0
+# 3.2.0
 
--	Añadidos subjects de Tyrant's Grasp
+-	Añadidos subjects de Carrion Crown.
+
+# 3.1.0
+
+-	Añadidos subjects de Tyrant's Grasp.
 
 # 3.0.0
 

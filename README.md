@@ -47,7 +47,7 @@
 			- [X] Portraits
 			- [ ] Dynamic Tokens
 			- [X] Character Gallery
-		- [X] PZO90109-114 - Strange Aeons
+		- [ ] PZO90109-114 - Strange Aeons
 		- [ ] PZO90115-120 - Ironfang Invasion
 		- [ ] PZO90121-126 - Ruins of Azlant
 		- [ ] PZO90127-132 - War for the Crown
