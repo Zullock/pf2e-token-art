@@ -6,7 +6,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Aasimar.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Aasimar.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Aasimar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Aasimar.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Aasimar.webp"
         },
         "tags": {
@@ -30,7 +30,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Aboleth.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Aboleth.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Aboleth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Aboleth.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Aboleth.webp"
         },
         "tags": {
@@ -53,7 +53,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/AirElemental.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/AirElemental.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/AirElemental.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/AirElemental.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/AirElemental.webp"
         },
         "tags": {
@@ -75,7 +75,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/AncientBlackDragon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/AncientBlackDragon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/AncientBlackDragon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/AncientBlackDragon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/AncientBlackDragon.webp"
         },
         "tags": {
@@ -97,7 +97,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/AncientBlueDragon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/AncientBlueDragon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/AncientBlueDragon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/AncientBlueDragon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/AncientBlueDragon.webp"
         },
         "tags": {
@@ -119,7 +119,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/AncientBrassDragon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/AncientBrassDragon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/AncientBrassDragon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/AncientBrassDragon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/AncientBrassDragon.webp"
         },
         "tags": {
@@ -141,7 +141,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/AncientBronzeDragon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/AncientBronzeDragon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/AncientBronzeDragon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/AncientBronzeDragon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/AncientBronzeDragon.webp"
         },
         "tags": {
@@ -163,7 +163,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/AncientCopperDragon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/AncientCopperDragon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/AncientCopperDragon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/AncientCopperDragon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/AncientCopperDragon.webp"
         },
         "tags": {
@@ -185,7 +185,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/AncientGoldDragon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/AncientGoldDragon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/AncientGoldDragon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/AncientGoldDragon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/AncientGoldDragon.webp"
         },
         "tags": {
@@ -207,7 +207,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/AncientGreenDragon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/AncientGreenDragon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/AncientGreenDragon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/AncientGreenDragon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/AncientGreenDragon.webp"
         },
         "tags": {
@@ -229,7 +229,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/AncientRedDragon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/AncientRedDragon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/AncientRedDragon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/AncientRedDragon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/AncientRedDragon.webp"
         },
         "tags": {
@@ -251,7 +251,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/AncientSilverDragon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/AncientSilverDragon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/AncientSilverDragon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/AncientSilverDragon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/AncientSilverDragon.webp"
         },
         "tags": {
@@ -273,7 +273,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/AncientWhiteDragon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/AncientWhiteDragon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/AncientWhiteDragon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/AncientWhiteDragon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/AncientWhiteDragon.webp"
         },
         "tags": {
@@ -295,7 +295,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/AnimatedCage.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/AnimatedCage.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/AnimatedCage.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/AnimatedCage.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/AnimatedCage.webp"
         },
         "tags": {
@@ -317,7 +317,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Ankheg.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Ankheg.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Ankheg.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Ankheg.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Ankheg.webp"
         },
         "tags": {
@@ -336,7 +336,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Ankylosaurus.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Ankylosaurus.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Ankylosaurus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Ankylosaurus.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Ankylosaurus.webp"
         },
         "tags": {
@@ -358,7 +358,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/AssassinVine.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/AssassinVine.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/AssassinVine.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/AssassinVine.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/AssassinVine.webp"
         },
         "tags": {
@@ -377,7 +377,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Babau.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Babau.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Babau.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Babau.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Babau.webp"
         },
         "tags": {
@@ -399,7 +399,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Balor.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Balor.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Balor.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Balor.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Balor.webp"
         },
         "tags": {
@@ -421,7 +421,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Barbazu.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Barbazu.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Barbazu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Barbazu.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Barbazu.webp"
         },
         "tags": {
@@ -443,7 +443,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Barghest.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Barghest.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Barghest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Barghest.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Barghest.webp"
         },
         "tags": {
@@ -463,7 +463,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Basidirond.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Basidirond.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Basidirond.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Basidirond.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Basidirond.webp"
         },
         "tags": {
@@ -482,7 +482,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Basilisk.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Basilisk.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Basilisk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Basilisk.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Basilisk.webp"
         },
         "tags": {
@@ -504,7 +504,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Bebilith.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Bebilith.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Bebilith.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Bebilith.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Bebilith.webp"
         },
         "tags": {
@@ -524,7 +524,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Behir.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Behir.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Behir.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Behir.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Behir.webp"
         },
         "tags": {
@@ -543,7 +543,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Bison.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Bison.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Bison.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Bison.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Bison.webp"
         },
         "tags": {
@@ -565,7 +565,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/BlackPudding.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/BlackPudding.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/BlackPudding.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/BlackPudding.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/BlackPudding.webp"
         },
         "tags": {
@@ -584,7 +584,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Stirge.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Stirge.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Stirge.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Stirge.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Stirge.webp"
         },
         "tags": {
@@ -603,7 +603,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Boggard.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Boggard.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Boggard.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Boggard.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Boggard.webp"
         },
         "tags": {
@@ -626,7 +626,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Bralani.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Bralani.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Bralani.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Bralani.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Bralani.webp"
         },
         "tags": {
@@ -648,7 +648,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Bugbear.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Bugbear.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Bugbear.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Bugbear.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Bugbear.webp"
         },
         "tags": {
@@ -667,7 +667,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Bulette.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Bulette.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Bulette.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Bulette.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Bulette.webp"
         },
         "tags": {
@@ -686,7 +686,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/DrakCreeper.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/DrakCreeper.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/DrakCreeper.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/DrakCreeper.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/DrakCreeper.webp"
         },
         "tags": {
@@ -713,7 +713,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/DarkStalker.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/DarkStalker.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/DarkStalker.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/DarkStalker.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/DarkStalker.webp"
         },
         "tags": {
@@ -743,7 +743,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/CaveBear.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/CaveBear.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/CaveBear.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/CaveBear.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/CaveBear.webp"
         },
         "tags": {
@@ -765,7 +765,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/CaveFisher.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/CaveFisher.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/CaveFisher.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/CaveFisher.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/CaveFisher.webp"
         },
         "tags": {
@@ -784,7 +784,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Centaur.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Centaur.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Centaur.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Centaur.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Centaur.webp"
         },
         "tags": {
@@ -814,7 +814,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Chimera.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Chimera.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Chimera.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Chimera.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Chimera.webp"
         },
         "tags": {
@@ -833,7 +833,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Choker.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Choker.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Choker.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Choker.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Choker.webp"
         },
         "tags": {
@@ -852,7 +852,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Chuul.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Chuul.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Chuul.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Chuul.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Chuul.webp"
         },
         "tags": {
@@ -871,7 +871,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/ClayGolem.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/ClayGolem.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/ClayGolem.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/ClayGolem.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/ClayGolem.webp"
         },
         "tags": {
@@ -893,7 +893,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Cloaker.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Cloaker.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Cloaker.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Cloaker.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Cloaker.webp"
         },
         "tags": {
@@ -912,7 +912,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/CloudGiant.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/CloudGiant.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/CloudGiant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/CloudGiant.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/CloudGiant.webp"
         },
         "tags": {
@@ -934,7 +934,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Couatl.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Couatl.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Couatl.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Couatl.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Couatl.webp"
         },
         "tags": {
@@ -956,7 +956,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Cockatrice.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Cockatrice.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Cockatrice.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Cockatrice.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Cockatrice.webp"
         },
         "tags": {
@@ -975,7 +975,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Cornugon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Cornugon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Cornugon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Cornugon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Cornugon.webp"
         },
         "tags": {
@@ -997,7 +997,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/CragLinnorm.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/CragLinnorm.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/CragLinnorm.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/CragLinnorm.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/CragLinnorm.webp"
         },
         "tags": {
@@ -1019,7 +1019,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Cyclops.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Cyclops.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Cyclops.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Cyclops.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Cyclops.webp"
         },
         "tags": {
@@ -1045,7 +1045,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Daeodon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Daeodon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Daeodon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Daeodon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Daeodon.webp"
         },
         "tags": {
@@ -1067,7 +1067,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/DarkNaga.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/DarkNaga.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/DarkNaga.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/DarkNaga.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/DarkNaga.webp"
         },
         "tags": {
@@ -1089,7 +1089,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Darkmantle.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Darkmantle.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Darkmantle.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Darkmantle.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Darkmantle.webp"
         },
         "tags": {
@@ -1108,7 +1108,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Deinonychus.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Deinonychus.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Deinonychus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Deinonychus.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Deinonychus.webp"
         },
         "tags": {
@@ -1130,7 +1130,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Derro.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Derro.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Derro.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Derro.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Derro.webp"
         },
         "tags": {
@@ -1149,7 +1149,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Devourer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Devourer.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Devourer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Devourer.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Devourer.webp"
         },
         "tags": {
@@ -1168,7 +1168,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/DireBat.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/DireBat.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/DireBat.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/DireBat.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/DireBat.webp"
         },
         "tags": {
@@ -1191,7 +1191,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/DireCrocodile.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/DireCrocodile.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/DireCrocodile.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/DireCrocodile.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/DireCrocodile.webp"
         },
         "tags": {
@@ -1213,7 +1213,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/DireWolf.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/DireWolf.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/DireWolf.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/DireWolf.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/DireWolf.webp"
         },
         "tags": {
@@ -1235,7 +1235,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/DireWolverine.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/DireWolverine.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/DireWolverine.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/DireWolverine.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/DireWolverine.webp"
         },
         "tags": {
@@ -1257,7 +1257,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Doppelganger.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Doppelganger.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Doppelganger.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Doppelganger.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Doppelganger.webp"
         },
         "tags": {
@@ -1276,7 +1276,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Dracolisk.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Dracolisk.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Dracolisk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Dracolisk.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Dracolisk.webp"
         },
         "tags": {
@@ -1295,7 +1295,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/DragonTurtle.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/DragonTurtle.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/DragonTurtle.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/DragonTurtle.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/DragonTurtle.webp"
         },
         "tags": {
@@ -1314,7 +1314,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Drathnelar.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Drathnelar.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Drathnelar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Drathnelar.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Drathnelar.webp"
         },
         "tags": {
@@ -1340,7 +1340,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Dretch.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Dretch.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Dretch.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Dretch.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Dretch.webp"
         },
         "tags": {
@@ -1362,7 +1362,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Drider.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Drider.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Drider.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Drider.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Drider.webp"
         },
         "tags": {
@@ -1385,7 +1385,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Drow%20Noble.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Drow%20Noble.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Drow%20Noble.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Drow%20Noble.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Drow%20Noble.webp"
         },
         "tags": {
@@ -1414,7 +1414,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Dryad.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Dryad.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Dryad.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Dryad.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Dryad.webp"
         },
         "tags": {
@@ -1436,7 +1436,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/EarthElemental.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/EarthElemental.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/EarthElemental.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/EarthElemental.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/EarthElemental.webp"
         },
         "tags": {
@@ -1458,7 +1458,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Erinyes.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Erinyes.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Erinyes.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Erinyes.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Erinyes.webp"
         },
         "tags": {
@@ -1480,7 +1480,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/PhaseSpider.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/PhaseSpider.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/PhaseSpider.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/PhaseSpider.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/PhaseSpider.webp"
         },
         "tags": {
@@ -1502,7 +1502,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Ettin.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Ettin.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Ettin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Ettin.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Ettin.webp"
         },
         "tags": {
@@ -1524,7 +1524,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Kyton.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Kyton.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Kyton.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Kyton.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Kyton.webp"
         },
         "tags": {
@@ -1546,7 +1546,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Marid.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Marid.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Marid.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Marid.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Marid.webp"
         },
         "tags": {
@@ -1568,7 +1568,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/FireElemental.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/FireElemental.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/FireElemental.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/FireElemental.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/FireElemental.webp"
         },
         "tags": {
@@ -1590,7 +1590,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/FireGiant.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/FireGiant.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/FireGiant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/FireGiant.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/FireGiant.webp"
         },
         "tags": {
@@ -1616,7 +1616,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/OgreMage.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/OgreMage.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/OgreMage.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/OgreMage.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/OgreMage.webp"
         },
         "tags": {
@@ -1642,7 +1642,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/FireBeetle.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/FireBeetle.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/FireBeetle.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/FireBeetle.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/FireBeetle.webp"
         },
         "tags": {
@@ -1665,7 +1665,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/FleshGolem.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/FleshGolem.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/FleshGolem.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/FleshGolem.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/FleshGolem.webp"
         },
         "tags": {
@@ -1687,7 +1687,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Troll.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Troll.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Troll.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Troll.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Troll.webp"
         },
         "tags": {
@@ -1710,7 +1710,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Froghemoth.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Froghemoth.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Froghemoth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Froghemoth.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Froghemoth.webp"
         },
         "tags": {
@@ -1729,7 +1729,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/FrostGiant.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/FrostGiant.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/FrostGiant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/FrostGiant.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/FrostGiant.webp"
         },
         "tags": {
@@ -1756,7 +1756,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Gargoyle.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Gargoyle.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Gargoyle.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Gargoyle.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Gargoyle.webp"
         },
         "tags": {
@@ -1775,7 +1775,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/GelatinousCube.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/GelatinousCube.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/GelatinousCube.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GelatinousCube.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GelatinousCube.webp"
         },
         "tags": {
@@ -1794,7 +1794,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Gelugon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Gelugon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Gelugon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Gelugon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Gelugon.webp"
         },
         "tags": {
@@ -1819,7 +1819,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Ghaele.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Ghaele.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Ghaele.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Ghaele.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Ghaele.webp"
         },
         "tags": {
@@ -1845,7 +1845,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/GhostAristocrat.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/GhostAristocrat.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/GhostAristocrat.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GhostAristocrat.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GhostAristocrat.webp"
         },
         "tags": {
@@ -1867,7 +1867,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Ghoul.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Ghoul.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Ghoul.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Ghoul.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Ghoul.webp"
         },
         "tags": {
@@ -1890,7 +1890,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/GiantAnt.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/GiantAnt.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/GiantAnt.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GiantAnt.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GiantAnt.webp"
         },
         "tags": {
@@ -1913,7 +1913,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/GiantCentipede.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/GiantCentipede.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/GiantCentipede.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GiantCentipede.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GiantCentipede.webp"
         },
         "tags": {
@@ -1936,7 +1936,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/GiantCrab.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/GiantCrab.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/GiantCrab.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GiantCrab.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GiantCrab.webp"
         },
         "tags": {
@@ -1958,7 +1958,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/GiantEagle.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/GiantEagle.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/GiantEagle.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GiantEagle.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GiantEagle.webp"
         },
         "tags": {
@@ -1980,7 +1980,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/GiantFlytrap.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/GiantFlytrap.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/GiantFlytrap.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GiantFlytrap.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GiantFlytrap.webp"
         },
         "tags": {
@@ -2002,7 +2002,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/GiantFrilledLizard.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/GiantFrilledLizard.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/GiantFrilledLizard.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GiantFrilledLizard.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GiantFrilledLizard.webp"
         },
         "tags": {
@@ -2024,7 +2024,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/GiantFrog.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/GiantFrog.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/GiantFrog.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GiantFrog.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GiantFrog.webp"
         },
         "tags": {
@@ -2046,7 +2046,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/GiantLeech.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/GiantLeech.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/GiantLeech.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GiantLeech.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GiantLeech.webp"
         },
         "tags": {
@@ -2069,7 +2069,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/GiantMantis.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/GiantMantis.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/GiantMantis.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GiantMantis.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GiantMantis.webp"
         },
         "tags": {
@@ -2091,7 +2091,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/GiantMorayEel.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/GiantMorayEel.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/GiantMorayEel.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GiantMorayEel.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GiantMorayEel.webp"
         },
         "tags": {
@@ -2113,7 +2113,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/DireRat.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/DireRat.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/DireRat.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/DireRat.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/DireRat.webp"
         },
         "tags": {
@@ -2136,7 +2136,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/GiantScorpion.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/GiantScorpion.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/GiantScorpion.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GiantScorpion.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GiantScorpion.webp"
         },
         "tags": {
@@ -2159,7 +2159,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/GiantSlug.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/GiantSlug.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/GiantSlug.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GiantSlug.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GiantSlug.webp"
         },
         "tags": {
@@ -2182,7 +2182,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/GiantSpider.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/GiantSpider.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/GiantSpider.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GiantSpider.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GiantSpider.webp"
         },
         "tags": {
@@ -2205,7 +2205,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/GiantSquid.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/GiantSquid.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/GiantSquid.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GiantSquid.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GiantSquid.webp"
         },
         "tags": {
@@ -2227,7 +2227,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/GiantWasp.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/GiantWasp.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/GiantWasp.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GiantWasp.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GiantWasp.webp"
         },
         "tags": {
@@ -2250,7 +2250,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/GibberingMouther.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/GibberingMouther.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/GibberingMouther.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GibberingMouther.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GibberingMouther.webp"
         },
         "tags": {
@@ -2269,7 +2269,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/DireApe.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/DireApe.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/DireApe.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/DireApe.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/DireApe.webp"
         },
         "tags": {
@@ -2291,7 +2291,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Girallon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Girallon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Girallon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Girallon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Girallon.webp"
         },
         "tags": {
@@ -2310,7 +2310,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Glabrezu.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Glabrezu.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Glabrezu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Glabrezu.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Glabrezu.webp"
         },
         "tags": {
@@ -2332,7 +2332,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/GoblinDog.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/GoblinDog.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/GoblinDog.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GoblinDog.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GoblinDog.webp"
         },
         "tags": {
@@ -2354,7 +2354,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/GoblinWarrior.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/GoblinWarrior.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/GoblinWarrior.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GoblinWarrior.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GoblinWarrior.webp"
         },
         "tags": {
@@ -2378,7 +2378,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Gorgon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Gorgon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Gorgon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Gorgon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Gorgon.webp"
         },
         "tags": {
@@ -2397,7 +2397,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/GrayOoze.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/GrayOoze.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/GrayOoze.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GrayOoze.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GrayOoze.webp"
         },
         "tags": {
@@ -2416,7 +2416,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/GreenHag.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/GreenHag.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/GreenHag.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GreenHag.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GreenHag.webp"
         },
         "tags": {
@@ -2438,7 +2438,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Griffon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Griffon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Griffon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Griffon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Griffon.webp"
         },
         "tags": {
@@ -2457,7 +2457,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/GuardianNaga.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/GuardianNaga.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/GuardianNaga.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GuardianNaga.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/GuardianNaga.webp"
         },
         "tags": {
@@ -2479,7 +2479,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Gynosphinx.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Gynosphinx.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Gynosphinx.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Gynosphinx.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Gynosphinx.webp"
         },
         "tags": {
@@ -2501,7 +2501,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Half-CelestialUnicorn.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Half-CelestialUnicorn.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Half-CelestialUnicorn.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Half-CelestialUnicorn.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Half-CelestialUnicorn.webp"
         },
         "tags": {
@@ -2524,7 +2524,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Half-FiendMinotaur.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Half-FiendMinotaur.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Half-FiendMinotaur.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Half-FiendMinotaur.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Half-FiendMinotaur.webp"
         },
         "tags": {
@@ -2548,7 +2548,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Hamatula.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Hamatula.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Hamatula.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Hamatula.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Hamatula.webp"
         },
         "tags": {
@@ -2570,7 +2570,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Harpy.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Harpy.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Harpy.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Harpy.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Harpy.webp"
         },
         "tags": {
@@ -2594,7 +2594,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Hawk.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Hawk.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Hawk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Hawk.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Hawk.webp"
         },
         "tags": {
@@ -2616,7 +2616,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/HellHound.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/HellHound.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/HellHound.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/HellHound.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/HellHound.webp"
         },
         "tags": {
@@ -2636,7 +2636,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Hezrou.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Hezrou.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Hezrou.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Hezrou.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Hezrou.webp"
         },
         "tags": {
@@ -2658,7 +2658,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/HillGiant.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/HillGiant.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/HillGiant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/HillGiant.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/HillGiant.webp"
         },
         "tags": {
@@ -2680,7 +2680,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Hobgoblin.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Hobgoblin.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Hobgoblin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Hobgoblin.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Hobgoblin.webp"
         },
         "tags": {
@@ -2704,7 +2704,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Homunculus.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Homunculus.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Homunculus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Homunculus.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Homunculus.webp"
         },
         "tags": {
@@ -2726,7 +2726,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Horse.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Horse.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Horse.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Horse.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Horse.webp"
         },
         "tags": {
@@ -2748,7 +2748,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/HoundArchon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/HoundArchon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/HoundArchon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/HoundArchon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/HoundArchon.webp"
         },
         "tags": {
@@ -2776,7 +2776,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Duergar.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Duergar.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Duergar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Duergar.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Duergar.webp"
         },
         "tags": {
@@ -2807,7 +2807,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/HumanSkeleton.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/HumanSkeleton.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/HumanSkeleton.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/HumanSkeleton.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/HumanSkeleton.webp"
         },
         "tags": {
@@ -2826,7 +2826,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/HumanZombie.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/HumanZombie.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/HumanZombie.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/HumanZombie.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/HumanZombie.webp"
         },
         "tags": {
@@ -2845,7 +2845,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Hyaenodon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Hyaenodon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Hyaenodon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Hyaenodon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Hyaenodon.webp"
         },
         "tags": {
@@ -2867,7 +2867,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Hydra.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Hydra.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Hydra.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Hydra.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Hydra.webp"
         },
         "tags": {
@@ -2886,7 +2886,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/IceGolem.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/IceGolem.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/IceGolem.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/IceGolem.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/IceGolem.webp"
         },
         "tags": {
@@ -2908,7 +2908,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/IceLinnorm.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/IceLinnorm.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/IceLinnorm.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/IceLinnorm.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/IceLinnorm.webp"
         },
         "tags": {
@@ -2930,7 +2930,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Efreeti.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Efreeti.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Efreeti.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Efreeti.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Efreeti.webp"
         },
         "tags": {
@@ -2957,7 +2957,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Imp.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Imp.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Imp.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Imp.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Imp.webp"
         },
         "tags": {
@@ -2979,7 +2979,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/IntellectDevourer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/IntellectDevourer.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/IntellectDevourer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/IntellectDevourer.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/IntellectDevourer.webp"
         },
         "tags": {
@@ -3001,7 +3001,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Invidiak.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Invidiak.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Invidiak.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Invidiak.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Invidiak.webp"
         },
         "tags": {
@@ -3023,7 +3023,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/InvisibleStalker.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/InvisibleStalker.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/InvisibleStalker.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/InvisibleStalker.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/InvisibleStalker.webp"
         },
         "tags": {
@@ -3045,7 +3045,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/IronCobra.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/IronCobra.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/IronCobra.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/IronCobra.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/IronCobra.webp"
         },
         "tags": {
@@ -3067,7 +3067,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/IronGolem.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/IronGolem.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/IronGolem.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/IronGolem.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/IronGolem.webp"
         },
         "tags": {
@@ -3089,7 +3089,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/IruxiWarrior.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/IruxiWarrior.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/IruxiWarrior.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/IruxiWarrior.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/IruxiWarrior.webp"
         },
         "tags": {
@@ -3117,7 +3117,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Djinni.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Djinni.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Djinni.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Djinni.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Djinni.webp"
         },
         "tags": {
@@ -3139,7 +3139,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Shaitan.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Shaitan.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Shaitan.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Shaitan.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Shaitan.webp"
         },
         "tags": {
@@ -3161,7 +3161,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Janni.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Janni.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Janni.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Janni.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Janni.webp"
         },
         "tags": {
@@ -3183,7 +3183,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Kholo.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Kholo.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Kholo.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Kholo.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Kholo.webp"
         },
         "tags": {
@@ -3206,7 +3206,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/KoboldWarrior.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/KoboldWarrior.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/KoboldWarrior.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/KoboldWarrior.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/KoboldWarrior.webp"
         },
         "tags": {
@@ -3230,7 +3230,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Kraken.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Kraken.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Kraken.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Kraken.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Kraken.webp"
         },
         "tags": {
@@ -3252,7 +3252,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Lamia.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Lamia.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Lamia.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Lamia.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Lamia.webp"
         },
         "tags": {
@@ -3276,7 +3276,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/LanternArchon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/LanternArchon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/LanternArchon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/LanternArchon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/LanternArchon.webp"
         },
         "tags": {
@@ -3298,7 +3298,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Lemure.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Lemure.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Lemure.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Lemure.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Lemure.webp"
         },
         "tags": {
@@ -3320,7 +3320,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Leopard.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Leopard.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Leopard.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Leopard.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Leopard.webp"
         },
         "tags": {
@@ -3342,7 +3342,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Lich.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Lich.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Lich.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Lich.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Lich.webp"
         },
         "tags": {
@@ -3369,7 +3369,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Lillend.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Lillend.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Lillend.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Lillend.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Lillend.webp"
         },
         "tags": {
@@ -3391,7 +3391,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Lion.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Lion.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Lion.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Lion.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Lion.webp"
         },
         "tags": {
@@ -3413,7 +3413,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Manticore.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Manticore.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Manticore.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Manticore.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Manticore.webp"
         },
         "tags": {
@@ -3432,7 +3432,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Marilith.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Marilith.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Marilith.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Marilith.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Marilith.webp"
         },
         "tags": {
@@ -3454,7 +3454,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Mastodon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Mastodon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Mastodon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Mastodon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Mastodon.webp"
         },
         "tags": {
@@ -3476,7 +3476,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Medusa.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Medusa.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Medusa.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Medusa.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Medusa.webp"
         },
         "tags": {
@@ -3495,7 +3495,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Megalodon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Megalodon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Megalodon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Megalodon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Megalodon.webp"
         },
         "tags": {
@@ -3517,7 +3517,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Mephit.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Mephit.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Mephit.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Mephit.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Mephit.webp"
         },
         "tags": {
@@ -3536,7 +3536,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Merfolk.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Merfolk.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Merfolk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Merfolk.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Merfolk.webp"
         },
         "tags": {
@@ -3555,7 +3555,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Mimic.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Mimic.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Mimic.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Mimic.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Mimic.webp"
         },
         "tags": {
@@ -3574,7 +3574,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Minotaur.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Minotaur.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Minotaur.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Minotaur.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Minotaur.webp"
         },
         "tags": {
@@ -3597,7 +3597,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Mite.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Mite.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Mite.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Mite.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Mite.webp"
         },
         "tags": {
@@ -3623,7 +3623,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Mohrg.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Mohrg.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Mohrg.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Mohrg.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Mohrg.webp"
         },
         "tags": {
@@ -3642,7 +3642,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Monkey.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Monkey.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Monkey.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Monkey.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Monkey.webp"
         },
         "tags": {
@@ -3664,7 +3664,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Morlock.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Morlock.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Morlock.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Morlock.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Morlock.webp"
         },
         "tags": {
@@ -3683,7 +3683,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Mummy.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Mummy.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Mummy.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Mummy.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Mummy.webp"
         },
         "tags": {
@@ -3702,7 +3702,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Nabasu.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Nabasu.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Nabasu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Nabasu.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Nabasu.webp"
         },
         "tags": {
@@ -3724,7 +3724,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Nalfeshnee.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Nalfeshnee.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Nalfeshnee.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Nalfeshnee.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Nalfeshnee.webp"
         },
         "tags": {
@@ -3746,7 +3746,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Neothelid.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Neothelid.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Neothelid.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Neothelid.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Neothelid.webp"
         },
         "tags": {
@@ -3765,7 +3765,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/NightHag.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/NightHag.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/NightHag.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/NightHag.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/NightHag.webp"
         },
         "tags": {
@@ -3787,7 +3787,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Nightmare.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Nightmare.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Nightmare.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Nightmare.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Nightmare.webp"
         },
         "tags": {
@@ -3810,7 +3810,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Nymph.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Nymph.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Nymph.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Nymph.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Nymph.webp"
         },
         "tags": {
@@ -3832,7 +3832,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/OchreJelly.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/OchreJelly.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/OchreJelly.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/OchreJelly.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/OchreJelly.webp"
         },
         "tags": {
@@ -3851,7 +3851,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Octopus.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Octopus.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Octopus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Octopus.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Octopus.webp"
         },
         "tags": {
@@ -3873,7 +3873,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Ogre.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Ogre.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Ogre.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Ogre.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Ogre.webp"
         },
         "tags": {
@@ -3901,7 +3901,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/OrcWarrior.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/OrcWarrior.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/OrcWarrior.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/OrcWarrior.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/OrcWarrior.webp"
         },
         "tags": {
@@ -3925,7 +3925,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Orca.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Orca.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Orca.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Orca.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Orca.webp"
         },
         "tags": {
@@ -3947,7 +3947,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Osyluth.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Osyluth.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Osyluth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Osyluth.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Osyluth.webp"
         },
         "tags": {
@@ -3969,7 +3969,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Otyugh.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Otyugh.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Otyugh.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Otyugh.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Otyugh.webp"
         },
         "tags": {
@@ -3988,7 +3988,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Owlbear.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Owlbear.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Owlbear.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Owlbear.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Owlbear.webp"
         },
         "tags": {
@@ -4007,7 +4007,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Pegasus.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Pegasus.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Pegasus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Pegasus.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Pegasus.webp"
         },
         "tags": {
@@ -4026,7 +4026,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Phoenix.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Phoenix.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Phoenix.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Phoenix.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Phoenix.webp"
         },
         "tags": {
@@ -4045,7 +4045,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/PitFiend.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/PitFiend.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/PitFiend.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/PitFiend.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/PitFiend.webp"
         },
         "tags": {
@@ -4067,7 +4067,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Pixie.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Pixie.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Pixie.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Pixie.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Pixie.webp"
         },
         "tags": {
@@ -4089,7 +4089,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Planetar.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Planetar.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Planetar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Planetar.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Planetar.webp"
         },
         "tags": {
@@ -4115,7 +4115,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Pseudodragon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Pseudodragon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Pseudodragon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Pseudodragon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Pseudodragon.webp"
         },
         "tags": {
@@ -4134,7 +4134,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/PurpleWorm.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/PurpleWorm.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/PurpleWorm.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/PurpleWorm.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/PurpleWorm.webp"
         },
         "tags": {
@@ -4156,7 +4156,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Quasit.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Quasit.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Quasit.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Quasit.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Quasit.webp"
         },
         "tags": {
@@ -4178,7 +4178,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Rakshasa.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Rakshasa.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Rakshasa.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Rakshasa.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Rakshasa.webp"
         },
         "tags": {
@@ -4200,7 +4200,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Remorhaz.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Remorhaz.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Remorhaz.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Remorhaz.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Remorhaz.webp"
         },
         "tags": {
@@ -4219,7 +4219,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Retriever.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Retriever.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Retriever.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Retriever.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Retriever.webp"
         },
         "tags": {
@@ -4241,7 +4241,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/RidingDog.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/RidingDog.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/RidingDog.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/RidingDog.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/RidingDog.webp"
         },
         "tags": {
@@ -4263,7 +4263,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Roc.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Roc.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Roc.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Roc.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Roc.webp"
         },
         "tags": {
@@ -4285,7 +4285,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Roper.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Roper.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Roper.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Roper.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Roper.webp"
         },
         "tags": {
@@ -4304,7 +4304,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/RustMonster.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/RustMonster.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/RustMonster.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/RustMonster.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/RustMonster.webp"
         },
         "tags": {
@@ -4323,7 +4323,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Salamander.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Salamander.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Salamander.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Salamander.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Salamander.webp"
         },
         "tags": {
@@ -4342,7 +4342,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Satyr.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Satyr.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Satyr.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Satyr.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Satyr.webp"
         },
         "tags": {
@@ -4361,7 +4361,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/SeaHag.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/SeaHag.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/SeaHag.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/SeaHag.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/SeaHag.webp"
         },
         "tags": {
@@ -4383,7 +4383,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/SeaSerpent.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/SeaSerpent.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/SeaSerpent.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/SeaSerpent.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/SeaSerpent.webp"
         },
         "tags": {
@@ -4405,7 +4405,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Sahuagin.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Sahuagin.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Sahuagin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Sahuagin.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Sahuagin.webp"
         },
         "tags": {
@@ -4424,7 +4424,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Shadow.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Shadow.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Shadow.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Shadow.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Shadow.webp"
         },
         "tags": {
@@ -4446,7 +4446,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/ShamblingMound.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/ShamblingMound.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/ShamblingMound.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/ShamblingMound.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/ShamblingMound.webp"
         },
         "tags": {
@@ -4465,7 +4465,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/ShockerLizard.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/ShockerLizard.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/ShockerLizard.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/ShockerLizard.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/ShockerLizard.webp"
         },
         "tags": {
@@ -4487,7 +4487,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Shoggoth.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Shoggoth.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Shoggoth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Shoggoth.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Shoggoth.webp"
         },
         "tags": {
@@ -4506,7 +4506,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/SkeletalChampion.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/SkeletalChampion.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/SkeletalChampion.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/SkeletalChampion.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/SkeletalChampion.webp"
         },
         "tags": {
@@ -4528,7 +4528,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Smilodon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Smilodon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Smilodon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Smilodon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Smilodon.webp"
         },
         "tags": {
@@ -4550,7 +4550,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Solar.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Solar.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Solar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Solar.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Solar.webp"
         },
         "tags": {
@@ -4572,7 +4572,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Spectre.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Spectre.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Spectre.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Spectre.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Spectre.webp"
         },
         "tags": {
@@ -4594,7 +4594,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/SpiritNaga.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/SpiritNaga.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/SpiritNaga.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/SpiritNaga.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/SpiritNaga.webp"
         },
         "tags": {
@@ -4616,7 +4616,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Stegosaurus.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Stegosaurus.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Stegosaurus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Stegosaurus.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Stegosaurus.webp"
         },
         "tags": {
@@ -4638,7 +4638,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/StoneGiant.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/StoneGiant.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/StoneGiant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/StoneGiant.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/StoneGiant.webp"
         },
         "tags": {
@@ -4665,7 +4665,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/StoneGolem.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/StoneGolem.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/StoneGolem.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/StoneGolem.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/StoneGolem.webp"
         },
         "tags": {
@@ -4687,7 +4687,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/StormGiant.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/StormGiant.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/StormGiant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/StormGiant.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/StormGiant.webp"
         },
         "tags": {
@@ -4713,7 +4713,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Succubus.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Succubus.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Succubus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Succubus.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Succubus.webp"
         },
         "tags": {
@@ -4735,7 +4735,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Astral%20Deva.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Astral%20Deva.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Astral%20Deva.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Astral%20Deva.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Astral%20Deva.webp"
         },
         "tags": {
@@ -4757,7 +4757,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/TarnLinnorm.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/TarnLinnorm.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/TarnLinnorm.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/TarnLinnorm.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/TarnLinnorm.webp"
         },
         "tags": {
@@ -4779,7 +4779,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Tarrasque.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Tarrasque.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Tarrasque.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Tarrasque.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Tarrasque.webp"
         },
         "tags": {
@@ -4801,7 +4801,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/TenguRogue.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/TenguRogue.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/TenguRogue.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/TenguRogue.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/TenguRogue.webp"
         },
         "tags": {
@@ -4820,7 +4820,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/TieflingRogue.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/TieflingRogue.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/TieflingRogue.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/TieflingRogue.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/TieflingRogue.webp"
         },
         "tags": {
@@ -4839,7 +4839,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Treant.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Treant.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Treant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Treant.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Treant.webp"
         },
         "tags": {
@@ -4858,7 +4858,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/TrumpetArchon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/TrumpetArchon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/TrumpetArchon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/TrumpetArchon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/TrumpetArchon.webp"
         },
         "tags": {
@@ -4880,7 +4880,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Tyrannosaurus.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Tyrannosaurus.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Tyrannosaurus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Tyrannosaurus.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Tyrannosaurus.webp"
         },
         "tags": {
@@ -4902,7 +4902,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Ulat-Kini.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Ulat-Kini.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Ulat-Kini.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Ulat-Kini.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Ulat-Kini.webp"
         },
         "tags": {
@@ -4924,7 +4924,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Unicorn.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Unicorn.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Unicorn.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Unicorn.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Unicorn.webp"
         },
         "tags": {
@@ -4943,7 +4943,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/VampireSorcerer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/VampireSorcerer.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/VampireSorcerer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/VampireSorcerer.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/VampireSorcerer.webp"
         },
         "tags": {
@@ -4962,7 +4962,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Vargouille.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Vargouille.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Vargouille.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Vargouille.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Vargouille.webp"
         },
         "tags": {
@@ -4981,7 +4981,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Vegepygmy.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Vegepygmy.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Vegepygmy.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Vegepygmy.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Vegepygmy.webp"
         },
         "tags": {
@@ -5000,7 +5000,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/VenomousSnake.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/VenomousSnake.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/VenomousSnake.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/VenomousSnake.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/VenomousSnake.webp"
         },
         "tags": {
@@ -5022,7 +5022,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/VioletFungus.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/VioletFungus.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/VioletFungus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/VioletFungus.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/VioletFungus.webp"
         },
         "tags": {
@@ -5041,7 +5041,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Vrock.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Vrock.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Vrock.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Vrock.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Vrock.webp"
         },
         "tags": {
@@ -5063,7 +5063,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/WaterElemental.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/WaterElemental.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/WaterElemental.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/WaterElemental.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/WaterElemental.webp"
         },
         "tags": {
@@ -5085,7 +5085,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Ettercap.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Ettercap.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Ettercap.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Ettercap.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Ettercap.webp"
         },
         "tags": {
@@ -5104,7 +5104,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Wererat.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Wererat.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Wererat.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Wererat.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Wererat.webp"
         },
         "tags": {
@@ -5126,7 +5126,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Wereworlf.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Wereworlf.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Wereworlf.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Wereworlf.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Wereworlf.webp"
         },
         "tags": {
@@ -5148,7 +5148,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Wight.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Wight.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Wight.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Wight.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Wight.webp"
         },
         "tags": {
@@ -5167,7 +5167,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Will-O-Wisp.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Will-O-Wisp.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Will-O-Wisp.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Will-O-Wisp.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Will-O-Wisp.webp"
         },
         "tags": {
@@ -5186,7 +5186,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/WoodGolem.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/WoodGolem.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/WoodGolem.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/WoodGolem.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/WoodGolem.webp"
         },
         "tags": {
@@ -5208,7 +5208,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/WoollyRhinoceros.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/WoollyRhinoceros.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/WoollyRhinoceros.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/WoollyRhinoceros.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/WoollyRhinoceros.webp"
         },
         "tags": {
@@ -5230,7 +5230,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Worg.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Worg.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Worg.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Worg.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Worg.webp"
         },
         "tags": {
@@ -5252,7 +5252,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Wraith.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Wraith.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Wraith.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Wraith.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Wraith.webp"
         },
         "tags": {
@@ -5274,7 +5274,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Wyvern.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Wyvern.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Wyvern.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Wyvern.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Wyvern.webp"
         },
         "tags": {
@@ -5293,7 +5293,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Xill.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Xill.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Xill.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Xill.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Xill.webp"
         },
         "tags": {
@@ -5312,7 +5312,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Xorn.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Xorn.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Xorn.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Xorn.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Xorn.webp"
         },
         "tags": {
@@ -5331,7 +5331,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Xulgath.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Xulgath.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Xulgath.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Xulgath.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Xulgath.webp"
         },
         "tags": {
@@ -5355,7 +5355,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/YellowMuskCreeper.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/YellowMuskCreeper.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/YellowMuskCreeper.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/YellowMuskCreeper.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/YellowMuskCreeper.webp"
         },
         "tags": {
@@ -5377,7 +5377,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/YethHound.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/YethHound.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/YethHound.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/YethHound.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/YethHound.webp"
         },
         "tags": {
@@ -5397,7 +5397,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-1/Yeti.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-1/Yeti.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-bestiary-1/Yeti.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Yeti.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-bestiary-1/Yeti.webp"
         },
         "tags": {

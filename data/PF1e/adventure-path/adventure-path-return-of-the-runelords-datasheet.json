@@ -6,7 +6,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/AdhukaitJailers.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/AdhukaitJailers.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/AdhukaitJailers.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/AdhukaitJailers.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/AdhukaitJailers.webp"
         }
     },
@@ -17,7 +17,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Aethusa.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Aethusa.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Aethusa.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Aethusa.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Aethusa.webp"
         }
     },
@@ -28,7 +28,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Alaznist.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Alaznist.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Alaznist.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Alaznist.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Alaznist.webp"
         }
     },
@@ -39,7 +39,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Alaznist2.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Alaznist2.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Alaznist2.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Alaznist2.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Alaznist2.webp"
         }
     },
@@ -50,7 +50,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/AlaznistBust.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/AlaznistBust.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/AlaznistBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/AlaznistBust.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/AlaznistBust.webp"
         }
     },
@@ -61,7 +61,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/AldenTilaresk.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/AldenTilaresk.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/AldenTilaresk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/AldenTilaresk.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/AldenTilaresk.webp"
         }
     },
@@ -72,7 +72,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/AncientApocalypseDragon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/AncientApocalypseDragon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/AncientApocalypseDragon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/AncientApocalypseDragon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/AncientApocalypseDragon.webp"
         }
     },
@@ -83,7 +83,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/AncientBlissDragon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/AncientBlissDragon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/AncientBlissDragon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/AncientBlissDragon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/AncientBlissDragon.webp"
         }
     },
@@ -94,7 +94,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/AncientTumultDragon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/AncientTumultDragon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/AncientTumultDragon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/AncientTumultDragon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/AncientTumultDragon.webp"
         }
     },
@@ -105,7 +105,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Angothane.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Angothane.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Angothane.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Angothane.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Angothane.webp"
         }
     },
@@ -116,7 +116,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/ApostleOfPain.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/ApostleOfPain.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/ApostleOfPain.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/ApostleOfPain.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/ApostleOfPain.webp"
         }
     },
@@ -127,7 +127,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/ArdocMoilant.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/ArdocMoilant.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/ArdocMoilant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/ArdocMoilant.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/ArdocMoilant.webp"
         }
     },
@@ -138,7 +138,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Ashava.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Ashava.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Ashava.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Ashava.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Ashava.webp"
         }
     },
@@ -149,7 +149,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/AshavaPriest.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/AshavaPriest.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/AshavaPriest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/AshavaPriest.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/AshavaPriest.webp"
         }
     },
@@ -160,7 +160,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/AshenForgemaster.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/AshenForgemaster.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/AshenForgemaster.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/AshenForgemaster.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/AshenForgemaster.webp"
         }
     },
@@ -171,7 +171,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Ashullian.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Ashullian.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Ashullian.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Ashullian.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Ashullian.webp"
         }
     },
@@ -182,7 +182,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Asurendra.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Asurendra.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Asurendra.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Asurendra.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Asurendra.webp"
         }
     },
@@ -193,7 +193,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Audrahni.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Audrahni.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Audrahni.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Audrahni.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Audrahni.webp"
         }
     },
@@ -204,7 +204,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/AudrahniBust.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/AudrahniBust.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/AudrahniBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/AudrahniBust.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/AudrahniBust.webp"
         }
     },
@@ -215,7 +215,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Ayavah.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Ayavah.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Ayavah.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Ayavah.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Ayavah.webp"
         }
     },
@@ -226,7 +226,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Ballitar.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Ballitar.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Ballitar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Ballitar.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Ballitar.webp"
         }
     },
@@ -237,7 +237,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Barravoclair.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Barravoclair.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Barravoclair.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Barravoclair.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Barravoclair.webp"
         }
     },
@@ -248,7 +248,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Basavan.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Basavan.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Basavan.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Basavan.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Basavan.webp"
         }
     },
@@ -259,7 +259,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/BeckwoodRoos.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/BeckwoodRoos.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/BeckwoodRoos.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/BeckwoodRoos.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/BeckwoodRoos.webp"
         }
     },
@@ -270,7 +270,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Belimarius.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Belimarius.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Belimarius.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Belimarius.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Belimarius.webp"
         }
     },
@@ -281,7 +281,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Belimarius2.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Belimarius2.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Belimarius2.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Belimarius2.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Belimarius2.webp"
         }
     },
@@ -292,7 +292,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/BelimariusBust.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/BelimariusBust.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/BelimariusBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/BelimariusBust.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/BelimariusBust.webp"
         }
     },
@@ -303,7 +303,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/BloodSimulacrumOfSershen.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/BloodSimulacrumOfSershen.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/BloodSimulacrumOfSershen.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/BloodSimulacrumOfSershen.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/BloodSimulacrumOfSershen.webp"
         }
     },
@@ -314,7 +314,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/BoagHok.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/BoagHok.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/BoagHok.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/BoagHok.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/BoagHok.webp"
         }
     },
@@ -325,7 +325,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Bolla.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Bolla.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Bolla.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Bolla.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Bolla.webp"
         }
     },
@@ -336,7 +336,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/CaptainXoxl.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/CaptainXoxl.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/CaptainXoxl.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/CaptainXoxl.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/CaptainXoxl.webp"
         }
     },
@@ -347,7 +347,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/ChiefCheektooth.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/ChiefCheektooth.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/ChiefCheektooth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/ChiefCheektooth.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/ChiefCheektooth.webp"
         }
     },
@@ -358,7 +358,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/ChokingShade.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/ChokingShade.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/ChokingShade.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/ChokingShade.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/ChokingShade.webp"
         }
     },
@@ -369,7 +369,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Chronogeist.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Chronogeist.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Chronogeist.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Chronogeist.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Chronogeist.webp"
         }
     },
@@ -380,7 +380,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/CleggZincher.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/CleggZincher.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/CleggZincher.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/CleggZincher.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/CleggZincher.webp"
         }
     },
@@ -391,7 +391,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/CleggZincherBust.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/CleggZincherBust.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/CleggZincherBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/CleggZincherBust.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/CleggZincherBust.webp"
         }
     },
@@ -402,7 +402,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/ClockworkAssassin.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/ClockworkAssassin.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/ClockworkAssassin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/ClockworkAssassin.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/ClockworkAssassin.webp"
         }
     },
@@ -413,7 +413,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Corla.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Corla.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Corla.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Corla.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Corla.webp"
         }
     },
@@ -424,7 +424,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Corstela.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Corstela.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Corstela.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Corstela.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Corstela.webp"
         }
     },
@@ -435,7 +435,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/CorstelaRostrata.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/CorstelaRostrata.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/CorstelaRostrata.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/CorstelaRostrata.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/CorstelaRostrata.webp"
         }
     },
@@ -446,7 +446,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/cyphergull.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/cyphergull.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/cyphergull.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/cyphergull.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/cyphergull.webp"
         }
     },
@@ -457,7 +457,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Dhanishti.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Dhanishti.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Dhanishti.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Dhanishti.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Dhanishti.webp"
         }
     },
@@ -468,7 +468,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/DithKa.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/DithKa.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/DithKa.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/DithKa.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/DithKa.webp"
         }
     },
@@ -479,7 +479,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/DollandReggelore.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/DollandReggelore.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/DollandReggelore.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/DollandReggelore.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/DollandReggelore.webp"
         }
     },
@@ -490,7 +490,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/EffigyOfXiren.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/EffigyOfXiren.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/EffigyOfXiren.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/EffigyOfXiren.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/EffigyOfXiren.webp"
         }
     },
@@ -501,7 +501,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/ElbowsEddi.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/ElbowsEddi.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/ElbowsEddi.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/ElbowsEddi.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/ElbowsEddi.webp"
         }
     },
@@ -512,7 +512,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Erigantus.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Erigantus.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Erigantus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Erigantus.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Erigantus.webp"
         }
     },
@@ -523,7 +523,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/GiantTemporalCrawler.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/GiantTemporalCrawler.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/GiantTemporalCrawler.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/GiantTemporalCrawler.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/GiantTemporalCrawler.webp"
         }
     },
@@ -534,7 +534,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Gluttonspawn.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Gluttonspawn.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Gluttonspawn.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Gluttonspawn.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Gluttonspawn.webp"
         }
     },
@@ -545,7 +545,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/HalfFiendThessalhydra.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/HalfFiendThessalhydra.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/HalfFiendThessalhydra.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/HalfFiendThessalhydra.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/HalfFiendThessalhydra.webp"
         }
     },
@@ -556,7 +556,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/HallowedLynx.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/HallowedLynx.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/HallowedLynx.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/HallowedLynx.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/HallowedLynx.webp"
         }
     },
@@ -567,7 +567,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/HighJustice.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/HighJustice.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/HighJustice.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/HighJustice.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/HighJustice.webp"
         }
     },
@@ -578,7 +578,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/HiraDoss.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/HiraDoss.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/HiraDoss.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/HiraDoss.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/HiraDoss.webp"
         }
     },
@@ -589,7 +589,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Hishandura.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Hishandura.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Hishandura.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Hishandura.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Hishandura.webp"
         }
     },
@@ -600,7 +600,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Hobbin.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Hobbin.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Hobbin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Hobbin.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Hobbin.webp"
         }
     },
@@ -611,7 +611,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/HornedFangBruiser.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/HornedFangBruiser.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/HornedFangBruiser.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/HornedFangBruiser.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/HornedFangBruiser.webp"
         }
     },
@@ -622,7 +622,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/HornedFangGangster.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/HornedFangGangster.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/HornedFangGangster.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/HornedFangGangster.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/HornedFangGangster.webp"
         }
     },
@@ -633,7 +633,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/HumanMage.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/HumanMage.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/HumanMage.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/HumanMage.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/HumanMage.webp"
         }
     },
@@ -644,7 +644,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/HumanTransformation.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/HumanTransformation.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/HumanTransformation.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/HumanTransformation.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/HumanTransformation.webp"
         }
     },
@@ -655,7 +655,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Ilmara.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Ilmara.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Ilmara.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Ilmara.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Ilmara.webp"
         }
     },
@@ -666,7 +666,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Inkariax.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Inkariax.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Inkariax.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Inkariax.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Inkariax.webp"
         }
     },
@@ -677,7 +677,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/IsiahKalynn.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/IsiahKalynn.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/IsiahKalynn.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/IsiahKalynn.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/IsiahKalynn.webp"
         }
     },
@@ -688,7 +688,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/IvorySentinel.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/IvorySentinel.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/IvorySentinel.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/IvorySentinel.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/IvorySentinel.webp"
         }
     },
@@ -699,7 +699,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Jana.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Jana.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Jana.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Jana.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Jana.webp"
         }
     },
@@ -710,7 +710,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/JanaGoldGildersleeves.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/JanaGoldGildersleeves.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/JanaGoldGildersleeves.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/JanaGoldGildersleeves.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/JanaGoldGildersleeves.webp"
         }
     },
@@ -721,7 +721,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Japalisura.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Japalisura.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Japalisura.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Japalisura.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Japalisura.webp"
         }
     },
@@ -732,7 +732,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Jolez.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Jolez.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Jolez.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Jolez.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Jolez.webp"
         }
     },
@@ -743,7 +743,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Kaikyton.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Kaikyton.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Kaikyton.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Kaikyton.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Kaikyton.webp"
         }
     },
@@ -754,7 +754,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Kantulin.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Kantulin.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Kantulin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Kantulin.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Kantulin.webp"
         }
     },
@@ -765,7 +765,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/KarriganPatch.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/KarriganPatch.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/KarriganPatch.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/KarriganPatch.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/KarriganPatch.webp"
         }
     },
@@ -776,7 +776,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/KarzougsSpirit.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/KarzougsSpirit.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/KarzougsSpirit.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/KarzougsSpirit.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/KarzougsSpirit.webp"
         }
     },
@@ -787,7 +787,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Kasmalogg.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Kasmalogg.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Kasmalogg.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Kasmalogg.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Kasmalogg.webp"
         }
     },
@@ -798,7 +798,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Kasthezvi.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Kasthezvi.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Kasthezvi.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Kasthezvi.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Kasthezvi.webp"
         }
     },
@@ -809,7 +809,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Kelhuud.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Kelhuud.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Kelhuud.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Kelhuud.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Kelhuud.webp"
         }
     },
@@ -820,7 +820,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Kolton.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Kolton.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Kolton.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Kolton.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Kolton.webp"
         }
     },
@@ -831,7 +831,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Koriah.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Koriah.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Koriah.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Koriah.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Koriah.webp"
         }
     },
@@ -842,7 +842,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Krune.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Krune.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Krune.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Krune.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Krune.webp"
         }
     },
@@ -853,7 +853,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Kynae.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Kynae.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Kynae.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Kynae.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Kynae.webp"
         }
     },
@@ -864,7 +864,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Ladia.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Ladia.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Ladia.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Ladia.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Ladia.webp"
         }
     },
@@ -875,7 +875,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/LadyWollnoxe.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/LadyWollnoxe.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/LadyWollnoxe.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/LadyWollnoxe.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/LadyWollnoxe.webp"
         }
     },
@@ -886,7 +886,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/LarenzaThort.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/LarenzaThort.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/LarenzaThort.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/LarenzaThort.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/LarenzaThort.webp"
         }
     },
@@ -897,7 +897,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Leptonia.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Leptonia.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Leptonia.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Leptonia.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Leptonia.webp"
         }
     },
@@ -908,7 +908,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Libitinarii.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Libitinarii.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Libitinarii.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Libitinarii.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Libitinarii.webp"
         }
     },
@@ -919,7 +919,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Lissala.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Lissala.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Lissala.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Lissala.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Lissala.webp"
         }
     },
@@ -930,7 +930,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/LullabyVancaskerkin.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/LullabyVancaskerkin.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/LullabyVancaskerkin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/LullabyVancaskerkin.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/LullabyVancaskerkin.webp"
         }
     },
@@ -941,7 +941,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Lyraesia.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Lyraesia.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Lyraesia.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Lyraesia.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Lyraesia.webp"
         }
     },
@@ -952,7 +952,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/MagaSzuul.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/MagaSzuul.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/MagaSzuul.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/MagaSzuul.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/MagaSzuul.webp"
         }
     },
@@ -963,7 +963,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/MedusaArcher.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/MedusaArcher.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/MedusaArcher.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/MedusaArcher.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/MedusaArcher.webp"
         }
     },
@@ -974,7 +974,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Mhar.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Mhar.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Mhar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Mhar.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Mhar.webp"
         }
     },
@@ -985,7 +985,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/MiserySiktempora.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/MiserySiktempora.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/MiserySiktempora.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/MiserySiktempora.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/MiserySiktempora.webp"
         }
     },
@@ -996,7 +996,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/MisterMagenta.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/MisterMagenta.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/MisterMagenta.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/MisterMagenta.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/MisterMagenta.webp"
         }
     },
@@ -1007,7 +1007,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/MisterRetch.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/MisterRetch.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/MisterRetch.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/MisterRetch.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/MisterRetch.webp"
         }
     },
@@ -1018,7 +1018,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/MotherNightthrush.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/MotherNightthrush.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/MotherNightthrush.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/MotherNightthrush.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/MotherNightthrush.webp"
         }
     },
@@ -1029,7 +1029,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Mozamer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Mozamer.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Mozamer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Mozamer.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Mozamer.webp"
         }
     },
@@ -1040,7 +1040,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Nellrine.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Nellrine.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Nellrine.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Nellrine.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Nellrine.webp"
         }
     },
@@ -1051,7 +1051,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Nighteye.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Nighteye.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Nighteye.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Nighteye.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Nighteye.webp"
         }
     },
@@ -1062,7 +1062,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Ninuron.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Ninuron.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Ninuron.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Ninuron.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Ninuron.webp"
         }
     },
@@ -1073,7 +1073,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Ninuron2.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Ninuron2.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Ninuron2.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Ninuron2.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Ninuron2.webp"
         }
     },
@@ -1084,7 +1084,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/NinuronBust.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/NinuronBust.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/NinuronBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/NinuronBust.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/NinuronBust.webp"
         }
     },
@@ -1095,7 +1095,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Nochlean.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Nochlean.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Nochlean.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Nochlean.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Nochlean.webp"
         }
     },
@@ -1106,7 +1106,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Nocticula.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Nocticula.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Nocticula.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Nocticula.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Nocticula.webp"
         }
     },
@@ -1117,7 +1117,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/OgZeugus.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/OgZeugus.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/OgZeugus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/OgZeugus.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/OgZeugus.webp"
         }
     },
@@ -1128,7 +1128,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/OldHaanshu.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/OldHaanshu.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/OldHaanshu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/OldHaanshu.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/OldHaanshu.webp"
         }
     },
@@ -1139,7 +1139,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/OldSteward.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/OldSteward.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/OldSteward.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/OldSteward.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/OldSteward.webp"
         }
     },
@@ -1150,7 +1150,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/OliphauntOfJandelay.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/OliphauntOfJandelay.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/OliphauntOfJandelay.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/OliphauntOfJandelay.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/OliphauntOfJandelay.webp"
         }
     },
@@ -1161,7 +1161,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/OrderPhilosopher.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/OrderPhilosopher.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/OrderPhilosopher.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/OrderPhilosopher.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/OrderPhilosopher.webp"
         }
     },
@@ -1172,7 +1172,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/PeacockPhoenix.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/PeacockPhoenix.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/PeacockPhoenix.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/PeacockPhoenix.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/PeacockPhoenix.webp"
         }
     },
@@ -1183,7 +1183,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/PeacockSpirit.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/PeacockSpirit.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/PeacockSpirit.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/PeacockSpirit.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/PeacockSpirit.webp"
         }
     },
@@ -1194,7 +1194,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/PeacockSpiritCultist.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/PeacockSpiritCultist.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/PeacockSpiritCultist.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/PeacockSpiritCultist.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/PeacockSpiritCultist.webp"
         }
     },
@@ -1205,7 +1205,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/PeacockSpiritPriest.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/PeacockSpiritPriest.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/PeacockSpiritPriest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/PeacockSpiritPriest.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/PeacockSpiritPriest.webp"
         }
     },
@@ -1216,7 +1216,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Phirandi.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Phirandi.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Phirandi.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Phirandi.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Phirandi.webp"
         }
     },
@@ -1227,7 +1227,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Raetorgash.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Raetorgash.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Raetorgash.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Raetorgash.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Raetorgash.webp"
         }
     },
@@ -1238,7 +1238,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/RebornBrother.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/RebornBrother.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/RebornBrother.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/RebornBrother.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/RebornBrother.webp"
         }
     },
@@ -1249,7 +1249,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/RisenMagga.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/RisenMagga.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/RisenMagga.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/RisenMagga.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/RisenMagga.webp"
         }
     },
@@ -1260,7 +1260,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Roadkeeper.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Roadkeeper.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Roadkeeper.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Roadkeeper.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Roadkeeper.webp"
         }
     },
@@ -1271,7 +1271,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/RunewarpedGoblin.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/RunewarpedGoblin.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/RunewarpedGoblin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/RunewarpedGoblin.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/RunewarpedGoblin.webp"
         }
     },
@@ -1282,7 +1282,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Seoni.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Seoni.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Seoni.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Seoni.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Seoni.webp"
         }
     },
@@ -1293,7 +1293,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/ShadowLibrarian.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/ShadowLibrarian.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/ShadowLibrarian.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/ShadowLibrarian.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/ShadowLibrarian.webp"
         }
     },
@@ -1304,7 +1304,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/ShadowServant.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/ShadowServant.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/ShadowServant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/ShadowServant.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/ShadowServant.webp"
         }
     },
@@ -1315,7 +1315,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Shasthaak.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Shasthaak.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Shasthaak.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Shasthaak.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Shasthaak.webp"
         }
     },
@@ -1326,7 +1326,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/SheilaHeidmarch.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/SheilaHeidmarch.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/SheilaHeidmarch.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/SheilaHeidmarch.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/SheilaHeidmarch.webp"
         }
     },
@@ -1337,7 +1337,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/ShriezyxQueen.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/ShriezyxQueen.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/ShriezyxQueen.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/ShriezyxQueen.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/ShriezyxQueen.webp"
         }
     },
@@ -1348,7 +1348,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Shuvahavorath.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Shuvahavorath.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Shuvahavorath.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Shuvahavorath.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Shuvahavorath.webp"
         }
     },
@@ -1359,7 +1359,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/SinisterSphinx.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/SinisterSphinx.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/SinisterSphinx.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/SinisterSphinx.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/SinisterSphinx.webp"
         }
     },
@@ -1370,7 +1370,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Sinspawn.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Sinspawn.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Sinspawn.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Sinspawn.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Sinspawn.webp"
         }
     },
@@ -1381,7 +1381,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/SinspawnSlayer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/SinspawnSlayer.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/SinspawnSlayer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/SinspawnSlayer.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/SinspawnSlayer.webp"
         }
     },
@@ -1392,7 +1392,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/SirRoderic.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/SirRoderic.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/SirRoderic.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/SirRoderic.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/SirRoderic.webp"
         }
     },
@@ -1403,7 +1403,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/SolethexSarn.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/SolethexSarn.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/SolethexSarn.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/SolethexSarn.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/SolethexSarn.webp"
         }
     },
@@ -1414,7 +1414,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Sorshen.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Sorshen.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Sorshen.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Sorshen.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Sorshen.webp"
         }
     },
@@ -1425,7 +1425,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Sorshen2.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Sorshen2.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Sorshen2.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Sorshen2.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Sorshen2.webp"
         }
     },
@@ -1436,7 +1436,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/SorshenBust.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/SorshenBust.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/SorshenBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/SorshenBust.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/SorshenBust.webp"
         }
     },
@@ -1447,7 +1447,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/SorshenBust2.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/SorshenBust2.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/SorshenBust2.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/SorshenBust2.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/SorshenBust2.webp"
         }
     },
@@ -1458,7 +1458,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/SorshenBust3.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/SorshenBust3.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/SorshenBust3.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/SorshenBust3.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/SorshenBust3.webp"
         }
     },
@@ -1469,7 +1469,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/SrishrinTham.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/SrishrinTham.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/SrishrinTham.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/SrishrinTham.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/SrishrinTham.webp"
         }
     },
@@ -1480,7 +1480,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/StatueOfGholz.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/StatueOfGholz.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/StatueOfGholz.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/StatueOfGholz.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/StatueOfGholz.webp"
         }
     },
@@ -1491,7 +1491,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Sturzstromer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Sturzstromer.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Sturzstromer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Sturzstromer.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Sturzstromer.webp"
         }
     },
@@ -1502,7 +1502,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Sumsarru.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Sumsarru.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Sumsarru.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Sumsarru.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Sumsarru.webp"
         }
     },
@@ -1513,7 +1513,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/SurshaAntefalle.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/SurshaAntefalle.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/SurshaAntefalle.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/SurshaAntefalle.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/SurshaAntefalle.webp"
         }
     },
@@ -1524,7 +1524,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/TearvaultGuardian.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/TearvaultGuardian.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/TearvaultGuardian.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/TearvaultGuardian.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/TearvaultGuardian.webp"
         }
     },
@@ -1535,7 +1535,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/TheForester.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/TheForester.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/TheForester.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/TheForester.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/TheForester.webp"
         }
     },
@@ -1546,7 +1546,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/TheLibrarian.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/TheLibrarian.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/TheLibrarian.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/TheLibrarian.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/TheLibrarian.webp"
         }
     },
@@ -1557,7 +1557,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/TheMelted.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/TheMelted.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/TheMelted.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/TheMelted.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/TheMelted.webp"
         }
     },
@@ -1568,7 +1568,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/TheStewardOfStethelos.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/TheStewardOfStethelos.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/TheStewardOfStethelos.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/TheStewardOfStethelos.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/TheStewardOfStethelos.webp"
         }
     },
@@ -1579,7 +1579,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/TheStewardOfStethelosOld.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/TheStewardOfStethelosOld.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/TheStewardOfStethelosOld.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/TheStewardOfStethelosOld.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/TheStewardOfStethelosOld.webp"
         }
     },
@@ -1590,7 +1590,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Thybydos.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Thybydos.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Thybydos.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Thybydos.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Thybydos.webp"
         }
     },
@@ -1601,7 +1601,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/TianeVaneir.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/TianeVaneir.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/TianeVaneir.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/TianeVaneir.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/TianeVaneir.webp"
         }
     },
@@ -1612,7 +1612,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/TimeDimensional.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/TimeDimensional.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/TimeDimensional.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/TimeDimensional.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/TimeDimensional.webp"
         }
     },
@@ -1623,7 +1623,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/TimeFlayer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/TimeFlayer.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/TimeFlayer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/TimeFlayer.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/TimeFlayer.webp"
         }
     },
@@ -1634,7 +1634,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/TolmNexiria.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/TolmNexiria.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/TolmNexiria.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/TolmNexiria.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/TolmNexiria.webp"
         }
     },
@@ -1645,7 +1645,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Tuirziaz.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Tuirziaz.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Tuirziaz.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Tuirziaz.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Tuirziaz.webp"
         }
     },
@@ -1656,7 +1656,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Vevelor.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Vevelor.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Vevelor.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Vevelor.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Vevelor.webp"
         }
     },
@@ -1667,7 +1667,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Vexenion.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Vexenion.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Vexenion.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Vexenion.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Vexenion.webp"
         }
     },
@@ -1678,7 +1678,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Vexnill.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Vexnill.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Vexnill.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Vexnill.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Vexnill.webp"
         }
     },
@@ -1689,7 +1689,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/ViralaneBarvisai.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/ViralaneBarvisai.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/ViralaneBarvisai.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/ViralaneBarvisai.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/ViralaneBarvisai.webp"
         }
     },
@@ -1700,7 +1700,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/VolaAdurusk.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/VolaAdurusk.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/VolaAdurusk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/VolaAdurusk.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/VolaAdurusk.webp"
         }
     },
@@ -1711,7 +1711,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/WapglassOoze.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/WapglassOoze.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/WapglassOoze.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/WapglassOoze.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/WapglassOoze.webp"
         }
     },
@@ -1722,7 +1722,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/WarMarshalYahar.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/WarMarshalYahar.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/WarMarshalYahar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/WarMarshalYahar.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/WarMarshalYahar.webp"
         }
     },
@@ -1733,7 +1733,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/WelbenOrry.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/WelbenOrry.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/WelbenOrry.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/WelbenOrry.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/WelbenOrry.webp"
         }
     },
@@ -1744,7 +1744,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/WereboarBarbarian.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/WereboarBarbarian.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/WereboarBarbarian.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/WereboarBarbarian.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/WereboarBarbarian.webp"
         }
     },
@@ -1755,7 +1755,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Wilkexyne.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Wilkexyne.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Wilkexyne.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Wilkexyne.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Wilkexyne.webp"
         }
     },
@@ -1766,7 +1766,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Woaerym.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Woaerym.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Woaerym.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Woaerym.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Woaerym.webp"
         }
     },
@@ -1777,7 +1777,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Xanderghul.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Xanderghul.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Xanderghul.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Xanderghul.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Xanderghul.webp"
         }
     },
@@ -1788,7 +1788,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Xanderghul2.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Xanderghul2.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Xanderghul2.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Xanderghul2.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Xanderghul2.webp"
         }
     },
@@ -1799,7 +1799,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Xanesha.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Xanesha.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Xanesha.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Xanesha.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Xanesha.webp"
         }
     },
@@ -1810,7 +1810,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Yamasoth.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Yamasoth.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Yamasoth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Yamasoth.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Yamasoth.webp"
         }
     },
@@ -1821,7 +1821,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/YamasothCultist.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/YamasothCultist.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/YamasothCultist.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/YamasothCultist.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/YamasothCultist.webp"
         }
     },
@@ -1832,7 +1832,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/YamasothPriest.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/YamasothPriest.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/YamasothPriest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/YamasothPriest.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/YamasothPriest.webp"
         }
     },
@@ -1843,7 +1843,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/YenelaFisk.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/YenelaFisk.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/YenelaFisk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/YenelaFisk.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/YenelaFisk.webp"
         }
     },
@@ -1854,7 +1854,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Ysyyr.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Ysyyr.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Ysyyr.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Ysyyr.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Ysyyr.webp"
         }
     },
@@ -1865,7 +1865,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Zeralisce.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Zeralisce.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Zeralisce.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Zeralisce.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Zeralisce.webp"
         }
     },
@@ -1876,7 +1876,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Zerrund.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Zerrund.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Zerrund.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Zerrund.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Zerrund.webp"
         }
     },
@@ -1887,7 +1887,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Zinlun.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Zinlun.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Zinlun.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Zinlun.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Zinlun.webp"
         }
     },
@@ -1898,7 +1898,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/ZureaSalvus.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/ZureaSalvus.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/ZureaSalvus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/ZureaSalvus.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/ZureaSalvus.webp"
         }
     },
@@ -1909,7 +1909,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/ZureaSalvusBust.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/ZureaSalvusBust.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/ZureaSalvusBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/ZureaSalvusBust.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/ZureaSalvusBust.webp"
         }
     },
@@ -1920,7 +1920,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/Zutha.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/Zutha.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/Zutha.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Zutha.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/Zutha.webp"
         }
     },
@@ -1931,7 +1931,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/ZuthaBust.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/ZuthaBust.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/ZuthaBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/ZuthaBust.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/ZuthaBust.webp"
         }
     },
@@ -1942,7 +1942,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-return-of-the-runelords/ZuthasFragment.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-return-of-the-runelords/ZuthasFragment.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-return-of-the-runelords/ZuthasFragment.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/ZuthasFragment.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-return-of-the-runelords/ZuthasFragment.webp"
         }
     }

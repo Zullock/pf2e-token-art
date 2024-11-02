@@ -6,7 +6,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/DwarfSteampunk.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/DwarfSteampunk.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/DwarfSteampunk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/DwarfSteampunk.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/DwarfSteampunk.webp"
         },
         "tags": {
@@ -29,7 +29,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/EzrenOrb.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/EzrenOrb.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/EzrenOrb.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/EzrenOrb.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/EzrenOrb.webp"
         },
         "tags": {
@@ -61,7 +61,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/GoblinDragonCostume.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/GoblinDragonCostume.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/GoblinDragonCostume.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/GoblinDragonCostume.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/GoblinDragonCostume.webp"
         },
         "tags": {
@@ -83,7 +83,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/GoblinKillingDog.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/GoblinKillingDog.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/GoblinKillingDog.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/GoblinKillingDog.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/GoblinKillingDog.webp"
         },
         "tags": {
@@ -106,7 +106,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/GoblinLoot.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/GoblinLoot.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/GoblinLoot.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/GoblinLoot.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/GoblinLoot.webp"
         },
         "tags": {
@@ -128,7 +128,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/GoblinSoldier.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/GoblinSoldier.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/GoblinSoldier.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/GoblinSoldier.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/GoblinSoldier.webp"
         },
         "tags": {
@@ -150,7 +150,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/GoblinDice.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/GoblinDice.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/GoblinDice.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/GoblinDice.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/GoblinDice.webp"
         },
         "tags": {
@@ -172,7 +172,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/Hellknight.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/Hellknight.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/Hellknight.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/Hellknight.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/Hellknight.webp"
         },
         "tags": {
@@ -199,7 +199,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanBandit.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanBandit.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanBandit.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanBandit.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanBandit.webp"
         },
         "tags": {
@@ -224,7 +224,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanBeggar.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanBeggar.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanBeggar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanBeggar.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanBeggar.webp"
         },
         "tags": {
@@ -246,7 +246,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanCityGuard.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanCityGuard.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanCityGuard.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanCityGuard.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanCityGuard.webp"
         },
         "tags": {
@@ -270,7 +270,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanCultist.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanCultist.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanCultist.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanCultist.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanCultist.webp"
         },
         "tags": {
@@ -292,7 +292,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanFarmer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanFarmer.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanFarmer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanFarmer.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanFarmer.webp"
         },
         "tags": {
@@ -315,7 +315,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanFootSoldier.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanFootSoldier.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanFootSoldier.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanFootSoldier.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanFootSoldier.webp"
         },
         "tags": {
@@ -340,7 +340,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanFortuneTeller.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanFortuneTeller.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanFortuneTeller.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanFortuneTeller.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanFortuneTeller.webp"
         },
         "tags": {
@@ -367,7 +367,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanFuturistic.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanFuturistic.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanFuturistic.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanFuturistic.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanFuturistic.webp"
         },
         "tags": {
@@ -391,7 +391,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanGladiator.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanGladiator.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanGladiator.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanGladiator.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanGladiator.webp"
         },
         "tags": {
@@ -415,7 +415,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanGreekNoble.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanGreekNoble.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanGreekNoble.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanGreekNoble.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanGreekNoble.webp"
         },
         "tags": {
@@ -438,7 +438,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanHolyWarrior.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanHolyWarrior.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanHolyWarrior.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanHolyWarrior.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanHolyWarrior.webp"
         },
         "tags": {
@@ -464,7 +464,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanHost.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanHost.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanHost.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanHost.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanHost.webp"
         },
         "tags": {
@@ -486,7 +486,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanKellid.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanKellid.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanKellid.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanKellid.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanKellid.webp"
         },
         "tags": {
@@ -511,7 +511,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanMerchant.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanMerchant.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanMerchant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanMerchant.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanMerchant.webp"
         },
         "tags": {
@@ -536,7 +536,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanMinstrel.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanMinstrel.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanMinstrel.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanMinstrel.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanMinstrel.webp"
         },
         "tags": {
@@ -561,7 +561,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanMonk.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanMonk.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanMonk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanMonk.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanMonk.webp"
         },
         "tags": {
@@ -585,7 +585,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanMonsterHunter.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanMonsterHunter.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanMonsterHunter.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanMonsterHunter.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanMonsterHunter.webp"
         },
         "tags": {
@@ -608,7 +608,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanOperaSinger.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanOperaSinger.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanOperaSinger.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanOperaSinger.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanOperaSinger.webp"
         },
         "tags": {
@@ -633,7 +633,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanPirateCaptain.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanPirateCaptain.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanPirateCaptain.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanPirateCaptain.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanPirateCaptain.webp"
         },
         "tags": {
@@ -657,7 +657,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanCultistPriest.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanCultistPriest.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanCultistPriest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanCultistPriest.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanCultistPriest.webp"
         },
         "tags": {
@@ -683,7 +683,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanPrince.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanPrince.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanPrince.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanPrince.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanPrince.webp"
         },
         "tags": {
@@ -705,7 +705,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanSage.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanSage.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanSage.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanSage.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanSage.webp"
         },
         "tags": {
@@ -728,7 +728,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanSellsword.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanSellsword.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanSellsword.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanSellsword.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanSellsword.webp"
         },
         "tags": {
@@ -752,7 +752,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanShaman.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanShaman.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanShaman.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanShaman.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanShaman.webp"
         },
         "tags": {
@@ -775,7 +775,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanSlayer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanSlayer.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanSlayer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanSlayer.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanSlayer.webp"
         },
         "tags": {
@@ -798,7 +798,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanSoldier.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanSoldier.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanSoldier.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanSoldier.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanSoldier.webp"
         },
         "tags": {
@@ -821,7 +821,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanStreetAlchemist.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanStreetAlchemist.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanStreetAlchemist.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanStreetAlchemist.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanStreetAlchemist.webp"
         },
         "tags": {
@@ -847,7 +847,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanStreetThug.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanStreetThug.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanStreetThug.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanStreetThug.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanStreetThug.webp"
         },
         "tags": {
@@ -872,7 +872,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanTavernGirl.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanTavernGirl.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanTavernGirl.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanTavernGirl.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanTavernGirl.webp"
         },
         "tags": {
@@ -894,7 +894,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanTorturer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanTorturer.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanTorturer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanTorturer.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanTorturer.webp"
         },
         "tags": {
@@ -918,7 +918,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanTrapper.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanTrapper.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanTrapper.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanTrapper.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanTrapper.webp"
         },
         "tags": {
@@ -943,7 +943,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanTravelingMerchant.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanTravelingMerchant.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanTravelingMerchant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanTravelingMerchant.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanTravelingMerchant.webp"
         },
         "tags": {
@@ -970,7 +970,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanVillageIdiot.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanVillageIdiot.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanVillageIdiot.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanVillageIdiot.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanVillageIdiot.webp"
         },
         "tags": {
@@ -996,7 +996,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanWanderer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanWanderer.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanWanderer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanWanderer.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanWanderer.webp"
         },
         "tags": {
@@ -1018,7 +1018,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanBarmaid.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanBarmaid.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanBarmaid.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanBarmaid.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanBarmaid.webp"
         },
         "tags": {
@@ -1040,7 +1040,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanGuard.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanGuard.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanGuard.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanGuard.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanGuard.webp"
         },
         "tags": {
@@ -1063,7 +1063,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanNoble.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanNoble.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanNoble.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanNoble.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanNoble.webp"
         },
         "tags": {
@@ -1086,7 +1086,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanPirate.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanPirate.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/HumanPirate.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanPirate.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/HumanPirate.webp"
         },
         "tags": {
@@ -1110,7 +1110,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/KyraPsychosis.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/KyraPsychosis.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/KyraPsychosis.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/KyraPsychosis.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/KyraPsychosis.webp"
         },
         "tags": {
@@ -1142,7 +1142,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/Lamia.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/Lamia.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/Lamia.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/Lamia.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/Lamia.webp"
         },
         "tags": {
@@ -1165,7 +1165,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/LemDead.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/LemDead.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/LemDead.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/LemDead.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/LemDead.webp"
         },
         "tags": {
@@ -1196,7 +1196,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/Sarenrae.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/Sarenrae.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/Sarenrae.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/Sarenrae.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/Sarenrae.webp"
         },
         "tags": {
@@ -1232,7 +1232,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/Vrock.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/Vrock.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/Vrock.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/Vrock.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/Vrock.webp"
         },
         "tags": {
@@ -1258,7 +1258,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/Witchwyrd.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/Witchwyrd.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/Witchwyrd.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/Witchwyrd.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/Witchwyrd.webp"
         },
         "tags": {
@@ -1280,7 +1280,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/Ymeri.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/Ymeri.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/rulebook/rulebook-gamemastery-guide/Ymeri.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/Ymeri.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/rulebook/rulebook-gamemastery-guide/Ymeri.webp"
         },
         "tags": {

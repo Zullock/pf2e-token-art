@@ -6,7 +6,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Abhominal.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Abhominal.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Abhominal.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Abhominal.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Abhominal.webp"
         }
     },
@@ -17,7 +17,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Aboleth.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Aboleth.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Aboleth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Aboleth.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Aboleth.webp"
         }
     },
@@ -28,7 +28,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/AbolethEngineer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/AbolethEngineer.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/AbolethEngineer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/AbolethEngineer.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/AbolethEngineer.webp"
         }
     },
@@ -39,7 +39,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Acavna.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Acavna.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Acavna.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Acavna.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Acavna.webp"
         }
     },
@@ -50,7 +50,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Achol.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Achol.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Achol.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Achol.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Achol.webp"
         }
     },
@@ -61,7 +61,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/ActivatedAgent.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/ActivatedAgent.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/ActivatedAgent.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/ActivatedAgent.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/ActivatedAgent.webp"
         }
     },
@@ -72,7 +72,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Aeroclyse.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Aeroclyse.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Aeroclyse.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Aeroclyse.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Aeroclyse.webp"
         }
     },
@@ -83,7 +83,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Aesocar.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Aesocar.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Aesocar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Aesocar.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Aesocar.webp"
         }
     },
@@ -94,7 +94,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/AlbaDivenvarr.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/AlbaDivenvarr.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/AlbaDivenvarr.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/AlbaDivenvarr.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/AlbaDivenvarr.webp"
         }
     },
@@ -105,7 +105,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Amaznen.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Amaznen.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Amaznen.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Amaznen.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Amaznen.webp"
         }
     },
@@ -116,7 +116,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Anemora.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Anemora.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Anemora.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Anemora.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Anemora.webp"
         }
     },
@@ -127,7 +127,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/AnyaSandstrider.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/AnyaSandstrider.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/AnyaSandstrider.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/AnyaSandstrider.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/AnyaSandstrider.webp"
         }
     },
@@ -138,7 +138,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Aoinse.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Aoinse.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Aoinse.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Aoinse.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Aoinse.webp"
         }
     },
@@ -149,7 +149,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Argnos.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Argnos.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Argnos.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Argnos.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Argnos.webp"
         }
     },
@@ -160,7 +160,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Armin.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Armin.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Armin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Armin.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Armin.webp"
         }
     },
@@ -171,7 +171,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/AuberonTheDrowned.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/AuberonTheDrowned.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/AuberonTheDrowned.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/AuberonTheDrowned.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/AuberonTheDrowned.webp"
         }
     },
@@ -182,7 +182,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/AuberonTheDrowned2.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/AuberonTheDrowned2.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/AuberonTheDrowned2.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/AuberonTheDrowned2.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/AuberonTheDrowned2.webp"
         }
     },
@@ -193,7 +193,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Azlanti.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Azlanti.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Azlanti.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Azlanti.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Azlanti.webp"
         }
     },
@@ -204,7 +204,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/AzlantiMummy.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/AzlantiMummy.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/AzlantiMummy.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/AzlantiMummy.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/AzlantiMummy.webp"
         }
     },
@@ -215,7 +215,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Baucrade.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Baucrade.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Baucrade.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Baucrade.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Baucrade.webp"
         }
     },
@@ -226,7 +226,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/BlastShadow.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/BlastShadow.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/BlastShadow.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/BlastShadow.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/BlastShadow.webp"
         }
     },
@@ -237,7 +237,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/BloodLily.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/BloodLily.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/BloodLily.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/BloodLily.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/BloodLily.webp"
         }
     },
@@ -248,7 +248,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/BloodMaize.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/BloodMaize.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/BloodMaize.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/BloodMaize.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/BloodMaize.webp"
         }
     },
@@ -259,7 +259,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Brinetooth.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Brinetooth.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Brinetooth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Brinetooth.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Brinetooth.webp"
         }
     },
@@ -270,7 +270,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Carthagax.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Carthagax.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Carthagax.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Carthagax.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Carthagax.webp"
         }
     },
@@ -281,7 +281,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/CarverHastings.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/CarverHastings.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/CarverHastings.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/CarverHastings.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/CarverHastings.webp"
         }
     },
@@ -292,7 +292,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/CarverHastingsBust.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/CarverHastingsBust.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/CarverHastingsBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/CarverHastingsBust.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/CarverHastingsBust.webp"
         }
     },
@@ -303,7 +303,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/CeledonOfAcavna.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/CeledonOfAcavna.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/CeledonOfAcavna.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/CeledonOfAcavna.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/CeledonOfAcavna.webp"
         }
     },
@@ -314,7 +314,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Cenath.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Cenath.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Cenath.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Cenath.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Cenath.webp"
         }
     },
@@ -325,7 +325,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Chelonidal.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Chelonidal.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Chelonidal.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Chelonidal.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Chelonidal.webp"
         }
     },
@@ -336,7 +336,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/CiwinPliesiea.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/CiwinPliesiea.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/CiwinPliesiea.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/CiwinPliesiea.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/CiwinPliesiea.webp"
         }
     },
@@ -347,7 +347,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Clarifesk.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Clarifesk.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Clarifesk.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Clarifesk.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Clarifesk.webp"
         }
     },
@@ -358,7 +358,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/ClockworkGolem.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/ClockworkGolem.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/ClockworkGolem.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/ClockworkGolem.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/ClockworkGolem.webp"
         }
     },
@@ -369,7 +369,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/ClockworkMonkey.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/ClockworkMonkey.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/ClockworkMonkey.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/ClockworkMonkey.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/ClockworkMonkey.webp"
         }
     },
@@ -380,7 +380,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/ClockworkNautiloid.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/ClockworkNautiloid.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/ClockworkNautiloid.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/ClockworkNautiloid.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/ClockworkNautiloid.webp"
         }
     },
@@ -391,7 +391,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/ClockworkOverseer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/ClockworkOverseer.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/ClockworkOverseer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/ClockworkOverseer.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/ClockworkOverseer.webp"
         }
     },
@@ -402,7 +402,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/ClockworkSoldier.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/ClockworkSoldier.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/ClockworkSoldier.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/ClockworkSoldier.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/ClockworkSoldier.webp"
         }
     },
@@ -413,7 +413,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/ClockworkSpy.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/ClockworkSpy.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/ClockworkSpy.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/ClockworkSpy.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/ClockworkSpy.webp"
         }
     },
@@ -424,7 +424,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/ClockworkSpyFly.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/ClockworkSpyFly.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/ClockworkSpyFly.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/ClockworkSpyFly.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/ClockworkSpyFly.webp"
         }
     },
@@ -435,7 +435,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/CrimsonMuskVampire.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/CrimsonMuskVampire.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/CrimsonMuskVampire.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/CrimsonMuskVampire.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/CrimsonMuskVampire.webp"
         }
     },
@@ -446,7 +446,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/CyreusAndMalooth.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/CyreusAndMalooth.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/CyreusAndMalooth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/CyreusAndMalooth.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/CyreusAndMalooth.webp"
         }
     },
@@ -457,7 +457,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Dahaaka.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Dahaaka.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Dahaaka.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Dahaaka.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Dahaaka.webp"
         }
     },
@@ -468,7 +468,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Debebedi.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Debebedi.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Debebedi.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Debebedi.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Debebedi.webp"
         }
     },
@@ -479,7 +479,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/DoctorHacksaw.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/DoctorHacksaw.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/DoctorHacksaw.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/DoctorHacksaw.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/DoctorHacksaw.webp"
         }
     },
@@ -490,7 +490,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Drecissa.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Drecissa.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Drecissa.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Drecissa.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Drecissa.webp"
         }
     },
@@ -501,7 +501,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/DrownedUlfenCaptain.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/DrownedUlfenCaptain.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/DrownedUlfenCaptain.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/DrownedUlfenCaptain.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/DrownedUlfenCaptain.webp"
         }
     },
@@ -512,7 +512,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/DrunkChoker.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/DrunkChoker.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/DrunkChoker.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/DrunkChoker.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/DrunkChoker.webp"
         }
     },
@@ -523,7 +523,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/EamonCaranth.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/EamonCaranth.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/EamonCaranth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/EamonCaranth.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/EamonCaranth.webp"
         }
     },
@@ -534,7 +534,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Elion.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Elion.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Elion.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Elion.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Elion.webp"
         }
     },
@@ -545,7 +545,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/ElizaHaniver.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/ElizaHaniver.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/ElizaHaniver.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/ElizaHaniver.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/ElizaHaniver.webp"
         }
     },
@@ -556,7 +556,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Enisysian.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Enisysian.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Enisysian.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Enisysian.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Enisysian.webp"
         }
     },
@@ -567,7 +567,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/EskeldaTeredein.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/EskeldaTeredein.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/EskeldaTeredein.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/EskeldaTeredein.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/EskeldaTeredein.webp"
         }
     },
@@ -578,7 +578,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Evettin.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Evettin.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Evettin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Evettin.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Evettin.webp"
         }
     },
@@ -589,7 +589,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/FlotsamTerror.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/FlotsamTerror.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/FlotsamTerror.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/FlotsamTerror.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/FlotsamTerror.webp"
         }
     },
@@ -600,7 +600,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Fluxwraith.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Fluxwraith.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Fluxwraith.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Fluxwraith.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Fluxwraith.webp"
         }
     },
@@ -611,7 +611,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Gardener.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Gardener.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Gardener.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Gardener.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Gardener.webp"
         }
     },
@@ -622,7 +622,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/GardenerBust.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/GardenerBust.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/GardenerBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/GardenerBust.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/GardenerBust.webp"
         }
     },
@@ -633,7 +633,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/GearBlessedGuardian.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/GearBlessedGuardian.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/GearBlessedGuardian.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/GearBlessedGuardian.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/GearBlessedGuardian.webp"
         }
     },
@@ -644,7 +644,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Ghalashe.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Ghalashe.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Ghalashe.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Ghalashe.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Ghalashe.webp"
         }
     },
@@ -655,7 +655,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/GhosthaterGoblin.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/GhosthaterGoblin.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/GhosthaterGoblin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/GhosthaterGoblin.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/GhosthaterGoblin.webp"
         }
     },
@@ -666,7 +666,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Glorandral.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Glorandral.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Glorandral.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Glorandral.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Glorandral.webp"
         }
     },
@@ -677,7 +677,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Glorballo.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Glorballo.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Glorballo.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Glorballo.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Glorballo.webp"
         }
     },
@@ -688,7 +688,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/HarcourtCarrolby.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/HarcourtCarrolby.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/HarcourtCarrolby.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/HarcourtCarrolby.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/HarcourtCarrolby.webp"
         }
     },
@@ -699,7 +699,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Harighal.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Harighal.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Harighal.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Harighal.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Harighal.webp"
         }
     },
@@ -710,7 +710,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/HasbimIbnSayyid.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/HasbimIbnSayyid.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/HasbimIbnSayyid.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/HasbimIbnSayyid.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/HasbimIbnSayyid.webp"
         }
     },
@@ -721,7 +721,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Helekhterie.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Helekhterie.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Helekhterie.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Helekhterie.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Helekhterie.webp"
         }
     },
@@ -732,7 +732,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Imiolana.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Imiolana.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Imiolana.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Imiolana.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Imiolana.webp"
         }
     },
@@ -743,7 +743,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Imosele.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Imosele.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Imosele.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Imosele.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Imosele.webp"
         }
     },
@@ -754,7 +754,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/IounGolem.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/IounGolem.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/IounGolem.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/IounGolem.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/IounGolem.webp"
         }
     },
@@ -765,7 +765,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/IslandGuardian.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/IslandGuardian.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/IslandGuardian.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/IslandGuardian.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/IslandGuardian.webp"
         }
     },
@@ -776,7 +776,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Jaidi.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Jaidi.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Jaidi.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Jaidi.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Jaidi.webp"
         }
     },
@@ -787,7 +787,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Jazradan.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Jazradan.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Jazradan.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Jazradan.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Jazradan.webp"
         }
     },
@@ -798,7 +798,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/JazradanBust.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/JazradanBust.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/JazradanBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/JazradanBust.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/JazradanBust.webp"
         }
     },
@@ -809,7 +809,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Jurix.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Jurix.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Jurix.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Jurix.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Jurix.webp"
         }
     },
@@ -820,7 +820,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Karnax.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Karnax.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Karnax.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Karnax.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Karnax.webp"
         }
     },
@@ -831,7 +831,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/KeredaHarper.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/KeredaHarper.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/KeredaHarper.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/KeredaHarper.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/KeredaHarper.webp"
         }
     },
@@ -842,7 +842,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Kigyi.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Kigyi.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Kigyi.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Kigyi.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Kigyi.webp"
         }
     },
@@ -853,7 +853,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/KinWarden.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/KinWarden.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/KinWarden.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/KinWarden.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/KinWarden.webp"
         }
     },
@@ -864,7 +864,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/KingRagworm.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/KingRagworm.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/KingRagworm.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/KingRagworm.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/KingRagworm.webp"
         }
     },
@@ -875,7 +875,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Koloshkora.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Koloshkora.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Koloshkora.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Koloshkora.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Koloshkora.webp"
         }
     },
@@ -886,7 +886,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Kormallis.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Kormallis.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Kormallis.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Kormallis.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Kormallis.webp"
         }
     },
@@ -897,7 +897,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/KurvisNurpico.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/KurvisNurpico.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/KurvisNurpico.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/KurvisNurpico.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/KurvisNurpico.webp"
         }
     },
@@ -908,7 +908,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/LarvalChuul.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/LarvalChuul.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/LarvalChuul.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/LarvalChuul.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/LarvalChuul.webp"
         }
     },
@@ -919,7 +919,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Litanu.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Litanu.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Litanu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Litanu.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Litanu.webp"
         }
     },
@@ -930,7 +930,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/LivingDoldrums.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/LivingDoldrums.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/LivingDoldrums.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/LivingDoldrums.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/LivingDoldrums.webp"
         }
     },
@@ -941,7 +941,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/LuetinCalewick.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/LuetinCalewick.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/LuetinCalewick.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/LuetinCalewick.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/LuetinCalewick.webp"
         }
     },
@@ -952,7 +952,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Lurisian.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Lurisian.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Lurisian.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Lurisian.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Lurisian.webp"
         }
     },
@@ -963,7 +963,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/LyraHeatherly.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/LyraHeatherly.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/LyraHeatherly.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/LyraHeatherly.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/LyraHeatherly.webp"
         }
     },
@@ -974,7 +974,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/MedrinnahHarleau.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/MedrinnahHarleau.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/MedrinnahHarleau.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/MedrinnahHarleau.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/MedrinnahHarleau.webp"
         }
     },
@@ -985,7 +985,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/MerfolkGuardian.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/MerfolkGuardian.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/MerfolkGuardian.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/MerfolkGuardian.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/MerfolkGuardian.webp"
         }
     },
@@ -996,7 +996,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/MerfolkInstigator.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/MerfolkInstigator.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/MerfolkInstigator.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/MerfolkInstigator.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/MerfolkInstigator.webp"
         }
     },
@@ -1007,7 +1007,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/MerfolkMusician.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/MerfolkMusician.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/MerfolkMusician.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/MerfolkMusician.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/MerfolkMusician.webp"
         }
     },
@@ -1018,7 +1018,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/MimicOoze.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/MimicOoze.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/MimicOoze.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/MimicOoze.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/MimicOoze.webp"
         }
     },
@@ -1029,7 +1029,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/MirrorSerpent.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/MirrorSerpent.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/MirrorSerpent.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/MirrorSerpent.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/MirrorSerpent.webp"
         }
     },
@@ -1040,7 +1040,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/MordantSpireArcher.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/MordantSpireArcher.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/MordantSpireArcher.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/MordantSpireArcher.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/MordantSpireArcher.webp"
         }
     },
@@ -1051,7 +1051,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/MordantSpireLancer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/MordantSpireLancer.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/MordantSpireLancer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/MordantSpireLancer.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/MordantSpireLancer.webp"
         }
     },
@@ -1062,7 +1062,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/MutantGalvoMonstrosity.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/MutantGalvoMonstrosity.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/MutantGalvoMonstrosity.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/MutantGalvoMonstrosity.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/MutantGalvoMonstrosity.webp"
         }
     },
@@ -1073,7 +1073,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/MutatedColonist.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/MutatedColonist.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/MutatedColonist.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/MutatedColonist.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/MutatedColonist.webp"
         }
     },
@@ -1084,7 +1084,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Myr.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Myr.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Myr.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Myr.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Myr.webp"
         }
     },
@@ -1095,7 +1095,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Naqualia.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Naqualia.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Naqualia.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Naqualia.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Naqualia.webp"
         }
     },
@@ -1106,7 +1106,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Naqualia2.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Naqualia2.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Naqualia2.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Naqualia2.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Naqualia2.webp"
         }
     },
@@ -1117,7 +1117,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/NieranCodali.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/NieranCodali.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/NieranCodali.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/NieranCodali.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/NieranCodali.webp"
         }
     },
@@ -1128,7 +1128,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Nisid.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Nisid.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Nisid.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Nisid.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Nisid.webp"
         }
     },
@@ -1139,7 +1139,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Ochymua.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Ochymua.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Ochymua.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Ochymua.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Ochymua.webp"
         }
     },
@@ -1150,7 +1150,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Ochymua2.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Ochymua2.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Ochymua2.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Ochymua2.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Ochymua2.webp"
         }
     },
@@ -1161,7 +1161,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Onos.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Onos.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Onos.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Onos.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Onos.webp"
         }
     },
@@ -1172,7 +1172,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Onthooth.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Onthooth.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Onthooth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Onthooth.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Onthooth.webp"
         }
     },
@@ -1183,7 +1183,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Onthooth2.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Onthooth2.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Onthooth2.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Onthooth2.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Onthooth2.webp"
         }
     },
@@ -1194,7 +1194,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/OulatGloamingChill.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/OulatGloamingChill.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/OulatGloamingChill.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/OulatGloamingChill.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/OulatGloamingChill.webp"
         }
     },
@@ -1205,7 +1205,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Paguroida.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Paguroida.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Paguroida.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Paguroida.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Paguroida.webp"
         }
     },
@@ -1216,7 +1216,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/PelagicChild.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/PelagicChild.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/PelagicChild.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/PelagicChild.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/PelagicChild.webp"
         }
     },
@@ -1227,7 +1227,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/PerrellBeys.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/PerrellBeys.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/PerrellBeys.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/PerrellBeys.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/PerrellBeys.webp"
         }
     },
@@ -1238,7 +1238,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Plizeazoth.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Plizeazoth.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Plizeazoth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Plizeazoth.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Plizeazoth.webp"
         }
     },
@@ -1249,7 +1249,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Portunus.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Portunus.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Portunus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Portunus.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Portunus.webp"
         }
     },
@@ -1260,7 +1260,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Prydanu.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Prydanu.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Prydanu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Prydanu.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Prydanu.webp"
         }
     },
@@ -1271,7 +1271,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Quatronicus.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Quatronicus.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Quatronicus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Quatronicus.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Quatronicus.webp"
         }
     },
@@ -1282,7 +1282,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Quocwel.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Quocwel.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Quocwel.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Quocwel.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Quocwel.webp"
         }
     },
@@ -1293,7 +1293,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/RailaLyonhart.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/RailaLyonhart.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/RailaLyonhart.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/RailaLyonhart.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/RailaLyonhart.webp"
         }
     },
@@ -1304,7 +1304,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/RamonaAvandth.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/RamonaAvandth.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/RamonaAvandth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/RamonaAvandth.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/RamonaAvandth.webp"
         }
     },
@@ -1315,7 +1315,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/RamonaAvandthBust.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/RamonaAvandthBust.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/RamonaAvandthBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/RamonaAvandthBust.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/RamonaAvandthBust.webp"
         }
     },
@@ -1326,7 +1326,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/RamonaAvandthBust2.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/RamonaAvandthBust2.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/RamonaAvandthBust2.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/RamonaAvandthBust2.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/RamonaAvandthBust2.webp"
         }
     },
@@ -1337,7 +1337,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Rashimos.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Rashimos.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Rashimos.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Rashimos.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Rashimos.webp"
         }
     },
@@ -1348,7 +1348,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/RaylandArkley.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/RaylandArkley.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/RaylandArkley.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/RaylandArkley.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/RaylandArkley.webp"
         }
     },
@@ -1359,7 +1359,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Reclamation.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Reclamation.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Reclamation.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Reclamation.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Reclamation.webp"
         }
     },
@@ -1370,7 +1370,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Rillkimatai.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Rillkimatai.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Rillkimatai.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Rillkimatai.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Rillkimatai.webp"
         }
     },
@@ -1381,7 +1381,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Scal.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Scal.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Scal.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Scal.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Scal.webp"
         }
     },
@@ -1392,7 +1392,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/SeaCrawler.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/SeaCrawler.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/SeaCrawler.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/SeaCrawler.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/SeaCrawler.webp"
         }
     },
@@ -1403,7 +1403,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/SeaLinnorm.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/SeaLinnorm.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/SeaLinnorm.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/SeaLinnorm.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/SeaLinnorm.webp"
         }
     },
@@ -1414,7 +1414,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Sharopech.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Sharopech.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Sharopech.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Sharopech.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Sharopech.webp"
         }
     },
@@ -1425,7 +1425,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Sicva.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Sicva.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Sicva.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Sicva.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Sicva.webp"
         }
     },
@@ -1436,7 +1436,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/SilasWeatherbee.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/SilasWeatherbee.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/SilasWeatherbee.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/SilasWeatherbee.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/SilasWeatherbee.webp"
         }
     },
@@ -1447,7 +1447,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Skalorah.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Skalorah.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Skalorah.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Skalorah.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Skalorah.webp"
         }
     },
@@ -1458,7 +1458,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Skorika.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Skorika.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Skorika.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Skorika.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Skorika.webp"
         }
     },
@@ -1469,7 +1469,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/SmokeSentinel.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/SmokeSentinel.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/SmokeSentinel.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/SmokeSentinel.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/SmokeSentinel.webp"
         }
     },
@@ -1480,7 +1480,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/SnapsnapTrainer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/SnapsnapTrainer.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/SnapsnapTrainer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/SnapsnapTrainer.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/SnapsnapTrainer.webp"
         }
     },
@@ -1491,7 +1491,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/SpeakerOfTheDais.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/SpeakerOfTheDais.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/SpeakerOfTheDais.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/SpeakerOfTheDais.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/SpeakerOfTheDais.webp"
         }
     },
@@ -1502,7 +1502,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/SpiderbiterMonkeyGoblin.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/SpiderbiterMonkeyGoblin.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/SpiderbiterMonkeyGoblin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/SpiderbiterMonkeyGoblin.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/SpiderbiterMonkeyGoblin.webp"
         }
     },
@@ -1513,7 +1513,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/SpindlelockServant.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/SpindlelockServant.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/SpindlelockServant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/SpindlelockServant.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/SpindlelockServant.webp"
         }
     },
@@ -1524,7 +1524,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Talstran.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Talstran.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Talstran.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Talstran.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Talstran.webp"
         }
     },
@@ -1535,7 +1535,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Thalem.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Thalem.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Thalem.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Thalem.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Thalem.webp"
         }
     },
@@ -1546,7 +1546,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Thanaldhu.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Thanaldhu.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Thanaldhu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Thanaldhu.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Thanaldhu.webp"
         }
     },
@@ -1557,7 +1557,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/ThornedMound.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/ThornedMound.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/ThornedMound.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/ThornedMound.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/ThornedMound.webp"
         }
     },
@@ -1568,7 +1568,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Tidewretch.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Tidewretch.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Tidewretch.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Tidewretch.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Tidewretch.webp"
         }
     },
@@ -1579,7 +1579,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Ugothol.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Ugothol.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Ugothol.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Ugothol.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Ugothol.webp"
         }
     },
@@ -1590,7 +1590,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/UgotholMutilator.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/UgotholMutilator.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/UgotholMutilator.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/UgotholMutilator.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/UgotholMutilator.webp"
         }
     },
@@ -1601,7 +1601,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Uldraaghu.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Uldraaghu.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Uldraaghu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Uldraaghu.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Uldraaghu.webp"
         }
     },
@@ -1612,7 +1612,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Ulon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Ulon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Ulon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Ulon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Ulon.webp"
         }
     },
@@ -1623,7 +1623,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Uluuthan.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Uluuthan.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Uluuthan.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Uluuthan.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Uluuthan.webp"
         }
     },
@@ -1634,7 +1634,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/UncleKnives.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/UncleKnives.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/UncleKnives.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/UncleKnives.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/UncleKnives.webp"
         }
     },
@@ -1645,7 +1645,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Uot.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Uot.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Uot.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Uot.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Uot.webp"
         }
     },
@@ -1656,7 +1656,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Urlgryber.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Urlgryber.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Urlgryber.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Urlgryber.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Urlgryber.webp"
         }
     },
@@ -1667,7 +1667,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Vallik.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Vallik.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Vallik.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Vallik.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Vallik.webp"
         }
     },
@@ -1678,7 +1678,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Vhenarryn.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Vhenarryn.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Vhenarryn.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Vhenarryn.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Vhenarryn.webp"
         }
     },
@@ -1689,7 +1689,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Vidileth.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Vidileth.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Vidileth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Vidileth.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Vidileth.webp"
         }
     },
@@ -1700,7 +1700,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Vriskirsa.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Vriskirsa.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Vriskirsa.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Vriskirsa.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Vriskirsa.webp"
         }
     },
@@ -1711,7 +1711,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Wavewalker.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Wavewalker.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Wavewalker.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Wavewalker.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Wavewalker.webp"
         }
     },
@@ -1722,7 +1722,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/WyrwoodArcher.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/WyrwoodArcher.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/WyrwoodArcher.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/WyrwoodArcher.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/WyrwoodArcher.webp"
         }
     },
@@ -1733,7 +1733,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-ruins-of-azlant/Yutpan.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-ruins-of-azlant/Yutpan.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-ruins-of-azlant/Yutpan.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Yutpan.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-ruins-of-azlant/Yutpan.webp"
         }
     }

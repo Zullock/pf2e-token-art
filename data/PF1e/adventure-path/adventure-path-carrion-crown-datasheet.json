@@ -6,7 +6,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/AbraunChalest.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/AbraunChalest.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/AbraunChalest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/AbraunChalest.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/AbraunChalest.webp"
         },
         "tags": {
@@ -32,7 +32,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Acrietia.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Acrietia.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Acrietia.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Acrietia.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Acrietia.webp"
         },
         "tags": {
@@ -57,7 +57,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/AdivionAdrissant.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/AdivionAdrissant.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/AdivionAdrissant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/AdivionAdrissant.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/AdivionAdrissant.webp"
         },
         "tags": {
@@ -87,7 +87,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/AdivionAdrissantBust.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/AdivionAdrissantBust.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/AdivionAdrissantBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/AdivionAdrissantBust.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/AdivionAdrissantBust.webp"
         },
         "tags": {
@@ -113,7 +113,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/AdmarusIonacu.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/AdmarusIonacu.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/AdmarusIonacu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/AdmarusIonacu.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/AdmarusIonacu.webp"
         },
         "tags": {
@@ -143,7 +143,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/AgentOfTheGrave.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/AgentOfTheGrave.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/AgentOfTheGrave.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/AgentOfTheGrave.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/AgentOfTheGrave.webp"
         },
         "tags": {
@@ -169,7 +169,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/AisaDublesse.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/AisaDublesse.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/AisaDublesse.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/AisaDublesse.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/AisaDublesse.webp"
         },
         "tags": {
@@ -200,7 +200,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/AlborVoltiaro.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/AlborVoltiaro.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/AlborVoltiaro.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/AlborVoltiaro.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/AlborVoltiaro.webp"
         },
         "tags": {
@@ -230,7 +230,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Arazni.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Arazni.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Arazni.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Arazni.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Arazni.webp"
         },
         "tags": {
@@ -261,7 +261,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/AurenVrood.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/AurenVrood.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/AurenVrood.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/AurenVrood.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/AurenVrood.webp"
         },
         "tags": {
@@ -294,7 +294,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/BarristerGustavKaple.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/BarristerGustavKaple.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/BarristerGustavKaple.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/BarristerGustavKaple.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/BarristerGustavKaple.webp"
         },
         "tags": {
@@ -320,7 +320,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/BenjanCaeller.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/BenjanCaeller.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/BenjanCaeller.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/BenjanCaeller.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/BenjanCaeller.webp"
         },
         "tags": {
@@ -347,7 +347,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Boruta.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Boruta.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Boruta.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Boruta.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Boruta.webp"
         },
         "tags": {
@@ -366,7 +366,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/BoverdeHoptler.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/BoverdeHoptler.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/BoverdeHoptler.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/BoverdeHoptler.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/BoverdeHoptler.webp"
         },
         "tags": {
@@ -392,7 +392,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/BrotherSwarm.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/BrotherSwarm.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/BrotherSwarm.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/BrotherSwarm.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/BrotherSwarm.webp"
         },
         "tags": {
@@ -414,7 +414,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/CarmillaCaliphvaso.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/CarmillaCaliphvaso.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/CarmillaCaliphvaso.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/CarmillaCaliphvaso.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/CarmillaCaliphvaso.webp"
         },
         "tags": {
@@ -439,7 +439,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/CilasGraydon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/CilasGraydon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/CilasGraydon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/CilasGraydon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/CilasGraydon.webp"
         },
         "tags": {
@@ -465,7 +465,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/ClanartusViliras.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/ClanartusViliras.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/ClanartusViliras.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/ClanartusViliras.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/ClanartusViliras.webp"
         },
         "tags": {
@@ -491,7 +491,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/CoffinMimic.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/CoffinMimic.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/CoffinMimic.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/CoffinMimic.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/CoffinMimic.webp"
         },
         "tags": {
@@ -510,7 +510,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/CorpulentGhoul.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/CorpulentGhoul.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/CorpulentGhoul.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/CorpulentGhoul.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/CorpulentGhoul.webp"
         },
         "tags": {
@@ -529,7 +529,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/CorvinTergsvor.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/CorvinTergsvor.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/CorvinTergsvor.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/CorvinTergsvor.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/CorvinTergsvor.webp"
         },
         "tags": {
@@ -555,7 +555,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/CouncilmanHearthmount.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/CouncilmanHearthmount.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/CouncilmanHearthmount.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/CouncilmanHearthmount.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/CouncilmanHearthmount.webp"
         },
         "tags": {
@@ -581,7 +581,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/CountAlponCaromarc.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/CountAlponCaromarc.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/CountAlponCaromarc.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/CountAlponCaromarc.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/CountAlponCaromarc.webp"
         },
         "tags": {
@@ -607,7 +607,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/CountGaldana.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/CountGaldana.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/CountGaldana.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/CountGaldana.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/CountGaldana.webp"
         },
         "tags": {
@@ -633,7 +633,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/CybrisaDorzhanev.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/CybrisaDorzhanev.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/CybrisaDorzhanev.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/CybrisaDorzhanev.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/CybrisaDorzhanev.webp"
         },
         "tags": {
@@ -665,7 +665,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/DarkYoungOfShubNiggurath.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/DarkYoungOfShubNiggurath.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/DarkYoungOfShubNiggurath.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/DarkYoungOfShubNiggurath.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/DarkYoungOfShubNiggurath.webp"
         },
         "tags": {
@@ -687,7 +687,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/DelgrosKroitzcer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/DelgrosKroitzcer.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/DelgrosKroitzcer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/DelgrosKroitzcer.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/DelgrosKroitzcer.webp"
         },
         "tags": {
@@ -714,7 +714,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/DesmondKote.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/DesmondKote.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/DesmondKote.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/DesmondKote.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/DesmondKote.webp"
         },
         "tags": {
@@ -744,7 +744,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Dhauggota.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Dhauggota.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Dhauggota.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Dhauggota.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Dhauggota.webp"
         },
         "tags": {
@@ -766,7 +766,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/DimensionalShambler.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/DimensionalShambler.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/DimensionalShambler.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/DimensionalShambler.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/DimensionalShambler.webp"
         },
         "tags": {
@@ -785,7 +785,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Dissayn.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Dissayn.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Dissayn.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Dissayn.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Dissayn.webp"
         },
         "tags": {
@@ -813,7 +813,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Dolthysuun.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Dolthysuun.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Dolthysuun.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Dolthysuun.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Dolthysuun.webp"
         },
         "tags": {
@@ -838,7 +838,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/DrBeaurigmandTrice.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/DrBeaurigmandTrice.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/DrBeaurigmandTrice.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/DrBeaurigmandTrice.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/DrBeaurigmandTrice.webp"
         },
         "tags": {
@@ -863,7 +863,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/DuristanSilvioAriesir.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/DuristanSilvioAriesir.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/DuristanSilvioAriesir.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/DuristanSilvioAriesir.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/DuristanSilvioAriesir.webp"
         },
         "tags": {
@@ -894,7 +894,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/DuristanSilvioAriesirBust.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/DuristanSilvioAriesirBust.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/DuristanSilvioAriesirBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/DuristanSilvioAriesirBust.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/DuristanSilvioAriesirBust.webp"
         },
         "tags": {
@@ -921,7 +921,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/EdjureusModd.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/EdjureusModd.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/EdjureusModd.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/EdjureusModd.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/EdjureusModd.webp"
         },
         "tags": {
@@ -950,7 +950,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/EsotericOrderOfThePalatineEyeMember.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/EsotericOrderOfThePalatineEyeMember.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/EsotericOrderOfThePalatineEyeMember.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/EsotericOrderOfThePalatineEyeMember.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/EsotericOrderOfThePalatineEyeMember.webp"
         },
         "tags": {
@@ -976,7 +976,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/EstovionLozarov.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/EstovionLozarov.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/EstovionLozarov.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/EstovionLozarov.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/EstovionLozarov.webp"
         },
         "tags": {
@@ -1002,7 +1002,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/FacelessFleshGolem.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/FacelessFleshGolem.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/FacelessFleshGolem.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/FacelessFleshGolem.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/FacelessFleshGolem.webp"
         },
         "tags": {
@@ -1024,7 +1024,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/FatherGrimburrow.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/FatherGrimburrow.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/FatherGrimburrow.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/FatherGrimburrow.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/FatherGrimburrow.webp"
         },
         "tags": {
@@ -1053,7 +1053,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/FleshGolemHound.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/FleshGolemHound.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/FleshGolemHound.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/FleshGolemHound.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/FleshGolemHound.webp"
         },
         "tags": {
@@ -1075,7 +1075,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/ForsakenLich.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/ForsakenLich.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/ForsakenLich.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/ForsakenLich.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/ForsakenLich.webp"
         },
         "tags": {
@@ -1102,7 +1102,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/GargoyleAbductor.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/GargoyleAbductor.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/GargoyleAbductor.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/GargoyleAbductor.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/GargoyleAbductor.webp"
         },
         "tags": {
@@ -1121,7 +1121,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Ghast.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Ghast.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Ghast.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Ghast.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Ghast.webp"
         },
         "tags": {
@@ -1143,7 +1143,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/GiantCrabSpider.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/GiantCrabSpider.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/GiantCrabSpider.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/GiantCrabSpider.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/GiantCrabSpider.webp"
         },
         "tags": {
@@ -1169,7 +1169,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/GiantStirge.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/GiantStirge.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/GiantStirge.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/GiantStirge.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/GiantStirge.webp"
         },
         "tags": {
@@ -1191,7 +1191,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/GibsHephenus.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/GibsHephenus.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/GibsHephenus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/GibsHephenus.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/GibsHephenus.webp"
         },
         "tags": {
@@ -1217,7 +1217,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/GnophKeh.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/GnophKeh.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/GnophKeh.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/GnophKeh.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/GnophKeh.webp"
         },
         "tags": {
@@ -1236,7 +1236,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/GrimReaper.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/GrimReaper.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/GrimReaper.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/GrimReaper.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/GrimReaper.webp"
         },
         "tags": {
@@ -1262,7 +1262,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Grine.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Grine.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Grine.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Grine.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Grine.webp"
         },
         "tags": {
@@ -1292,7 +1292,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/GuardianOfTheTower.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/GuardianOfTheTower.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/GuardianOfTheTower.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/GuardianOfTheTower.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/GuardianOfTheTower.webp"
         },
         "tags": {
@@ -1315,7 +1315,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/GuardianPhantomArmor.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/GuardianPhantomArmor.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/GuardianPhantomArmor.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/GuardianPhantomArmor.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/GuardianPhantomArmor.webp"
         },
         "tags": {
@@ -1341,7 +1341,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/GurtisVortch.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/GurtisVortch.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/GurtisVortch.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/GurtisVortch.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/GurtisVortch.webp"
         },
         "tags": {
@@ -1366,7 +1366,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/HalloranIdriss.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/HalloranIdriss.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/HalloranIdriss.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/HalloranIdriss.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/HalloranIdriss.webp"
         },
         "tags": {
@@ -1400,7 +1400,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/HangmanTree.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/HangmanTree.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/HangmanTree.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/HangmanTree.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/HangmanTree.webp"
         },
         "tags": {
@@ -1419,7 +1419,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/HeadsmansScythe.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/HeadsmansScythe.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/HeadsmansScythe.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/HeadsmansScythe.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/HeadsmansScythe.webp"
         },
         "tags": {
@@ -1444,7 +1444,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/HetnaDublesse.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/HetnaDublesse.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/HetnaDublesse.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/HetnaDublesse.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/HetnaDublesse.webp"
         },
         "tags": {
@@ -1473,7 +1473,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/HoraceCroon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/HoraceCroon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/HoraceCroon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/HoraceCroon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/HoraceCroon.webp"
         },
         "tags": {
@@ -1499,7 +1499,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/IqLothatuaa.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/IqLothatuaa.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/IqLothatuaa.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/IqLothatuaa.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/IqLothatuaa.webp"
         },
         "tags": {
@@ -1529,7 +1529,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/JackOLantern.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/JackOLantern.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/JackOLantern.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/JackOLantern.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/JackOLantern.webp"
         },
         "tags": {
@@ -1548,7 +1548,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/JudgeDaramid.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/JudgeDaramid.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/JudgeDaramid.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/JudgeDaramid.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/JudgeDaramid.webp"
         },
         "tags": {
@@ -1574,7 +1574,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/KalebHesse.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/KalebHesse.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/KalebHesse.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/KalebHesse.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/KalebHesse.webp"
         },
         "tags": {
@@ -1600,7 +1600,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/KendraLorrimor.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/KendraLorrimor.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/KendraLorrimor.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/KendraLorrimor.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/KendraLorrimor.webp"
         },
         "tags": {
@@ -1626,7 +1626,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/KnightOfOzen.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/KnightOfOzen.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/KnightOfOzen.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/KnightOfOzen.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/KnightOfOzen.webp"
         },
         "tags": {
@@ -1653,7 +1653,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/LadyEvgenyaZunaida.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/LadyEvgenyaZunaida.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/LadyEvgenyaZunaida.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/LadyEvgenyaZunaida.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/LadyEvgenyaZunaida.webp"
         },
         "tags": {
@@ -1682,7 +1682,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/LengSpider.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/LengSpider.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/LengSpider.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/LengSpider.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/LengSpider.webp"
         },
         "tags": {
@@ -1705,7 +1705,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/LucimarTheLichWolf.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/LucimarTheLichWolf.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/LucimarTheLichWolf.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/LucimarTheLichWolf.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/LucimarTheLichWolf.webp"
         },
         "tags": {
@@ -1738,7 +1738,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/LuvickSiervage.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/LuvickSiervage.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/LuvickSiervage.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/LuvickSiervage.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/LuvickSiervage.webp"
         },
         "tags": {
@@ -1767,7 +1767,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/LuvickSiervageBust.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/LuvickSiervageBust.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/LuvickSiervageBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/LuvickSiervageBust.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/LuvickSiervageBust.webp"
         },
         "tags": {
@@ -1796,7 +1796,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/MadameIvanja.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/MadameIvanja.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/MadameIvanja.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/MadameIvanja.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/MadameIvanja.webp"
         },
         "tags": {
@@ -1821,7 +1821,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Malyas.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Malyas.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Malyas.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Malyas.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Malyas.webp"
         },
         "tags": {
@@ -1852,7 +1852,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/MarkizaWelgory.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/MarkizaWelgory.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/MarkizaWelgory.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/MarkizaWelgory.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/MarkizaWelgory.webp"
         },
         "tags": {
@@ -1878,7 +1878,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Marrowgarth.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Marrowgarth.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Marrowgarth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Marrowgarth.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Marrowgarth.webp"
         },
         "tags": {
@@ -1906,7 +1906,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/MathusMordrinacht.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/MathusMordrinacht.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/MathusMordrinacht.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/MathusMordrinacht.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/MathusMordrinacht.webp"
         },
         "tags": {
@@ -1940,7 +1940,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/MayorEarlyGreedle.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/MayorEarlyGreedle.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/MayorEarlyGreedle.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/MayorEarlyGreedle.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/MayorEarlyGreedle.webp"
         },
         "tags": {
@@ -1966,7 +1966,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/MenadoranFestrog.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/MenadoranFestrog.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/MenadoranFestrog.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/MenadoranFestrog.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/MenadoranFestrog.webp"
         },
         "tags": {
@@ -1985,7 +1985,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/MerrickSais.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/MerrickSais.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/MerrickSais.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/MerrickSais.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/MerrickSais.webp"
         },
         "tags": {
@@ -2014,7 +2014,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/MiGo.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/MiGo.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/MiGo.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/MiGo.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/MiGo.webp"
         },
         "tags": {
@@ -2036,7 +2036,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/MothersMaw.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/MothersMaw.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/MothersMaw.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/MothersMaw.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/MothersMaw.webp"
         },
         "tags": {
@@ -2063,7 +2063,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Nalthezzar.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Nalthezzar.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Nalthezzar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Nalthezzar.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Nalthezzar.webp"
         },
         "tags": {
@@ -2091,7 +2091,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/NatishaPavalanis.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/NatishaPavalanis.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/NatishaPavalanis.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/NatishaPavalanis.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/NatishaPavalanis.webp"
         },
         "tags": {
@@ -2120,7 +2120,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Nosoi.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Nosoi.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Nosoi.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Nosoi.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Nosoi.webp"
         },
         "tags": {
@@ -2142,7 +2142,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Nyarlathotep.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Nyarlathotep.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Nyarlathotep.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Nyarlathotep.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Nyarlathotep.webp"
         },
         "tags": {
@@ -2169,7 +2169,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Ogggggol.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Ogggggol.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Ogggggol.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Ogggggol.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Ogggggol.webp"
         },
         "tags": {
@@ -2191,7 +2191,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/OgreSkeleton.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/OgreSkeleton.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/OgreSkeleton.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/OgreSkeleton.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/OgreSkeleton.webp"
         },
         "tags": {
@@ -2214,7 +2214,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/PacklordKvalcaSain.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/PacklordKvalcaSain.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/PacklordKvalcaSain.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/PacklordKvalcaSain.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/PacklordKvalcaSain.webp"
         },
         "tags": {
@@ -2243,7 +2243,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/PharasmaPriest.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/PharasmaPriest.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/PharasmaPriest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/PharasmaPriest.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/PharasmaPriest.webp"
         },
         "tags": {
@@ -2272,7 +2272,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Poltergeist.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Poltergeist.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Poltergeist.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Poltergeist.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Poltergeist.webp"
         },
         "tags": {
@@ -2291,7 +2291,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/QuinleyBasdel.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/QuinleyBasdel.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/QuinleyBasdel.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/QuinleyBasdel.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/QuinleyBasdel.webp"
         },
         "tags": {
@@ -2319,7 +2319,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/RadvirGiovanni.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/RadvirGiovanni.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/RadvirGiovanni.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/RadvirGiovanni.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/RadvirGiovanni.webp"
         },
         "tags": {
@@ -2349,7 +2349,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/RamoskaArkminos.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/RamoskaArkminos.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/RamoskaArkminos.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/RamoskaArkminos.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/RamoskaArkminos.webp"
         },
         "tags": {
@@ -2377,7 +2377,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/RenchurchNovice.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/RenchurchNovice.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/RenchurchNovice.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/RenchurchNovice.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/RenchurchNovice.webp"
         },
         "tags": {
@@ -2401,7 +2401,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/RhakisSzadro.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/RhakisSzadro.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/RhakisSzadro.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/RhakisSzadro.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/RhakisSzadro.webp"
         },
         "tags": {
@@ -2430,7 +2430,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/SanguineOozeSwarm.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/SanguineOozeSwarm.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/SanguineOozeSwarm.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/SanguineOozeSwarm.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/SanguineOozeSwarm.webp"
         },
         "tags": {
@@ -2452,7 +2452,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/ScionOfTheSea.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/ScionOfTheSea.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/ScionOfTheSea.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/ScionOfTheSea.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/ScionOfTheSea.webp"
         },
         "tags": {
@@ -2474,7 +2474,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/ShandaFaravan.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/ShandaFaravan.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/ShandaFaravan.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/ShandaFaravan.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/ShandaFaravan.webp"
         },
         "tags": {
@@ -2497,7 +2497,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/ShubNiggurath.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/ShubNiggurath.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/ShubNiggurath.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/ShubNiggurath.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/ShubNiggurath.webp"
         },
         "tags": {
@@ -2524,7 +2524,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/SicnavierV.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/SicnavierV.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/SicnavierV.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/SicnavierV.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/SicnavierV.webp"
         },
         "tags": {
@@ -2549,7 +2549,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/SkinStealer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/SkinStealer.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/SkinStealer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/SkinStealer.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/SkinStealer.webp"
         },
         "tags": {
@@ -2568,7 +2568,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/SnapjawHomunculus.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/SnapjawHomunculus.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/SnapjawHomunculus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/SnapjawHomunculus.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/SnapjawHomunculus.webp"
         },
         "tags": {
@@ -2587,7 +2587,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Socorro.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Socorro.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Socorro.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Socorro.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Socorro.webp"
         },
         "tags": {
@@ -2616,7 +2616,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/SpawningCanker.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/SpawningCanker.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/SpawningCanker.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/SpawningCanker.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/SpawningCanker.webp"
         },
         "tags": {
@@ -2635,7 +2635,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/StewardOfTheSkein.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/StewardOfTheSkein.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/StewardOfTheSkein.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/StewardOfTheSkein.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/StewardOfTheSkein.webp"
         },
         "tags": {
@@ -2665,7 +2665,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/SvoacTheGateTender.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/SvoacTheGateTender.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/SvoacTheGateTender.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/SvoacTheGateTender.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/SvoacTheGateTender.webp"
         },
         "tags": {
@@ -2694,7 +2694,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/TarBaphon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/TarBaphon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/TarBaphon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/TarBaphon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/TarBaphon.webp"
         },
         "tags": {
@@ -2725,7 +2725,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/TheBeastOfLepidstadt.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/TheBeastOfLepidstadt.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/TheBeastOfLepidstadt.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/TheBeastOfLepidstadt.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/TheBeastOfLepidstadt.webp"
         },
         "tags": {
@@ -2754,7 +2754,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/TheBeastOfLepidstadtBust.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/TheBeastOfLepidstadtBust.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/TheBeastOfLepidstadtBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/TheBeastOfLepidstadtBust.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/TheBeastOfLepidstadtBust.webp"
         },
         "tags": {
@@ -2780,7 +2780,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/TheGrayFriar.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/TheGrayFriar.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/TheGrayFriar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/TheGrayFriar.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/TheGrayFriar.webp"
         },
         "tags": {
@@ -2809,7 +2809,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/TheLopper.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/TheLopper.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/TheLopper.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/TheLopper.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/TheLopper.webp"
         },
         "tags": {
@@ -2836,7 +2836,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/TheUrgathoanFly.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/TheUrgathoanFly.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/TheUrgathoanFly.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/TheUrgathoanFly.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/TheUrgathoanFly.webp"
         },
         "tags": {
@@ -2861,7 +2861,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/TrollAndTrollhound.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/TrollAndTrollhound.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/TrollAndTrollhound.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/TrollAndTrollhound.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/TrollAndTrollhound.webp"
         },
         "tags": {
@@ -2882,7 +2882,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/UlatKiniSentry.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/UlatKiniSentry.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/UlatKiniSentry.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/UlatKiniSentry.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/UlatKiniSentry.webp"
         },
         "tags": {
@@ -2908,7 +2908,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/UrcaNamat.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/UrcaNamat.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/UrcaNamat.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/UrcaNamat.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/UrcaNamat.webp"
         },
         "tags": {
@@ -2935,7 +2935,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/UrgathoaPriest.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/UrgathoaPriest.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/UrgathoaPriest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/UrgathoaPriest.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/UrgathoaPriest.webp"
         },
         "tags": {
@@ -2961,7 +2961,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Vanth.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Vanth.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Vanth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Vanth.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Vanth.webp"
         },
         "tags": {
@@ -2983,7 +2983,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/VesoriannaHawkran.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/VesoriannaHawkran.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/VesoriannaHawkran.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/VesoriannaHawkran.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/VesoriannaHawkran.webp"
         },
         "tags": {
@@ -3011,7 +3011,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/VesoriannaHawkranBust.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/VesoriannaHawkranBust.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/VesoriannaHawkranBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/VesoriannaHawkranBust.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/VesoriannaHawkranBust.webp"
         },
         "tags": {
@@ -3040,7 +3040,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/VicarOfTheIndomitableSea.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/VicarOfTheIndomitableSea.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/VicarOfTheIndomitableSea.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/VicarOfTheIndomitableSea.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/VicarOfTheIndomitableSea.webp"
         },
         "tags": {
@@ -3066,7 +3066,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Vilkacis.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Vilkacis.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Vilkacis.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Vilkacis.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Vilkacis.webp"
         },
         "tags": {
@@ -3088,7 +3088,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/VollensagStalker.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/VollensagStalker.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/VollensagStalker.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/VollensagStalker.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/VollensagStalker.webp"
         },
         "tags": {
@@ -3115,7 +3115,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/WaxGolem.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/WaxGolem.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/WaxGolem.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/WaxGolem.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/WaxGolem.webp"
         },
         "tags": {
@@ -3137,7 +3137,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Weaverworm.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Weaverworm.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Weaverworm.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Weaverworm.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Weaverworm.webp"
         },
         "tags": {
@@ -3156,7 +3156,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Werebat.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Werebat.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Werebat.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Werebat.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Werebat.webp"
         },
         "tags": {
@@ -3181,7 +3181,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Wererat.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Wererat.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Wererat.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Wererat.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Wererat.webp"
         },
         "tags": {
@@ -3203,7 +3203,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Weretiger.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Weretiger.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Weretiger.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Weretiger.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Weretiger.webp"
         },
         "tags": {
@@ -3228,7 +3228,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/WhisperingWayCurate.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/WhisperingWayCurate.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/WhisperingWayCurate.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/WhisperingWayCurate.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/WhisperingWayCurate.webp"
         },
         "tags": {
@@ -3255,7 +3255,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/WilendithasTheEternalHag.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/WilendithasTheEternalHag.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/WilendithasTheEternalHag.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/WilendithasTheEternalHag.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/WilendithasTheEternalHag.webp"
         },
         "tags": {
@@ -3285,7 +3285,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/Yamaraj.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/Yamaraj.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/Yamaraj.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Yamaraj.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/Yamaraj.webp"
         },
         "tags": {
@@ -3307,7 +3307,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/YibThoolp.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/YibThoolp.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/YibThoolp.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/YibThoolp.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/YibThoolp.webp"
         },
         "tags": {
@@ -3333,7 +3333,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/ZhabhBoath.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/ZhabhBoath.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/ZhabhBoath.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/ZhabhBoath.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/ZhabhBoath.webp"
         },
         "tags": {
@@ -3362,7 +3362,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/ZhabhBoathBust.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/ZhabhBoathBust.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/ZhabhBoathBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/ZhabhBoathBust.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/ZhabhBoathBust.webp"
         },
         "tags": {
@@ -3392,7 +3392,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-carrion-crown/ZokarElkarid.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-carrion-crown/ZokarElkarid.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-carrion-crown/ZokarElkarid.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/ZokarElkarid.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-carrion-crown/ZokarElkarid.webp"
         },
         "tags": {

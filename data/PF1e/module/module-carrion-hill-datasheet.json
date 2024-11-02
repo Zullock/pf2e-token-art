@@ -6,7 +6,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-carrion-hill/CroveAsylumOrderlyAndLunatic.png",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-carrion-hill/CroveAsylumOrderlyAndLunatic.png",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/module/module-carrion-hill/CroveAsylumOrderlyAndLunatic.png",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/CroveAsylumOrderlyAndLunatic.png",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/CroveAsylumOrderlyAndLunatic.png"
         },
         "tags": {
@@ -30,7 +30,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-carrion-hill/KeeperCrove.png",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-carrion-hill/KeeperCrove.png",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/module/module-carrion-hill/KeeperCrove.png",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/KeeperCrove.png",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/KeeperCrove.png"
         },
         "tags": {
@@ -57,7 +57,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-carrion-hill/KeeperHyve.png",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-carrion-hill/KeeperHyve.png",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/module/module-carrion-hill/KeeperHyve.png",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/KeeperHyve.png",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/KeeperHyve.png"
         },
         "tags": {
@@ -85,7 +85,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-carrion-hill/KeeperMyre.png",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-carrion-hill/KeeperMyre.png",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/module/module-carrion-hill/KeeperMyre.png",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/KeeperMyre.png",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/KeeperMyre.png"
         },
         "tags": {
@@ -111,7 +111,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-carrion-hill/MayorHeggry.png",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-carrion-hill/MayorHeggry.png",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/module/module-carrion-hill/MayorHeggry.png",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/MayorHeggry.png",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/MayorHeggry.png"
         },
         "tags": {
@@ -137,7 +137,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-carrion-hill/Oleg.png",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-carrion-hill/Oleg.png",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/module/module-carrion-hill/Oleg.png",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/Oleg.png",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/Oleg.png"
         },
         "tags": {

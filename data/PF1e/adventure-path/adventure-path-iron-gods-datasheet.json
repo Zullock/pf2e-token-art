@@ -6,7 +6,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/AcolyteOfHellion.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/AcolyteOfHellion.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/AcolyteOfHellion.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/AcolyteOfHellion.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/AcolyteOfHellion.webp"
         },
         "tags": {
@@ -33,7 +33,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Aldronard.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Aldronard.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Aldronard.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Aldronard.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Aldronard.webp"
         },
         "tags": {
@@ -62,7 +62,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/AllingThird.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/AllingThird.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/AllingThird.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/AllingThird.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/AllingThird.webp"
         },
         "tags": {
@@ -85,7 +85,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/AndroidFighter.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/AndroidFighter.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/AndroidFighter.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/AndroidFighter.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/AndroidFighter.webp"
         },
         "tags": {
@@ -111,7 +111,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/AndroidShooter.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/AndroidShooter.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/AndroidShooter.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/AndroidShooter.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/AndroidShooter.webp"
         },
         "tags": {
@@ -137,7 +137,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/ArcantixSister.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/ArcantixSister.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/ArcantixSister.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/ArcantixSister.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/ArcantixSister.webp"
         },
         "tags": {
@@ -170,7 +170,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/AugmentedGearsman.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/AugmentedGearsman.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/AugmentedGearsman.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/AugmentedGearsman.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/AugmentedGearsman.webp"
         },
         "tags": {
@@ -195,7 +195,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Aurumvorax.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Aurumvorax.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Aurumvorax.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Aurumvorax.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Aurumvorax.webp"
         },
         "tags": {
@@ -214,7 +214,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/BaronKronsiegDrund.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/BaronKronsiegDrund.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/BaronKronsiegDrund.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/BaronKronsiegDrund.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/BaronKronsiegDrund.webp"
         },
         "tags": {
@@ -240,7 +240,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Bastion.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Bastion.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Bastion.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Bastion.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Bastion.webp"
         },
         "tags": {
@@ -266,7 +266,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Becrux.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Becrux.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Becrux.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Becrux.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Becrux.webp"
         },
         "tags": {
@@ -291,7 +291,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Birdfood.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Birdfood.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Birdfood.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Birdfood.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Birdfood.webp"
         },
         "tags": {
@@ -320,7 +320,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/BlackSeer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/BlackSeer.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/BlackSeer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/BlackSeer.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/BlackSeer.webp"
         },
         "tags": {
@@ -354,7 +354,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/BrighPriest.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/BrighPriest.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/BrighPriest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/BrighPriest.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/BrighPriest.webp"
         },
         "tags": {
@@ -381,7 +381,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Casandalee.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Casandalee.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Casandalee.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Casandalee.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Casandalee.webp"
         },
         "tags": {
@@ -406,7 +406,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Choek.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Choek.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Choek.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Choek.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Choek.webp"
         },
         "tags": {
@@ -428,7 +428,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Collector.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Collector.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Collector.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Collector.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Collector.webp"
         },
         "tags": {
@@ -450,7 +450,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/ColourBlightedFroghemoth.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/ColourBlightedFroghemoth.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/ColourBlightedFroghemoth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/ColourBlightedFroghemoth.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/ColourBlightedFroghemoth.webp"
         },
         "tags": {
@@ -472,7 +472,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/DamagedAnnihilator.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/DamagedAnnihilator.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/DamagedAnnihilator.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/DamagedAnnihilator.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/DamagedAnnihilator.webp"
         },
         "tags": {
@@ -494,7 +494,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/DeaconHope.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/DeaconHope.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/DeaconHope.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/DeaconHope.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/DeaconHope.webp"
         },
         "tags": {
@@ -519,7 +519,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/DeathtrapOoze.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/DeathtrapOoze.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/DeathtrapOoze.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/DeathtrapOoze.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/DeathtrapOoze.webp"
         },
         "tags": {
@@ -538,7 +538,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/DeformedAndroid.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/DeformedAndroid.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/DeformedAndroid.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/DeformedAndroid.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/DeformedAndroid.webp"
         },
         "tags": {
@@ -561,7 +561,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/DinvayaLanalei.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/DinvayaLanalei.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/DinvayaLanalei.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/DinvayaLanalei.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/DinvayaLanalei.webp"
         },
         "tags": {
@@ -592,7 +592,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/DinvayaLanaleiBust.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/DinvayaLanaleiBust.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/DinvayaLanaleiBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/DinvayaLanaleiBust.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/DinvayaLanaleiBust.webp"
         },
         "tags": {
@@ -621,7 +621,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Director.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Director.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Director.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Director.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Director.webp"
         },
         "tags": {
@@ -643,7 +643,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/DocHellbroth.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/DocHellbroth.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/DocHellbroth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/DocHellbroth.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/DocHellbroth.webp"
         },
         "tags": {
@@ -674,7 +674,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/DolgaFreddert.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/DolgaFreddert.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/DolgaFreddert.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/DolgaFreddert.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/DolgaFreddert.webp"
         },
         "tags": {
@@ -700,7 +700,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/DominionObserver.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/DominionObserver.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/DominionObserver.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/DominionObserver.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/DominionObserver.webp"
         },
         "tags": {
@@ -719,7 +719,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Draigs.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Draigs.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Draigs.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Draigs.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Draigs.webp"
         },
         "tags": {
@@ -748,7 +748,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/EngineAttendant.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/EngineAttendant.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/EngineAttendant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/EngineAttendant.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/EngineAttendant.webp"
         },
         "tags": {
@@ -779,7 +779,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Evaluator.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Evaluator.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Evaluator.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Evaluator.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Evaluator.webp"
         },
         "tags": {
@@ -801,7 +801,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Feranth.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Feranth.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Feranth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Feranth.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Feranth.webp"
         },
         "tags": {
@@ -820,7 +820,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/FirstSovereign.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/FirstSovereign.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/FirstSovereign.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/FirstSovereign.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/FirstSovereign.webp"
         },
         "tags": {
@@ -845,7 +845,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/FurkasXoud.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/FurkasXoud.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/FurkasXoud.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/FurkasXoud.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/FurkasXoud.webp"
         },
         "tags": {
@@ -877,7 +877,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/FurkasXoudBust.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/FurkasXoudBust.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/FurkasXoudBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/FurkasXoudBust.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/FurkasXoudBust.webp"
         },
         "tags": {
@@ -910,7 +910,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/FurkasXoudCasting.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/FurkasXoudCasting.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/FurkasXoudCasting.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/FurkasXoudCasting.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/FurkasXoudCasting.webp"
         },
         "tags": {
@@ -942,7 +942,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Gammenore.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Gammenore.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Gammenore.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Gammenore.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Gammenore.webp"
         },
         "tags": {
@@ -964,7 +964,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/GarmenUlreth.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/GarmenUlreth.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/GarmenUlreth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/GarmenUlreth.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/GarmenUlreth.webp"
         },
         "tags": {
@@ -990,7 +990,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Gearsman.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Gearsman.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Gearsman.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Gearsman.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Gearsman.webp"
         },
         "tags": {
@@ -1012,7 +1012,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/GearsmanBattleguard.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/GearsmanBattleguard.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/GearsmanBattleguard.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/GearsmanBattleguard.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/GearsmanBattleguard.webp"
         },
         "tags": {
@@ -1037,7 +1037,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/GeetanProsser.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/GeetanProsser.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/GeetanProsser.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/GeetanProsser.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/GeetanProsser.webp"
         },
         "tags": {
@@ -1070,7 +1070,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Ghartone.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Ghartone.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Ghartone.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Ghartone.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Ghartone.webp"
         },
         "tags": {
@@ -1103,7 +1103,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Ghelarn.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Ghelarn.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Ghelarn.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Ghelarn.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Ghelarn.webp"
         },
         "tags": {
@@ -1122,7 +1122,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Gravedragger.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Gravedragger.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Gravedragger.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Gravedragger.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Gravedragger.webp"
         },
         "tags": {
@@ -1151,7 +1151,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Gruethur.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Gruethur.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Gruethur.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Gruethur.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Gruethur.webp"
         },
         "tags": {
@@ -1177,7 +1177,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/GryneRasik.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/GryneRasik.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/GryneRasik.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/GryneRasik.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/GryneRasik.webp"
         },
         "tags": {
@@ -1209,7 +1209,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Gunshy.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Gunshy.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Gunshy.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Gunshy.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Gunshy.webp"
         },
         "tags": {
@@ -1240,7 +1240,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Harab.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Harab.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Harab.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Harab.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Harab.webp"
         },
         "tags": {
@@ -1266,7 +1266,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/HeavyRepairDrone.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/HeavyRepairDrone.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/HeavyRepairDrone.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/HeavyRepairDrone.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/HeavyRepairDrone.webp"
         },
         "tags": {
@@ -1288,7 +1288,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Hellion.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Hellion.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Hellion.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Hellion.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Hellion.webp"
         },
         "tags": {
@@ -1313,7 +1313,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Helskarg.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Helskarg.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Helskarg.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Helskarg.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Helskarg.webp"
         },
         "tags": {
@@ -1343,7 +1343,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Hetuath.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Hetuath.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Hetuath.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Hetuath.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Hetuath.webp"
         },
         "tags": {
@@ -1375,7 +1375,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Hoskit.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Hoskit.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Hoskit.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Hoskit.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Hoskit.webp"
         },
         "tags": {
@@ -1401,7 +1401,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/HyrsekCaio.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/HyrsekCaio.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/HyrsekCaio.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/HyrsekCaio.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/HyrsekCaio.webp"
         },
         "tags": {
@@ -1430,7 +1430,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/IadrinAshworth.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/IadrinAshworth.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/IadrinAshworth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/IadrinAshworth.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/IadrinAshworth.webp"
         },
         "tags": {
@@ -1460,7 +1460,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/IadrinAshworthBust.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/IadrinAshworthBust.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/IadrinAshworthBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/IadrinAshworthBust.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/IadrinAshworthBust.webp"
         },
         "tags": {
@@ -1487,7 +1487,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/IlarrisZeleshi.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/IlarrisZeleshi.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/IlarrisZeleshi.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/IlarrisZeleshi.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/IlarrisZeleshi.webp"
         },
         "tags": {
@@ -1520,7 +1520,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/IlarrisZeleshiBust.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/IlarrisZeleshiBust.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/IlarrisZeleshiBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/IlarrisZeleshiBust.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/IlarrisZeleshiBust.webp"
         },
         "tags": {
@@ -1549,7 +1549,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/IrradiatedDead.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/IrradiatedDead.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/IrradiatedDead.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/IrradiatedDead.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/IrradiatedDead.webp"
         },
         "tags": {
@@ -1574,7 +1574,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Isuma.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Isuma.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Isuma.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Isuma.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Isuma.webp"
         },
         "tags": {
@@ -1607,7 +1607,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/IsumaBust.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/IsumaBust.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/IsumaBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/IsumaBust.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/IsumaBust.webp"
         },
         "tags": {
@@ -1634,7 +1634,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/IsumaFight.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/IsumaFight.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/IsumaFight.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/IsumaFight.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/IsumaFight.webp"
         },
         "tags": {
@@ -1667,7 +1667,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/JoramKyte.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/JoramKyte.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/JoramKyte.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/JoramKyte.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/JoramKyte.webp"
         },
         "tags": {
@@ -1697,7 +1697,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Juggernaut.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Juggernaut.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Juggernaut.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Juggernaut.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Juggernaut.webp"
         },
         "tags": {
@@ -1719,7 +1719,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/KevothKul.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/KevothKul.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/KevothKul.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/KevothKul.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/KevothKul.webp"
         },
         "tags": {
@@ -1750,7 +1750,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/KevothKulGreatsword.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/KevothKulGreatsword.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/KevothKulGreatsword.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/KevothKulGreatsword.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/KevothKulGreatsword.webp"
         },
         "tags": {
@@ -1778,7 +1778,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/KhonnirBaine.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/KhonnirBaine.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/KhonnirBaine.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/KhonnirBaine.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/KhonnirBaine.webp"
         },
         "tags": {
@@ -1804,7 +1804,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/KhonnirBaineBust.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/KhonnirBaineBust.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/KhonnirBaineBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/KhonnirBaineBust.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/KhonnirBaineBust.webp"
         },
         "tags": {
@@ -1830,7 +1830,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/KrimoxTheThriceFlensed.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/KrimoxTheThriceFlensed.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/KrimoxTheThriceFlensed.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/KrimoxTheThriceFlensed.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/KrimoxTheThriceFlensed.webp"
         },
         "tags": {
@@ -1855,7 +1855,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/KulInkit.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/KulInkit.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/KulInkit.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/KulInkit.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/KulInkit.webp"
         },
         "tags": {
@@ -1883,7 +1883,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Kulgara.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Kulgara.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Kulgara.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Kulgara.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Kulgara.webp"
         },
         "tags": {
@@ -1911,7 +1911,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/KulgaraBust.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/KulgaraBust.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/KulgaraBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/KulgaraBust.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/KulgaraBust.webp"
         },
         "tags": {
@@ -1937,7 +1937,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/KulgaraFight.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/KulgaraFight.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/KulgaraFight.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/KulgaraFight.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/KulgaraFight.webp"
         },
         "tags": {
@@ -1965,7 +1965,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/LashuntaAndMount.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/LashuntaAndMount.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/LashuntaAndMount.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/LashuntaAndMount.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/LashuntaAndMount.webp"
         },
         "tags": {
@@ -1997,7 +1997,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/LattenMechanism.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/LattenMechanism.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/LattenMechanism.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/LattenMechanism.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/LattenMechanism.webp"
         },
         "tags": {
@@ -2023,7 +2023,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Lrrhech.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Lrrhech.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Lrrhech.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Lrrhech.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Lrrhech.webp"
         },
         "tags": {
@@ -2053,7 +2053,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/MadPaeytr.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/MadPaeytr.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/MadPaeytr.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/MadPaeytr.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/MadPaeytr.webp"
         },
         "tags": {
@@ -2082,7 +2082,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Marax.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Marax.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Marax.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Marax.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Marax.webp"
         },
         "tags": {
@@ -2101,7 +2101,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Marrow.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Marrow.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Marrow.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Marrow.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Marrow.webp"
         },
         "tags": {
@@ -2133,7 +2133,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Maukui.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Maukui.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Maukui.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Maukui.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Maukui.webp"
         },
         "tags": {
@@ -2158,7 +2158,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/MaukuisHost.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/MaukuisHost.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/MaukuisHost.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/MaukuisHost.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/MaukuisHost.webp"
         },
         "tags": {
@@ -2183,7 +2183,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/MedicalDrone.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/MedicalDrone.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/MedicalDrone.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/MedicalDrone.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/MedicalDrone.webp"
         },
         "tags": {
@@ -2205,7 +2205,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Metweska.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Metweska.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Metweska.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Metweska.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Metweska.webp"
         },
         "tags": {
@@ -2236,7 +2236,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Meyanda.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Meyanda.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Meyanda.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Meyanda.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Meyanda.webp"
         },
         "tags": {
@@ -2269,7 +2269,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/MeyandaBust.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/MeyandaBust.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/MeyandaBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/MeyandaBust.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/MeyandaBust.webp"
         },
         "tags": {
@@ -2299,7 +2299,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/MeyandaShooting.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/MeyandaShooting.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/MeyandaShooting.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/MeyandaShooting.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/MeyandaShooting.webp"
         },
         "tags": {
@@ -2331,7 +2331,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Mockery.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Mockery.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Mockery.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Mockery.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Mockery.webp"
         },
         "tags": {
@@ -2357,7 +2357,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Myrmidon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Myrmidon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Myrmidon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Myrmidon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Myrmidon.webp"
         },
         "tags": {
@@ -2379,7 +2379,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Nalakai.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Nalakai.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Nalakai.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Nalakai.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Nalakai.webp"
         },
         "tags": {
@@ -2408,7 +2408,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/NarginHaruvex.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/NarginHaruvex.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/NarginHaruvex.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/NarginHaruvex.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/NarginHaruvex.webp"
         },
         "tags": {
@@ -2438,7 +2438,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/NemgedderJanz.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/NemgedderJanz.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/NemgedderJanz.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/NemgedderJanz.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/NemgedderJanz.webp"
         },
         "tags": {
@@ -2468,7 +2468,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Observer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Observer.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Observer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Observer.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Observer.webp"
         },
         "tags": {
@@ -2490,7 +2490,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Ophelia.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Ophelia.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Ophelia.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Ophelia.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Ophelia.webp"
         },
         "tags": {
@@ -2522,7 +2522,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/OpheliaBust.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/OpheliaBust.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/OpheliaBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/OpheliaBust.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/OpheliaBust.webp"
         },
         "tags": {
@@ -2551,7 +2551,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/OzmynZaidow.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/OzmynZaidow.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/OzmynZaidow.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/OzmynZaidow.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/OzmynZaidow.webp"
         },
         "tags": {
@@ -2584,7 +2584,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/PaajgatTheFlayer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/PaajgatTheFlayer.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/PaajgatTheFlayer.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/PaajgatTheFlayer.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/PaajgatTheFlayer.webp"
         },
         "tags": {
@@ -2614,7 +2614,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/PaleSecurityGuard.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/PaleSecurityGuard.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/PaleSecurityGuard.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/PaleSecurityGuard.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/PaleSecurityGuard.webp"
         },
         "tags": {
@@ -2642,7 +2642,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Pilo.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Pilo.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Pilo.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Pilo.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Pilo.webp"
         },
         "tags": {
@@ -2661,7 +2661,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Pulsepounder.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Pulsepounder.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Pulsepounder.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Pulsepounder.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Pulsepounder.webp"
         },
         "tags": {
@@ -2687,7 +2687,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Rayaldach.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Rayaldach.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Rayaldach.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Rayaldach.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Rayaldach.webp"
         },
         "tags": {
@@ -2717,7 +2717,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Reclamation.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Reclamation.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Reclamation.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Reclamation.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Reclamation.webp"
         },
         "tags": {
@@ -2739,7 +2739,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Redtooth.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Redtooth.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Redtooth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Redtooth.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Redtooth.webp"
         },
         "tags": {
@@ -2768,7 +2768,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/RiotSuppressor.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/RiotSuppressor.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/RiotSuppressor.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/RiotSuppressor.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/RiotSuppressor.webp"
         },
         "tags": {
@@ -2794,7 +2794,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/RoboticApprentice.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/RoboticApprentice.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/RoboticApprentice.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/RoboticApprentice.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/RoboticApprentice.webp"
         },
         "tags": {
@@ -2816,7 +2816,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/RopefistThug.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/RopefistThug.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/RopefistThug.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/RopefistThug.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/RopefistThug.webp"
         },
         "tags": {
@@ -2839,7 +2839,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/RustRisen.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/RustRisen.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/RustRisen.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/RustRisen.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/RustRisen.webp"
         },
         "tags": {
@@ -2866,7 +2866,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/SanvilTrett.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/SanvilTrett.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/SanvilTrett.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/SanvilTrett.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/SanvilTrett.webp"
         },
         "tags": {
@@ -2895,7 +2895,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Saoria.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Saoria.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Saoria.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Saoria.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Saoria.webp"
         },
         "tags": {
@@ -2926,7 +2926,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/ScrapwallFanatic.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/ScrapwallFanatic.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/ScrapwallFanatic.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/ScrapwallFanatic.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/ScrapwallFanatic.webp"
         },
         "tags": {
@@ -2950,7 +2950,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Seerath.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Seerath.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Seerath.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Seerath.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Seerath.webp"
         },
         "tags": {
@@ -2979,7 +2979,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Sef.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Sef.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Sef.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Sef.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Sef.webp"
         },
         "tags": {
@@ -3010,7 +3010,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/SevrothSlaid.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/SevrothSlaid.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/SevrothSlaid.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/SevrothSlaid.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/SevrothSlaid.webp"
         },
         "tags": {
@@ -3036,7 +3036,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Shipmind.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Shipmind.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Shipmind.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Shipmind.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Shipmind.webp"
         },
         "tags": {
@@ -3055,7 +3055,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/SidrahImeruss.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/SidrahImeruss.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/SidrahImeruss.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/SidrahImeruss.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/SidrahImeruss.webp"
         },
         "tags": {
@@ -3084,7 +3084,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/SilaDesaulis.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/SilaDesaulis.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/SilaDesaulis.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/SilaDesaulis.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/SilaDesaulis.webp"
         },
         "tags": {
@@ -3118,7 +3118,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/SkeletalTechnician.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/SkeletalTechnician.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/SkeletalTechnician.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/SkeletalTechnician.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/SkeletalTechnician.webp"
         },
         "tags": {
@@ -3145,7 +3145,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Surgeon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Surgeon.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Surgeon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Surgeon.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Surgeon.webp"
         },
         "tags": {
@@ -3167,7 +3167,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/TechnicLeagueCommander.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/TechnicLeagueCommander.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/TechnicLeagueCommander.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/TechnicLeagueCommander.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/TechnicLeagueCommander.webp"
         },
         "tags": {
@@ -3197,7 +3197,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/TekMakul.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/TekMakul.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/TekMakul.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/TekMakul.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/TekMakul.webp"
         },
         "tags": {
@@ -3227,7 +3227,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/TheShade.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/TheShade.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/TheShade.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/TheShade.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/TheShade.webp"
         },
         "tags": {
@@ -3260,7 +3260,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Thorgothrel.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Thorgothrel.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Thorgothrel.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Thorgothrel.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Thorgothrel.webp"
         },
         "tags": {
@@ -3279,7 +3279,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/ThoughtHarvester.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/ThoughtHarvester.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/ThoughtHarvester.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/ThoughtHarvester.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/ThoughtHarvester.webp"
         },
         "tags": {
@@ -3301,7 +3301,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Ugothokra.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Ugothokra.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Ugothokra.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Ugothokra.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Ugothokra.webp"
         },
         "tags": {
@@ -3320,7 +3320,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Unity.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Unity.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Unity.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Unity.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Unity.webp"
         },
         "tags": {
@@ -3353,7 +3353,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/UnityShotting.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/UnityShotting.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/UnityShotting.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/UnityShotting.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/UnityShotting.webp"
         },
         "tags": {
@@ -3386,7 +3386,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/ValBaine.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/ValBaine.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/ValBaine.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/ValBaine.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/ValBaine.webp"
         },
         "tags": {
@@ -3412,7 +3412,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Vrilledt.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Vrilledt.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Vrilledt.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Vrilledt.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Vrilledt.webp"
         },
         "tags": {
@@ -3438,7 +3438,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Warden.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Warden.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Warden.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Warden.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Warden.webp"
         },
         "tags": {
@@ -3460,7 +3460,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/WardenMannequin.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/WardenMannequin.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/WardenMannequin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/WardenMannequin.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/WardenMannequin.webp"
         },
         "tags": {
@@ -3487,7 +3487,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Whiskifiss.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Whiskifiss.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Whiskifiss.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Whiskifiss.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Whiskifiss.webp"
         },
         "tags": {
@@ -3515,7 +3515,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/YahThelgaad.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/YahThelgaad.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/YahThelgaad.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/YahThelgaad.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/YahThelgaad.webp"
         },
         "tags": {
@@ -3534,7 +3534,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Yangethe.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Yangethe.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Yangethe.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Yangethe.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Yangethe.webp"
         },
         "tags": {
@@ -3553,7 +3553,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Yarahkut.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Yarahkut.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Yarahkut.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Yarahkut.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Yarahkut.webp"
         },
         "tags": {
@@ -3575,7 +3575,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/YsokiScrapper.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/YsokiScrapper.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/YsokiScrapper.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/YsokiScrapper.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/YsokiScrapper.webp"
         },
         "tags": {
@@ -3601,7 +3601,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Zagmaander.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Zagmaander.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Zagmaander.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Zagmaander.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Zagmaander.webp"
         },
         "tags": {
@@ -3630,7 +3630,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/Zernebeth.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/Zernebeth.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/Zernebeth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Zernebeth.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/Zernebeth.webp"
         },
         "tags": {
@@ -3664,7 +3664,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/ZernebethBust.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/ZernebethBust.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/ZernebethBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/ZernebethBust.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/ZernebethBust.webp"
         },
         "tags": {
@@ -3697,7 +3697,7 @@
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-iron-gods/ZyphusPriest.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-iron-gods/ZyphusPriest.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/tokens/adventure-path/adventure-path-iron-gods/ZyphusPriest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/ZyphusPriest.webp",
             "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-iron-gods/ZyphusPriest.webp"
         },
         "tags": {
