@@ -1,396 +1,489 @@
-## Roadmap
-
-- [ ] PZO90 - Adventure Paths
-	- [ ] PF1e
-		- [ ] PZO9001-06 - Rise of the Runelords
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] PZO9007-12 - Curse of the Crimson Throne
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] PZO9013-18 - Second Darkness
-		- [ ] PZO9019-24 - Legacy of Fire
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] PZO9025-30 - Council of Thieves
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] PZO9031-36 - Kingmaker
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] PZO9037-42 - Serpent's Skull
-		- [X] PZO9043-48 - Carrion Crown
-		- [ ] PZO9049-54 - Jade Regent
-		- [ ] PZO9055-60 - Skull & Shackles
-		- [ ] PZO9061-66 - Shattered Star
-		- [ ] PZO9067-72 - Reign of Winter
-		- [ ] PZO9073-78 - Wrath of the Righteous
-		- [ ] PZO9079-84 - Mummy's Mask
-		- [ ] PZO9085-90 - Iron Gods
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] PZO9091-96 - Giantslayers
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] PZO9097-102 - Hell's Rebels
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] PZO90103-108 - Hell's Vengeance
-			- [X] Portraits
-			- [ ] Dynamic Tokens
-			- [X] Character Gallery
-		- [ ] PZO90109-114 - Strange Aeons
-		- [ ] PZO90115-120 - Ironfang Invasion
-		- [ ] PZO90121-126 - Ruins of Azlant
-		- [ ] PZO90127-132 - War for the Crown
-		- [ ] PZO90133-138 - Return of the Runelords
-		- [X] PZO90139-144 - Tyrant's Grasp
-	- [ ] PF2e
-		- [ ] PZO90145-50 - Age of Ashes
-		- [ ] PZO90151-56 - Extinction Curse
-		- [ ] PZO90157-62 - Agents of Edgewatch
-		- [ ] PZO90163-65 - Abomination Vaults
-		- [ ] PZO90166-68 - Fists of the Ruby Phoenix
-		- [ ] PZO90169-74 - Strenght of Thousands
-		- [ ] PZO90175-77 - Quest for the Frozen Flame
-		- [ ] PZO90178-80 - Outlaws of Alkenstar
-		- [ ] PZO90181-86 - Blood Lords
-		- [ ] PZO90187-89 - Gatewalkers
-		- [ ] PZO90190-92 - Stolen Fate
-		- [ ] PZO90193-95 - Sky King's Tomb
-		- [ ] PZO90195-99 - Season of Ghosts
-		- [ ] PZO90200 - Seven Dooms for Sandpoint
-- [ ] PZO92 - PF1e Campaign Setting
-	- [ ] PZO1105 - Gazetteer
-	- [ ] PZO1106 - Guide to Korvosa
-	- [ ] PZO1107 - Classic Monsters Revisited
-	- [ ] PZO1108 - Guide to Darkmoon Vale
-	- [ ] PZO1111 - Campaign Setting
-	- [ ] PZO9202 - Gods and Magic
-	- [ ] PZO9204 - Into the Darklands
-	- [ ] PZO9205 - Guide to Absalom
-	- [ ] PZO9207 - Dragons Revisited
-	- [ ] PZO9208 - Dark Markets, a Guide to Katapesh
-	- [ ] PZO9209 - The Great Beyond, A Guide to the Multiverse
-	- [ ] PZO9210 - Dungeon Denizens Revisited
-	- [ ] PZO9211 - Seekers of Secrets, A Guide to the Pathfinder Society
-	- [ ] PZO9213 - Book of the Damned, Volume 1
-	- [ ] PZO9214 - Cities of Golarion
-	- [ ] PZO9216 - Classic Horrors Revisited
-	- [ ] PZO9217 - Guide to the River Kingdoms
-	- [ ] PZO9219 - NPC Guide
-	- [ ] PZO9220 - Classic Treasures Revisited
-	- [ ] PZO9221 - Faction Guide
-	- [ ] PZO9222 - Heart of the Jungle
-	- [ ] PZO9223 - City Of Strangers
-	- [ ] PZO9225 - Book of the Damned, Volume 2
-	- [ ] PZO9226 - Inner Sea World Guide
-	- [ ] PZO9227 - Misfit Monsters Redeemed
-	- [ ] PZO9229 - Lost Cities of Golarion
-	- [ ] PZO9231 - Rule of Fear
-	- [ ] PZO9232 - Rival Guide
-	- [ ] PZO9233 - Undead Revisited
-	- [ ] PZO9234 - Dungeons of Golarion
-	- [ ] PZO9235 - Pathfinder Society Field Guide
-	- [ ] PZO9237 - Inner Sea Magic
-	- [ ] PZO9238 - Lands of the Linnorm Kings
-	- [ ] PZO9239 - Book of the Damned, Volume 3
-	- [ ] PZO9240 - Dragon Empires Gazetteer
-	- [ ] PZO9241 - Mythical Monsters Revisited
-	- [ ] PZO9243 - Distant Worlds
-	- [ ] PZO9244 - Isles of the Shackles
-	- [ ] PZO9245 - Giants Revisited
-	- [ ] PZO9246 - Lost Kingdoms
-	- [ ] PZO9248 - Magnimar, City of Monuments
-	- [ ] PZO9249 - Paths of Prestige
-	- [ ] PZO9250 - Artifacts & Legends
-	- [ ] PZO9251 - Inner Sea Bestiary
-	- [ ] PZO9252 - Mystery Monsters Revisited
-	- [ ] PZO9253 - Irrisen, Land of Eternal Winter
-	- [ ] PZO9255 - Chronicle of the Righteous
-	- [ ] PZO9256 - Fey Revisited
-	- [ ] PZO9257 - Castles of the Inner Sea
-	- [ ] PZO9258 - Dragons Unleashed
-	- [ ] PZO9259 - The Worldwound
-	- [ ] PZO9261 - Demons Revisited
-	- [ ] PZO9262 - Mythic Realms
-	- [ ] PZO9263 - Towns of the Inner Sea
-	- [ ] PZO9264 - Inner Sea NPC Codex
-	- [ ] PZO9265 - Osirion, Legacy of Pharaohs
-	- [ ] PZO9267 - Inner Sea Gods
-	- [ ] PZO9268 - Inner Sea Combat
-	- [ ] PZO9269 - Occult Mysteries
-	- [ ] PZO9270 - Numeria, Land of Fallen Stars
-	- [ ] PZO9272 - Technology Guide
-	- [ ] PZO9273 - Undead Unleashed
-	- [ ] PZO9274 - Ships of the Inner Sea
-	- [ ] PZO9275 - Lost Treasures
-	- [ ] PZO9276 - Belkzen, Hold of the Orc Hordes
-	- [ ] PZO9278 - Tombs of Golarion
-	- [ ] PZO9279 - Andoran, Birthplace of Freedom
-	- [ ] PZO9280 - Inner Sea Races
-	- [ ] PZO9281 - Hell Unleashed
-	- [ ] PZO9283 - Inner Sea Monster Codex
-	- [ ] PZO9284 - Occult Bestiary
-	- [ ] PZO9285 - Distant Shores
-	- [ ] PZO9286 - Occult Realms
-	- [ ] PZO9287 - Cheliax, The Infernal Empire
-	- [ ] PZO9289 - Darklands Revisited
-	- [ ] PZO9290 - Inner Sea Faiths
-	- [ ] PZO9291 - Heaven Unleashed
-	- [ ] PZO9292 - Inner Sea Intrigue
-	- [ ] PZO9293 - Path of the Hellknight
-	- [ ] PZO9295 - Planes of Power
-	- [ ] PZO9296 - Inner Sea Temples
-	- [ ] PZO9297 - Horror Realms
-	- [ ] PZO9298 - First World, Realm of the Fey
-	- [ ] PZO9299 - Qadira, Jewel of the East
-	- [ ] PZO92101 - Lands of Conflict
-	- [ ] PZO92102 - Aquatic Adventures
-	- [ ] PZO92104 - Constructs Handbook
-	- [ ] PZO92105 - Taldor, the First Empire
-	- [ ] PZO92107 - Inner Sea Taverns
-	- [ ] PZO92108 - Nidal, Land of Shadows
-	- [ ] PZO92109 - Distant Realms
-	- [ ] PZO92111 - Sandpoint, Light of the Lost Coast
-	- [ ] PZO92112 - Faiths of Golarion
-	- [ ] PZO92114 - Concordance of Rivals
-	- [ ] PZO92116 - Druma, Profit and Prophecy
-- [ ] PZO93 - Lost Omens Setting
-	- [ ] PZO9301 - World Guide
-	- [ ] PZO9302 - Character Guide
-	- [ ] PZO9303 - Gods and Magic
-	- [ ] PZO9304 - Absalom, City of Lost Omens
-	- [ ] PZO9306 - Lost Omens Legends
-	- [ ] PZO9307 - Pathfinder Society Guide
-	- [ ] PZO9308 - Ancestry Guide
-	- [ ] PZO9309 - The Mwangi Expanse
-		- [X] Portraits
-		- [X] Dynamic Tokens
-		- [ ] Character Gallery
-	- [ ] PZO9310 - The Grand Bazaar
-	- [ ] PZO9311 - Monsters of Myth
-		- [X] Portraits
-		- [X] Dynamic Tokens
-		- [ ] Character Gallery
-	- [ ] PZO9312 - Knights of Lastwall
-	- [ ] PZO9313 - Travel Guide
-	- [ ] PZO9314 - Impossible Lands
-		- [X] Portraits
-		- [X] Dynamic Tokens
-		- [ ] Character Gallery
-	- [ ] PZO9315 - Firebrands
-	- [ ] PZO9316 - Highhelm
-		- [X] Portraits
-		- [X] Dynamic Tokens
-		- [ ] Character Gallery
-- [ ] PZO95 - Modules
-	- [ ] PF1e
-		- [ ] PZO9500 - Hollow's Last Hope
-		- [ ] PZO9500-2 - Revenge of the Kobold King
-		- [ ] PZO9500-4 - Master of the Fallen Fortress
-		- [ ] PZO9500-5 - We Be Goblins!
-		- [ ] PZO9500-6 - Dawn of the Scarlet Sun
-		- [ ] PZO9500-7 - We Be Goblins Too!
-		- [ ] PZO9500-8 - Risen From the Sands
-		- [ ] PZO9500-9 - We Be Goblins Free!
-		- [ ] PZO9500-10 - We B4 Goblins!
-		- [ ] PZO9500-12 - We Be 5uper Goblins!
-		- [ ] PZO9500-TC1 - Into the Haunted Forest
-		- [ ] PZO9501 - Crown of the Kobold King
-		- [ ] PZO9502 - Conquest of Bloodsworn Vale
-		- [ ] PZO9503 - Seven Swords of Sin
-		- [ ] PZO9504 - Gallery of Evil
-		- [ ] PZO9505 - Entombed with the Pharoahs
-		- [ ] PZO9506 - Carnival of Tears
-		- [ ] PZO9507 - Guardians of Dragonfall
-		- [ ] PZO9508 - Hangman's Noose
-		- [ ] PZO9509 - Crucible of Chaos
-		- [ ] PZO9510 - River into Darkness
-		- [ ] PZO9511 - The Demon Within
-		- [ ] PZO9512 - Flight of the Red Raven
-		- [ ] PZO9513 - Tower of the Last Baron
-		- [ ] PZO9514 - Treasure of Chimera Cove
-		- [ ] PZO9515 - Hungry are the Dead
-		- [ ] PZO9516 - The Pact Stone Pyramid
-		- [ ] PZO9517 - Clash of the Kingslayers
-		- [ ] PZO9518 - Blood of Dragonscar
-		- [ ] PZO9519 - Beyond the Vault of Souls
-		- [ ] PZO9520 - Crypt of the Everflame
-		- [ ] PZO9521 - Carrion Hill
-		- [ ] PZO9522 - Masks of the Living God
-		- [ ] PZO9523 - Realm of the Fellnight Queen
-		- [ ] PZO9524 - City of Golden Death
-		- [ ] PZO9525 - From Shore to Sea
-		- [ ] PZO9526 - Curse of the Riven Sky
-		- [ ] PZO9527 - The Witchwar Legacy
-		- [ ] PZO9528 - The Godsmouth Heresy
-		- [ ] PZO9529 - Cult of the Ebon Destroyers
-		- [ ] PZO9530 - Tomb of the Iron Medusa
-		- [ ] PZO9531 - Academy of Secrets
-		- [ ] PZO9532 - The Harrowing
-		- [ ] PZO9533 - Feast of Ravenmoor
-		- [ ] PZO9534 - The Ruby Phoenix Tournament
-		- [ ] PZO9535 - The Midnight Mirror
-		- [ ] PZO9536 - No Response from Deepmar
-		- [ ] PZO9537 - The Moonscar
-		- [ ] PZO9538 - Murder's Mark
-		- [ ] PZO9539 - Broken Chains
-		- [ ] PZO9540 - Fangwood Keep
-		- [ ] PZO9541 - Doom Comes to Dustpawn
-		- [ ] PZO9542 - The Dragon's Demand
-		- [ ] PZO9543 - Wardens of the Reborn Forge
-		- [ ] PZO9544 - Tears at Bitter Manor
-		- [ ] PZO9545 - The Emerald Spire Superdungeon
-		- [ ] PZO9546 - Plunder & Peril
-		- [ ] PZO9547 - Daughters of Fury
-		- [ ] PZO9548 - Feast of Dust
-		- [ ] PZO9549 - The House on Hook Street
-		- [ ] PZO9550 - Down the Blighted Path
-		- [ ] PZO9551 - Ire of the Storm
-		- [ ] PZO9552 - Gallows of Madness
-		- [ ] PZO9553 - Seers of the Drowned City
-		- [ ] PZO9554 - Cradle of Night
-		- [ ] PZOGAUNTLET - The Gauntlet
-		- [ ] PZOGENA001 - Heroes for Highdelve
-	- [ ] PF2e
-		- [ ] PZO9555 - Fall of Plaguestone
-		- [ ] PZO9556 - The Dead God's Hand
-		- [ ] PZO9557 - The Slithering
-		- [ ] PZO9558 - Troubles in Otari
-		- [ ] PZO9559 - Malevolence
-		- [ ] PZO9560 - Night of the Gray Death
-		- [ ] PZO9561 - Shadows at Sundown
-		- [ ] PZO9562 - Crown of the Kobold King
-			- [X] Portraits
-			- [X] Tokens
-			- [ ] Dynamic Tokens
-			- [ ] Character Gallery
-		- [ ] PZO9563 - The Enmity Cycle
-		- [ ] PZO9564 - Rusthenge
-- [ ] PZO10 - Pathfinder Pawns
-- [ ] PZO11 - PF1e Rulebooks
-	- [ ] PZO1110 - Core Rulebook
-	- [ ] PZO1112 - Bestiary 1
+## PZO90 - Adventure Paths
+- [ ] PF1e
+	- [ ] PZO9001-06 - Rise of the Runelords
 		- [X] Portraits
 		- [ ] Dynamic Tokens
 		- [X] Character Gallery
-	- [ ] PZO1114 - Gamemastery Guide
+	- [ ] PZO9007-12 - Curse of the Crimson Throne
 		- [X] Portraits
 		- [ ] Dynamic Tokens
 		- [X] Character Gallery
-	- [ ] PZO1115 - Advanced Player's Guide
-		- [X] Portraits
-		- [ ] Dynamic Tokens
-	- [ ] PZO1116 - Bestiary 2
-		- [X] Portraits
-		- [ ] Dynamic Tokens
-		- [X] Character Gallery
-	- [ ] PZO1117 - Ultimate Magic
-	- [ ] PZO1118 - Ultimate Combat
-	- [ ] PZO1120 - Bestiary 3
+	- [ ] PZO9013-18 - Second Darkness
+	- [ ] PZO9019-24 - Legacy of Fire
 		- [X] Portraits
 		- [ ] Dynamic Tokens
 		- [X] Character Gallery
-	- [ ] PZO1121 - Advanced Race Guide
+	- [ ] PZO9025-30 - Council of Thieves
 		- [X] Portraits
 		- [ ] Dynamic Tokens
 		- [X] Character Gallery
-	- [ ] PZO1123 - Ultimate Equipment
-	- [ ] PZO1124 - NPC Codex
-	- [ ] PZO1125 - Ultimate Campaign
-	- [ ] PZO1126 - Mythic Adventures
-	- [ ] PZO1127 - Bestiary 4
+	- [ ] PZO9031-36 - Kingmaker
 		- [X] Portraits
 		- [ ] Dynamic Tokens
 		- [X] Character Gallery
-	- [X] PZO1128 - Strategy Guide
-	- [ ] PZO1129 - Advanced Class Guide
+	- [ ] PZO9037-42 - Serpent's Skull
+	- [X] PZO9043-48 - Carrion Crown
+	- [ ] PZO9049-54 - Jade Regent
+	- [ ] PZO9055-60 - Skull & Shackles
+	- [ ] PZO9061-66 - Shattered Star
+	- [ ] PZO9067-72 - Reign of Winter
+	- [ ] PZO9073-78 - Wrath of the Righteous
+	- [ ] PZO9079-84 - Mummy's Mask
+	- [ ] PZO9085-90 - Iron Gods
 		- [X] Portraits
 		- [ ] Dynamic Tokens
 		- [X] Character Gallery
-		- [X] Character Gallery
-	- [ ] PZO1130 - Monster Codex
-	- [ ] PZO1131 - Pathfinder Unchained
-	- [ ] PZO1132 - Occult Adventures
-	- [ ] PZO1133 - Bestiary 5
+	- [ ] PZO9091-96 - Giantslayers
 		- [X] Portraits
 		- [ ] Dynamic Tokens
 		- [X] Character Gallery
-	- [ ] PZO1134 - Ultimate Intrigue
-	- [ ] PZO1135 - Horror Adventures
+	- [ ] PZO9097-102 - Hell's Rebels
 		- [X] Portraits
 		- [ ] Dynamic Tokens
 		- [X] Character Gallery
-	- [ ] PZO1136 - Villain Codex
-	- [ ] PZO1137 - Bestiary 6
+	- [ ] PZO90103-108 - Hell's Vengeance
 		- [X] Portraits
 		- [ ] Dynamic Tokens
 		- [X] Character Gallery
-	- [ ] PZO1138 - Adventurer's Guide
+	- [X] PZO90109-114 - Strange Aeons
+	- [ ] PZO90115-120 - Ironfang Invasion
+	- [ ] PZO90121-126 - Ruins of Azlant
+	- [ ] PZO90127-132 - War for the Crown
+	- [ ] PZO90133-138 - Return of the Runelords
+	- [X] PZO90139-144 - Tyrant's Grasp
+- [ ] PF2e
+	- [ ] PZO90145-50 - Age of Ashes
+	- [ ] PZO90151-56 - Extinction Curse
+	- [ ] PZO90157-62 - Agents of Edgewatch
+	- [ ] PZO90163-65 - Abomination Vaults
+	- [ ] PZO90166-68 - Fists of the Ruby Phoenix
+	- [ ] PZO90169-74 - Strenght of Thousands
+	- [ ] PZO90175-77 - Quest for the Frozen Flame
+	- [ ] PZO90178-80 - Outlaws of Alkenstar
+	- [ ] PZO90181-86 - Blood Lords
+	- [ ] PZO90187-89 - Gatewalkers
+	- [ ] PZO90190-92 - Stolen Fate
+	- [ ] PZO90193-95 - Sky King's Tomb
+	- [ ] PZO90195-99 - Season of Ghosts
+	- [ ] PZO90200 - Seven Dooms for Sandpoint
+## PZO92 - PF1e Campaign Setting
+- [ ] PZO1105 - Gazetteer
+- [ ] PZO1106 - Guide to Korvosa
+- [ ] PZO1107 - Classic Monsters Revisited
+- [ ] PZO1108 - Guide to Darkmoon Vale
+- [ ] PZO1111 - Campaign Setting
+- [ ] PZO9202 - Gods and Magic
+- [ ] PZO9204 - Into the Darklands
+- [ ] PZO9205 - Guide to Absalom
+- [ ] PZO9207 - Dragons Revisited
+- [ ] PZO9208 - Dark Markets, a Guide to Katapesh
+- [ ] PZO9209 - The Great Beyond, A Guide to the Multiverse
+- [ ] PZO9210 - Dungeon Denizens Revisited
+- [ ] PZO9211 - Seekers of Secrets, A Guide to the Pathfinder Society
+- [ ] PZO9213 - Book of the Damned, Volume 1
+- [ ] PZO9214 - Cities of Golarion
+- [ ] PZO9216 - Classic Horrors Revisited
+- [ ] PZO9217 - Guide to the River Kingdoms
+- [ ] PZO9219 - NPC Guide
+- [ ] PZO9220 - Classic Treasures Revisited
+- [ ] PZO9221 - Faction Guide
+- [ ] PZO9222 - Heart of the Jungle
+- [ ] PZO9223 - City Of Strangers
+- [ ] PZO9225 - Book of the Damned, Volume 2
+- [ ] PZO9226 - Inner Sea World Guide
+- [ ] PZO9227 - Misfit Monsters Redeemed
+- [ ] PZO9229 - Lost Cities of Golarion
+- [ ] PZO9231 - Rule of Fear
+- [ ] PZO9232 - Rival Guide
+- [ ] PZO9233 - Undead Revisited
+- [ ] PZO9234 - Dungeons of Golarion
+- [ ] PZO9235 - Pathfinder Society Field Guide
+- [ ] PZO9237 - Inner Sea Magic
+- [ ] PZO9238 - Lands of the Linnorm Kings
+- [ ] PZO9239 - Book of the Damned, Volume 3
+- [ ] PZO9240 - Dragon Empires Gazetteer
+- [ ] PZO9241 - Mythical Monsters Revisited
+- [ ] PZO9243 - Distant Worlds
+- [ ] PZO9244 - Isles of the Shackles
+- [ ] PZO9245 - Giants Revisited
+- [ ] PZO9246 - Lost Kingdoms
+- [ ] PZO9248 - Magnimar, City of Monuments
+- [ ] PZO9249 - Paths of Prestige
+- [ ] PZO9250 - Artifacts & Legends
+- [ ] PZO9251 - Inner Sea Bestiary
+- [ ] PZO9252 - Mystery Monsters Revisited
+- [ ] PZO9253 - Irrisen, Land of Eternal Winter
+- [ ] PZO9255 - Chronicle of the Righteous
+- [ ] PZO9256 - Fey Revisited
+- [ ] PZO9257 - Castles of the Inner Sea
+- [ ] PZO9258 - Dragons Unleashed
+- [ ] PZO9259 - The Worldwound
+- [ ] PZO9261 - Demons Revisited
+- [ ] PZO9262 - Mythic Realms
+- [ ] PZO9263 - Towns of the Inner Sea
+- [ ] PZO9264 - Inner Sea NPC Codex
+- [ ] PZO9265 - Osirion, Legacy of Pharaohs
+- [ ] PZO9267 - Inner Sea Gods
+- [ ] PZO9268 - Inner Sea Combat
+- [ ] PZO9269 - Occult Mysteries
+- [ ] PZO9270 - Numeria, Land of Fallen Stars
+- [ ] PZO9272 - Technology Guide
+- [ ] PZO9273 - Undead Unleashed
+- [ ] PZO9274 - Ships of the Inner Sea
+- [ ] PZO9275 - Lost Treasures
+- [ ] PZO9276 - Belkzen, Hold of the Orc Hordes
+- [ ] PZO9278 - Tombs of Golarion
+- [ ] PZO9279 - Andoran, Birthplace of Freedom
+- [ ] PZO9280 - Inner Sea Races
+- [ ] PZO9281 - Hell Unleashed
+- [ ] PZO9283 - Inner Sea Monster Codex
+- [ ] PZO9284 - Occult Bestiary
+- [ ] PZO9285 - Distant Shores
+- [ ] PZO9286 - Occult Realms
+- [ ] PZO9287 - Cheliax, The Infernal Empire
+- [ ] PZO9289 - Darklands Revisited
+- [ ] PZO9290 - Inner Sea Faiths
+- [ ] PZO9291 - Heaven Unleashed
+- [ ] PZO9292 - Inner Sea Intrigue
+- [ ] PZO9293 - Path of the Hellknight
+- [ ] PZO9295 - Planes of Power
+- [ ] PZO9296 - Inner Sea Temples
+- [ ] PZO9297 - Horror Realms
+- [ ] PZO9298 - First World, Realm of the Fey
+- [ ] PZO9299 - Qadira, Jewel of the East
+- [ ] PZO92101 - Lands of Conflict
+- [ ] PZO92102 - Aquatic Adventures
+- [ ] PZO92104 - Constructs Handbook
+- [ ] PZO92105 - Taldor, the First Empire
+- [ ] PZO92107 - Inner Sea Taverns
+- [ ] PZO92108 - Nidal, Land of Shadows
+- [ ] PZO92109 - Distant Realms
+- [ ] PZO92111 - Sandpoint, Light of the Lost Coast
+- [ ] PZO92112 - Faiths of Golarion
+- [ ] PZO92114 - Concordance of Rivals
+- [ ] PZO92116 - Druma, Profit and Prophecy
+## PZO93 - Lost Omens Setting
+- [ ] PZO9301 - World Guide
+- [ ] PZO9302 - Character Guide
+- [ ] PZO9303 - Gods and Magic
+- [ ] PZO9304 - Absalom, City of Lost Omens
+- [ ] PZO9306 - Lost Omens Legends
+- [ ] PZO9307 - Pathfinder Society Guide
+- [ ] PZO9308 - Ancestry Guide
+- [ ] PZO9309 - The Mwangi Expanse
+	- [X] Portraits
+	- [X] Dynamic Tokens
+	- [ ] Character Gallery
+- [ ] PZO9310 - The Grand Bazaar
+- [ ] PZO9311 - Monsters of Myth
+	- [X] Portraits
+	- [X] Dynamic Tokens
+	- [ ] Character Gallery
+- [ ] PZO9312 - Knights of Lastwall
+- [ ] PZO9313 - Travel Guide
+- [ ] PZO9314 - Impossible Lands
+	- [X] Portraits
+	- [X] Dynamic Tokens
+	- [ ] Character Gallery
+- [ ] PZO9315 - Firebrands
+- [ ] PZO9316 - Highhelm
+	- [X] Portraits
+	- [X] Dynamic Tokens
+	- [ ] Character Gallery
+## PZO94 - Player Companion
+- [ ] PZO9402 - Elves of Golarion
+- [ ] PZO9403 - Osirion, Land of Pharaohs
+- [ ] PZO9405 - Taldor, Echoes of Glory
+- [ ] PZO9406 - Qadira, Gateway to the East
+- [ ] PZO9407 - Cheliax, Empire of Devils
+- [ ] PZO9408 - Dwarves of Golarion
+- [ ] PZO9409 - Andoran, Spirit of Liberty
+- [ ] PZO9410 - Adventurer's Armory
+- [ ] PZO9411 - Gnomes of Golarion
+- [ ] PZO9412 - Sargava, the Lost Colony
+- [ ] PZO9413 - Orcs of Golarion
+- [ ] PZO9414 - Inner Sea Primer
+- [ ] PZO9415 - Halflings of Golarion
+- [ ] PZO9416 - Faiths of Purity
+- [ ] PZO9417 - Humans of Golarion
+- [ ] PZO9418 - Faiths of Balance
+- [ ] PZO9419 - Goblins of Golarion
+- [ ] PZO9420 - Faiths of Corruption
+- [ ] PZO9421 - Dragon Empires Primer
+- [ ] PZO9422 - Pirates of the Inner Sea
+- [ ] PZO9423 - Blood of Fiends
+- [ ] PZO9424 - Blood of Angels
+- [ ] PZO9425 - Varisia, Birthplace of Legends
+- [ ] PZO9426 - Knights of the Inner Sea
+- [ ] PZO9427 - Blood of the Night
+- [ ] PZO9428 - People of the North
+- [ ] PZO9429 - Animal Archive
+- [ ] PZO9430 - Dungeoneer's Handbook
+- [ ] PZO9431 - Champions of Purity
+- [ ] PZO9432 - Kobolds of Golarion
+- [ ] PZO9433 - Quests and Campaigns
+- [ ] PZO9434 - Dragonslayer's Handbook
+- [ ] PZO9435 - Pathfinder Society Primer
+- [ ] PZO9436 - Faiths & Philosophies
+- [ ] PZO9437 - Demon Hunter's Handbook
+- [ ] PZO9438 - Mythic Origins
+- [ ] PZO9439 - Blood of the Moon
+- [ ] PZO9440 - Magical Marketplace
+- [ ] PZO9441 - People of the Sands
+- [ ] PZO9442 - Bastards of Golarion
+- [ ] PZO9443 - Champions of Balance
+- [ ] PZO9444 - Undead Slayer's Handbook
+- [ ] PZO9445 - Alchemy Manual
+- [ ] PZO9446 - The Harrow Handbook
+- [ ] PZO9447 - Blood of the Elements
+- [ ] PZO9448 - People of the River
+- [ ] PZO9449 - People of the Stars
+- [ ] PZO9450 - Champions of Corruption
+- [ ] PZO9451 - Advanced Class Origins
+- [ ] PZO9452 - Ranged Tactics Toolbox
+- [ ] PZO9453 - Giant Hunter's Handbook
+- [ ] PZO9454 - Familiar Folio
+- [ ] PZO9455 - Melee Tactics Toolbox
+- [ ] PZO9456 - Heroes of the Wild
+- [ ] PZO9457 - Cohorts and Companions
+- [ ] PZO9458 - Monster Summoner's Handbook
+- [ ] PZO9459 - Dirty Tactics Toolbox
+- [ ] PZO9460 - Heroes of the Streets
+- [ ] PZO9461 - Occult Origins
+- [ ] PZO9462 - Black Markets
+- [ ] PZO9463 - Weapon Master's Handbook
+- [ ] PZO9464 - Agents of Evil
+- [ ] PZO9465 - Arcane Anthology
+- [ ] PZO9466 - Blood of Shadows
+- [ ] PZO9467 - Armor Master's Handbook
+- [ ] PZO9468 - Magic Tactics Toolbox
+- [ ] PZO9469 - Spymaster's Handbook
+- [ ] PZO9470 - Legacy of Dragons
+- [ ] PZO9471 - Haunted Heroes Handbook
+- [ ] PZO9472 - Divine Anthology
+- [ ] PZO9473 - Blood of the Beast
+- [ ] PZO9474 - Paths of the Righteous
+- [ ] PZO9475 - Healer's Handbook
+- [ ] PZO9476 - Heroes of the High Court
+- [ ] PZO9477 - Psychic Anthology
+- [ ] PZO9478 - Monster Hunter's Handbook
+- [ ] PZO9479 - Heroes of the Darklands
+- [ ] PZO9480 - Legacy of the First World
+- [ ] PZO9481 - Adventurers Armory 2
+- [ ] PZO9482 - Blood of the Sea
+- [ ] PZO9483 - Elemental Master's Handbook
+- [ ] PZO9484 - Antihero's Handbook
+- [ ] PZO9485 - Blood of the Coven
+- [ ] PZO9486 - People of the Wastes
+- [ ] PZO9487 - Potions & Poisons
+- [ ] PZO9488 - Disciple's Doctrine
+- [ ] PZO9489 - Merchant's Manifest
+- [ ] PZO9490 - Blood of the Ancients
+- [ ] PZO9491 - Heroes From the Fringe
+- [ ] PZO9492 - Plane-Hopper's Handbook
+- [ ] PZO9493 - Martial Arts Handbook
+- [ ] PZO9494 - Wilderness Origins
+- [ ] PZO9495 - Heroes of Golarion
+- [ ] PZO9496 - Chronicle of Legends
+## PZO95 - Modules
+- [ ] PF1e
+	- [ ] PZO9500 - Hollow's Last Hope
+	- [ ] PZO9500-2 - Revenge of the Kobold King
+	- [ ] PZO9500-4 - Master of the Fallen Fortress
+	- [ ] PZO9500-5 - We Be Goblins!
+	- [ ] PZO9500-6 - Dawn of the Scarlet Sun
+	- [ ] PZO9500-7 - We Be Goblins Too!
+	- [ ] PZO9500-8 - Risen From the Sands
+	- [ ] PZO9500-9 - We Be Goblins Free!
+	- [ ] PZO9500-10 - We B4 Goblins!
+	- [ ] PZO9500-12 - We Be 5uper Goblins!
+	- [ ] PZO9500-TC1 - Into the Haunted Forest
+	- [ ] PZO9501 - Crown of the Kobold King
+	- [ ] PZO9502 - Conquest of Bloodsworn Vale
+	- [ ] PZO9503 - Seven Swords of Sin
+	- [ ] PZO9504 - Gallery of Evil
+	- [ ] PZO9505 - Entombed with the Pharoahs
+	- [ ] PZO9506 - Carnival of Tears
+	- [ ] PZO9507 - Guardians of Dragonfall
+	- [ ] PZO9508 - Hangman's Noose
+	- [ ] PZO9509 - Crucible of Chaos
+	- [ ] PZO9510 - River into Darkness
+	- [ ] PZO9511 - The Demon Within
+	- [ ] PZO9512 - Flight of the Red Raven
+	- [ ] PZO9513 - Tower of the Last Baron
+	- [ ] PZO9514 - Treasure of Chimera Cove
+	- [ ] PZO9515 - Hungry are the Dead
+	- [ ] PZO9516 - The Pact Stone Pyramid
+	- [ ] PZO9517 - Clash of the Kingslayers
+	- [ ] PZO9518 - Blood of Dragonscar
+	- [ ] PZO9519 - Beyond the Vault of Souls
+	- [ ] PZO9520 - Crypt of the Everflame
+	- [ ] PZO9521 - Carrion Hill
+	- [ ] PZO9522 - Masks of the Living God
+	- [ ] PZO9523 - Realm of the Fellnight Queen
+	- [ ] PZO9524 - City of Golden Death
+	- [ ] PZO9525 - From Shore to Sea
+	- [ ] PZO9526 - Curse of the Riven Sky
+	- [ ] PZO9527 - The Witchwar Legacy
+	- [ ] PZO9528 - The Godsmouth Heresy
+	- [ ] PZO9529 - Cult of the Ebon Destroyers
+	- [ ] PZO9530 - Tomb of the Iron Medusa
+	- [ ] PZO9531 - Academy of Secrets
+	- [ ] PZO9532 - The Harrowing
+	- [ ] PZO9533 - Feast of Ravenmoor
+	- [ ] PZO9534 - The Ruby Phoenix Tournament
+	- [ ] PZO9535 - The Midnight Mirror
+	- [ ] PZO9536 - No Response from Deepmar
+	- [ ] PZO9537 - The Moonscar
+	- [ ] PZO9538 - Murder's Mark
+	- [ ] PZO9539 - Broken Chains
+	- [ ] PZO9540 - Fangwood Keep
+	- [ ] PZO9541 - Doom Comes to Dustpawn
+	- [ ] PZO9542 - The Dragon's Demand
+	- [ ] PZO9543 - Wardens of the Reborn Forge
+	- [ ] PZO9544 - Tears at Bitter Manor
+	- [ ] PZO9545 - The Emerald Spire Superdungeon
+	- [ ] PZO9546 - Plunder & Peril
+	- [ ] PZO9547 - Daughters of Fury
+	- [ ] PZO9548 - Feast of Dust
+	- [ ] PZO9549 - The House on Hook Street
+	- [ ] PZO9550 - Down the Blighted Path
+	- [ ] PZO9551 - Ire of the Storm
+	- [ ] PZO9552 - Gallows of Madness
+	- [ ] PZO9553 - Seers of the Drowned City
+	- [ ] PZO9554 - Cradle of Night
+	- [ ] PZOGAUNTLET - The Gauntlet
+	- [ ] PZOGENA001 - Heroes for Highdelve
+- [ ] PF2e
+	- [ ] PZO9555 - Fall of Plaguestone
+	- [ ] PZO9556 - The Dead God's Hand
+	- [ ] PZO9557 - The Slithering
+	- [ ] PZO9558 - Troubles in Otari
+	- [ ] PZO9559 - Malevolence
+	- [ ] PZO9560 - Night of the Gray Death
+	- [ ] PZO9561 - Shadows at Sundown
+	- [ ] PZO9562 - Crown of the Kobold King
 		- [X] Portraits
-		- [ ] Dynamic Tokens
-		- [X] Character Gallery
-	- [ ] PZO1139 - Book of the Damned
-		- [X] Portraits
-		- [ ] Dynamic Tokens
-		- [X] Character Gallery
-	- [ ] PZO1140 - Ultimate Wilderness
-	- [ ] PZO1141 - Planar Adventures
-	- [ ] PZO9500-3 - Bestiary Bonus
-		- [X] Portraits
-		- [ ] Dynamic Tokens
-		- [X] Character Gallery
-- [ ] PZO21 - PF2e Rulebooks
-	- [ ] PZO2101 - Core Rulebook
-	- [ ] PZO2102 - Bestiary
-	- [ ] PZO2103 - Gamemastery Guide
-	- [ ] PZO2104 - Bestiary 2
-	- [ ] PZO2105 - Advanced Player's Guide
-	- [ ] PZO2107 - Bestiary 3
-	- [ ] PZO2108 - Secrets of Magic
-	- [ ] PZO2109 - Guns & Gears
-	- [ ] PZO2110 - Book of the Dead
-		- [X] Portraits
-		- [X] Dynamic Tokens
-		- [ ] Character Gallery
-	- [ ] PZO2111 - Dark Archive
-		- [X] Portraits
-		- [X] Dynamic Tokens
-		- [ ] Character Gallery
-	- [ ] PZO2112 - Treasure Vault
-	- [ ] PZO2113 - Rage of Elements
-		- [X] Portraits
+		- [X] Tokens
 		- [ ] Dynamic Tokens
 		- [ ] Character Gallery
-- [ ] PZO12 - Remaster PF2e Rulebooks
-	- [ ] PZO12001 - Player Core
-	- [ ] PZO12002 - GM Core
-	- [ ] PZO12003 - Monster Core
-	- [ ] PZO12004 - Player Core 2
-	- [ ] PZO12005 - Howl of the Wild
-	- [ ] PZO12006 - War of Immortals
-	- [ ] PZO12007 - NPC Core
-	- [ ] PZO12008 - Battlecry!
-- [ ] PZO13 - Remaster PF2e Lost Omens Setting
-	- [ ] PZO13001 - Tian Xia World Guide
-		- [X] Portraits
-		- [X] Dynamic Tokens
-		- [ ] Character Gallery
-	- [ ] PZO13002 - Tian Xia Character Guide
-	- [ ] PZO13003 - Divine Mysteries
-- [ ] PZO14 - Remaster PF2e Standalone Adventures
-	- [ ] PZO14002 - Prey for Death
-	- [ ] PZO14003 - Claws of the Tyrant
-- [ ] PZO15 - Remaster PF2e Adventure Paths
-	- [ ] PZO15201-03 - Wardens of Wildwood
-	- [ ] PZO15204-06 - Curtain Call
-	- [ ] PZO15207-09 - Triumph of the Tusk
+	- [ ] PZO9563 - The Enmity Cycle
+	- [ ] PZO9564 - Rusthenge
+## PZO10 - Pathfinder Pawns
+## PZO11 - PF1e Rulebooks
+- [ ] PZO1110 - Core Rulebook
+- [ ] PZO1112 - Bestiary 1
+	- [X] Portraits
+	- [ ] Dynamic Tokens
+	- [X] Character Gallery
+- [ ] PZO1114 - Gamemastery Guide
+	- [X] Portraits
+	- [ ] Dynamic Tokens
+	- [X] Character Gallery
+- [ ] PZO1115 - Advanced Player's Guide
+	- [X] Portraits
+	- [ ] Dynamic Tokens
+- [ ] PZO1116 - Bestiary 2
+	- [X] Portraits
+	- [ ] Dynamic Tokens
+	- [X] Character Gallery
+- [ ] PZO1117 - Ultimate Magic
+- [ ] PZO1118 - Ultimate Combat
+- [ ] PZO1120 - Bestiary 3
+	- [X] Portraits
+	- [ ] Dynamic Tokens
+	- [X] Character Gallery
+- [ ] PZO1121 - Advanced Race Guide
+	- [X] Portraits
+	- [ ] Dynamic Tokens
+	- [X] Character Gallery
+- [ ] PZO1123 - Ultimate Equipment
+- [ ] PZO1124 - NPC Codex
+- [ ] PZO1125 - Ultimate Campaign
+- [ ] PZO1126 - Mythic Adventures
+- [ ] PZO1127 - Bestiary 4
+	- [X] Portraits
+	- [ ] Dynamic Tokens
+	- [X] Character Gallery
+- [X] PZO1128 - Strategy Guide
+- [ ] PZO1129 - Advanced Class Guide
+	- [X] Portraits
+	- [ ] Dynamic Tokens
+	- [X] Character Gallery
+	- [X] Character Gallery
+- [ ] PZO1130 - Monster Codex
+- [ ] PZO1131 - Pathfinder Unchained
+- [ ] PZO1132 - Occult Adventures
+- [ ] PZO1133 - Bestiary 5
+	- [X] Portraits
+	- [ ] Dynamic Tokens
+	- [X] Character Gallery
+- [ ] PZO1134 - Ultimate Intrigue
+- [ ] PZO1135 - Horror Adventures
+	- [X] Portraits
+	- [ ] Dynamic Tokens
+	- [X] Character Gallery
+- [ ] PZO1136 - Villain Codex
+- [ ] PZO1137 - Bestiary 6
+	- [X] Portraits
+	- [ ] Dynamic Tokens
+	- [X] Character Gallery
+- [ ] PZO1138 - Adventurer's Guide
+	- [X] Portraits
+	- [ ] Dynamic Tokens
+	- [X] Character Gallery
+- [ ] PZO1139 - Book of the Damned
+	- [X] Portraits
+	- [ ] Dynamic Tokens
+	- [X] Character Gallery
+- [ ] PZO1140 - Ultimate Wilderness
+- [ ] PZO1141 - Planar Adventures
+- [ ] PZO9500-3 - Bestiary Bonus
+	- [X] Portraits
+	- [ ] Dynamic Tokens
+	- [X] Character Gallery
+## PZO21 - PF2e Rulebooks
+- [ ] PZO2101 - Core Rulebook
+- [ ] PZO2102 - Bestiary
+- [ ] PZO2103 - Gamemastery Guide
+- [ ] PZO2104 - Bestiary 2
+- [ ] PZO2105 - Advanced Player's Guide
+- [ ] PZO2107 - Bestiary 3
+- [ ] PZO2108 - Secrets of Magic
+- [ ] PZO2109 - Guns & Gears
+- [ ] PZO2110 - Book of the Dead
+	- [X] Portraits
+	- [X] Dynamic Tokens
+	- [ ] Character Gallery
+- [ ] PZO2111 - Dark Archive
+	- [X] Portraits
+	- [X] Dynamic Tokens
+	- [ ] Character Gallery
+- [ ] PZO2112 - Treasure Vault
+- [ ] PZO2113 - Rage of Elements
+	- [X] Portraits
+	- [ ] Dynamic Tokens
+	- [ ] Character Gallery
+## PZO12 - Remaster PF2e Rulebooks
+- [ ] PZO12001 - Player Core
+- [ ] PZO12002 - GM Core
+- [ ] PZO12003 - Monster Core
+- [ ] PZO12004 - Player Core 2
+- [ ] PZO12005 - Howl of the Wild
+- [ ] PZO12006 - War of Immortals
+- [ ] PZO12007 - NPC Core
+- [ ] PZO12008 - Battlecry!
+## PZO13 - Remaster PF2e Lost Omens Setting
+- [ ] PZO13001 - Tian Xia World Guide
+	- [X] Portraits
+	- [X] Dynamic Tokens
+	- [ ] Character Gallery
+- [ ] PZO13002 - Tian Xia Character Guide
+- [ ] PZO13003 - Divine Mysteries
+## PZO14 - Remaster PF2e Standalone Adventures
+- [ ] PZO14002 - Prey for Death
+- [ ] PZO14003 - Claws of the Tyrant
+## PZO15 - Remaster PF2e Adventure Paths
+- [ ] PZO15201-03 - Wardens of Wildwood
+- [ ] PZO15204-06 - Curtain Call
+- [ ] PZO15207-09 - Triumph of the Tusk
