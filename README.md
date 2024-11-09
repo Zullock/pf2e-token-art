@@ -8,7 +8,7 @@
 - &#x2610; PZO12007 - NPC Core
 - &#x2610; PZO12008 - Battlecry!
 ## PZO13 - PF2e Remaster Lost Omens Setting
-- &#x2611; PZO13001 - Tian Xia World Guide
+- &#x2612; PZO13001 - Tian Xia World Guide
 - &#x2610; PZO13002 - Tian Xia Character Guide
 - &#x2610; PZO13003 - Divine Mysteries
 ## PZO14 - PF2e Remaster Standalone Adventures
@@ -27,10 +27,10 @@
 - &#x2610; PZO2107 - Bestiary 3
 - &#x2610; PZO2108 - Secrets of Magic
 - &#x2610; PZO2109 - Guns & Gears
-- &#x2611; PZO2110 - Book of the Dead
-- &#x2611; PZO2111 - Dark Archive
+- &#x2612; PZO2110 - Book of the Dead
+- &#x2612; PZO2111 - Dark Archive
 - &#x2610; PZO2112 - Treasure Vault
-- &#x2611; PZO2113 - Rage of Elements
+- &#x2612; PZO2113 - Rage of Elements
 ## PZO93 - PF2e Lost Omens Setting
 - &#x2610; PZO9301 - World Guide
 - &#x2610; PZO9302 - Character Guide
@@ -39,22 +39,22 @@
 - &#x2610; PZO9306 - Lost Omens Legends
 - &#x2610; PZO9307 - Pathfinder Society Guide
 - &#x2610; PZO9308 - Ancestry Guide
-- &#x2611; PZO9309 - The Mwangi Expanse
+- &#x2612; PZO9309 - The Mwangi Expanse
 - &#x2610; PZO9310 - The Grand Bazaar
-- &#x2611; PZO9311 - Monsters of Myth
+- &#x2612; PZO9311 - Monsters of Myth
 - &#x2610; PZO9312 - Knights of Lastwall
 - &#x2610; PZO9313 - Travel Guide
-- &#x2611; PZO9314 - Impossible Lands
+- &#x2612; PZO9314 - Impossible Lands
 - &#x2610; PZO9315 - Firebrands
-- &#x2611; PZO9316 - Highhelm
+- &#x2612; PZO9316 - Highhelm
 ## PZO90 - Adventure Paths
 - &#x2610; PF1e
-	- &#x2611; PZO9001-06 - Rise of the Runelords
-	- &#x2611; PZO9007-12 - Curse of the Crimson Throne
+	- &#x2612; PZO9001-06 - Rise of the Runelords
+	- &#x2612; PZO9007-12 - Curse of the Crimson Throne
 	- &#x2610; PZO9013-18 - Second Darkness
-	- &#x2611; PZO9019-24 - Legacy of Fire
-	- &#x2611; PZO9025-30 - Council of Thieves
-	- &#x2611; PZO9031-36 - Kingmaker
+	- &#x2612; PZO9019-24 - Legacy of Fire
+	- &#x2612; PZO9025-30 - Council of Thieves
+	- &#x2612; PZO9031-36 - Kingmaker
 	- &#x2610; PZO9037-42 - Serpent's Skull
 	- [X] PZO9043-48 - Carrion Crown
 	- &#x2610; PZO9049-54 - Jade Regent
@@ -63,10 +63,10 @@
 	- &#x2610; PZO9067-72 - Reign of Winter
 	- &#x2610; PZO9073-78 - Wrath of the Righteous
 	- &#x2610; PZO9079-84 - Mummy's Mask
-	- &#x2611; PZO9085-90 - Iron Gods
-	- &#x2611; PZO9091-96 - Giantslayers
-	- &#x2611; PZO9097-102 - Hell's Rebels
-	- &#x2611; PZO90103-108 - Hell's Vengeance
+	- &#x2612; PZO9085-90 - Iron Gods
+	- &#x2612; PZO9091-96 - Giantslayers
+	- &#x2612; PZO9097-102 - Hell's Rebels
+	- &#x2612; PZO90103-108 - Hell's Vengeance
 	- [X] PZO90109-114 - Strange Aeons
 	- &#x2610; PZO90115-120 - Ironfang Invasion
 	- &#x2610; PZO90121-126 - Ruins of Azlant
@@ -261,40 +261,40 @@
 	- &#x2610; PZO9559 - Malevolence
 	- &#x2610; PZO9560 - Night of the Gray Death
 	- &#x2610; PZO9561 - Shadows at Sundown
-	- &#x2611; PZO9562 - Crown of the Kobold King
+	- &#x2612; PZO9562 - Crown of the Kobold King
 	- &#x2610; PZO9563 - The Enmity Cycle
 	- &#x2610; PZO9564 - Rusthenge
 ## PZO10 - Pathfinder Pawns
 ## PZO11 - PF1e Rulebooks
 - &#x2610; PZO1110 - Core Rulebook
-- &#x2611; PZO1112 - Bestiary 1
-- &#x2611; PZO1114 - Gamemastery Guide
-- &#x2611; PZO1115 - Advanced Player's Guide
-- &#x2611; PZO1116 - Bestiary 2
+- &#x2612; PZO1112 - Bestiary 1
+- &#x2612; PZO1114 - Gamemastery Guide
+- &#x2612; PZO1115 - Advanced Player's Guide
+- &#x2612; PZO1116 - Bestiary 2
 - &#x2610; PZO1117 - Ultimate Magic
 - &#x2610; PZO1118 - Ultimate Combat
-- &#x2611; PZO1120 - Bestiary 3
-- &#x2611; PZO1121 - Advanced Race Guide
+- &#x2612; PZO1120 - Bestiary 3
+- &#x2612; PZO1121 - Advanced Race Guide
 - &#x2610; PZO1123 - Ultimate Equipment
 - &#x2610; PZO1124 - NPC Codex
 - &#x2610; PZO1125 - Ultimate Campaign
 - &#x2610; PZO1126 - Mythic Adventures
-- &#x2611; PZO1127 - Bestiary 4
+- &#x2612; PZO1127 - Bestiary 4
 - [X] PZO1128 - Strategy Guide
-- &#x2611; PZO1129 - Advanced Class Guide
+- &#x2612; PZO1129 - Advanced Class Guide
 - &#x2610; PZO1130 - Monster Codex
 - &#x2610; PZO1131 - Pathfinder Unchained
 - &#x2610; PZO1132 - Occult Adventures
-- &#x2611; PZO1133 - Bestiary 5
+- &#x2612; PZO1133 - Bestiary 5
 - &#x2610; PZO1134 - Ultimate Intrigue
-- &#x2611; PZO1135 - Horror Adventures
+- &#x2612; PZO1135 - Horror Adventures
 - &#x2610; PZO1136 - Villain Codex
-- &#x2611; PZO1137 - Bestiary 6
-- &#x2611; PZO1138 - Adventurer's Guide
-- &#x2611; PZO1139 - Book of the Damned
+- &#x2612; PZO1137 - Bestiary 6
+- &#x2612; PZO1138 - Adventurer's Guide
+- &#x2612; PZO1139 - Book of the Damned
 - &#x2610; PZO1140 - Ultimate Wilderness
 - &#x2610; PZO1141 - Planar Adventures
-- &#x2611; PZO9500-3 - Bestiary Bonus
+- &#x2612; PZO9500-3 - Bestiary Bonus
 
 
 ## PZO94 - Player Companion
