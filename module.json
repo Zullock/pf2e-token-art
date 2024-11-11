@@ -8,14 +8,14 @@
       "flags": {}
     }
   ],
-  "version": "3.2.0",
+  "version": "3.3.0",
   "compatibility": {
     "minimum": "10.291",
     "verified": "12"
   },
   "url": "https://github.com/Zullock/pf2e-token-art",
   "manifest": "https://raw.githubusercontent.com/Zullock/pf2e-token-art/main/module.json",
-  "download": "https://github.com/Zullock/pf2e-token-art/archive/refs/tags/v3.2.0.zip",
+  "download": "https://github.com/Zullock/pf2e-token-art/archive/refs/tags/v3.3.0.zip",
   "changelog": "https://github.com/Zullock/pf2e-token-art/blob/main/CHANGELOG.md",
   "flags": {
    "galleryDatasheets": {
@@ -58,6 +58,10 @@
         "pf1e-adventure-path-rise-of-the-runelord-datasheet": {
             "label": "PF1e AP Rise of the Runelords",
             "sheet": "modules/pf2e-token-art/data/PF1e/adventure-path/adventure-path-rise-of-the-runelord-datasheet.json"
+        },
+        "pf1e-adventure-path-strange-aeons-datasheet": {
+            "label": "PF1e AP Strange Aeons",
+            "sheet": "modules/pf2e-token-art/data/PF1e/adventure-path/adventure-path-strange-aeons-datasheet.json"
         },
         "pf1e-adventure-path-tyrants-grasp-datasheet": {
             "label": "PF1e AP Tyrant's Grasp",

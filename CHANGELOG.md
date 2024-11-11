@@ -1,3 +1,7 @@
+# 3.3.0
+
+-	Añadido Strange Aeons.
+
 # 3.2.0
 
 -	Añadidos subjects de Carrion Crown.

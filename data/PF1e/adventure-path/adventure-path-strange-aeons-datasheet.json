@@ -1,0 +1,3996 @@
+[
+    {
+        "label": "Abdul Alhazred",
+        "key": "AbdulAlhazredPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90111)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/AbdulAlhazred.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/AbdulAlhazred.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/AbdulAlhazred.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/AbdulAlhazred.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "tome"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Abdul Alhazred",
+        "key": "AbdulAlhazred2PF1eSA",
+        "source": "PF1e Strange Aeons (PZO90111)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/AbdulAlhazred2.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/AbdulAlhazred2.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/AbdulAlhazred2.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/AbdulAlhazred2.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "knife",
+                "tome"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Abdul Alhazred",
+        "key": "AbdulAlhazredBustPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90113)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/AbdulAlhazredBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/AbdulAlhazredBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/AbdulAlhazredBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/AbdulAlhazredBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "tome"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Abhoth",
+        "key": "AbhothPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90109)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Abhoth.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Abhoth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Abhoth.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Abhoth.webp"
+        },
+        "tags": {
+            "category": [
+                "ooze"
+            ],
+            "ancestry": [
+                "abhoth"
+            ],
+            "family": [
+                "outer god"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Aeptolinu",
+        "key": "AeptolinuPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90113)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Aeptolinu.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Aeptolinu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Aeptolinu.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Aeptolinu.webp"
+        },
+        "tags": {
+            "category": [
+                "divine",
+                "fiendish"
+            ],
+            "family": [
+                "broken soul",
+                "manasaputra"
+            ],
+            "ancestry": [
+                "manu"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "clothing",
+                "knife"
+            ]
+        }
+    },
+    {
+        "label": "Aggra \"Bag Lady\" Loomis",
+        "key": "AggraBagLadyLoomisPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90109)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/AggraBagLadyLoomis.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/AggraBagLadyLoomis.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/AggraBagLadyLoomis.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/AggraBagLadyLoomis.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Ahrkh-Nar",
+        "key": "AhrkhNarPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90111)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/AhrkhNar.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/AhrkhNar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/AhrkhNar.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/AhrkhNar.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "moon-beast"
+            ],
+            "features": [
+                "music"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Animate Dream Shopkeep",
+        "key": "AnimateDreamShopkeepPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90111)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/AnimateDreamShopkeep.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/AnimateDreamShopkeep.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/AnimateDreamShopkeep.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/AnimateDreamShopkeep.webp"
+        },
+        "tags": {
+            "category": [
+                "dream",
+                "planar"
+            ],
+            "ancestry": [
+                "animate dream"
+            ]
+        }
+    },
+    {
+        "label": "Apostle In Orpiment",
+        "key": "ApostleInOrpimentPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90109)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/ApostleInOrpiment.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/ApostleInOrpiment.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/ApostleInOrpiment.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/ApostleInOrpiment.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Ariadnah",
+        "key": "AriadnahPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90110)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Ariadnah.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Ariadnah.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Ariadnah.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Ariadnah.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "lich"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Ariadnah",
+        "key": "Ariadnah2PF1eSA",
+        "source": "PF1e Strange Aeons (PZO90114)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Ariadnah2.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Ariadnah2.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Ariadnah2.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Ariadnah2.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "lich"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Armel",
+        "key": "ArmelPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90114)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Armel.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Armel.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Armel.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Armel.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghoul"
+            ],
+            "family": [
+                "leng"
+            ],
+            "equipment": [
+                "clothing",
+                "firearm",
+                "polearm"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Ashkar",
+        "key": "AshkarPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90113)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Ashkar.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Ashkar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Ashkar.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Ashkar.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "girtablilu"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Asylum Ghoul",
+        "key": "AsylumGhoulPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90109)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/AsylumGhoul.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/AsylumGhoul.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/AsylumGhoul.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/AsylumGhoul.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghoul"
+            ],
+            "equipment": [
+                "brawling",
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Atlach-Nacha",
+        "key": "AtlachNachaPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90112)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/AtlachNacha.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/AtlachNacha.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/AtlachNacha.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/AtlachNacha.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "atlach-nacha"
+            ],
+            "family": [
+                "great old one"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Avaric",
+        "key": "AvaricPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90114)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Avaric.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Avaric.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Avaric.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Avaric.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "vampire mastermind"
+            ],
+            "family": [
+                "vampire"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "clothing",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Azathoth",
+        "key": "AzathothPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90109)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Azathoth.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Azathoth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Azathoth.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Azathoth.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "azathoth"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ],
+            "family": [
+                "outer god"
+            ]
+        }
+    },
+    {
+        "label": "Barawyn Cesyll",
+        "key": "BarawynCesyllPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90110)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/BarawynCesyll.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/BarawynCesyll.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/BarawynCesyll.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/BarawynCesyll.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Biting Lash",
+        "key": "BitingLashPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90112)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/BitingLash.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/BitingLash.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/BitingLash.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/BitingLash.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "kholo"
+            ],
+            "family": [
+                "flind"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "clothing",
+                "polearm"
+            ],
+            "features": [
+                "companion"
+            ]
+        }
+    },
+    {
+        "label": "Byakhee",
+        "key": "ByakheePF1eSA",
+        "source": "PF1e Strange Aeons (PZO90110)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Byakhee.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Byakhee.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Byakhee.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Byakhee.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "byakhee"
+            ]
+        }
+    },
+    {
+        "label": "Cassilda",
+        "key": "CassildaPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90114)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Cassilda.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Cassilda.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Cassilda.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Cassilda.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "features": [
+                "magic"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Cassilda",
+        "key": "Cassilda2PF1eSA",
+        "source": "PF1e Strange Aeons (PZO90114)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Cassilda2.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Cassilda2.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Cassilda2.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Cassilda2.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "features": [
+                "magic"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Cassilda",
+        "key": "CassildaBustPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90114)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/CassildaBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/CassildaBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/CassildaBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/CassildaBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Ceramic Guardian",
+        "key": "CeramicGuardianPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90111)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/CeramicGuardian.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/CeramicGuardian.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/CeramicGuardian.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/CeramicGuardian.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "terra-cota soldier"
+            ]
+        }
+    },
+    {
+        "label": "Cesadia Wrentz",
+        "key": "CesadiaWrentzPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90110)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/CesadiaWrentz.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/CesadiaWrentz.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/CesadiaWrentz.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/CesadiaWrentz.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Chaugnar Faugn",
+        "key": "ChaugnarFaugnPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90109)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/ChaugnarFaugn.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/ChaugnarFaugn.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/ChaugnarFaugn.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/ChaugnarFaugn.webp"
+        },
+        "tags": {
+            "ancestry": [
+                "chaugnar faugn"
+            ],
+            "category": [
+                "aberrant"
+            ],
+            "family": [
+                "great old one"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Child Of Yog-Sothoth",
+        "key": "ChildOfYogSothothPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90113)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/ChildOfYogSothoth.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/ChildOfYogSothoth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/ChildOfYogSothoth.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/ChildOfYogSothoth.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "child of yog-sothoth"
+            ],
+            "equipment": [
+                "clothing",
+                "knife"
+            ]
+        }
+    },
+    {
+        "label": "Clockwork Mage",
+        "key": "ClockworkMagePF1eSA",
+        "source": "PF1e Strange Aeons (PZO90112)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/ClockworkMage.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/ClockworkMage.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/ClockworkMage.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/ClockworkMage.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "clockwork mage"
+            ],
+            "family": [
+                "clockwork"
+            ]
+        }
+    },
+    {
+        "label": "Clockwork Vivisectionist",
+        "key": "ClockworkVivisectionistPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90112)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/ClockworkVivisectionist.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/ClockworkVivisectionist.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/ClockworkVivisectionist.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/ClockworkVivisectionist.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "clockwork vivisectionist"
+            ],
+            "family": [
+                "clockwork"
+            ]
+        }
+    },
+    {
+        "label": "Cultist Of Hastur",
+        "key": "CultistOfHasturPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90110)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/CultistOfHastur.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/CultistOfHastur.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/CultistOfHastur.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/CultistOfHastur.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "light",
+                "sword"
+            ],
+            "family": [
+                "hastur"
+            ]
+        }
+    },
+    {
+        "label": "Cursed Vampire Guard",
+        "key": "CursedVampireGuardPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90114)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/CursedVampireGuard.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/CursedVampireGuard.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/CursedVampireGuard.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/CursedVampireGuard.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "vampire count"
+            ],
+            "equipment": [
+                "clothing",
+                "sword"
+            ],
+            "family": [
+                "vampire"
+            ]
+        }
+    },
+    {
+        "label": "Daelene Spence",
+        "key": "DaeleneSpencePF1eSA",
+        "source": "PF1e Strange Aeons (PZO90110)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/DaeleneSpence.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/DaeleneSpence.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/DaeleneSpence.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/DaeleneSpence.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Daridela Cornett",
+        "key": "DaridelaCornettPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90110)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/DaridelaCornett.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/DaridelaCornett.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/DaridelaCornett.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/DaridelaCornett.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bomb",
+                "heavy",
+                "knife",
+                "polearm"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Debis Lieklan",
+        "key": "DebisLieklanPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90109)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/DebisLieklan.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/DebisLieklan.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/DebisLieklan.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/DebisLieklan.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "attic whisperer"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Deggorhbaatha",
+        "key": "DeggorhbaathaPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90110)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Deggorhbaatha.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Deggorhbaatha.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Deggorhbaatha.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Deggorhbaatha.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "ulat-kini"
+            ],
+            "family": [
+                "alghollthu"
+            ],
+            "equipment": [
+                "clothing",
+                "polearm",
+                "unarmored"
+            ],
+            "features": [
+                "magic"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Delmaria",
+        "key": "DelmariaPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90114)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Delmaria.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Delmaria.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Delmaria.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Delmaria.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "vampire count"
+            ],
+            "family": [
+                "vampire"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Dena Gallegos",
+        "key": "DenaGallegosPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90110)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/DenaGallegos.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/DenaGallegos.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/DenaGallegos.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/DenaGallegos.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Dero Rogue",
+        "key": "DeroRoguePF1eSA",
+        "source": "PF1e Strange Aeons (PZO90112)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/DeroRogue.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/DeroRogue.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/DeroRogue.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/DeroRogue.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dero stalker"
+            ],
+            "family": [
+                "dero"
+            ],
+            "equipment": [
+                "bomb",
+                "clothing",
+                "crossbow",
+                "flail",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Doctor Oathsday",
+        "key": "DoctorOathsdayPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90109)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/DoctorOathsday.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/DoctorOathsday.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/DoctorOathsday.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/DoctorOathsday.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "doppelganger"
+            ],
+            "equipment": [
+                "clothing",
+                "knife"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Drexin",
+        "key": "DrexinPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90109)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Drexin.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Drexin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Drexin.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Drexin.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "drexin"
+            ],
+            "family": [
+                "gremlin"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Druj Nasu",
+        "key": "DrujNasuPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90113)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/DrujNasu.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/DrujNasu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/DrujNasu.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/DrujNasu.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "druj nasu"
+            ],
+            "family": [
+                "div"
+            ]
+        }
+    },
+    {
+        "label": "Eldarius",
+        "key": "EldariusPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90114)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Eldarius.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Eldarius.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Eldarius.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Eldarius.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghost commoner"
+            ],
+            "family": [
+                "amaznen"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Elder Thing Archivist",
+        "key": "ElderThingArchivistPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90114)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/ElderThingArchivist.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/ElderThingArchivist.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/ElderThingArchivist.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/ElderThingArchivist.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "elder thing"
+            ],
+            "family": [
+                "dominion of the black"
+            ]
+        }
+    },
+    {
+        "label": "Elgrior Nasmeth",
+        "key": "ElgriorNasmethPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90110)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/ElgriorNasmeth.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/ElgriorNasmeth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/ElgriorNasmeth.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/ElgriorNasmeth.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Eliege Losandro",
+        "key": "EliegeLosandroPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90109)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/EliegeLosandro.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/EliegeLosandro.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/EliegeLosandro.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/EliegeLosandro.webp"
+        },
+        "tags": {
+            "category": [
+                "dream",
+                "planar"
+            ],
+            "ancestry": [
+                "oneirogen"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Emman Gulston",
+        "key": "EmmanGulstonPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90110)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/EmmanGulston.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/EmmanGulston.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/EmmanGulston.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/EmmanGulston.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Erich Zann",
+        "key": "ErichZannPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90114)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/ErichZann.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/ErichZann.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/ErichZann.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/ErichZann.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "features": [
+                "music"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Ethem Baler",
+        "key": "EthemBalerPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90112)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/EthemBaler.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/EthemBaler.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/EthemBaler.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/EthemBaler.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "gnome"
+            ],
+            "family": [
+                "bleaching"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Ezren Necronomicon",
+        "key": "EzrenNecronomiconPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90113)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/EzrenNecronomicon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/EzrenNecronomicon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/EzrenNecronomicon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/EzrenNecronomicon.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "family": [
+                "ezren"
+            ],
+            "special": [
+                "iconic",
+                "unique"
+            ],
+            "equipment": [
+                "clothing",
+                "tome"
+            ]
+        }
+    },
+    {
+        "label": "Flapper Investigator",
+        "key": "FlapperInvestigatorPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90114)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/FlapperInvestigator.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/FlapperInvestigator.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/FlapperInvestigator.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/FlapperInvestigator.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "family": [
+                "seoni"
+            ],
+            "special": [
+                "iconic",
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Formless Spawn",
+        "key": "FormlessSpawnPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90111)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/FormlessSpawn.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/FormlessSpawn.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/FormlessSpawn.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/FormlessSpawn.webp"
+        },
+        "tags": {
+            "category": [
+                "ooze"
+            ],
+            "ancestry": [
+                "formless spawn"
+            ]
+        }
+    },
+    {
+        "label": "Gangster Investigator",
+        "key": "GangsterInvestigatorPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90114)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/GangsterInvestigator.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/GangsterInvestigator.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/GangsterInvestigator.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/GangsterInvestigator.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "firearm"
+            ]
+        }
+    },
+    {
+        "label": "Ghatanothoa",
+        "key": "GhatanothoaPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90114)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Ghatanothoa.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Ghatanothoa.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Ghatanothoa.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Ghatanothoa.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "ghatanothoa"
+            ],
+            "family": [
+                "great old one"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Glower",
+        "key": "GlowerPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90111)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Glower.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Glower.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Glower.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Glower.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bow",
+                "light",
+                "shield",
+                "sword"
+            ],
+            "features": [
+                "dual-wielding"
+            ],
+            "family": [
+                "gray gardener",
+                "norgorber"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Kholo Guard",
+        "key": "GnollGuardPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90112)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/GnollGuard.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/GnollGuard.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/GnollGuard.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/GnollGuard.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "kholo"
+            ],
+            "equipment": [
+                "bow",
+                "heavy",
+                "sword",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Guardian Mirror",
+        "key": "GuardianMirrorPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90112)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/GuardianMirror.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/GuardianMirror.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/GuardianMirror.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/GuardianMirror.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant",
+                "time"
+            ],
+            "ancestry": [
+                "hound of tindalos"
+            ]
+        }
+    },
+    {
+        "label": "Hakoor",
+        "key": "HakoorPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90112)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Hakoor.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Hakoor.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Hakoor.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Hakoor.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "halfling"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "features": [
+                "companion"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Haserton Lowls IV",
+        "key": "HasertonLowlsIVPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90112)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/HasertonLowlsIV.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/HasertonLowlsIV.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/HasertonLowlsIV.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/HasertonLowlsIV.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "scroll"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Haserton Lowls IV",
+        "key": "HasertonLowlsIVBustPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90109)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/HasertonLowlsIVBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/HasertonLowlsIVBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/HasertonLowlsIVBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/HasertonLowlsIVBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Hastur",
+        "key": "HasturPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90109)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Hastur.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Hastur.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Hastur.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Hastur.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "hastur"
+            ],
+            "family": [
+                "great old one"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Hastur Priest",
+        "key": "HasturPriestPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90110)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/HasturPriest.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/HasturPriest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/HasturPriest.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/HasturPriest.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "sword",
+                "tome"
+            ],
+            "family": [
+                "hastur"
+            ]
+        }
+    },
+    {
+        "label": "Hollow One",
+        "key": "HollowOnePF1eSA",
+        "source": "PF1e Strange Aeons (PZO90112)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/HollowOne.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/HollowOne.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/HollowOne.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/HollowOne.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "hollow one"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Hooded Harbinger",
+        "key": "HoodedHarbingerPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90112)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/HoodedHarbinger.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/HoodedHarbinger.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/HoodedHarbinger.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/HoodedHarbinger.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "hooded harbinger"
+            ]
+        }
+    },
+    {
+        "label": "Hoshbagh",
+        "key": "HoshbaghPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90113)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Hoshbagh.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Hoshbagh.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Hoshbagh.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Hoshbagh.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "otyugh"
+            ],
+            "features": [
+                "magic"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "tome"
+            ]
+        }
+    },
+    {
+        "label": "Human Fisher",
+        "key": "HumanFisherPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90111)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/HumanFisher.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/HumanFisher.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/HumanFisher.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/HumanFisher.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "knife"
+            ]
+        }
+    },
+    {
+        "label": "Hungry Flesh",
+        "key": "HungryFleshPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90109)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/HungryFlesh.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/HungryFlesh.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/HungryFlesh.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/HungryFlesh.webp"
+        },
+        "tags": {
+            "category": [
+                "ooze"
+            ],
+            "ancestry": [
+                "hungry flesh"
+            ]
+        }
+    },
+    {
+        "label": "Hunting Horror",
+        "key": "HuntingHorrorPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90113)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/HuntingHorror.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/HuntingHorror.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/HuntingHorror.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/HuntingHorror.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "hunting horror"
+            ]
+        }
+    },
+    {
+        "label": "Husk Of Xhamen-Dor",
+        "key": "HuskOfXhamenDorPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90113)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/HuskOfXhamenDor.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/HuskOfXhamenDor.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/HuskOfXhamenDor.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/HuskOfXhamenDor.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ],
+            "ancestry": [
+                "xhamen-dor"
+            ],
+            "family": [
+                "great old one"
+            ]
+        }
+    },
+    {
+        "label": "Hyena Princess Njano",
+        "key": "HyenaPrincessNjanoPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90112)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/HyenaPrincessNjano.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/HyenaPrincessNjano.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/HyenaPrincessNjano.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/HyenaPrincessNjano.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "kholo"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Ib Shade",
+        "key": "IbShadePF1eSA",
+        "source": "PF1e Strange Aeons (PZO90111)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/IbShade.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/IbShade.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/IbShade.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/IbShade.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ib shade"
+            ],
+            "family": [
+                "incorporeal"
+            ]
+        }
+    },
+    {
+        "label": "Ithaqua",
+        "key": "IthaquaPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90109)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Ithaqua.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Ithaqua.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Ithaqua.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Ithaqua.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "ithaqua"
+            ],
+            "family": [
+                "great old one"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ],
+            "equipment": [
+                "clothing",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Itsqaal-Thoal",
+        "key": "ItsqaalThoalPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90110)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/ItsqaalThoal.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/ItsqaalThoal.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/ItsqaalThoal.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/ItsqaalThoal.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "ulat-kini"
+            ],
+            "family": [
+                "alghollthu"
+            ],
+            "equipment": [
+                "medium"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Juggernaut",
+        "key": "JuggernautPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90113)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Juggernaut.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Juggernaut.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Juggernaut.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Juggernaut.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "juggernaut"
+            ]
+        }
+    },
+    {
+        "label": "Kaklatath",
+        "key": "KaklatathPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90112)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Kaklatath.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Kaklatath.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Kaklatath.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Kaklatath.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Kaklatath",
+        "key": "KaklatathBustPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90112)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/KaklatathBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/KaklatathBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/KaklatathBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/KaklatathBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Kaklatath The Seeded",
+        "key": "KaklatathTheSeededPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90113)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/KaklatathTheSeeded.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/KaklatathTheSeeded.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/KaklatathTheSeeded.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/KaklatathTheSeeded.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "yithian"
+            ],
+            "family": [
+                "seeded"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Keeper Of The Yellow Sign",
+        "key": "KeeperOfTheYellowSignPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90110)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/KeeperOfTheYellowSign.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/KeeperOfTheYellowSign.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/KeeperOfTheYellowSign.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/KeeperOfTheYellowSign.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "keeper of the yellow sign"
+            ],
+            "family": [
+                "hastur"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Keldrin Mon",
+        "key": "KeldrinMonPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90110)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/KeldrinMon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/KeldrinMon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/KeldrinMon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/KeldrinMon.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Kelvetta Brix",
+        "key": "KelvettaBrixPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90111)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/KelvettaBrix.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/KelvettaBrix.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/KelvettaBrix.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/KelvettaBrix.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Kisetz",
+        "key": "KisetzPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90112)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Kisetz.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Kisetz.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Kisetz.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Kisetz.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "knife",
+                "light",
+                "medium",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Klades",
+        "key": "KladesPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90109)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Klades.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Klades.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Klades.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Klades.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghast"
+            ],
+            "family": [
+                "ghoul"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "clothing",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Kudimmu",
+        "key": "KudimmuPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90114)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Kudimmu.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Kudimmu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Kudimmu.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Kudimmu.webp"
+        },
+        "tags": {
+            "category": [
+                "plant"
+            ],
+            "ancestry": [
+                "kudimmu"
+            ]
+        }
+    },
+    {
+        "label": "Kuru Thug",
+        "key": "KuruThugPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90110)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/KuruThug.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/KuruThug.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/KuruThug.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/KuruThug.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "kuru"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Larva Of The Outer Gods",
+        "key": "LarvaOfTheOuterGodsPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90114)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/LarvaOfTheOuterGods.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/LarvaOfTheOuterGods.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/LarvaOfTheOuterGods.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/LarvaOfTheOuterGods.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "larva of the outer gods"
+            ]
+        }
+    },
+    {
+        "label": "Lelwyn Hasok",
+        "key": "LelwynHasokPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90110)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/LelwynHasok.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/LelwynHasok.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/LelwynHasok.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/LelwynHasok.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "elf"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Leng Ghould Gendarme",
+        "key": "LengGhouldGendarmePF1eSA",
+        "source": "PF1e Strange Aeons (PZO90114)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/LengGhouldGendarme.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/LengGhouldGendarme.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/LengGhouldGendarme.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/LengGhouldGendarme.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghoul"
+            ],
+            "family": [
+                "leng"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "firearm"
+            ]
+        }
+    },
+    {
+        "label": "Lenk Marris",
+        "key": "LenkMarrisPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90110)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/LenkMarris.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/LenkMarris.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/LenkMarris.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/LenkMarris.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Melisenn Kororo",
+        "key": "MelisennKororoPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90110)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/MelisennKororo.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/MelisennKororo.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/MelisennKororo.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/MelisennKororo.webp"
+        },
+        "tags": {
+            "family": [
+                "hastur"
+            ],
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Mhar",
+        "key": "MharPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90109)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Mhar.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Mhar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Mhar.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Mhar.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "mhar"
+            ],
+            "family": [
+                "great old one"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Miacknian Mun",
+        "key": "MiacknianMunPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90112)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/MiacknianMun.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/MiacknianMun.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/MiacknianMun.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/MiacknianMun.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "light"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Miacknian Mun",
+        "key": "MiacknianMunBustPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90112)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/MiacknianMunBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/MiacknianMunBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/MiacknianMunBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/MiacknianMunBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Mister Wanderlust",
+        "key": "MisterWanderlustPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90111)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/MisterWanderlust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/MisterWanderlust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/MisterWanderlust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/MisterWanderlust.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "bogeyman"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Mordiggian",
+        "key": "MordiggianPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90110)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Mordiggian.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Mordiggian.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Mordiggian.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Mordiggian.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "mordiggian"
+            ],
+            "family": [
+                "great old one"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Mother Grim Moon",
+        "key": "MotherGrimMoonPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90113)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/MotherGrimMoon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/MotherGrimMoon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/MotherGrimMoon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/MotherGrimMoon.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "ash giant"
+            ],
+            "family": [
+                "giant",
+                "groetus"
+            ],
+            "equipment": [
+                "clothing",
+                "flail",
+                "unarmored"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Mysterium Guard",
+        "key": "MysteriumGuardPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90112)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/MysteriumGuard.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/MysteriumGuard.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/MysteriumGuard.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/MysteriumGuard.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "medium",
+                "polearm"
+            ]
+        }
+    },
+    {
+        "label": "Naerel Twice-Born",
+        "key": "NaerelTwiceBornPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90111)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/NaerelTwiceBorn.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/NaerelTwiceBorn.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/NaerelTwiceBorn.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/NaerelTwiceBorn.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "elf"
+            ],
+            "family": [
+                "hanspur"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Nemira Lowls",
+        "key": "NemiraLowlsPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90110)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/NemiraLowls.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/NemiraLowls.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/NemiraLowls.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/NemiraLowls.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "family": [
+                "eldritch"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Nestor Bindlay",
+        "key": "NestorBindlayPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90111)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/NestorBindlay.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/NestorBindlay.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/NestorBindlay.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/NestorBindlay.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Nhimbaloth",
+        "key": "NhimbalothPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90109)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Nhimbaloth.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Nhimbaloth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Nhimbaloth.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Nhimbaloth.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "nhimbaloth"
+            ],
+            "family": [
+                "outer god"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Night Willow",
+        "key": "NightWillowPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90114)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/NightWillow.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/NightWillow.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/NightWillow.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/NightWillow.webp"
+        },
+        "tags": {
+            "category": [
+                "fungal"
+            ],
+            "ancestry": [
+                "night willow"
+            ]
+        }
+    },
+    {
+        "label": "Nikta",
+        "key": "NiktaPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90112)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Nikta.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Nikta.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Nikta.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Nikta.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "pairaka"
+            ],
+            "family": [
+                "div"
+            ],
+            "equipment": [
+                "axe",
+                "heavy",
+                "sword"
+            ],
+            "features": [
+                "dual-wielding"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Nyarlathotep",
+        "key": "NyarlathotepPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90109)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Nyarlathotep.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Nyarlathotep.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Nyarlathotep.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Nyarlathotep.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "nyarlathotep"
+            ],
+            "family": [
+                "outer god"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "tome",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Olkoshim",
+        "key": "OlkoshimPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90113)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Olkoshim.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Olkoshim.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Olkoshim.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Olkoshim.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "moon giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Oneirogen",
+        "key": "OneirogenPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90109)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Oneirogen.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Oneirogen.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Oneirogen.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Oneirogen.webp"
+        },
+        "tags": {
+            "category": [
+                "dream",
+                "planar"
+            ],
+            "ancestry": [
+                "oneirogen"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Orgesh",
+        "key": "OrgeshPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90114)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Orgesh.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Orgesh.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Orgesh.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Orgesh.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "orgesh"
+            ],
+            "family": [
+                "great old one"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Oromith",
+        "key": "OromithPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90114)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Oromith.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Oromith.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Oromith.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Oromith.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "nemhaith"
+            ],
+            "family": [
+                "incorporeal"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Orsephellius",
+        "key": "OrsephelliusPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90111)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Orsephellius.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Orsephellius.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Orsephellius.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Orsephellius.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Pallid Wriggler Swarm",
+        "key": "PallidWrigglerSwarmPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90109)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/PallidWrigglerSwarm.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/PallidWrigglerSwarm.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/PallidWrigglerSwarm.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/PallidWrigglerSwarm.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "pallid wriggler swarm"
+            ],
+            "special": [
+                "swarm"
+            ]
+        }
+    },
+    {
+        "label": "Permelia Cockle",
+        "key": "PermeliaCocklePF1eSA",
+        "source": "PF1e Strange Aeons (PZO90112)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/PermeliaCockle.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/PermeliaCockle.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/PermeliaCockle.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/PermeliaCockle.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Pietro Brellin",
+        "key": "PietroBrellinPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90111)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/PietroBrellin.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/PietroBrellin.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/PietroBrellin.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/PietroBrellin.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Proto-Shoggoth",
+        "key": "ProtoShoggothPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90112)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/ProtoShoggoth.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/ProtoShoggoth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/ProtoShoggoth.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/ProtoShoggoth.webp"
+        },
+        "tags": {
+            "category": [
+                "ooze"
+            ],
+            "ancestry": [
+                "proto-shoggoth"
+            ]
+        }
+    },
+    {
+        "label": "Quaveandra",
+        "key": "QuaveandraPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90111)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Quaveandra.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Quaveandra.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Quaveandra.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Quaveandra.webp"
+        },
+        "tags": {
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "night hag"
+            ],
+            "family": [
+                "hag"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Ratch Mamby",
+        "key": "RatchMambyPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90109)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/RatchMamby.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/RatchMamby.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/RatchMamby.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/RatchMamby.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "ratling"
+            ],
+            "family": [
+                "rat"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Risi Nairgon",
+        "key": "RisiNairgonPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90110)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/RisiNairgon.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/RisiNairgon.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/RisiNairgon.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/RisiNairgon.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bomb",
+                "clothing",
+                "crossbow",
+                "knife",
+                "medium",
+                "sword"
+            ],
+            "features": [
+                "alchemy"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Sarfaraz Al-Qoor",
+        "key": "SarfarazAlQoorPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90112)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/SarfarazAlQoor.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/SarfarazAlQoor.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/SarfarazAlQoor.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/SarfarazAlQoor.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Seeded Lamia",
+        "key": "SeededLamiaPF1eSA",
+        "source": "PF1e Strange Aeons",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/SeededLamia.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/SeededLamia.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/SeededLamia.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/SeededLamia.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "lamia"
+            ],
+            "family": [
+                "seeded"
+            ],
+            "equipment": [
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Shantak With Howdah",
+        "key": "ShantakWithHowdahPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90111)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/ShantakWithHowdah.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/ShantakWithHowdah.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/ShantakWithHowdah.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/ShantakWithHowdah.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "shantak"
+            ]
+        }
+    },
+    {
+        "label": "Shatter Smile Giant",
+        "key": "ShatterSmileGiantPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90113)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/ShatterSmileGiant.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/ShatterSmileGiant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/ShatterSmileGiant.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/ShatterSmileGiant.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "ash giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "equipment": [
+                "heavy"
+            ]
+        }
+    },
+    {
+        "label": "Shrike Worm",
+        "key": "ShrikeWormPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90114)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/ShrikeWorm.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/ShrikeWorm.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/ShrikeWorm.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/ShrikeWorm.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "shrike worm"
+            ]
+        }
+    },
+    {
+        "label": "Skywin Freeling",
+        "key": "SkywinFreelingPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90111)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/SkywinFreeling.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/SkywinFreeling.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/SkywinFreeling.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/SkywinFreeling.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "halfling"
+            ],
+            "equipment": [
+                "crossbow",
+                "medium",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Skywin Freeling",
+        "key": "SkywinFreelingBustPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90111)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/SkywinFreelingBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/SkywinFreelingBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/SkywinFreelingBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/SkywinFreelingBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "halfling"
+            ],
+            "equipment": [
+                "medium"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Star-Sworn Naga",
+        "key": "StarSwornNagaPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90113)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/StarSwornNaga.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/StarSwornNaga.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/StarSwornNaga.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/StarSwornNaga.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "star-sworn naga"
+            ],
+            "family": [
+                "naga"
+            ]
+        }
+    },
+    {
+        "label": "Star Vampire",
+        "key": "StarVampirePF1eSA",
+        "source": "PF1e Strange Aeons (PZO90110)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/StarVampire.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/StarVampire.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/StarVampire.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/StarVampire.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "star vampire"
+            ]
+        }
+    },
+    {
+        "label": "Thala Of House Cato",
+        "key": "ThalaOfHouseCatoPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90113)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/ThalaOfHouseCato.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/ThalaOfHouseCato.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/ThalaOfHouseCato.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/ThalaOfHouseCato.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "family": [
+                "seeded"
+            ],
+            "equipment": [
+                "flail",
+                "heavy",
+                "shield"
+            ],
+            "features": [
+                "dual-wielding"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "The Pallid Mask",
+        "key": "ThePallidMaskPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90114)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/ThePallidMask.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/ThePallidMask.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/ThePallidMask.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/ThePallidMask.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "the pallid mask"
+            ],
+            "family": [
+                "hastur",
+                "herald"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "The Saffron Prince",
+        "key": "TheSaffronPrincePF1eSA",
+        "source": "PF1e Strange Aeons (PZO90113)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/TheSaffronPrince.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/TheSaffronPrince.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/TheSaffronPrince.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/TheSaffronPrince.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "dorvae"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "The Star Seed",
+        "key": "TheStarSeedPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90114)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/TheStarSeed.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/TheStarSeed.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/TheStarSeed.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/TheStarSeed.webp"
+        },
+        "tags": {
+            "category": [
+                "fungal"
+            ],
+            "ancestry": [
+                "xhamen-dor"
+            ],
+            "family": [
+                "great old one"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "The Tatterman",
+        "key": "TheTattermanPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90109)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/TheTatterman.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/TheTatterman.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/TheTatterman.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/TheTatterman.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "doppelganger"
+            ],
+            "equipment": [
+                "clothing",
+                "knife"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "The Tatterman",
+        "key": "TheTatterman2PF1eSA",
+        "source": "PF1e Strange Aeons (PZO90109)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/TheTatterman2.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/TheTatterman2.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/TheTatterman2.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/TheTatterman2.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "doppelganger"
+            ],
+            "equipment": [
+                "clothing",
+                "knife",
+                "scroll"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "The Watcher In The Bay",
+        "key": "TheWatcherInTheBayPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90114)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/TheWatcherInTheBay.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/TheWatcherInTheBay.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/TheWatcherInTheBay.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/TheWatcherInTheBay.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant",
+                "aquatic"
+            ],
+            "ancestry": [
+                "the watcher in the bay"
+            ],
+            "family": [
+                "squid"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "The Yellow King",
+        "key": "TheYellowKingPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90111)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/TheYellowKing.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/TheYellowKing.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/TheYellowKing.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/TheYellowKing.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Thrushmoor Angler",
+        "key": "ThrushmoorAnglerPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90111)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/ThrushmoorAngler.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/ThrushmoorAngler.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/ThrushmoorAngler.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/ThrushmoorAngler.webp"
+        },
+        "tags": {
+            "category": [
+                "aquatic",
+                "bestial"
+            ],
+            "ancestry": [
+                "thrushmoor angler"
+            ]
+        }
+    },
+    {
+        "label": "Thyrr",
+        "key": "ThyrrPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90112)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Thyrr.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Thyrr.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Thyrr.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Thyrr.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "family": [
+                "nethys"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Tree Tiger",
+        "key": "TreeTigerPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90111)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/TreeTiger.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/TreeTiger.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/TreeTiger.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/TreeTiger.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "tiger"
+            ],
+            "family": [
+                "cat"
+            ]
+        }
+    },
+    {
+        "label": "Tsathoggua",
+        "key": "TsathogguaPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90111)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Tsathoggua.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Tsathoggua.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Tsathoggua.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Tsathoggua.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "tsathoggua"
+            ],
+            "family": [
+                "great old one"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Twain",
+        "key": "TwainPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90112)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Twain.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Twain.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Twain.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Twain.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "dero magister"
+            ],
+            "family": [
+                "dero"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "bomb",
+                "clothing",
+                "flail",
+                "sword"
+            ],
+            "features": [
+                "dual-wielding"
+            ]
+        }
+    },
+    {
+        "label": "Ugoroth",
+        "key": "UgorothPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90110)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Ugoroth.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Ugoroth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Ugoroth.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Ugoroth.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "ugoroth"
+            ],
+            "equipment": [
+                "axe",
+                "bludgeon"
+            ]
+        }
+    },
+    {
+        "label": "Ulver Zandalus",
+        "key": "UlverZandalusPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90109)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/UlverZandalus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/UlverZandalus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/UlverZandalus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/UlverZandalus.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "unarmored"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Ulver Zandalus",
+        "key": "UlverZandalusBustPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90109)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/UlverZandalusBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/UlverZandalusBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/UlverZandalusBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/UlverZandalusBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "unarmored"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Undead Mercenary",
+        "key": "UndeadMercenaryPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90110)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/UndeadMercenary.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/UndeadMercenary.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/UndeadMercenary.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/UndeadMercenary.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "juju zombie"
+            ],
+            "equipment": [
+                "bow",
+                "heavy",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Upianshe",
+        "key": "UpianshePF1eSA",
+        "source": "PF1e Strange Aeons (PZO90113)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Upianshe.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Upianshe.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Upianshe.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Upianshe.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghost commoner"
+            ],
+            "special": [
+                "unique"
+            ],
+            "family": [
+                "incorporeal"
+            ],
+            "equipment": [
+                "clothing",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Wamp",
+        "key": "WampPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90111)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Wamp.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Wamp.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Wamp.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Wamp.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "wamp"
+            ]
+        }
+    },
+    {
+        "label": "Weiralai",
+        "key": "WeiralaiPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90110)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Weiralai.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Weiralai.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Weiralai.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Weiralai.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "denizen of leng"
+            ],
+            "family": [
+                "leng"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Weiralai",
+        "key": "Weiralai2PF1eSA",
+        "source": "PF1e Strange Aeons (PZO90113)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Weiralai2.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Weiralai2.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Weiralai2.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Weiralai2.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "denizen of leng"
+            ],
+            "special": [
+                "unique"
+            ],
+            "family": [
+                "hastur",
+                "leng"
+            ],
+            "equipment": [
+                "heavy",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Weiralai",
+        "key": "Weiralai3PF1eSA",
+        "source": "PF1e Strange Aeons (PZO90113)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Weiralai3.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Weiralai3.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Weiralai3.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Weiralai3.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "denizen of leng"
+            ],
+            "family": [
+                "hastur",
+                "leng"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "heavy",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Wilkins",
+        "key": "WilkinsPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90111)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Wilkins.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Wilkins.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Wilkins.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Wilkins.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghoul"
+            ],
+            "family": [
+                "leng"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "clothing",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Winter Klazcka",
+        "key": "WinterKlazckaPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90109)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/WinterKlazcka.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/WinterKlazcka.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/WinterKlazcka.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/WinterKlazcka.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "changeling"
+            ],
+            "equipment": [
+                "clothing",
+                "knife",
+                "light"
+            ],
+            "special": [
+                "unique"
+            ],
+            "family": [
+                "pharasma"
+            ]
+        }
+    },
+    {
+        "label": "Winter Klazcka",
+        "key": "WinterKlazckaBustPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90109)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/WinterKlazckaBust.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/WinterKlazckaBust.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/WinterKlazckaBust.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/WinterKlazckaBust.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "changeling"
+            ],
+            "equipment": [
+                "clothing",
+                "light"
+            ],
+            "family": [
+                "pharasma"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Wren Elbourne",
+        "key": "WrenElbournePF1eSA",
+        "source": "PF1e Strange Aeons (PZO90109)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/WrenElbourne.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/WrenElbourne.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/WrenElbourne.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/WrenElbourne.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Xhamen-Dor Priest",
+        "key": "XhamenDorPriestPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90113)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/XhamenDorPriest.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/XhamenDorPriest.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/XhamenDorPriest.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/XhamenDorPriest.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "polearm"
+            ],
+            "family": [
+                "xhamen-dor"
+            ]
+        }
+    },
+    {
+        "label": "Xhamen-Dor",
+        "key": "XhamenDorPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90109)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/XhamenDor.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/XhamenDor.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/XhamenDor.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/XhamenDor.webp"
+        },
+        "tags": {
+            "category": [
+                "fungal"
+            ],
+            "ancestry": [
+                "xhamen-dor"
+            ],
+            "family": [
+                "great old one"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Xhamen-Dor",
+        "key": "XhamenDor2PF1eSA",
+        "source": "PF1e Strange Aeons (PZO90113)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/XhamenDor2.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/XhamenDor2.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/XhamenDor2.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/XhamenDor2.webp"
+        },
+        "tags": {
+            "category": [
+                "fungal"
+            ],
+            "ancestry": [
+                "xhamen-dor"
+            ],
+            "family": [
+                "great old one"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Yithian",
+        "key": "YithianPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90112)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/Yithian.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/Yithian.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Yithian.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/Yithian.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "yithian"
+            ],
+            "equipment": [
+                "tome"
+            ]
+        }
+    },
+    {
+        "label": "Yog-Sothoth",
+        "key": "YogSothothPF1eSA",
+        "source": "PF1e Strange Aeons (PZO90114)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-strange-aeons/YogSothoth.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-strange-aeons/YogSothoth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/YogSothoth.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-strange-aeons/YogSothoth.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "yog-sothoth"
+            ],
+            "special": [
+                "deity",
+                "demigod",
+                "unique"
+            ],
+            "family": [
+                "outer god"
+            ]
+        }
+    }
+]
