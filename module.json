@@ -8,14 +8,14 @@
       "flags": {}
     }
   ],
-  "version": "3.3.0",
+  "version": "3.4.0",
   "compatibility": {
     "minimum": "10.291",
     "verified": "12"
   },
   "url": "https://github.com/Zullock/pf2e-token-art",
   "manifest": "https://raw.githubusercontent.com/Zullock/pf2e-token-art/main/module.json",
-  "download": "https://github.com/Zullock/pf2e-token-art/archive/refs/tags/v3.3.0.zip",
+  "download": "https://github.com/Zullock/pf2e-token-art/archive/refs/tags/v3.4.0.zip",
   "changelog": "https://github.com/Zullock/pf2e-token-art/blob/main/CHANGELOG.md",
   "flags": {
    "galleryDatasheets": {
@@ -46,6 +46,10 @@
         "pf1e-adventure-path-iron-gods-datasheet": {
             "label": "PF1e AP Iron Gods",
             "sheet": "modules/pf2e-token-art/data/PF1e/adventure-path/adventure-path-iron-gods-datasheet.json"
+        },
+        "pf1e-adventure-path-jade-regent-datasheet": {
+            "label": "PF1e AP Jade Regent",
+            "sheet": "modules/pf2e-token-art/data/PF1e/adventure-path/adventure-path-jade-regent-datasheet.json"
         },
         "pf1e-adventure-path-kingmaker-datasheet": {
             "label": "PF1e AP Kingmaker",

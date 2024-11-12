@@ -1,6 +1,10 @@
+# 3.4.0
+
+-	Añadido portraits y gallery de Jade Regent.
+
 # 3.3.0
 
--	Añadido Strange Aeons.
+-	Añadido portraits, gallery y subjects de Strange Aeons.
 
 # 3.2.0
 

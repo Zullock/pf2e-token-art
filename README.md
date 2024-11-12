@@ -57,7 +57,7 @@
 	- &#x2612; PZO9031-36 - Kingmaker
 	- &#x2610; PZO9037-42 - Serpent's Skull
 	- [X] PZO9043-48 - Carrion Crown
-	- &#x2610; PZO9049-54 - Jade Regent
+	- &#x2612; PZO9049-54 - Jade Regent
 	- &#x2610; PZO9055-60 - Skull & Shackles
 	- &#x2610; PZO9061-66 - Shattered Star
 	- &#x2610; PZO9067-72 - Reign of Winter
