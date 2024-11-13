@@ -2932,9 +2932,6 @@
             "category": [
                 "undead"
             ],
-            "ancestry": [
-                "commoner ghost"
-            ],
             "family": [
                 "incorporeal"
             ],
@@ -2944,6 +2941,9 @@
             ],
             "equipment": [
                 "clothing"
+            ],
+            "ancestry": [
+                "ghost commoner"
             ]
         }
     },
