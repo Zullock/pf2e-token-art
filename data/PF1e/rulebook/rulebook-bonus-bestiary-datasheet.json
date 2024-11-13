@@ -2,7 +2,7 @@
     {
         "label": "Allip",
         "key": "AllipPF1eBonusB",
-        "source": "PF1e Bonus Bestiary",
+        "source": "PF1e Bonus Bestiary (PZO9500-3)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bonus-bestiary/Allip.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bonus-bestiary/Allip.webp",
@@ -21,7 +21,7 @@
     {
         "label": "Faerie Dragon",
         "key": "FaerieDragonPF1eBonusB",
-        "source": "PF1e Bonus Bestiary",
+        "source": "PF1e Bonus Bestiary (PZO9500-3)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bonus-bestiary/FaerieDragon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bonus-bestiary/FaerieDragon.webp",

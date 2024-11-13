@@ -2,7 +2,7 @@
     {
         "label": "Adowyn, the Hunter",
         "key": "AdowynPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/Adowyn.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/Adowyn.webp",
@@ -36,7 +36,7 @@
     {
         "label": "Alain Sleepy",
         "key": "AlainSleepyPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/AlainSleepy.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/AlainSleepy.webp",
@@ -67,7 +67,7 @@
     {
         "label": "Amiri Fighiting Pose",
         "key": "AmiriPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/Amiri.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/Amiri.webp",
@@ -99,7 +99,7 @@
     {
         "label": "Antipaladin Kicking",
         "key": "AntipaladinKickingPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/AntipaladinKicking.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/AntipaladinKicking.webp",
@@ -126,7 +126,7 @@
     {
         "label": "Arcanist Blade Adept",
         "key": "ArcanistBladeAdeptPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/ArcanistBladeAdept.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/ArcanistBladeAdept.webp",
@@ -154,7 +154,7 @@
     {
         "label": "Arcanist Unlettered",
         "key": "ArcanistUnletteredPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/ArcanistUnlettered.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/ArcanistUnlettered.webp",
@@ -182,7 +182,7 @@
     {
         "label": "Bard Flame Dancer",
         "key": "BardFlameDancerPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/BardFlameDancer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/BardFlameDancer.webp",
@@ -210,7 +210,7 @@
     {
         "label": "Bloodrager",
         "key": "BloodragerPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/Bloodrager.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/Bloodrager.webp",
@@ -235,7 +235,7 @@
     {
         "label": "Bloodrager Rageshaper",
         "key": "BloodragerRageshaperPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/BloodragerRageshaper.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/BloodragerRageshaper.webp",
@@ -262,7 +262,7 @@
     {
         "label": "Brawler Shield Champion",
         "key": "BrawlerShieldChampionPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/BrawlerShieldChampion.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/BrawlerShieldChampion.webp",
@@ -285,7 +285,7 @@
     {
         "label": "Brawler Wild Child",
         "key": "BrawlerWildChildPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/BrawlerWildChild.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/BrawlerWildChild.webp",
@@ -313,7 +313,7 @@
     {
         "label": "Cleric Ecclesitheurge",
         "key": "ClericEcclesitheurgePF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/ClericEcclesitheurge.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/ClericEcclesitheurge.webp",
@@ -337,7 +337,7 @@
     {
         "label": "Crowe Checking Weapons",
         "key": "CroweCheckingPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/CroweChecking.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/CroweChecking.webp",
@@ -371,7 +371,7 @@
     {
         "label": "Crowe, the Bloodrager",
         "key": "CrowePF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/Crowe.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/Crowe.webp",
@@ -407,7 +407,7 @@
     {
         "label": "Enora, the Arcanist",
         "key": "EnoraPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/Enora.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/Enora.webp",
@@ -438,7 +438,7 @@
     {
         "label": "Feiya Casting",
         "key": "FeiyaCastingPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/FeiyaCasting.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/FeiyaCasting.webp",
@@ -472,7 +472,7 @@
     {
         "label": "Fighter Mutation Warrior",
         "key": "FighterMutationWarriorPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/FighterMutationWarrior.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/FighterMutationWarrior.webp",
@@ -500,7 +500,7 @@
     {
         "label": "Fighter Stretching",
         "key": "FighterStretchingPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/FighterStretching.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/FighterStretching.webp",
@@ -523,7 +523,7 @@
     {
         "label": "Hakon, the Skald",
         "key": "HakonPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/Hakon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/Hakon.webp",
@@ -558,7 +558,7 @@
     {
         "label": "Human Herbalist",
         "key": "HumanHerbalistPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/HumanHerbalist.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/HumanHerbalist.webp",
@@ -585,7 +585,7 @@
     {
         "label": "Hunter Feral",
         "key": "HunterFeralPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/HunterFeral.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/HunterFeral.webp",
@@ -612,7 +612,7 @@
     {
         "label": "Hunter Primal Companion",
         "key": "HunterPrimalCompanionPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/HunterPrimalCompanion.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/HunterPrimalCompanion.webp",
@@ -638,7 +638,7 @@
     {
         "label": "Imrijka Casting",
         "key": "ImrijkaCastingPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/ImrijkaCasting.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/ImrijkaCasting.webp",
@@ -672,7 +672,7 @@
     {
         "label": "Investigator Spiritualist",
         "key": "InvestigatorSpiritualistPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/InvestigatorSpiritualist.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/InvestigatorSpiritualist.webp",
@@ -699,7 +699,7 @@
     {
         "label": "Jirelle, the Swashbuckler",
         "key": "JirellePF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/Jirelle.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/Jirelle.webp",
@@ -731,7 +731,7 @@
     {
         "label": "Kess, the Brawler",
         "key": "KessPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/Kess.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/Kess.webp",
@@ -761,7 +761,7 @@
     {
         "label": "Lem Whip",
         "key": "LemWhipPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/LemWhip.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/LemWhip.webp",
@@ -794,7 +794,7 @@
     {
         "label": "Lini Casting",
         "key": "LiniCastingPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/LiniCasting.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/LiniCasting.webp",
@@ -826,7 +826,7 @@
     {
         "label": "Oloch, the Warpriest",
         "key": "OlochPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/Oloch.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/Oloch.webp",
@@ -858,7 +858,7 @@
     {
         "label": "Paladin Temple Champion",
         "key": "PaladinTempleChampionPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/PaladinTempleChampion.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/PaladinTempleChampion.webp",
@@ -883,7 +883,7 @@
     {
         "label": "Quinn Casting",
         "key": "QuinnCastingPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/QuinnCasting.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/QuinnCasting.webp",
@@ -917,7 +917,7 @@
     {
         "label": "Quinn Shooting",
         "key": "QuinnShootingPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/QuinnShooting.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/QuinnShooting.webp",
@@ -948,7 +948,7 @@
     {
         "label": "Quinn, the Investigator",
         "key": "QuinnPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/Quinn.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/Quinn.webp",
@@ -984,7 +984,7 @@
     {
         "label": "Rogue Counterfeit Mage",
         "key": "RogueCounterfeitMagePF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/RogueCounterfeitMage.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/RogueCounterfeitMage.webp",
@@ -1013,7 +1013,7 @@
     {
         "label": "Sajan Nature",
         "key": "SajanNaturePF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/SajanNature.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/SajanNature.webp",
@@ -1046,7 +1046,7 @@
     {
         "label": "Seltyiel",
         "key": "SeltyielPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/Seltyiel.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/Seltyiel.webp",
@@ -1078,7 +1078,7 @@
     {
         "label": "Shaman Speaker For The Past",
         "key": "ShamanSpeakerForThePastPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/ShamanSpeakerForThePast.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/ShamanSpeakerForThePast.webp",
@@ -1105,7 +1105,7 @@
     {
         "label": "Shaman Witch Doctor",
         "key": "ShamanWitchDoctorPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/ShamanWitchDoctor.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/ShamanWitchDoctor.webp",
@@ -1130,7 +1130,7 @@
     {
         "label": "Shardra, the Shaman",
         "key": "ShardraPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/Shardra.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/Shardra.webp",
@@ -1166,7 +1166,7 @@
     {
         "label": "Skald Fated Champion",
         "key": "SkaldFatedChampionPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/SkaldFatedChampion.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/SkaldFatedChampion.webp",
@@ -1191,7 +1191,7 @@
     {
         "label": "Skald Herald Of The Horn",
         "key": "SkaldHeraldOfTheHornPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/SkaldHeraldOfTheHorn.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/SkaldHeraldOfTheHorn.webp",
@@ -1218,7 +1218,7 @@
     {
         "label": "Slayer Stygian",
         "key": "SlayerStygianPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/SlayerStygian.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/SlayerStygian.webp",
@@ -1242,7 +1242,7 @@
     {
         "label": "Slayerer Deliverer",
         "key": "SlayererDelivererPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/SlayererDeliverer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/SlayererDeliverer.webp",
@@ -1266,7 +1266,7 @@
     {
         "label": "Swashbuckler Mouser",
         "key": "SwashbucklerMouserPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/SwashbucklerMouser.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/SwashbucklerMouser.webp",
@@ -1290,7 +1290,7 @@
     {
         "label": "Swashbuckler Musketeer",
         "key": "SwashbucklerMusketeerPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/SwashbucklerMusketeer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/SwashbucklerMusketeer.webp",
@@ -1316,7 +1316,7 @@
     {
         "label": "Warpriest Divine Commander",
         "key": "WarpriestDivineCommanderPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/WarpriestDivineCommander.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/WarpriestDivineCommander.webp",
@@ -1344,7 +1344,7 @@
     {
         "label": "Warpriest Forgepriest",
         "key": "WarpriestForgepriestPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/WarpriestForgepriest.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/WarpriestForgepriest.webp",
@@ -1367,7 +1367,7 @@
     {
         "label": "Witch Hex Channeler",
         "key": "WitchHexChannelerPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/WitchHexChanneler.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/WitchHexChanneler.webp",
@@ -1393,7 +1393,7 @@
     {
         "label": "Zadim, the Slayer",
         "key": "ZadimPF1eACG",
-        "source": "PF1e Advanced Class Guide",
+        "source": "PF1e Advanced Class Guide (PZO1129)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-class-guide/Zadim.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-class-guide/Zadim.webp",

@@ -2,7 +2,7 @@
     {
         "label": "Dwarf Steampunk",
         "key": "DwarfSteampunkPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/DwarfSteampunk.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/DwarfSteampunk.webp",
@@ -25,7 +25,7 @@
     {
         "label": "Ezren Orb",
         "key": "EzrenOrbPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/EzrenOrb.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/EzrenOrb.webp",
@@ -57,7 +57,7 @@
     {
         "label": "Goblin Dragon Costume",
         "key": "GoblinDragonCostumePF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/GoblinDragonCostume.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/GoblinDragonCostume.webp",
@@ -79,7 +79,7 @@
     {
         "label": "Goblin Killing Dog",
         "key": "GoblinKillingDogPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/GoblinKillingDog.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/GoblinKillingDog.webp",
@@ -102,7 +102,7 @@
     {
         "label": "Goblin Loot",
         "key": "GoblinLootPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/GoblinLoot.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/GoblinLoot.webp",
@@ -124,7 +124,7 @@
     {
         "label": "Goblin Soldier",
         "key": "GoblinSoldierPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/GoblinSoldier.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/GoblinSoldier.webp",
@@ -146,7 +146,7 @@
     {
         "label": "GoblinDice",
         "key": "GoblinDicePF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/GoblinDice.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/GoblinDice.webp",
@@ -168,7 +168,7 @@
     {
         "label": "Hellknight",
         "key": "HellknightPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/Hellknight.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/Hellknight.webp",
@@ -195,7 +195,7 @@
     {
         "label": "Human Bandit",
         "key": "HumanBanditPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanBandit.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanBandit.webp",
@@ -220,7 +220,7 @@
     {
         "label": "Human Beggar",
         "key": "HumanBeggarPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanBeggar.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanBeggar.webp",
@@ -242,7 +242,7 @@
     {
         "label": "Human City Guard",
         "key": "HumanCityGuardPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanCityGuard.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanCityGuard.webp",
@@ -266,7 +266,7 @@
     {
         "label": "Human Cultist",
         "key": "HumanCultistPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanCultist.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanCultist.webp",
@@ -288,7 +288,7 @@
     {
         "label": "Human Farmer",
         "key": "HumanFarmerPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanFarmer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanFarmer.webp",
@@ -311,7 +311,7 @@
     {
         "label": "Human Foot Soldier",
         "key": "HumanFootSoldierPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanFootSoldier.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanFootSoldier.webp",
@@ -336,7 +336,7 @@
     {
         "label": "Human Fortune Teller",
         "key": "HumanFortuneTellerPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanFortuneTeller.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanFortuneTeller.webp",
@@ -363,7 +363,7 @@
     {
         "label": "Human Futuristic",
         "key": "HumanFuturisticPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanFuturistic.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanFuturistic.webp",
@@ -387,7 +387,7 @@
     {
         "label": "Human Gladiator",
         "key": "HumanGladiatorPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanGladiator.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanGladiator.webp",
@@ -411,7 +411,7 @@
     {
         "label": "Human Greek Noble",
         "key": "HumanGreekNoblePF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanGreekNoble.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanGreekNoble.webp",
@@ -434,7 +434,7 @@
     {
         "label": "Human Holy Warrior",
         "key": "HumanHolyWarriorPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanHolyWarrior.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanHolyWarrior.webp",
@@ -460,7 +460,7 @@
     {
         "label": "Human Host",
         "key": "HumanHostPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanHost.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanHost.webp",
@@ -482,7 +482,7 @@
     {
         "label": "Human Kellid",
         "key": "HumanKellidPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanKellid.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanKellid.webp",
@@ -507,7 +507,7 @@
     {
         "label": "Human Merchant",
         "key": "HumanMerchantPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanMerchant.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanMerchant.webp",
@@ -532,7 +532,7 @@
     {
         "label": "Human Minstrel",
         "key": "HumanMinstrelPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanMinstrel.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanMinstrel.webp",
@@ -557,7 +557,7 @@
     {
         "label": "Human Monk",
         "key": "HumanMonkPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanMonk.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanMonk.webp",
@@ -581,7 +581,7 @@
     {
         "label": "Human Monster Hunter",
         "key": "HumanMonsterHunterPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanMonsterHunter.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanMonsterHunter.webp",
@@ -604,7 +604,7 @@
     {
         "label": "Human Opera Singer",
         "key": "HumanOperaSingerPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanOperaSinger.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanOperaSinger.webp",
@@ -629,7 +629,7 @@
     {
         "label": "Human Pirate Captain",
         "key": "HumanPirateCaptainPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanPirateCaptain.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanPirateCaptain.webp",
@@ -653,7 +653,7 @@
     {
         "label": "Human Priest",
         "key": "HumanCultistPriestPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanCultistPriest.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanCultistPriest.webp",
@@ -679,7 +679,7 @@
     {
         "label": "Human Prince",
         "key": "HumanPrincePF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanPrince.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanPrince.webp",
@@ -701,7 +701,7 @@
     {
         "label": "Human Sage",
         "key": "HumanSagePF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanSage.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanSage.webp",
@@ -724,7 +724,7 @@
     {
         "label": "Human Sellsword",
         "key": "HumanSellswordPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanSellsword.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanSellsword.webp",
@@ -748,7 +748,7 @@
     {
         "label": "Human Shaman",
         "key": "HumanShamanPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanShaman.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanShaman.webp",
@@ -771,7 +771,7 @@
     {
         "label": "Human Slayer",
         "key": "HumanSlayerPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanSlayer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanSlayer.webp",
@@ -794,7 +794,7 @@
     {
         "label": "Human Soldier",
         "key": "HumanSoldierPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanSoldier.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanSoldier.webp",
@@ -817,7 +817,7 @@
     {
         "label": "Human Street Alchemist",
         "key": "HumanStreetAlchemistPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanStreetAlchemist.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanStreetAlchemist.webp",
@@ -843,7 +843,7 @@
     {
         "label": "Human Street Thug",
         "key": "HumanStreetThugPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanStreetThug.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanStreetThug.webp",
@@ -868,7 +868,7 @@
     {
         "label": "Human Tavern Girl",
         "key": "HumanTavernGirlPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanTavernGirl.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanTavernGirl.webp",
@@ -890,7 +890,7 @@
     {
         "label": "Human Torturer",
         "key": "HumanTorturerPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanTorturer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanTorturer.webp",
@@ -914,7 +914,7 @@
     {
         "label": "Human Trapper",
         "key": "HumanTrapperPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanTrapper.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanTrapper.webp",
@@ -939,7 +939,7 @@
     {
         "label": "Human Traveling Merchant",
         "key": "HumanTravelingMerchantPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanTravelingMerchant.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanTravelingMerchant.webp",
@@ -966,7 +966,7 @@
     {
         "label": "Human Village Idiot",
         "key": "HumanVillageIdiotPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanVillageIdiot.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanVillageIdiot.webp",
@@ -992,7 +992,7 @@
     {
         "label": "Human Wanderer",
         "key": "HumanWandererPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanWanderer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanWanderer.webp",
@@ -1014,7 +1014,7 @@
     {
         "label": "HumanBarmaid",
         "key": "HumanBarmaidPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanBarmaid.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanBarmaid.webp",
@@ -1036,7 +1036,7 @@
     {
         "label": "HumanGuard",
         "key": "HumanGuardPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanGuard.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanGuard.webp",
@@ -1059,7 +1059,7 @@
     {
         "label": "HumanNoble",
         "key": "HumanNoblePF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanNoble.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanNoble.webp",
@@ -1082,7 +1082,7 @@
     {
         "label": "HumanPirate",
         "key": "HumanPiratePF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/HumanPirate.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/HumanPirate.webp",
@@ -1106,7 +1106,7 @@
     {
         "label": "Kyra Psychosis",
         "key": "KyraPsychosisPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/KyraPsychosis.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/KyraPsychosis.webp",
@@ -1138,7 +1138,7 @@
     {
         "label": "Lamia",
         "key": "LamiaPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/Lamia.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/Lamia.webp",
@@ -1161,7 +1161,7 @@
     {
         "label": "Lem Dead",
         "key": "LemDeadPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/LemDead.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/LemDead.webp",
@@ -1192,7 +1192,7 @@
     {
         "label": "Sarenrae",
         "key": "SarenraePF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/Sarenrae.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/Sarenrae.webp",
@@ -1228,7 +1228,7 @@
     {
         "label": "Vrock",
         "key": "VrockPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/Vrock.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/Vrock.webp",
@@ -1254,7 +1254,7 @@
     {
         "label": "Witchwyrd",
         "key": "WitchwyrdPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/Witchwyrd.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/Witchwyrd.webp",
@@ -1276,7 +1276,7 @@
     {
         "label": "Ymeri",
         "key": "YmeriPF1eGG",
-        "source": "PF1e Gamemastery Guide",
+        "source": "PF1e Gamemastery Guide (PZO1114)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-gamemastery-guide/Ymeri.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-gamemastery-guide/Ymeri.webp",

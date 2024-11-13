@@ -2,7 +2,7 @@
     {
         "label": "Aiuvarin Druid",
         "key": "AiuvarinDruidPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/AiuvarinDruid.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/AiuvarinDruid.webp",
@@ -29,7 +29,7 @@
     {
         "label": "Aiuvarin Shaman",
         "key": "AiuvarinShamanPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/AiuvarinShaman.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/AiuvarinShaman.webp",
@@ -58,7 +58,7 @@
     {
         "label": "Amurrun Fighter",
         "key": "AmurunFighterPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/AmurunFighter.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/AmurunFighter.webp",
@@ -86,7 +86,7 @@
     {
         "label": "Amurrun Monk",
         "key": "AmurunMonkPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/AmurunMonk.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/AmurunMonk.webp",
@@ -110,7 +110,7 @@
     {
         "label": "Azarketi Ranger",
         "key": "AzarketiRangerPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/AzarketiRanger.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/AzarketiRanger.webp",
@@ -138,7 +138,7 @@
     {
         "label": "Centaur Fighter",
         "key": "CentaurFighterPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/CentaurFighter.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/CentaurFighter.webp",
@@ -164,7 +164,7 @@
     {
         "label": "Changeling Witch",
         "key": "ChangelingWitchPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/ChangelingWitch.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/ChangelingWitch.webp",
@@ -189,7 +189,7 @@
     {
         "label": "Dhampir Fighter",
         "key": "DhampirFighterPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/DhampirFighter.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/DhampirFighter.webp",
@@ -214,7 +214,7 @@
     {
         "label": "Drathnelar Ranger",
         "key": "DrathnelarRangerPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/DrathnelarRanger.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/DrathnelarRanger.webp",
@@ -239,7 +239,7 @@
     {
         "label": "Drider Rogue",
         "key": "DriderRoguePF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/DriderRogue.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/DriderRogue.webp",
@@ -264,7 +264,7 @@
     {
         "label": "Dromaar Barbarian",
         "key": "DromaarBarbarianPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/DromaarBarbarian.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/DromaarBarbarian.webp",
@@ -288,7 +288,7 @@
     {
         "label": "Dromaar Summoner",
         "key": "DromaarSummonerPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/DromaarSummoner.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/DromaarSummoner.webp",
@@ -316,7 +316,7 @@
     {
         "label": "Dromaar Warrior",
         "key": "DromaarWarriorPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/DromaarWarrior.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/DromaarWarrior.webp",
@@ -344,7 +344,7 @@
     {
         "label": "Drow Champion",
         "key": "DrowChampionPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/DrowChampion.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/DrowChampion.webp",
@@ -370,7 +370,7 @@
     {
         "label": "Drow Fighter",
         "key": "DrowFighterPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/DrowFighter.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/DrowFighter.webp",
@@ -396,7 +396,7 @@
     {
         "label": "Drow Sorcerer",
         "key": "DrowSorcererPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/DrowSorcerer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/DrowSorcerer.webp",
@@ -422,7 +422,7 @@
     {
         "label": "Dwarf Druid",
         "key": "DwarfDriodPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/DwarfDriod.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/DwarfDriod.webp",
@@ -447,7 +447,7 @@
     {
         "label": "Dwarf Paladin",
         "key": "DwarfPaladinPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/DwarfPaladin.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/DwarfPaladin.webp",
@@ -471,7 +471,7 @@
     {
         "label": "Elf Cleric",
         "key": "ElfClericPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/ElfCleric.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/ElfCleric.webp",
@@ -499,7 +499,7 @@
     {
         "label": "Elf Druid",
         "key": "ElfDruidPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/ElfDruid.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/ElfDruid.webp",
@@ -528,7 +528,7 @@
     {
         "label": "Elf Swashbuckler",
         "key": "ElfSwashbucklerPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/ElfSwashbuckler.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/ElfSwashbuckler.webp",
@@ -553,7 +553,7 @@
     {
         "label": "Fetchling Assassin",
         "key": "FetchlingAssassinPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/FetchlingAssassin.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/FetchlingAssassin.webp",
@@ -578,7 +578,7 @@
     {
         "label": "Fetchling Druid",
         "key": "FetchlingDruidPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/FetchlingDruid.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/FetchlingDruid.webp",
@@ -605,7 +605,7 @@
     {
         "label": "Gargoyle Magus",
         "key": "GargoyleMagusPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/GargoyleMagus.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/GargoyleMagus.webp",
@@ -629,7 +629,7 @@
     {
         "label": "Gathlain Druid",
         "key": "GathlainDruidPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/GathlainDruid.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/GathlainDruid.webp",
@@ -657,7 +657,7 @@
     {
         "label": "Gnome Bard",
         "key": "GnomeBardPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/GnomeBard.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/GnomeBard.webp",
@@ -684,7 +684,7 @@
     {
         "label": "Gnome Gunslinger",
         "key": "GnimeGunslingerPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/GnimeGunslinger.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/GnimeGunslinger.webp",
@@ -711,7 +711,7 @@
     {
         "label": "Gnome Smith",
         "key": "GnomeSmithPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/GnomeSmith.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/GnomeSmith.webp",
@@ -736,7 +736,7 @@
     {
         "label": "Goblin Bomber",
         "key": "GoblinBomberPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/GoblinBomber.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/GoblinBomber.webp",
@@ -763,7 +763,7 @@
     {
         "label": "Goblin Fighter",
         "key": "GoblinFighterPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/GoblinFighter.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/GoblinFighter.webp",
@@ -791,7 +791,7 @@
     {
         "label": "Halfling Fighter",
         "key": "HalflingFighterPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/HalflingFighter.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/HalflingFighter.webp",
@@ -818,7 +818,7 @@
     {
         "label": "Halfling Swashbuckler",
         "key": "HalflingSwashbucklerPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/HalflingSwashbuckler.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/HalflingSwashbuckler.webp",
@@ -846,7 +846,7 @@
     {
         "label": "Halfling Wizard",
         "key": "HalflingWizardPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/HalflingWizard.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/HalflingWizard.webp",
@@ -873,7 +873,7 @@
     {
         "label": "Hobgoblin Fighter",
         "key": "HobgoblinFighterPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/HobgoblinFighter.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/HobgoblinFighter.webp",
@@ -898,7 +898,7 @@
     {
         "label": "Hobgoblin Monk",
         "key": "HobgoblinMonkPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/HobgoblinMonk.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/HobgoblinMonk.webp",
@@ -922,7 +922,7 @@
     {
         "label": "Hobgoblin Pirate",
         "key": "HobgoblinPiratePF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/HobgoblinPirate.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/HobgoblinPirate.webp",
@@ -950,7 +950,7 @@
     {
         "label": "Hryngar Rogue",
         "key": "HryngarRoguePF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/HryngarRogue.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/HryngarRogue.webp",
@@ -976,7 +976,7 @@
     {
         "label": "Human Cleric",
         "key": "HumanClericPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/HumanCleric.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/HumanCleric.webp",
@@ -1003,7 +1003,7 @@
     {
         "label": "Human Druid",
         "key": "HumanDruidPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/HumanDruid.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/HumanDruid.webp",
@@ -1030,7 +1030,7 @@
     {
         "label": "Human Healer",
         "key": "HumanHealerPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/HumanHealer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/HumanHealer.webp",
@@ -1056,7 +1056,7 @@
     {
         "label": "Human Rugged Fighter",
         "key": "HumanRuggedFighterPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/HumanRuggedFighter.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/HumanRuggedFighter.webp",
@@ -1085,7 +1085,7 @@
     {
         "label": "Iruxi Druid",
         "key": "LizardfolkDruidPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/LizardfolkDruid.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/LizardfolkDruid.webp",
@@ -1112,7 +1112,7 @@
     {
         "label": "Kasatha Ranger",
         "key": "KasathaRangerPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/KasathaRanger.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/KasathaRanger.webp",
@@ -1137,7 +1137,7 @@
     {
         "label": "Kholo Rogue",
         "key": "KholoRoguePF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/KholoRogue.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/KholoRogue.webp",
@@ -1162,7 +1162,7 @@
     {
         "label": "Kitsune Rogue",
         "key": "KitsuneRoguePF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/KitsuneRogue.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/KitsuneRogue.webp",
@@ -1186,7 +1186,7 @@
     {
         "label": "Kobold Ranger",
         "key": "KoboldRangerPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/KoboldRanger.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/KoboldRanger.webp",
@@ -1213,7 +1213,7 @@
     {
         "label": "Kobold Witch",
         "key": "KoboldWitchPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/KoboldWitch.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/KoboldWitch.webp",
@@ -1240,7 +1240,7 @@
     {
         "label": "Merfolk Warrior",
         "key": "MerfolkWarriorPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/MerfolkWarrior.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/MerfolkWarrior.webp",
@@ -1264,7 +1264,7 @@
     {
         "label": "Naari Fighter",
         "key": "NaariFighterPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/NaariFighter.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/NaariFighter.webp",
@@ -1291,7 +1291,7 @@
     {
         "label": "Naari Shaman",
         "key": "NaariShamanPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/NaariShaman.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/NaariShaman.webp",
@@ -1318,7 +1318,7 @@
     {
         "label": "Nagaji Rogue",
         "key": "NagajiRoguePF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/NagajiRogue.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/NagajiRogue.webp",
@@ -1340,7 +1340,7 @@
     {
         "label": "Nephilim Cleric",
         "key": "NephilimClericPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/NephilimCleric.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/NephilimCleric.webp",
@@ -1363,7 +1363,7 @@
     {
         "label": "Nephilim Cleric Sarenrae",
         "key": "NephilimClericSarenraePF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/NephilimClericSarenrae.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/NephilimClericSarenrae.webp",
@@ -1387,7 +1387,7 @@
     {
         "label": "Nephilim Ranger",
         "key": "NephilimRangerPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/NephilimRanger.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/NephilimRanger.webp",
@@ -1414,7 +1414,7 @@
     {
         "label": "Nephilim Rogue",
         "key": "NephilimRoguePF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/NephilimRogue.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/NephilimRogue.webp",
@@ -1441,7 +1441,7 @@
     {
         "label": "Nephilim Warrior",
         "key": "NephilimWarriorPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/NephilimWarrior.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/NephilimWarrior.webp",
@@ -1467,7 +1467,7 @@
     {
         "label": "Ogre Champion",
         "key": "OgreChampionPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/OgreChampion.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/OgreChampion.webp",
@@ -1493,7 +1493,7 @@
     {
         "label": "Orc Barbarian",
         "key": "OrcBarbarianPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/OrcBarbarian.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/OrcBarbarian.webp",
@@ -1517,7 +1517,7 @@
     {
         "label": "Orc Champion",
         "key": "OrcChampionPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/OrcChampion.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/OrcChampion.webp",
@@ -1544,7 +1544,7 @@
     {
         "label": "Oread Monk",
         "key": "OreadMonkPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/OreadMonk.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/OreadMonk.webp",
@@ -1567,7 +1567,7 @@
     {
         "label": "Oread Summoner",
         "key": "OreadSummonerPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/OreadSummoner.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/OreadSummoner.webp",
@@ -1595,7 +1595,7 @@
     {
         "label": "Samsaran Sorcerer",
         "key": "SamsaranSorcererPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/SamsaranSorcerer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/SamsaranSorcerer.webp",
@@ -1618,7 +1618,7 @@
     {
         "label": "Strix Ranger",
         "key": "StrixRangerPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/StrixRanger.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/StrixRanger.webp",
@@ -1645,7 +1645,7 @@
     {
         "label": "Suli Shaman",
         "key": "SuliShamanPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/SuliShaman.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/SuliShaman.webp",
@@ -1671,7 +1671,7 @@
     {
         "label": "Sylph Druid",
         "key": "SylphDruidPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/SylphDruid.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/SylphDruid.webp",
@@ -1698,7 +1698,7 @@
     {
         "label": "Sylph Rogue",
         "key": "SylphRoguePF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/SylphRogue.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/SylphRogue.webp",
@@ -1722,7 +1722,7 @@
     {
         "label": "Tengu Alchemist",
         "key": "TenguAlchemistPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/TenguAlchemist.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/TenguAlchemist.webp",
@@ -1748,7 +1748,7 @@
     {
         "label": "Tengu Assassin",
         "key": "TenguAssassinPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/TenguAssassin.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/TenguAssassin.webp",
@@ -1775,7 +1775,7 @@
     {
         "label": "Tengu Jinx Eater",
         "key": "TenguPiratePF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/TenguPirate.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/TenguPirate.webp",
@@ -1801,7 +1801,7 @@
     {
         "label": "Tripkee Ranger",
         "key": "TripkeeRangerPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/TripkeeRanger.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/TripkeeRanger.webp",
@@ -1825,7 +1825,7 @@
     {
         "label": "Tripkee Swashbuckler",
         "key": "TripkeeSwashbucklerPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/TripkeeSwashbuckler.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/TripkeeSwashbuckler.webp",
@@ -1853,7 +1853,7 @@
     {
         "label": "Trox Warrior",
         "key": "TroxWarriorPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/TroxWarrior.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/TroxWarrior.webp",
@@ -1876,7 +1876,7 @@
     {
         "label": "Undine Fighter",
         "key": "UndineFighterPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/UndineFighter.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/UndineFighter.webp",
@@ -1899,7 +1899,7 @@
     {
         "label": "Undine Rogue",
         "key": "UndineRoguePF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/UndineRogue.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/UndineRogue.webp",
@@ -1926,7 +1926,7 @@
     {
         "label": "Vanara Ranger",
         "key": "VanararRangerPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/VanararRanger.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/VanararRanger.webp",
@@ -1951,7 +1951,7 @@
     {
         "label": "Vishkanya Rogue",
         "key": "VishkanyaRoguePF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/VishkanyaRogue.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/VishkanyaRogue.webp",
@@ -1975,7 +1975,7 @@
     {
         "label": "Wayang Wizard",
         "key": "WayangWizardPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/WayangWizard.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/WayangWizard.webp",
@@ -1997,7 +1997,7 @@
     {
         "label": "Wyrdwood Fighter",
         "key": "WyrdwoodFighterPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/WyrdwoodFighter.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/WyrdwoodFighter.webp",
@@ -2021,7 +2021,7 @@
     {
         "label": "Wyvaran Fighter",
         "key": "WyvaranFighterPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/WyvaranFighter.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/WyvaranFighter.webp",
@@ -2048,7 +2048,7 @@
     {
         "label": "Ysoki Ranger",
         "key": "YsokiRangerPF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/YsokiRanger.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/YsokiRanger.webp",
@@ -2073,7 +2073,7 @@
     {
         "label": "Ysoki Rogue",
         "key": "YsokiRoguePF1eARG",
-        "source": "PF1e Advanced Race Guide",
+        "source": "PF1e Advanced Race Guide (PZO1121)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-race-guide/YsokiRogue.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-race-guide/YsokiRogue.webp",

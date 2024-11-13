@@ -2,7 +2,7 @@
     {
         "label": "Adaro",
         "key": "AdaroPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Adaro.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Adaro.webp",
@@ -21,7 +21,7 @@
     {
         "label": "Adherer",
         "key": "AdhererPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Adherer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Adherer.webp",
@@ -40,7 +40,7 @@
     {
         "label": "Adhukait",
         "key": "AdhukaitPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Adhukait.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Adhukait.webp",
@@ -62,7 +62,7 @@
     {
         "label": "Adlet",
         "key": "AdletPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Adlet.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Adlet.webp",
@@ -81,7 +81,7 @@
     {
         "label": "Aesra",
         "key": "LegionArchonPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/LegionArchon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/LegionArchon.webp",
@@ -103,7 +103,7 @@
     {
         "label": "Aghash",
         "key": "AghashPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Aghash.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Aghash.webp",
@@ -125,7 +125,7 @@
     {
         "label": "Aghasura",
         "key": "AghasuraPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Aghasura.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Aghasura.webp",
@@ -147,7 +147,7 @@
     {
         "label": "Ahuizotl",
         "key": "AhuizotlPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Ahuizotl.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Ahuizotl.webp",
@@ -166,7 +166,7 @@
     {
         "label": "Akhlut",
         "key": "AkhlutPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Akhlut.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Akhlut.webp",
@@ -185,7 +185,7 @@
     {
         "label": "Akvan",
         "key": "AkvanPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Akvan.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Akvan.webp",
@@ -207,7 +207,7 @@
     {
         "label": "Allip",
         "key": "AllipPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Allip.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Allip.webp",
@@ -229,7 +229,7 @@
     {
         "label": "Alraune",
         "key": "AlraunePF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Alraune.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Alraune.webp",
@@ -248,7 +248,7 @@
     {
         "label": "Amurrun Ranger",
         "key": "AmurunRangerPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/AmurunRanger.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/AmurunRanger.webp",
@@ -267,7 +267,7 @@
     {
         "label": "Ancient Forest Dragon",
         "key": "AncientForestDragonPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/AncientForestDragon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/AncientForestDragon.webp",
@@ -289,7 +289,7 @@
     {
         "label": "Ancient Sea Dragon",
         "key": "AncientSeaDragonPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/AncientSeaDragon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/AncientSeaDragon.webp",
@@ -311,7 +311,7 @@
     {
         "label": "Ancient Sky Dragon",
         "key": "AncientSkyDragonPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/AncientSkyDragon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/AncientSkyDragon.webp",
@@ -333,7 +333,7 @@
     {
         "label": "Ancient Sovereign Dragon",
         "key": "AncientSovereignDragonPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/AncientSovereignDragon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/AncientSovereignDragon.webp",
@@ -355,7 +355,7 @@
     {
         "label": "Ancient Underworld Dragon",
         "key": "AncientUnderworldDragonPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/AncientUnderworldDragon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/AncientUnderworldDragon.webp",
@@ -377,7 +377,7 @@
     {
         "label": "Androsphinx",
         "key": "AndrosphinxPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Androsphinx.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Androsphinx.webp",
@@ -399,7 +399,7 @@
     {
         "label": "Annis Hag",
         "key": "AnnisHagPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/AnnisHag.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/AnnisHag.webp",
@@ -421,7 +421,7 @@
     {
         "label": "Archelon",
         "key": "ArchelonPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Archelon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Archelon.webp",
@@ -444,7 +444,7 @@
     {
         "label": "Ascomoid",
         "key": "AscomoidPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Ascomoid.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Ascomoid.webp",
@@ -463,7 +463,7 @@
     {
         "label": "Ash Giant",
         "key": "AshGiantPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/AshGiant.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/AshGiant.webp",
@@ -485,7 +485,7 @@
     {
         "label": "Asurendra",
         "key": "AsurendraPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Asurendra.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Asurendra.webp",
@@ -507,7 +507,7 @@
     {
         "label": "Atomie",
         "key": "AtomiePF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Atomie.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Atomie.webp",
@@ -526,7 +526,7 @@
     {
         "label": "Augur",
         "key": "AugurPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Augur.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Augur.webp",
@@ -548,7 +548,7 @@
     {
         "label": "Axe Beak",
         "key": "AxeBeakPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/AxeBeak.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/AxeBeak.webp",
@@ -567,7 +567,7 @@
     {
         "label": "Azruverda",
         "key": "AzruverdaPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Azruverda.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Azruverda.webp",
@@ -589,7 +589,7 @@
     {
         "label": "Baku",
         "key": "BakuPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Baku.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Baku.webp",
@@ -608,7 +608,7 @@
     {
         "label": "Bandersnatch",
         "key": "BandersnatchPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Bandersnatch.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Bandersnatch.webp",
@@ -630,7 +630,7 @@
     {
         "label": "Baregara",
         "key": "BaregaraPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Baregara.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Baregara.webp",
@@ -649,7 +649,7 @@
     {
         "label": "Baykok",
         "key": "BaykokPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Baykok.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Baykok.webp",
@@ -668,7 +668,7 @@
     {
         "label": "Berbalang",
         "key": "BerbalangPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Berbalang.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Berbalang.webp",
@@ -687,7 +687,7 @@
     {
         "label": "Bhuta",
         "key": "BhutaPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Bhuta.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Bhuta.webp",
@@ -706,7 +706,7 @@
     {
         "label": "Bogeyman",
         "key": "BogeymanPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Bogeyman.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Bogeyman.webp",
@@ -725,7 +725,7 @@
     {
         "label": "Bone Golem",
         "key": "BoneGolemPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/BoneGolem.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/BoneGolem.webp",
@@ -747,7 +747,7 @@
     {
         "label": "Brain Ooze",
         "key": "BrainOozePF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/BrainOoze.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/BrainOoze.webp",
@@ -766,7 +766,7 @@
     {
         "label": "Brass Golem",
         "key": "BrassGolemPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/BrassGolem.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/BrassGolem.webp",
@@ -788,7 +788,7 @@
     {
         "label": "Cairn Linnorm",
         "key": "CairnLinnormPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/CairnLinnorm.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/CairnLinnorm.webp",
@@ -810,7 +810,7 @@
     {
         "label": "Cannon Golem",
         "key": "CannonGolemPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/CannonGolem.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/CannonGolem.webp",
@@ -832,7 +832,7 @@
     {
         "label": "Carbuncle",
         "key": "CarbunclePF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Carbuncle.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Carbuncle.webp",
@@ -851,7 +851,7 @@
     {
         "label": "Carnivorous Crystal",
         "key": "CarnivorousCrystalPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/CarnivorousCrystal.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/CarnivorousCrystal.webp",
@@ -870,7 +870,7 @@
     {
         "label": "Caryatid Column",
         "key": "CaryatidColumnPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/CaryatidColumn.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/CaryatidColumn.webp",
@@ -889,7 +889,7 @@
     {
         "label": "Cat Lord",
         "key": "CatLordPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/CatLord.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/CatLord.webp",
@@ -911,7 +911,7 @@
     {
         "label": "Caulborn",
         "key": "CaulbornPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Caulborn.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Caulborn.webp",
@@ -930,7 +930,7 @@
     {
         "label": "Cave Giant",
         "key": "CaveGiantPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/CaveGiant.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/CaveGiant.webp",
@@ -952,7 +952,7 @@
     {
         "label": "Cecaelia",
         "key": "CecaeliaPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Cecaelia.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Cecaelia.webp",
@@ -971,7 +971,7 @@
     {
         "label": "Ceratioidi",
         "key": "CeratioidiPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Ceratioidi.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Ceratioidi.webp",
@@ -990,7 +990,7 @@
     {
         "label": "Cerberi",
         "key": "CerberiPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Cerberi.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Cerberi.webp",
@@ -1009,7 +1009,7 @@
     {
         "label": "Cerebric Fungus",
         "key": "CerebricFungusPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/CerebricFungus.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/CerebricFungus.webp",
@@ -1028,7 +1028,7 @@
     {
         "label": "Clockwork Goliath",
         "key": "ClockworkGoliathPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/ClockworkGoliath.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/ClockworkGoliath.webp",
@@ -1050,7 +1050,7 @@
     {
         "label": "Clockwork Leviathan",
         "key": "ClockworkLeviathanPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/ClockworkLeviathan.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/ClockworkLeviathan.webp",
@@ -1072,7 +1072,7 @@
     {
         "label": "Clockwork Servant",
         "key": "ClockworkServantPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/ClockworkServant.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/ClockworkServant.webp",
@@ -1094,7 +1094,7 @@
     {
         "label": "Clockwork Soldier",
         "key": "ClockworkSoldierPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/ClockworkSoldier.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/ClockworkSoldier.webp",
@@ -1116,7 +1116,7 @@
     {
         "label": "Clockwork Spy",
         "key": "ClockworkSpyPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/ClockworkSpy.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/ClockworkSpy.webp",
@@ -1138,7 +1138,7 @@
     {
         "label": "Cold Rider",
         "key": "ColdRiderPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/ColdRider.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/ColdRider.webp",
@@ -1157,7 +1157,7 @@
     {
         "label": "Coloxus",
         "key": "ColoxusPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Coloxus.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Coloxus.webp",
@@ -1179,7 +1179,7 @@
     {
         "label": "Criosphinx",
         "key": "CriosphinxPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Criosphinx.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Criosphinx.webp",
@@ -1201,7 +1201,7 @@
     {
         "label": "Crucidaemon",
         "key": "CrucidaemonPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Crucidaemon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Crucidaemon.webp",
@@ -1223,7 +1223,7 @@
     {
         "label": "Dandasuka",
         "key": "DandasukaPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Dandasuka.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Dandasuka.webp",
@@ -1245,7 +1245,7 @@
     {
         "label": "Deaths Head Jellyfish",
         "key": "DeathsHeadJellyfishPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/DeathsHeadJellyfish.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/DeathsHeadJellyfish.webp",
@@ -1267,7 +1267,7 @@
     {
         "label": "Deathtrap Ooze",
         "key": "DeathtrapOozePF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/DeathtrapOoze.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/DeathtrapOoze.webp",
@@ -1286,7 +1286,7 @@
     {
         "label": "Deathweb",
         "key": "DeathwebPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Deathweb.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Deathweb.webp",
@@ -1309,7 +1309,7 @@
     {
         "label": "Deep Sea Serpent",
         "key": "DeepSeaSerpentPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/DeepSeaSerpent.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/DeepSeaSerpent.webp",
@@ -1328,7 +1328,7 @@
     {
         "label": "Demilich",
         "key": "DemilichPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Demilich.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Demilich.webp",
@@ -1347,7 +1347,7 @@
     {
         "label": "Derhii",
         "key": "DerhiiPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Derhii.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Derhii.webp",
@@ -1366,7 +1366,7 @@
     {
         "label": "Desert Drake",
         "key": "DesertDrakePF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/DesertDrake.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/DesertDrake.webp",
@@ -1388,7 +1388,7 @@
     {
         "label": "Desert Giant",
         "key": "DesertGiantPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/DesertGiant.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/DesertGiant.webp",
@@ -1410,7 +1410,7 @@
     {
         "label": "Dire Corby",
         "key": "DireCorbyPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/DireCorby.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/DireCorby.webp",
@@ -1429,7 +1429,7 @@
     {
         "label": "Disenchanter",
         "key": "DisenchanterPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Disenchanter.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Disenchanter.webp",
@@ -1448,7 +1448,7 @@
     {
         "label": "Doru",
         "key": "DoruPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Doru.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Doru.webp",
@@ -1470,7 +1470,7 @@
     {
         "label": "Dragonne",
         "key": "DragonnePF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Dragonne.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Dragonne.webp",
@@ -1489,7 +1489,7 @@
     {
         "label": "Dybbuk",
         "key": "DybbukPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Dybbuk.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Dybbuk.webp",
@@ -1511,7 +1511,7 @@
     {
         "label": "Ecorche",
         "key": "EcorchePF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Ecorche.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Ecorche.webp",
@@ -1530,7 +1530,7 @@
     {
         "label": "Elk",
         "key": "ElkPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Elk.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Elk.webp",
@@ -1552,7 +1552,7 @@
     {
         "label": "Eremite",
         "key": "EremitePF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Eremite.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Eremite.webp",
@@ -1574,7 +1574,7 @@
     {
         "label": "Faerie Dragon",
         "key": "FaerieDragonPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/FaerieDragon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/FaerieDragon.webp",
@@ -1594,7 +1594,7 @@
     {
         "label": "Faun",
         "key": "FaunPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Faun.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Faun.webp",
@@ -1613,7 +1613,7 @@
     {
         "label": "Festrog",
         "key": "FestrogPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Festrog.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Festrog.webp",
@@ -1632,7 +1632,7 @@
     {
         "label": "Fey Giant Toad",
         "key": "FeyGiantToadPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/FeyGiantToad.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/FeyGiantToad.webp",
@@ -1655,7 +1655,7 @@
     {
         "label": "Fire Yai",
         "key": "FireYaiPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/FireYai.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/FireYai.webp",
@@ -1677,7 +1677,7 @@
     {
         "label": "Fjord Linnorm",
         "key": "FjordLinnormPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/FjordLinnorm.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/FjordLinnorm.webp",
@@ -1699,7 +1699,7 @@
     {
         "label": "Flail Snail",
         "key": "FlailSnailPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/FlailSnail.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/FlailSnail.webp",
@@ -1722,7 +1722,7 @@
     {
         "label": "Flumph",
         "key": "FlumphPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Flumph.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Flumph.webp",
@@ -1741,7 +1741,7 @@
     {
         "label": "Foo Lion",
         "key": "FooDogPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/FooDog.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/FooDog.webp",
@@ -1763,7 +1763,7 @@
     {
         "label": "Fossil Golem",
         "key": "FossilGolemPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/FossilGolem.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/FossilGolem.webp",
@@ -1785,7 +1785,7 @@
     {
         "label": "Fox",
         "key": "FoxPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Fox.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Fox.webp",
@@ -1810,7 +1810,7 @@
     {
         "label": "Fuath",
         "key": "FuathPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Fuath.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Fuath.webp",
@@ -1832,7 +1832,7 @@
     {
         "label": "Fungus Leshy",
         "key": "FungusLeshyPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/FungusLeshy.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/FungusLeshy.webp",
@@ -1851,7 +1851,7 @@
     {
         "label": "Garden Ooze",
         "key": "GardenOozePF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/GardenOoze.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/GardenOoze.webp",
@@ -1870,7 +1870,7 @@
     {
         "label": "Garuda",
         "key": "GarudaPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Garuda.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Garuda.webp",
@@ -1889,7 +1889,7 @@
     {
         "label": "Ghawwas",
         "key": "GhawwasPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Ghawwas.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Ghawwas.webp",
@@ -1911,7 +1911,7 @@
     {
         "label": "Ghorazagh",
         "key": "GhorazaghPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Ghorazagh.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Ghorazagh.webp",
@@ -1930,7 +1930,7 @@
     {
         "label": "Ghost Scorpion",
         "key": "GhostScorpionPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/GhostScorpion.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/GhostScorpion.webp",
@@ -1953,7 +1953,7 @@
     {
         "label": "Ghul",
         "key": "GhulPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Ghul.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Ghul.webp",
@@ -1975,7 +1975,7 @@
     {
         "label": "Giant Ant Lion",
         "key": "GiantAntLionPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/GiantAntLion.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/GiantAntLion.webp",
@@ -1997,7 +1997,7 @@
     {
         "label": "Giant Chameleon",
         "key": "GiantChameleonPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/GiantChameleon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/GiantChameleon.webp",
@@ -2019,7 +2019,7 @@
     {
         "label": "Giant Owl",
         "key": "GiantOwlPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/GiantOwl.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/GiantOwl.webp",
@@ -2045,7 +2045,7 @@
     {
         "label": "Giant Porcupine",
         "key": "GiantPorcupinePF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/GiantPorcupine.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/GiantPorcupine.webp",
@@ -2067,7 +2067,7 @@
     {
         "label": "Giant Rot Grub",
         "key": "GiantRotGrubPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/GiantRotGrub.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/GiantRotGrub.webp",
@@ -2093,7 +2093,7 @@
     {
         "label": "Giant Sea Anemone",
         "key": "GiantSeaAnemonePF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/GiantSeaAnemone.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/GiantSeaAnemone.webp",
@@ -2115,7 +2115,7 @@
     {
         "label": "Giant Skunk",
         "key": "GiantSkunkPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/GiantSkunk.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/GiantSkunk.webp",
@@ -2137,7 +2137,7 @@
     {
         "label": "Girtablilu",
         "key": "GirtabliluPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Girtablilu.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Girtablilu.webp",
@@ -2156,7 +2156,7 @@
     {
         "label": "Globster",
         "key": "GlobsterPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Globster.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Globster.webp",
@@ -2175,7 +2175,7 @@
     {
         "label": "Goblin Snake",
         "key": "GoblinSnakePF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/GoblinSnake.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/GoblinSnake.webp",
@@ -2197,7 +2197,7 @@
     {
         "label": "Gorynych",
         "key": "GorynychPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Gorynych.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Gorynych.webp",
@@ -2216,7 +2216,7 @@
     {
         "label": "Gourd Leshy",
         "key": "GourdLeshyPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/GourdLeshy.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/GourdLeshy.webp",
@@ -2235,7 +2235,7 @@
     {
         "label": "Graveknight Fighter",
         "key": "GraveknightFighterPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/GraveknightFighter.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/GraveknightFighter.webp",
@@ -2254,7 +2254,7 @@
     {
         "label": "Graven Guardian",
         "key": "GravenGuardianPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/GravenGuardian.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/GravenGuardian.webp",
@@ -2273,7 +2273,7 @@
     {
         "label": "Great Cyclops",
         "key": "GreatCyclopsPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/GreatCyclops.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/GreatCyclops.webp",
@@ -2295,7 +2295,7 @@
     {
         "label": "Grodair",
         "key": "GrodairPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Grodair.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Grodair.webp",
@@ -2315,7 +2315,7 @@
     {
         "label": "Grootslang",
         "key": "GrootslangPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Grootslang.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Grootslang.webp",
@@ -2334,7 +2334,7 @@
     {
         "label": "Guecubu",
         "key": "GuecubuPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Guecubu.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Guecubu.webp",
@@ -2353,7 +2353,7 @@
     {
         "label": "Harbinger Archon",
         "key": "HarbingerArchonPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/HarbingerArchon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/HarbingerArchon.webp",
@@ -2375,7 +2375,7 @@
     {
         "label": "Hekatonkheires",
         "key": "HekatonkheiresPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Hekatonkheires.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Hekatonkheires.webp",
@@ -2397,7 +2397,7 @@
     {
         "label": "Hellwasp Swarm",
         "key": "HellwaspSwarmPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/HellwaspSwarm.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/HellwaspSwarm.webp",
@@ -2422,7 +2422,7 @@
     {
         "label": "Hieracosphinx",
         "key": "HieracosphinxPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Hieracosphinx.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Hieracosphinx.webp",
@@ -2444,7 +2444,7 @@
     {
         "label": "Hodag",
         "key": "HodagPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Hodag.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Hodag.webp",
@@ -2463,7 +2463,7 @@
     {
         "label": "Hollow Serpent",
         "key": "HollowSerpentPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/HollowSerpent.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/HollowSerpent.webp",
@@ -2485,7 +2485,7 @@
     {
         "label": "Huecuva",
         "key": "HuecuvaPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Huecuva.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Huecuva.webp",
@@ -2504,7 +2504,7 @@
     {
         "label": "Humbaba",
         "key": "HumbaraPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Humbara.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Humbara.webp",
@@ -2523,7 +2523,7 @@
     {
         "label": "Hungry Fog",
         "key": "HungryFogPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/HungryFog.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/HungryFog.webp",
@@ -2542,7 +2542,7 @@
     {
         "label": "Ice Yai",
         "key": "IceYaiPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/IceYai.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/IceYai.webp",
@@ -2564,7 +2564,7 @@
     {
         "label": "Iguanodon",
         "key": "IguanodonPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Iguanodon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Iguanodon.webp",
@@ -2586,7 +2586,7 @@
     {
         "label": "Iku-Turso",
         "key": "Iku-TursoPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Iku-Turso.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Iku-Turso.webp",
@@ -2605,7 +2605,7 @@
     {
         "label": "Incubus",
         "key": "IncubusPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Incubus.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Incubus.webp",
@@ -2627,7 +2627,7 @@
     {
         "label": "Interlocutor",
         "key": "InterlocutorPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Interlocutor.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Interlocutor.webp",
@@ -2649,7 +2649,7 @@
     {
         "label": "Jackalwere",
         "key": "JackalwerePF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Jackalwere.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Jackalwere.webp",
@@ -2668,7 +2668,7 @@
     {
         "label": "Jiang-Shi Vampire",
         "key": "Jiang-ShiVampirePF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Jiang-ShiVampire.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Jiang-ShiVampire.webp",
@@ -2690,7 +2690,7 @@
     {
         "label": "Jinushigami",
         "key": "JinushigamiPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Jinushigami.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Jinushigami.webp",
@@ -2709,7 +2709,7 @@
     {
         "label": "Jorogumo",
         "key": "JorogumoPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Jorogumo.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Jorogumo.webp",
@@ -2728,7 +2728,7 @@
     {
         "label": "Jotund Troll",
         "key": "JotundTrollPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/JotundTroll.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/JotundTroll.webp",
@@ -2751,7 +2751,7 @@
     {
         "label": "Jubjub Bird",
         "key": "JubjubBirdPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/JubjubBird.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/JubjubBird.webp",
@@ -2770,7 +2770,7 @@
     {
         "label": "Jungle Giant",
         "key": "JungleGiantPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/JungleGiant.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/JungleGiant.webp",
@@ -2792,7 +2792,7 @@
     {
         "label": "Kamadan",
         "key": "KamadanPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Kamadan.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Kamadan.webp",
@@ -2811,7 +2811,7 @@
     {
         "label": "Kappa",
         "key": "KappaPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Kappa.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Kappa.webp",
@@ -2830,7 +2830,7 @@
     {
         "label": "Kech",
         "key": "KechPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Kech.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Kech.webp",
@@ -2849,7 +2849,7 @@
     {
         "label": "Kirin",
         "key": "KirinPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Kirin.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Kirin.webp",
@@ -2868,7 +2868,7 @@
     {
         "label": "Kodama",
         "key": "KodamaPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Kodama.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Kodama.webp",
@@ -2887,7 +2887,7 @@
     {
         "label": "Kongamato",
         "key": "KongamatoPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Kongamato.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Kongamato.webp",
@@ -2906,7 +2906,7 @@
     {
         "label": "Kuwa",
         "key": "KuwaPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Kuwa.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Kuwa.webp",
@@ -2928,7 +2928,7 @@
     {
         "label": "Lammasu",
         "key": "LammasuPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Lammasu.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Lammasu.webp",
@@ -2947,7 +2947,7 @@
     {
         "label": "Leaf Leshy",
         "key": "LeafLeshyPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/LeafLeshy.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/LeafLeshy.webp",
@@ -2966,7 +2966,7 @@
     {
         "label": "Lukwata",
         "key": "LukwataPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Lukwata.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Lukwata.webp",
@@ -2985,7 +2985,7 @@
     {
         "label": "Lunar Naga",
         "key": "LunarNagaPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/LunarNaga.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/LunarNaga.webp",
@@ -3007,7 +3007,7 @@
     {
         "label": "Maftet",
         "key": "MaftetPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Maftet.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Maftet.webp",
@@ -3026,7 +3026,7 @@
     {
         "label": "Magmin",
         "key": "MagminPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Magmin.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Magmin.webp",
@@ -3045,7 +3045,7 @@
     {
         "label": "Maharaja",
         "key": "MaharajaPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Maharaja.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Maharaja.webp",
@@ -3067,7 +3067,7 @@
     {
         "label": "Manananggal",
         "key": "ManananggalPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Manananggal.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Manananggal.webp",
@@ -3089,7 +3089,7 @@
     {
         "label": "Marai",
         "key": "MaraiPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Marai.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Marai.webp",
@@ -3111,7 +3111,7 @@
     {
         "label": "Megalania",
         "key": "MegalaniaPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Megalania.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Megalania.webp",
@@ -3134,7 +3134,7 @@
     {
         "label": "Mobogo",
         "key": "MobogoPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Mobogo.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Mobogo.webp",
@@ -3156,7 +3156,7 @@
     {
         "label": "Moon-Beast",
         "key": "Moon-BeastPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Moon-Beast.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Moon-Beast.webp",
@@ -3175,7 +3175,7 @@
     {
         "label": "Moss Troll",
         "key": "MossTrollPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/MossTroll.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/MossTroll.webp",
@@ -3198,7 +3198,7 @@
     {
         "label": "Myceloid",
         "key": "MyceloidPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Myceloid.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Myceloid.webp",
@@ -3217,7 +3217,7 @@
     {
         "label": "Nephilim Giant",
         "key": "NephilimGiantPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/NephilimGiant.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/NephilimGiant.webp",
@@ -3239,7 +3239,7 @@
     {
         "label": "Nixie",
         "key": "NixiePF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Nixie.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Nixie.webp",
@@ -3258,7 +3258,7 @@
     {
         "label": "Norn",
         "key": "NornPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Norn.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Norn.webp",
@@ -3277,7 +3277,7 @@
     {
         "label": "Nuckelavee",
         "key": "NuckelaveePF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Nuckelavee.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Nuckelavee.webp",
@@ -3296,7 +3296,7 @@
     {
         "label": "Nue",
         "key": "NuePF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Nue.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Nue.webp",
@@ -3315,7 +3315,7 @@
     {
         "label": "Ogre Spider",
         "key": "OgreSpiderPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/OgreSpider.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/OgreSpider.webp",
@@ -3337,7 +3337,7 @@
     {
         "label": "Pachycephalosaurus",
         "key": "PachycephalosaurusPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Pachycephalosaurus.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Pachycephalosaurus.webp",
@@ -3359,7 +3359,7 @@
     {
         "label": "Pairaka",
         "key": "PairakaPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Pairaka.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Pairaka.webp",
@@ -3381,7 +3381,7 @@
     {
         "label": "Pale Stranger",
         "key": "PaleStrangerPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/PaleStranger.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/PaleStranger.webp",
@@ -3400,7 +3400,7 @@
     {
         "label": "Penanggalan",
         "key": "PenanggalenPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Penanggalen.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Penanggalen.webp",
@@ -3422,7 +3422,7 @@
     {
         "label": "Peri",
         "key": "PeriPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Peri.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Peri.webp",
@@ -3441,7 +3441,7 @@
     {
         "label": "Phantom Fungus",
         "key": "PhantomFungusPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/PhantomFungus.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/PhantomFungus.webp",
@@ -3460,7 +3460,7 @@
     {
         "label": "Phistophilus",
         "key": "PhistophilusPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Phistophilus.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Phistophilus.webp",
@@ -3482,7 +3482,7 @@
     {
         "label": "Plasma Ooze",
         "key": "PlasmaOozePF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/PlasmaOoze.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/PlasmaOoze.webp",
@@ -3501,7 +3501,7 @@
     {
         "label": "Popobawa",
         "key": "PopobalaPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Popobala.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Popobala.webp",
@@ -3520,7 +3520,7 @@
     {
         "label": "Pukwudgie",
         "key": "PukwudgiePF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Pukwudgie.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Pukwudgie.webp",
@@ -3539,7 +3539,7 @@
     {
         "label": "Raktavarna",
         "key": "RaktavarnaPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Raktavarna.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Raktavarna.webp",
@@ -3561,7 +3561,7 @@
     {
         "label": "Rift Drake",
         "key": "RiftDrakePF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/RiftDrake.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/RiftDrake.webp",
@@ -3583,7 +3583,7 @@
     {
         "label": "River Drake",
         "key": "RiverDrakePF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/RiverDrake.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/RiverDrake.webp",
@@ -3605,7 +3605,7 @@
     {
         "label": "Royal Naga",
         "key": "RoyalNagaPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/RoyalNaga.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/RoyalNaga.webp",
@@ -3627,7 +3627,7 @@
     {
         "label": "Rusalka",
         "key": "RusalkaPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Rusalka.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Rusalka.webp",
@@ -3646,7 +3646,7 @@
     {
         "label": "Sabosan",
         "key": "SabosanPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Sabosan.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Sabosan.webp",
@@ -3665,7 +3665,7 @@
     {
         "label": "Sagari",
         "key": "SagariPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Sagari.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Sagari.webp",
@@ -3684,7 +3684,7 @@
     {
         "label": "Sargassum Fiend",
         "key": "SargassumFiendPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/SargassumFiend.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/SargassumFiend.webp",
@@ -3703,7 +3703,7 @@
     {
         "label": "Sasquatch",
         "key": "SasquatchPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Sasquatch.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Sasquatch.webp",
@@ -3722,7 +3722,7 @@
     {
         "label": "Schir",
         "key": "SchirPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Schir.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Schir.webp",
@@ -3744,7 +3744,7 @@
     {
         "label": "Sea Bonze",
         "key": "SeaBonzePF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/SeaBonze.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/SeaBonze.webp",
@@ -3763,7 +3763,7 @@
     {
         "label": "Seaweed Leshy",
         "key": "SeaweedLeshyPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/SeaweedLeshy.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/SeaweedLeshy.webp",
@@ -3782,7 +3782,7 @@
     {
         "label": "Sepid",
         "key": "SepidPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Sepid.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Sepid.webp",
@@ -3804,7 +3804,7 @@
     {
         "label": "Shadow Mastiff",
         "key": "ShadowMastiffPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/ShadowMastiff.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/ShadowMastiff.webp",
@@ -3823,7 +3823,7 @@
     {
         "label": "Shae",
         "key": "ShaePF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Shae.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Shae.webp",
@@ -3842,7 +3842,7 @@
     {
         "label": "Shaggy Demodand",
         "key": "ShaggyDemodandPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/ShaggyDemodand.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/ShaggyDemodand.webp",
@@ -3864,7 +3864,7 @@
     {
         "label": "Shark-Eating Crab",
         "key": "Shark-EatingCrabPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Shark-EatingCrab.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Shark-EatingCrab.webp",
@@ -3886,7 +3886,7 @@
     {
         "label": "Shedu",
         "key": "SheduPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Shedu.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Shedu.webp",
@@ -3905,7 +3905,7 @@
     {
         "label": "Shikigami",
         "key": "ShikigamiPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Shikigami.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Shikigami.webp",
@@ -3924,7 +3924,7 @@
     {
         "label": "Shinigami",
         "key": "ShinigamiPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Shinigami.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Shinigami.webp",
@@ -3943,7 +3943,7 @@
     {
         "label": "Shira",
         "key": "ShiraPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Shira.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Shira.webp",
@@ -3965,7 +3965,7 @@
     {
         "label": "Simurgh",
         "key": "SimurghPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Simurgh.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Simurgh.webp",
@@ -3984,7 +3984,7 @@
     {
         "label": "Siyokoy",
         "key": "SiyokoyPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Siyokoy.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Siyokoy.webp",
@@ -4003,7 +4003,7 @@
     {
         "label": "Sleipnir",
         "key": "SleipnirPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Sleipnir.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Sleipnir.webp",
@@ -4025,7 +4025,7 @@
     {
         "label": "Slimy Demodand",
         "key": "SlimyDemodandPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/SlimyDemodand.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/SlimyDemodand.webp",
@@ -4047,7 +4047,7 @@
     {
         "label": "Snake Swarm",
         "key": "SnakeSwarmPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/SnakeSwarm.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/SnakeSwarm.webp",
@@ -4072,7 +4072,7 @@
     {
         "label": "Spider Eater",
         "key": "SpiderEaterPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/SpiderEater.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/SpiderEater.webp",
@@ -4091,7 +4091,7 @@
     {
         "label": "Spirit Oni",
         "key": "SpiritOniPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/SpiritOni.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/SpiritOni.webp",
@@ -4113,7 +4113,7 @@
     {
         "label": "Sprite",
         "key": "SpritePF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Sprite.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Sprite.webp",
@@ -4132,7 +4132,7 @@
     {
         "label": "Stymphalidies",
         "key": "StymphalidiesPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Stymphalidies.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Stymphalidies.webp",
@@ -4151,7 +4151,7 @@
     {
         "label": "Suli Ranger",
         "key": "SuliRangerPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/SuliRanger.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/SuliRanger.webp",
@@ -4170,7 +4170,7 @@
     {
         "label": "Taiga Linnorm",
         "key": "TaigaLinnormPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/TaigaLinnorm.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/TaigaLinnorm.webp",
@@ -4192,7 +4192,7 @@
     {
         "label": "Tanuki",
         "key": "TanukiPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Tanuki.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Tanuki.webp",
@@ -4211,7 +4211,7 @@
     {
         "label": "Taotieh",
         "key": "TaotiehPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Taotieh.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Taotieh.webp",
@@ -4230,7 +4230,7 @@
     {
         "label": "Tarry Demodand",
         "key": "TarryDemodandPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/TarryDemodand.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/TarryDemodand.webp",
@@ -4252,7 +4252,7 @@
     {
         "label": "Tataka",
         "key": "TatakaPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Tataka.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Tataka.webp",
@@ -4274,7 +4274,7 @@
     {
         "label": "Tatzlwyrm",
         "key": "TatzlwyrmPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Tatzlwyrm.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Tatzlwyrm.webp",
@@ -4293,7 +4293,7 @@
     {
         "label": "Tempest Behemoth",
         "key": "TempestBehemothPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/TempestBehemoth.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/TempestBehemoth.webp",
@@ -4315,7 +4315,7 @@
     {
         "label": "Terra-Cotta Soldier",
         "key": "Terra-CottaSoldierPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Terra-CottaSoldier.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Terra-CottaSoldier.webp",
@@ -4334,7 +4334,7 @@
     {
         "label": "Thalassic Behemoth",
         "key": "ThalassicBehemothPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/ThalassicBehemoth.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/ThalassicBehemoth.webp",
@@ -4356,7 +4356,7 @@
     {
         "label": "Thriae Queen",
         "key": "ThriaeQueenPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/ThriaeQueen.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/ThriaeQueen.webp",
@@ -4378,7 +4378,7 @@
     {
         "label": "Thriae Seer",
         "key": "ThriaeSeerPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/ThriaeSeer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/ThriaeSeer.webp",
@@ -4400,7 +4400,7 @@
     {
         "label": "Thriae Soldier",
         "key": "ThriaeSoldierPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/ThriaeSoldier.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/ThriaeSoldier.webp",
@@ -4422,7 +4422,7 @@
     {
         "label": "Thunder Behemoth",
         "key": "ThunderBehemothPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/ThunderBehemoth.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/ThunderBehemoth.webp",
@@ -4444,7 +4444,7 @@
     {
         "label": "Thylacine",
         "key": "ThylacinePF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Thylacine.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Thylacine.webp",
@@ -4463,7 +4463,7 @@
     {
         "label": "Tojanida",
         "key": "TojanidaPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Tojanida.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Tojanida.webp",
@@ -4486,7 +4486,7 @@
     {
         "label": "Tophet",
         "key": "TophetPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Tophet.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Tophet.webp",
@@ -4505,7 +4505,7 @@
     {
         "label": "Tor Linnorm",
         "key": "TorLinnormPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/TorLinnorm.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/TorLinnorm.webp",
@@ -4527,7 +4527,7 @@
     {
         "label": "Toshigami",
         "key": "ToshigamiPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Toshigami.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Toshigami.webp",
@@ -4546,7 +4546,7 @@
     {
         "label": "Tripurasura",
         "key": "TripurasuraPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Tripurasura.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Tripurasura.webp",
@@ -4568,7 +4568,7 @@
     {
         "label": "Trollhound",
         "key": "TrollhoundPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Trollhound.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Trollhound.webp",
@@ -4590,7 +4590,7 @@
     {
         "label": "Tupilaq",
         "key": "TupilaqPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Tupilaq.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Tupilaq.webp",
@@ -4609,7 +4609,7 @@
     {
         "label": "Tzitzimitl",
         "key": "TzitzimitlPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Tzitzimitl.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Tzitzimitl.webp",
@@ -4628,7 +4628,7 @@
     {
         "label": "Unfettered Eidolon",
         "key": "UnfetteredEidolonPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/UnfetteredEidolon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/UnfetteredEidolon.webp",
@@ -4647,7 +4647,7 @@
     {
         "label": "Upasunda",
         "key": "UpasundaPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Upasunda.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Upasunda.webp",
@@ -4669,7 +4669,7 @@
     {
         "label": "Valkyrie",
         "key": "ValkyriePF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Valkyrie.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Valkyrie.webp",
@@ -4691,7 +4691,7 @@
     {
         "label": "Vanara Monk",
         "key": "VanaraMonkPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/VanaraMonk.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/VanaraMonk.webp",
@@ -4710,7 +4710,7 @@
     {
         "label": "Vishkanya Ninja",
         "key": "VishkanyaNinjaPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/VishkanyaNinja.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/VishkanyaNinja.webp",
@@ -4729,7 +4729,7 @@
     {
         "label": "Vodyanoi",
         "key": "VodyanoiPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Vodyanoi.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Vodyanoi.webp",
@@ -4748,7 +4748,7 @@
     {
         "label": "Void Yai",
         "key": "VoidYaiPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/VoidYai.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/VoidYai.webp",
@@ -4770,7 +4770,7 @@
     {
         "label": "Voonith",
         "key": "VoonithPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Voonith.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Voonith.webp",
@@ -4789,7 +4789,7 @@
     {
         "label": "Vulnudaemon",
         "key": "VulnudaemonPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Vulnudaemon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Vulnudaemon.webp",
@@ -4811,7 +4811,7 @@
     {
         "label": "Vulture",
         "key": "VulturePF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Vulture.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Vulture.webp",
@@ -4830,7 +4830,7 @@
     {
         "label": "Water Naga",
         "key": "WaterNagaPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/WaterNaga.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/WaterNaga.webp",
@@ -4852,7 +4852,7 @@
     {
         "label": "Water Yai",
         "key": "WaterYaiPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/WaterYai.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/WaterYai.webp",
@@ -4874,7 +4874,7 @@
     {
         "label": "Wolf-in-sheep's Clothing",
         "key": "Wolf-in-sheepsClothingPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Wolf-in-sheepsClothing.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Wolf-in-sheepsClothing.webp",
@@ -4893,7 +4893,7 @@
     {
         "label": "Yithian",
         "key": "YithianPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Yithian.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Yithian.webp",
@@ -4912,7 +4912,7 @@
     {
         "label": "Ysoki Merchant",
         "key": "YsokiMerchantPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/YsokiMerchant.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/YsokiMerchant.webp",
@@ -4931,7 +4931,7 @@
     {
         "label": "Yuki-Onna",
         "key": "Yuki-OnnaPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Yuki-Onna.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Yuki-Onna.webp",
@@ -4950,7 +4950,7 @@
     {
         "label": "Zoog",
         "key": "ZoogPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Zoog.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Zoog.webp",
@@ -4972,7 +4972,7 @@
     {
         "label": "Zuishin",
         "key": "ZuishinPF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Zuishin.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Zuishin.webp",
@@ -4991,7 +4991,7 @@
     {
         "label": "Zuvembie",
         "key": "ZuvembiePF1eB3",
-        "source": "PF1e Bestiary 3",
+        "source": "PF1e Bestiary 3 (PZO1120)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-bestiary-3/Zuvembie.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-bestiary-3/Zuvembie.webp",

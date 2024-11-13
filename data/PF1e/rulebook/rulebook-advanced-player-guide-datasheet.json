@@ -2,7 +2,7 @@
     {
         "label": "Alahazra, the Oracle",
         "key": "AlahazraPF1eAPG",
-        "source": "PF1e Advanced Player Guide",
+        "source": "PF1e Advanced Player's Guide (PZO1115)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-player-guide/Alahazra.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-player-guide/Alahazra.webp",
@@ -34,7 +34,7 @@
     {
         "label": "Alain Defending",
         "key": "AlainDefendingPF1eAPG",
-        "source": "PF1e Advanced Player Guide",
+        "source": "PF1e Advanced Player's Guide (PZO1115)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-player-guide/AlainDefending.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-player-guide/AlainDefending.webp",
@@ -69,7 +69,7 @@
     {
         "label": "Alain, the Cavalier",
         "key": "AlainPF1eAPG",
-        "source": "PF1e Advanced Player Guide",
+        "source": "PF1e Advanced Player's Guide (PZO1115)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-player-guide/Alain.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-player-guide/Alain.webp",
@@ -102,7 +102,7 @@
     {
         "label": "Amiri Surprised",
         "key": "AmiriSurprisePF1eAPG",
-        "source": "PF1e Advanced Player Guide",
+        "source": "PF1e Advanced Player's Guide (PZO1115)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-player-guide/AmiriSurprise.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-player-guide/AmiriSurprise.webp",
@@ -136,7 +136,7 @@
     {
         "label": "Antipaladin",
         "key": "AntipaladinPF1eAPG",
-        "source": "PF1e Advanced Player Guide",
+        "source": "PF1e Advanced Player's Guide (PZO1115)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-player-guide/Antipaladin.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-player-guide/Antipaladin.webp",
@@ -160,7 +160,7 @@
     {
         "label": "Balazar, the Summoner",
         "key": "BalazarPF1eAPG",
-        "source": "PF1e Advanced Player Guide",
+        "source": "PF1e Advanced Player's Guide (PZO1115)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-player-guide/Balazar.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-player-guide/Balazar.webp",
@@ -194,7 +194,7 @@
     {
         "label": "Battle Herald",
         "key": "BattleHeraldPF1eAPG",
-        "source": "PF1e Advanced Player Guide",
+        "source": "PF1e Advanced Player's Guide (PZO1115)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-player-guide/BattleHerald.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-player-guide/BattleHerald.webp",
@@ -220,7 +220,7 @@
     {
         "label": "Damiel, the Alchemist",
         "key": "DamielPF1eAPG",
-        "source": "PF1e Advanced Player Guide",
+        "source": "PF1e Advanced Player's Guide (PZO1115)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-player-guide/Damiel.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-player-guide/Damiel.webp",
@@ -254,7 +254,7 @@
     {
         "label": "Ezren Genderbent",
         "key": "EzrenGenderbentPF1eAPG",
-        "source": "PF1e Advanced Player Guide",
+        "source": "PF1e Advanced Player's Guide (PZO1115)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-player-guide/EzrenGenderbent.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-player-guide/EzrenGenderbent.webp",
@@ -284,7 +284,7 @@
     {
         "label": "Feiya, the Witch",
         "key": "FeiyaPF1eAPG",
-        "source": "PF1e Advanced Player Guide",
+        "source": "PF1e Advanced Player's Guide (PZO1115)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-player-guide/Feiya.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-player-guide/Feiya.webp",
@@ -319,7 +319,7 @@
     {
         "label": "Holy Vendicator",
         "key": "HolyVendicatorPF1eAPG",
-        "source": "PF1e Advanced Player Guide",
+        "source": "PF1e Advanced Player's Guide (PZO1115)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-player-guide/HolyVendicator.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-player-guide/HolyVendicator.webp",
@@ -344,7 +344,7 @@
     {
         "label": "Horizon Walker",
         "key": "HorizonWalkerPF1eAPG",
-        "source": "PF1e Advanced Player Guide",
+        "source": "PF1e Advanced Player's Guide (PZO1115)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-player-guide/HorizonWalker.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-player-guide/HorizonWalker.webp",
@@ -369,7 +369,7 @@
     {
         "label": "Imrijka, the Inquisitor",
         "key": "ImrijkaPF1eAPG",
-        "source": "PF1e Advanced Player Guide",
+        "source": "PF1e Advanced Player's Guide (PZO1115)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-player-guide/Imrijka.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-player-guide/Imrijka.webp",
@@ -402,7 +402,7 @@
     {
         "label": "Kyra Snake Dancing",
         "key": "KyraSnakePF1eAPG",
-        "source": "PF1e Advanced Player Guide",
+        "source": "PF1e Advanced Player's Guide (PZO1115)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-player-guide/KyraSnake.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-player-guide/KyraSnake.webp",
@@ -438,7 +438,7 @@
     {
         "label": "Master Chymist",
         "key": "MasterChymistPF1eAPG",
-        "source": "PF1e Advanced Player Guide",
+        "source": "PF1e Advanced Player's Guide (PZO1115)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-player-guide/MasterChymist.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-player-guide/MasterChymist.webp",
@@ -465,7 +465,7 @@
     {
         "label": "Master Spy",
         "key": "MasterSpyPF1eAPG",
-        "source": "PF1e Advanced Player Guide",
+        "source": "PF1e Advanced Player's Guide (PZO1115)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-player-guide/MasterSpy.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-player-guide/MasterSpy.webp",
@@ -490,7 +490,7 @@
     {
         "label": "Nature Warden",
         "key": "NatureWardenPF1eAPG",
-        "source": "PF1e Advanced Player Guide",
+        "source": "PF1e Advanced Player's Guide (PZO1115)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-player-guide/NatureWarden.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-player-guide/NatureWarden.webp",
@@ -518,7 +518,7 @@
     {
         "label": "Rage Prophet",
         "key": "RageProphetPF1eAPG",
-        "source": "PF1e Advanced Player Guide",
+        "source": "PF1e Advanced Player's Guide (PZO1115)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-player-guide/RageProphet.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-player-guide/RageProphet.webp",
@@ -543,7 +543,7 @@
     {
         "label": "Sajan Monster",
         "key": "SajanMonsterPF1eAPG",
-        "source": "PF1e Advanced Player Guide",
+        "source": "PF1e Advanced Player's Guide (PZO1115)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-player-guide/SajanMonster.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-player-guide/SajanMonster.webp",
@@ -574,7 +574,7 @@
     {
         "label": "Stalwart Defender",
         "key": "StalwartDefenderPF1eAPG",
-        "source": "PF1e Advanced Player Guide",
+        "source": "PF1e Advanced Player's Guide (PZO1115)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-advanced-player-guide/StalwartDefender.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-advanced-player-guide/StalwartDefender.webp",

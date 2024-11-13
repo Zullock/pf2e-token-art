@@ -2,7 +2,7 @@
     {
         "label": "Abraxas",
         "key": "AbraxasPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Abraxas.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Abraxas.webp",
@@ -30,7 +30,7 @@
     {
         "label": "Ahriman",
         "key": "AhrimanPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Ahriman.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Ahriman.webp",
@@ -58,7 +58,7 @@
     {
         "label": "Aldinach",
         "key": "AldinachPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Aldinach.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Aldinach.webp",
@@ -86,7 +86,7 @@
     {
         "label": "Alichino",
         "key": "AlichinoPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Alichino.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Alichino.webp",
@@ -114,7 +114,7 @@
     {
         "label": "Andirifkhu",
         "key": "AndirifkhuPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Andirifkhu.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Andirifkhu.webp",
@@ -142,7 +142,7 @@
     {
         "label": "Angazhan",
         "key": "AngazhanPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Angazhan.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Angazhan.webp",
@@ -170,7 +170,7 @@
     {
         "label": "Apollyon",
         "key": "ApollyonPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Apollyon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Apollyon.webp",
@@ -198,7 +198,7 @@
     {
         "label": "Ardad Lili",
         "key": "ArdadLiliPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/ArdadLili.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/ArdadLili.webp",
@@ -226,7 +226,7 @@
     {
         "label": "Areshkagal",
         "key": "AreshkagalPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Areshkagal.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Areshkagal.webp",
@@ -254,7 +254,7 @@
     {
         "label": "Asmodeus",
         "key": "AsmodeusPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Asmodeus.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Asmodeus.webp",
@@ -282,7 +282,7 @@
     {
         "label": "Baalzebul",
         "key": "BaalzebulPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Baalzebul.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Baalzebul.webp",
@@ -310,7 +310,7 @@
     {
         "label": "Baphomet",
         "key": "BaphometPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Baphomet.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Baphomet.webp",
@@ -338,7 +338,7 @@
     {
         "label": "Barbatos",
         "key": "BarbatosPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Barbatos.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Barbatos.webp",
@@ -366,7 +366,7 @@
     {
         "label": "Belial",
         "key": "BelialPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Belial.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Belial.webp",
@@ -394,7 +394,7 @@
     {
         "label": "Bushyasta",
         "key": "BushyastaPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Bushyasta.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Bushyasta.webp",
@@ -416,7 +416,7 @@
     {
         "label": "Charon",
         "key": "CharonPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Charon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Charon.webp",
@@ -444,7 +444,7 @@
     {
         "label": "Cyth-V'Sug",
         "key": "Cyth-VSugPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Cyth-VSug.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Cyth-VSug.webp",
@@ -472,7 +472,7 @@
     {
         "label": "Dagon",
         "key": "DagonPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Dagon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Dagon.webp",
@@ -500,7 +500,7 @@
     {
         "label": "Deinochos",
         "key": "DeinochosPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Deinochos.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Deinochos.webp",
@@ -522,7 +522,7 @@
     {
         "label": "Deskari",
         "key": "DeskariPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Deskari.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Deskari.webp",
@@ -550,7 +550,7 @@
     {
         "label": "Dispater",
         "key": "DispaterPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Dispater.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Dispater.webp",
@@ -578,7 +578,7 @@
     {
         "label": "Doloras",
         "key": "DolorasPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Doloras.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Doloras.webp",
@@ -606,7 +606,7 @@
     {
         "label": "Eiseth",
         "key": "EisethPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Eiseth.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Eiseth.webp",
@@ -634,7 +634,7 @@
     {
         "label": "Elf Diabolist",
         "key": "ElfDiabolistPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/ElfDiabolist.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/ElfDiabolist.webp",
@@ -662,7 +662,7 @@
     {
         "label": "Fiend Worshiper",
         "key": "FiendWorshiperPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/FiendWorshiper.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/FiendWorshiper.webp",
@@ -685,7 +685,7 @@
     {
         "label": "Flauros",
         "key": "FlaurosPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Flauros.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Flauros.webp",
@@ -713,7 +713,7 @@
     {
         "label": "Folca",
         "key": "FolcaPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Folca.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Folca.webp",
@@ -741,7 +741,7 @@
     {
         "label": "Geryon",
         "key": "GeryonPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Geryon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Geryon.webp",
@@ -769,7 +769,7 @@
     {
         "label": "Ghalzarokh",
         "key": "GhalzarokhPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Ghalzarokh.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Ghalzarokh.webp",
@@ -791,7 +791,7 @@
     {
         "label": "Gogunta",
         "key": "GoguntaPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Gogunta.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Gogunta.webp",
@@ -819,7 +819,7 @@
     {
         "label": "Haagenti",
         "key": "HaagentiPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Haagenti.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Haagenti.webp",
@@ -847,7 +847,7 @@
     {
         "label": "Inma",
         "key": "InmaPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Inma.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Inma.webp",
@@ -875,7 +875,7 @@
     {
         "label": "Jezelda",
         "key": "JezeldaPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Jezelda.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Jezelda.webp",
@@ -903,7 +903,7 @@
     {
         "label": "Jubilex",
         "key": "JubilexPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Jubilex.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Jubilex.webp",
@@ -931,7 +931,7 @@
     {
         "label": "Kabriri",
         "key": "KabririPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Kabriri.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Kabriri.webp",
@@ -959,7 +959,7 @@
     {
         "label": "Kostchtchie",
         "key": "KostchtchiePF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Kostchtchie.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Kostchtchie.webp",
@@ -987,7 +987,7 @@
     {
         "label": "Lamashtu",
         "key": "LamashtuPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Lamashtu.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Lamashtu.webp",
@@ -1015,7 +1015,7 @@
     {
         "label": "Mahathallah",
         "key": "MahathallahPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Mahathallah.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Mahathallah.webp",
@@ -1043,7 +1043,7 @@
     {
         "label": "Mammon",
         "key": "MammonPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Mammon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Mammon.webp",
@@ -1071,7 +1071,7 @@
     {
         "label": "Mazmezz",
         "key": "MazmezzPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Mazmezz.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Mazmezz.webp",
@@ -1099,7 +1099,7 @@
     {
         "label": "Mestama",
         "key": "MestamaPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Mestama.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Mestama.webp",
@@ -1127,7 +1127,7 @@
     {
         "label": "Moloch",
         "key": "MolochPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Moloch.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Moloch.webp",
@@ -1155,7 +1155,7 @@
     {
         "label": "Munagola",
         "key": "MunagolaPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Munagola.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Munagola.webp",
@@ -1177,7 +1177,7 @@
     {
         "label": "Najikai",
         "key": "NajikaiPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Najikai.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Najikai.webp",
@@ -1199,7 +1199,7 @@
     {
         "label": "Nikaramsa",
         "key": "NikaramsaPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Nikaramsa.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Nikaramsa.webp",
@@ -1221,7 +1221,7 @@
     {
         "label": "Nocticula",
         "key": "NocticulaPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Nocticula.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Nocticula.webp",
@@ -1249,7 +1249,7 @@
     {
         "label": "Nucol",
         "key": "NucolPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Nucol.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Nucol.webp",
@@ -1271,7 +1271,7 @@
     {
         "label": "Nurgal",
         "key": "NurgalPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Nurgal.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Nurgal.webp",
@@ -1299,7 +1299,7 @@
     {
         "label": "Oitos",
         "key": "OitosPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Oitos.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Oitos.webp",
@@ -1321,7 +1321,7 @@
     {
         "label": "Orcus",
         "key": "OrcusPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Orcus.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Orcus.webp",
@@ -1349,7 +1349,7 @@
     {
         "label": "Orsatka",
         "key": "OrsatkaPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Orsatka.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Orsatka.webp",
@@ -1371,7 +1371,7 @@
     {
         "label": "Pazuzu",
         "key": "PazuzuPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Pazuzu.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Pazuzu.webp",
@@ -1399,7 +1399,7 @@
     {
         "label": "Petitioner",
         "key": "PetitionerPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Petitioner.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Petitioner.webp",
@@ -1418,7 +1418,7 @@
     {
         "label": "Ravana",
         "key": "RavanaPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Ravana.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Ravana.webp",
@@ -1446,7 +1446,7 @@
     {
         "label": "Ruzel",
         "key": "RuzelPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Ruzel.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Ruzel.webp",
@@ -1474,7 +1474,7 @@
     {
         "label": "Sepsidaemon",
         "key": "SepsidaemonPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Sepsidaemon.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Sepsidaemon.webp",
@@ -1496,7 +1496,7 @@
     {
         "label": "Shax",
         "key": "ShaxPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Shax.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Shax.webp",
@@ -1524,7 +1524,7 @@
     {
         "label": "Shivaska",
         "key": "ShivaskaPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Shivaska.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Shivaska.webp",
@@ -1552,7 +1552,7 @@
     {
         "label": "Sifkesh",
         "key": "SifkeshPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Sifkesh.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Sifkesh.webp",
@@ -1580,7 +1580,7 @@
     {
         "label": "Socothbenoth",
         "key": "SocothbenothPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Socothbenoth.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Socothbenoth.webp",
@@ -1608,7 +1608,7 @@
     {
         "label": "Squamous Demodand",
         "key": "SquamousDemodandPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/SquamousDemodand.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/SquamousDemodand.webp",
@@ -1630,7 +1630,7 @@
     {
         "label": "Sugroz",
         "key": "SugrozPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Sugroz.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Sugroz.webp",
@@ -1658,7 +1658,7 @@
     {
         "label": "Szuriel",
         "key": "SzurielPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Szuriel.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Szuriel.webp",
@@ -1686,7 +1686,7 @@
     {
         "label": "Tiefling Demoniac",
         "key": "TieflingDemoniacPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/TieflingDemoniac.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/TieflingDemoniac.webp",
@@ -1714,7 +1714,7 @@
     {
         "label": "Tiefling Souldrinker",
         "key": "TieflingSouldrinkerPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/TieflingSouldrinker.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/TieflingSouldrinker.webp",
@@ -1742,7 +1742,7 @@
     {
         "label": "Treerazer",
         "key": "TreerazerPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Treerazer.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Treerazer.webp",
@@ -1770,7 +1770,7 @@
     {
         "label": "Trelmarixian",
         "key": "TrelmarixianPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Trelmarixian.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Trelmarixian.webp",
@@ -1798,7 +1798,7 @@
     {
         "label": "Urxehl",
         "key": "UrxehlPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Urxehl.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Urxehl.webp",
@@ -1826,7 +1826,7 @@
     {
         "label": "Voice Of The Damned",
         "key": "VoiceOfTheDamnedPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/VoiceOfTheDamned.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/VoiceOfTheDamned.webp",
@@ -1848,7 +1848,7 @@
     {
         "label": "Vorasha",
         "key": "VorashaPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Vorasha.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Vorasha.webp",
@@ -1876,7 +1876,7 @@
     {
         "label": "Xoveron",
         "key": "XoveronPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Xoveron.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Xoveron.webp",
@@ -1904,7 +1904,7 @@
     {
         "label": "Yamasoth",
         "key": "YamasothPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Yamasoth.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Yamasoth.webp",
@@ -1932,7 +1932,7 @@
     {
         "label": "Yhidothrus",
         "key": "YhidothrusPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Yhidothrus.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Yhidothrus.webp",
@@ -1960,7 +1960,7 @@
     {
         "label": "Zeugavizeb",
         "key": "ZeugavizebPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Zeugavizeb.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Zeugavizeb.webp",
@@ -1988,7 +1988,7 @@
     {
         "label": "Zipacna",
         "key": "ZipacnaPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Zipacna.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Zipacna.webp",
@@ -2016,7 +2016,7 @@
     {
         "label": "Zura",
         "key": "ZuraPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Zura.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Zura.webp",
@@ -2044,7 +2044,7 @@
     {
         "label": "Zyphus",
         "key": "ZyphusPF1eBotD",
-        "source": "PF1e Book of the Damned",
+        "source": "PF1e Book of the Damned (PZO1139)",
         "art": {
             "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/rulebook/rulebook-book-of-the-damned/Zyphus.webp",
             "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/rulebook/rulebook-book-of-the-damned/Zyphus.webp",
