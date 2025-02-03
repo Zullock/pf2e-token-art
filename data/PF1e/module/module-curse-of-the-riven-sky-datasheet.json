@@ -1,0 +1,248 @@
+[
+    {
+        "label": "Beshtu",
+        "key": "BeshtuPF1eCotRS",
+        "source": "PF1e Curse of the Riven Sky (PZO9526)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-curse-of-the-riven-sky/Beshtu.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-curse-of-the-riven-sky/Beshtu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-curse-of-the-riven-sky/Beshtu.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-curse-of-the-riven-sky/Beshtu.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "hill giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "heavy"
+            ]
+        }
+    },
+    {
+        "label": "Gelatinous Blob",
+        "key": "GelatinousBlobPF1eCotRS",
+        "source": "PF1e Curse of the Riven Sky (PZO9526)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-curse-of-the-riven-sky/GelatinousBlob.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-curse-of-the-riven-sky/GelatinousBlob.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-curse-of-the-riven-sky/GelatinousBlob.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-curse-of-the-riven-sky/GelatinousBlob.webp"
+        },
+        "tags": {
+            "category": [
+                "ooze"
+            ],
+            "ancestry": [
+                "gelatinous cube"
+            ]
+        }
+    },
+    {
+        "label": "Grunf",
+        "key": "GrunfPF1eCotRS",
+        "source": "PF1e Curse of the Riven Sky (PZO9526)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-curse-of-the-riven-sky/Grunf.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-curse-of-the-riven-sky/Grunf.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-curse-of-the-riven-sky/Grunf.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-curse-of-the-riven-sky/Grunf.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "hill giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "equipment": [
+                "unarmored"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Naazza",
+        "key": "NaazzaPF1eCotRS",
+        "source": "PF1e Curse of the Riven Sky (PZO9526)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-curse-of-the-riven-sky/Naazza.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-curse-of-the-riven-sky/Naazza.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-curse-of-the-riven-sky/Naazza.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-curse-of-the-riven-sky/Naazza.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "satyr"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "equipment": [
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Ramma",
+        "key": "RammaPF1eCotRS",
+        "source": "PF1e Curse of the Riven Sky (PZO9526)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-curse-of-the-riven-sky/Ramma.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-curse-of-the-riven-sky/Ramma.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-curse-of-the-riven-sky/Ramma.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-curse-of-the-riven-sky/Ramma.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "cyclops"
+            ],
+            "family": [
+                "giant"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Th'telis",
+        "key": "ThTelisPF1eCotRS",
+        "source": "PF1e Curse of the Riven Sky (PZO9526)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-curse-of-the-riven-sky/ThTelis.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-curse-of-the-riven-sky/ThTelis.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-curse-of-the-riven-sky/ThTelis.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-curse-of-the-riven-sky/ThTelis.webp"
+        },
+        "tags": {
+            "category": [
+                "fey"
+            ],
+            "ancestry": [
+                "dryad"
+            ],
+            "family": [
+                "nymph"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Thedan",
+        "key": "ThedanPF1eCotRS",
+        "source": "PF1e Curse of the Riven Sky (PZO9526)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-curse-of-the-riven-sky/Thedan.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-curse-of-the-riven-sky/Thedan.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-curse-of-the-riven-sky/Thedan.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-curse-of-the-riven-sky/Thedan.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Verakas",
+        "key": "VerakasPF1eCotRS",
+        "source": "PF1e Curse of the Riven Sky (PZO9526)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-curse-of-the-riven-sky/Verakas.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-curse-of-the-riven-sky/Verakas.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-curse-of-the-riven-sky/Verakas.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-curse-of-the-riven-sky/Verakas.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "cloud giant"
+            ],
+            "family": [
+                "giant"
+            ],
+            "equipment": [
+                "heavy",
+                "medium",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Zoarth",
+        "key": "ZoarthPF1eCotRS",
+        "source": "PF1e Curse of the Riven Sky (PZO9526)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-curse-of-the-riven-sky/Zoarth.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-curse-of-the-riven-sky/Zoarth.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-curse-of-the-riven-sky/Zoarth.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-curse-of-the-riven-sky/Zoarth.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "focus"
+            ],
+            "features": [
+                "music"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    }
+]

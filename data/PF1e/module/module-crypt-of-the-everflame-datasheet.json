@@ -1,0 +1,150 @@
+[
+    {
+        "label": "Bloody Bones",
+        "key": "BloodySkeletonPF1eCotE",
+        "source": "PF1e Crypt of the Everflame (PZO9520)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-crypt-of-the-everflame/BloodySkeleton.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-crypt-of-the-everflame/BloodySkeleton.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-crypt-of-the-everflame/BloodySkeleton.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-crypt-of-the-everflame/BloodySkeleton.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "bloody bones"
+            ]
+        }
+    },
+    {
+        "label": "Cygar",
+        "key": "CygarPF1eCotE",
+        "source": "PF1e Crypt of the Everflame (PZO9520)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-crypt-of-the-everflame/Cygar.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-crypt-of-the-everflame/Cygar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-crypt-of-the-everflame/Cygar.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-crypt-of-the-everflame/Cygar.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Kassen",
+        "key": "KassenPF1eCotE",
+        "source": "PF1e Crypt of the Everflame (PZO9520)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-crypt-of-the-everflame/Kassen.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-crypt-of-the-everflame/Kassen.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-crypt-of-the-everflame/Kassen.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-crypt-of-the-everflame/Kassen.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "ghost commoner"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "incorporeal"
+            ]
+        }
+    },
+    {
+        "label": "Mayor Uptal",
+        "key": "MayorUptalPF1eCotE",
+        "source": "PF1e Crypt of the Everflame (PZO9520)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-crypt-of-the-everflame/MayorUptal.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-crypt-of-the-everflame/MayorUptal.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-crypt-of-the-everflame/MayorUptal.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-crypt-of-the-everflame/MayorUptal.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Plague Zombie",
+        "key": "PlagueZombiePF1eCotE",
+        "source": "PF1e Crypt of the Everflame (PZO9520)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-crypt-of-the-everflame/PlagueZombie.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-crypt-of-the-everflame/PlagueZombie.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-crypt-of-the-everflame/PlagueZombie.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-crypt-of-the-everflame/PlagueZombie.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "plague zombie"
+            ],
+            "family": [
+                "zombie"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Roldare",
+        "key": "RoldarePF1eCotE",
+        "source": "PF1e Crypt of the Everflame (PZO9520)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-crypt-of-the-everflame/Roldare.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-crypt-of-the-everflame/Roldare.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-crypt-of-the-everflame/Roldare.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-crypt-of-the-everflame/Roldare.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    }
+]

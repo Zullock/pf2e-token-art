@@ -4,10 +4,10 @@
         "key": "AnkhazuPF1eBC",
         "source": "PF1e Broken Chains",
         "art": {
-            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-broken-chains/Ankhazu.png",
-            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-broken-chains/Ankhazu.png",
-            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-broken-chains/Ankhazu.png",
-            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-broken-chains/Ankhazu.png"
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-broken-chains/Ankhazu.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-broken-chains/Ankhazu.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-broken-chains/Ankhazu.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-broken-chains/Ankhazu.webp"
         },
         "tags": {
             "family": [
@@ -33,10 +33,10 @@
         "key": "GnarlpawTheBlackPF1eBC",
         "source": "PF1e Broken Chains",
         "art": {
-            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-broken-chains/GnarlpawTheBlack.png",
-            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-broken-chains/GnarlpawTheBlack.png",
-            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-broken-chains/GnarlpawTheBlack.png",
-            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-broken-chains/GnarlpawTheBlack.png"
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-broken-chains/GnarlpawTheBlack.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-broken-chains/GnarlpawTheBlack.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-broken-chains/GnarlpawTheBlack.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-broken-chains/GnarlpawTheBlack.webp"
         },
         "tags": {
             "category": [
@@ -62,10 +62,10 @@
         "key": "OthineDalansePF1eBC",
         "source": "PF1e Broken Chains",
         "art": {
-            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-broken-chains/OthineDalanse.png",
-            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-broken-chains/OthineDalanse.png",
-            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-broken-chains/OthineDalanse.png",
-            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-broken-chains/OthineDalanse.png"
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-broken-chains/OthineDalanse.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-broken-chains/OthineDalanse.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-broken-chains/OthineDalanse.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-broken-chains/OthineDalanse.webp"
         },
         "tags": {
             "category": [
@@ -88,10 +88,10 @@
         "key": "SehemaSarwarPF1eBC",
         "source": "PF1e Broken Chains",
         "art": {
-            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-broken-chains/SehemaSarwar.png",
-            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-broken-chains/SehemaSarwar.png",
-            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-broken-chains/SehemaSarwar.png",
-            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-broken-chains/SehemaSarwar.png"
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-broken-chains/SehemaSarwar.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-broken-chains/SehemaSarwar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-broken-chains/SehemaSarwar.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-broken-chains/SehemaSarwar.webp"
         },
         "tags": {
             "category": [
@@ -114,10 +114,10 @@
         "key": "WhispershadePF1eBC",
         "source": "PF1e Broken Chains",
         "art": {
-            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-broken-chains/Whispershade.png",
-            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-broken-chains/Whispershade.png",
-            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-broken-chains/Whispershade.png",
-            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-broken-chains/Whispershade.png"
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-broken-chains/Whispershade.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-broken-chains/Whispershade.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-broken-chains/Whispershade.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-broken-chains/Whispershade.webp"
         },
         "tags": {
             "category": [
@@ -140,10 +140,10 @@
         "key": "ZahrahPF1eBC",
         "source": "PF1e Broken Chains",
         "art": {
-            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-broken-chains/Zahrah.png",
-            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-broken-chains/Zahrah.png",
-            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-broken-chains/Zahrah.png",
-            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-broken-chains/Zahrah.png"
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-broken-chains/Zahrah.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-broken-chains/Zahrah.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-broken-chains/Zahrah.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-broken-chains/Zahrah.webp"
         },
         "tags": {
             "category": [

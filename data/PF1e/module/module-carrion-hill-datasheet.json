@@ -1,13 +1,13 @@
 [
     {
         "label": "Crove Asylum Orderly And Lunatic",
-        "key": "CroveAsylumOrderlyAndLunaticPf1eCH",
-        "source": "PF1e Carrion Hill",
+        "key": "CroveAsylumOrderlyAndLunaticPF1eCH",
+        "source": "PF1e Carrion Hill (PZO9521)",
         "art": {
-            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-carrion-hill/CroveAsylumOrderlyAndLunatic.png",
-            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-carrion-hill/CroveAsylumOrderlyAndLunatic.png",
-            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/CroveAsylumOrderlyAndLunatic.png",
-            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/CroveAsylumOrderlyAndLunatic.png"
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-carrion-hill/CroveAsylumOrderlyAndLunatic.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-carrion-hill/CroveAsylumOrderlyAndLunatic.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/CroveAsylumOrderlyAndLunatic.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/CroveAsylumOrderlyAndLunatic.webp"
         },
         "tags": {
             "category": [
@@ -25,13 +25,13 @@
     },
     {
         "label": "Keeper Crove",
-        "key": "KeeperCrovePf1eCH",
-        "source": "PF1e Carrion Hill",
+        "key": "KeeperCrovePF1eCH",
+        "source": "PF1e Carrion Hill (PZO9521)",
         "art": {
-            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-carrion-hill/KeeperCrove.png",
-            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-carrion-hill/KeeperCrove.png",
-            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/KeeperCrove.png",
-            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/KeeperCrove.png"
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-carrion-hill/KeeperCrove.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-carrion-hill/KeeperCrove.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/KeeperCrove.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/KeeperCrove.webp"
         },
         "tags": {
             "category": [
@@ -40,25 +40,26 @@
             "ancestry": [
                 "human"
             ],
-            "equipment": [
-                "bludgeon",
-                "clothing",
-                "knife"
-            ],
             "special": [
                 "unique"
+            ],
+            "equipment": [
+                "axe",
+                "clothing",
+                "knife",
+                "light"
             ]
         }
     },
     {
         "label": "Keeper Hyve",
-        "key": "KeeperHyvePf1eCH",
-        "source": "PF1e Carrion Hill",
+        "key": "KeeperHyvePF1eCH",
+        "source": "PF1e Carrion Hill (PZO9521)",
         "art": {
-            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-carrion-hill/KeeperHyve.png",
-            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-carrion-hill/KeeperHyve.png",
-            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/KeeperHyve.png",
-            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/KeeperHyve.png"
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-carrion-hill/KeeperHyve.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-carrion-hill/KeeperHyve.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/KeeperHyve.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/KeeperHyve.webp"
         },
         "tags": {
             "category": [
@@ -68,6 +69,7 @@
                 "human"
             ],
             "equipment": [
+                "clothing",
                 "medium",
                 "scroll",
                 "sword",
@@ -80,13 +82,13 @@
     },
     {
         "label": "Keeper Myre",
-        "key": "KeeperMyrePf1eCH",
-        "source": "PF1e Carrion Hill",
+        "key": "KeeperMyrePF1eCH",
+        "source": "PF1e Carrion Hill (PZO9521)",
         "art": {
-            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-carrion-hill/KeeperMyre.png",
-            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-carrion-hill/KeeperMyre.png",
-            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/KeeperMyre.png",
-            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/KeeperMyre.png"
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-carrion-hill/KeeperMyre.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-carrion-hill/KeeperMyre.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/KeeperMyre.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/KeeperMyre.webp"
         },
         "tags": {
             "category": [
@@ -97,7 +99,7 @@
             ],
             "equipment": [
                 "bludgeon",
-                "light"
+                "clothing"
             ],
             "special": [
                 "unique"
@@ -106,13 +108,13 @@
     },
     {
         "label": "Mayor Heggry",
-        "key": "MayorHeggryPf1eCH",
-        "source": "PF1e Carrion Hill",
+        "key": "MayorHeggryPF1eCH",
+        "source": "PF1e Carrion Hill (PZO9521)",
         "art": {
-            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-carrion-hill/MayorHeggry.png",
-            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-carrion-hill/MayorHeggry.png",
-            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/MayorHeggry.png",
-            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/MayorHeggry.png"
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-carrion-hill/MayorHeggry.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-carrion-hill/MayorHeggry.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/MayorHeggry.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/MayorHeggry.webp"
         },
         "tags": {
             "category": [
@@ -121,24 +123,24 @@
             "ancestry": [
                 "human"
             ],
-            "equipment": [
-                "clothing"
-            ],
             "special": [
                 "bust",
                 "unique"
+            ],
+            "equipment": [
+                "clothing"
             ]
         }
     },
     {
         "label": "Oleg",
-        "key": "OlegPf1eCH",
-        "source": "PF1e Carrion Hill",
+        "key": "OlegPF1eCH",
+        "source": "PF1e Carrion Hill (PZO9521)",
         "art": {
-            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-carrion-hill/Oleg.png",
-            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-carrion-hill/Oleg.png",
-            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/Oleg.png",
-            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/Oleg.png"
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-carrion-hill/Oleg.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-carrion-hill/Oleg.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/Oleg.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-carrion-hill/Oleg.webp"
         },
         "tags": {
             "category": [

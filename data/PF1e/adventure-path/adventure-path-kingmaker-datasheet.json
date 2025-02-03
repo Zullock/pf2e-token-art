@@ -927,6 +927,32 @@
         }
     },
     {
+        "label": "Grim White Stag",
+        "key": "TheGrimWhiteStagPF1eK",
+        "source": "PF1e Kingmaker",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-kingmaker/TheGrimWhiteStag.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-kingmaker/TheGrimWhiteStag.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-kingmaker/TheGrimWhiteStag.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-kingmaker/TheGrimWhiteStag.webp"
+        },
+        "tags": {
+            "category": [
+                "divine"
+            ],
+            "ancestry": [
+                "grim white stag"
+            ],
+            "family": [
+                "erastil",
+                "herald"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
         "label": "Hannis Drelev",
         "key": "HannisDrelevPF1eK",
         "source": "PF1e Kingmaker",
@@ -2058,32 +2084,6 @@
         }
     },
     {
-        "label": "Grim White Stag",
-        "key": "TheGrimWhiteStagPF1eK",
-        "source": "PF1e Kingmaker",
-        "art": {
-            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/adventure-path/adventure-path-kingmaker/TheGrimWhiteStag.webp",
-            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/adventure-path/adventure-path-kingmaker/TheGrimWhiteStag.webp",
-            "token": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-kingmaker/TheGrimWhiteStag.webp",
-            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/adventure-path/adventure-path-kingmaker/TheGrimWhiteStag.webp"
-        },
-        "tags": {
-            "category": [
-                "divine"
-            ],
-            "ancestry": [
-                "grim white stag"
-            ],
-            "family": [
-                "erastil",
-                "herald"
-            ],
-            "special": [
-                "unique"
-            ]
-        }
-    },
-    {
         "label": "The Horned Hunter",
         "key": "TheHornedHunterPF1eK",
         "source": "PF1e Kingmaker",
@@ -2365,9 +2365,6 @@
             "category": [
                 "humanoid"
             ],
-            "ancestry": [
-                "troll warmaster"
-            ],
             "family": [
                 "giant",
                 "troll"
@@ -2378,6 +2375,9 @@
             ],
             "features": [
                 "dual-wielding"
+            ],
+            "ancestry": [
+                "troll warleader"
             ]
         }
     },

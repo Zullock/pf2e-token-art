@@ -1,0 +1,219 @@
+[
+    {
+        "label": "Abyss Gigas",
+        "key": "AbyssGigasPF1eTWL",
+        "source": "PF1e The Witchwar Legacy (PZO9527)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-the-witchwar-legacy/AbyssGigas.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-the-witchwar-legacy/AbyssGigas.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-the-witchwar-legacy/AbyssGigas.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-the-witchwar-legacy/AbyssGigas.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "abyss gigas"
+            ],
+            "family": [
+                "giant",
+                "gigas"
+            ],
+            "equipment": [
+                "bludgeon",
+                "heavy"
+            ]
+        }
+    },
+    {
+        "label": "Artaregilus",
+        "key": "ArtaregilusPF1eTWL",
+        "source": "PF1e The Witchwar Legacy (PZO9527)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-the-witchwar-legacy/Artaregilus.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-the-witchwar-legacy/Artaregilus.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-the-witchwar-legacy/Artaregilus.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-the-witchwar-legacy/Artaregilus.webp"
+        },
+        "tags": {
+            "category": [
+                "draconic"
+            ],
+            "ancestry": [
+                "white dragon"
+            ],
+            "special": [
+                "unique"
+            ],
+            "family": [
+                "chromatic dragon"
+            ]
+        }
+    },
+    {
+        "label": "Ferric",
+        "key": "FerricPF1eTWL",
+        "source": "PF1e The Witchwar Legacy (PZO9527)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-the-witchwar-legacy/Ferric.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-the-witchwar-legacy/Ferric.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-the-witchwar-legacy/Ferric.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-the-witchwar-legacy/Ferric.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "abyss gigas"
+            ],
+            "equipment": [
+                "heavy"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ],
+            "family": [
+                "giant",
+                "gigas"
+            ]
+        }
+    },
+    {
+        "label": "Hingarl",
+        "key": "HingarlPF1eTWL",
+        "source": "PF1e The Witchwar Legacy (PZO9527)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-the-witchwar-legacy/Hingarl.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-the-witchwar-legacy/Hingarl.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-the-witchwar-legacy/Hingarl.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-the-witchwar-legacy/Hingarl.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "frost giant"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ],
+            "family": [
+                "giant"
+            ]
+        }
+    },
+    {
+        "label": "Hoar Spirit",
+        "key": "HoarSpiritPF1eTWL",
+        "source": "PF1e The Witchwar Legacy (PZO9527)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-the-witchwar-legacy/HoarSpirit.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-the-witchwar-legacy/HoarSpirit.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-the-witchwar-legacy/HoarSpirit.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-the-witchwar-legacy/HoarSpirit.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "hoar spirit"
+            ],
+            "equipment": [
+                "heavy",
+                "polearm",
+                "sword"
+            ]
+        }
+    },
+    {
+        "label": "Ilivorr Karanasi",
+        "key": "IlivorrKaranasiPF1eTWL",
+        "source": "PF1e The Witchwar Legacy (PZO9527)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-the-witchwar-legacy/IlivorrKaranasi.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-the-witchwar-legacy/IlivorrKaranasi.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-the-witchwar-legacy/IlivorrKaranasi.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-the-witchwar-legacy/IlivorrKaranasi.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "knife"
+            ],
+            "features": [
+                "companion"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Shathbardok",
+        "key": "ShathbardokPF1eTWL",
+        "source": "PF1e The Witchwar Legacy (PZO9527)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-the-witchwar-legacy/Shathbardok.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-the-witchwar-legacy/Shathbardok.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-the-witchwar-legacy/Shathbardok.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-the-witchwar-legacy/Shathbardok.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "frost troll"
+            ],
+            "family": [
+                "giant",
+                "troll"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Takrilak",
+        "key": "TakrilakPF1eTWL",
+        "source": "PF1e The Witchwar Legacy (PZO9527)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-the-witchwar-legacy/Takrilak.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-the-witchwar-legacy/Takrilak.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-the-witchwar-legacy/Takrilak.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-the-witchwar-legacy/Takrilak.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "nabasu"
+            ],
+            "family": [
+                "demon"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    }
+]

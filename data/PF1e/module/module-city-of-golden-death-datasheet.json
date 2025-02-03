@@ -1,0 +1,157 @@
+[
+    {
+        "label": "Aglanda, Herald of Razmir",
+        "key": "AglandaPF1eCoGD",
+        "source": "PF1e City of Golden Death (PZO9524)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-city-of-golden-death/Aglanda.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-city-of-golden-death/Aglanda.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-city-of-golden-death/Aglanda.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-city-of-golden-death/Aglanda.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "family": [
+                "razmir"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "clothing"
+            ]
+        }
+    },
+    {
+        "label": "Dusan",
+        "key": "DusanPF1eCoGD",
+        "source": "PF1e City of Golden Death (PZO9524)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-city-of-golden-death/Dusan.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-city-of-golden-death/Dusan.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-city-of-golden-death/Dusan.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-city-of-golden-death/Dusan.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Golden Guardian",
+        "key": "GoldenGuardianPF1eCoGD",
+        "source": "PF1e City of Golden Death (PZO9524)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-city-of-golden-death/GoldenGuardian.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-city-of-golden-death/GoldenGuardian.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-city-of-golden-death/GoldenGuardian.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-city-of-golden-death/GoldenGuardian.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "golden guardian"
+            ],
+            "equipment": [
+                "heavy",
+                "polearm"
+            ]
+        }
+    },
+    {
+        "label": "Iramine",
+        "key": "IraminePF1eCoGD",
+        "source": "PF1e City of Golden Death (PZO9524)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-city-of-golden-death/Iramine.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-city-of-golden-death/Iramine.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-city-of-golden-death/Iramine.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-city-of-golden-death/Iramine.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "elf"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Tar-Baphon Ogre",
+        "key": "TarBaphonOgrePF1eCoGD",
+        "source": "PF1e City of Golden Death (PZO9524)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-city-of-golden-death/TarBaphonOgre.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-city-of-golden-death/TarBaphonOgre.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-city-of-golden-death/TarBaphonOgre.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-city-of-golden-death/TarBaphonOgre.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "skeletal champion"
+            ],
+            "family": [
+                "skeletal"
+            ],
+            "equipment": [
+                "heavy",
+                "pick"
+            ]
+        }
+    },
+    {
+        "label": "Whisperscale Hunter",
+        "key": "WhisperscaleHunterPF1eCoGD",
+        "source": "PF1e City of Golden Death (PZO9524)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-city-of-golden-death/WhisperscaleHunter.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-city-of-golden-death/WhisperscaleHunter.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-city-of-golden-death/WhisperscaleHunter.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-city-of-golden-death/WhisperscaleHunter.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "iruxi"
+            ],
+            "equipment": [
+                "bludgeon",
+                "clothing",
+                "shield",
+                "unarmored"
+            ],
+            "features": [
+                "dual-wielding"
+            ]
+        }
+    }
+]

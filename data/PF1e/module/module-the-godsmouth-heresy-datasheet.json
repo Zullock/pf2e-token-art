@@ -1,0 +1,167 @@
+[
+    {
+        "label": "Crawling Hand",
+        "key": "CrawlingHandSwarmPF1eTGH",
+        "source": "PF1e The Godsmouth Heresy (PZO9528)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-the-godsmouth-heresy/CrawlingHandSwarm.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-the-godsmouth-heresy/CrawlingHandSwarm.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-the-godsmouth-heresy/CrawlingHandSwarm.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-the-godsmouth-heresy/CrawlingHandSwarm.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "crawling hand"
+            ],
+            "special": [
+                "iconic"
+            ],
+            "family": [
+                "seoni"
+            ]
+        }
+    },
+    {
+        "label": "Erdikhaan",
+        "key": "ErdikhaanPF1eTGH",
+        "source": "PF1e The Godsmouth Heresy (PZO9528)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-the-godsmouth-heresy/Erdikhaan.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-the-godsmouth-heresy/Erdikhaan.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-the-godsmouth-heresy/Erdikhaan.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-the-godsmouth-heresy/Erdikhaan.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "skeletal champion"
+            ],
+            "family": [
+                "skeletal"
+            ],
+            "equipment": [
+                "heavy",
+                "knife",
+                "polearm",
+                "sword"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Esme Verisi",
+        "key": "EsmeVerisiPF1eTGH",
+        "source": "PF1e The Godsmouth Heresy (PZO9528)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-the-godsmouth-heresy/EsmeVerisi.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-the-godsmouth-heresy/EsmeVerisi.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-the-godsmouth-heresy/EsmeVerisi.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-the-godsmouth-heresy/EsmeVerisi.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "zombie shambler"
+            ],
+            "family": [
+                "zombie"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Flapping Head",
+        "key": "FlappingHeadPF1eTGH",
+        "source": "PF1e The Godsmouth Heresy (PZO9528)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-the-godsmouth-heresy/FlappingHead.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-the-godsmouth-heresy/FlappingHead.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-the-godsmouth-heresy/FlappingHead.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-the-godsmouth-heresy/FlappingHead.webp"
+        },
+        "tags": {
+            "category": [
+                "undead"
+            ],
+            "ancestry": [
+                "vargouille"
+            ],
+            "family": [
+                "zombie"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Lustspawn",
+        "key": "LustspawnPF1eTGH",
+        "source": "PF1e The Godsmouth Heresy (PZO9528)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-the-godsmouth-heresy/Lustspawn.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-the-godsmouth-heresy/Lustspawn.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-the-godsmouth-heresy/Lustspawn.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-the-godsmouth-heresy/Lustspawn.webp"
+        },
+        "tags": {
+            "category": [
+                "aberrant"
+            ],
+            "ancestry": [
+                "sinspawn"
+            ],
+            "equipment": [
+                "clothing",
+                "unarmored"
+            ]
+        }
+    },
+    {
+        "label": "Svilennius Tripe",
+        "key": "SvilenniusTripePF1eTGH",
+        "source": "PF1e The Godsmouth Heresy (PZO9528)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-the-godsmouth-heresy/SvilenniusTripe.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-the-godsmouth-heresy/SvilenniusTripe.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-the-godsmouth-heresy/SvilenniusTripe.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-the-godsmouth-heresy/SvilenniusTripe.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "bomb",
+                "light",
+                "medium",
+                "polearm"
+            ],
+            "features": [
+                "alchemy",
+                "dual-wielding"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    }
+]

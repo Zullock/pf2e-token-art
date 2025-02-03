@@ -1,0 +1,156 @@
+[
+    {
+        "label": "Egarthis",
+        "key": "EgarthisPF1eMotLG",
+        "source": "PF1e Masks of the Living God (PZO9522)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-masks-of-the-living-god/Egarthis.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-masks-of-the-living-god/Egarthis.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-masks-of-the-living-god/Egarthis.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-masks-of-the-living-god/Egarthis.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "flail",
+                "heavy",
+                "knife",
+                "shield"
+            ],
+            "family": [
+                "razmir"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Evlar",
+        "key": "EvlarPF1eMotLG",
+        "source": "PF1e Masks of the Living God (PZO9522)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-masks-of-the-living-god/Evlar.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-masks-of-the-living-god/Evlar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-masks-of-the-living-god/Evlar.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-masks-of-the-living-god/Evlar.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Krant",
+        "key": "KrantPF1eMotLG",
+        "source": "PF1e Masks of the Living God (PZO9522)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-masks-of-the-living-god/Krant.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-masks-of-the-living-god/Krant.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-masks-of-the-living-god/Krant.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-masks-of-the-living-god/Krant.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Mask Golem",
+        "key": "MaskGolemPF1eMotLG",
+        "source": "PF1e Masks of the Living God (PZO9522)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-masks-of-the-living-god/MaskGolem.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-masks-of-the-living-god/MaskGolem.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-masks-of-the-living-god/MaskGolem.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-masks-of-the-living-god/MaskGolem.webp"
+        },
+        "tags": {
+            "category": [
+                "constructed"
+            ],
+            "ancestry": [
+                "mask golem"
+            ]
+        }
+    },
+    {
+        "label": "Reginar",
+        "key": "ReginarPF1eMotLG",
+        "source": "PF1e Masks of the Living God (PZO9522)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-masks-of-the-living-god/Reginar.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-masks-of-the-living-god/Reginar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-masks-of-the-living-god/Reginar.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-masks-of-the-living-god/Reginar.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Welton",
+        "key": "WeltonPF1eMotLG",
+        "source": "PF1e Masks of the Living God (PZO9522)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-masks-of-the-living-god/Welton.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-masks-of-the-living-god/Welton.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-masks-of-the-living-god/Welton.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-masks-of-the-living-god/Welton.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    }
+]

@@ -11,6 +11,7 @@
 - &#x2612; PZO13001 - Tian Xia World Guide
 - &#x2610; PZO13002 - Tian Xia Character Guide
 - &#x2610; PZO13003 - Divine Mysteries
+- &#x2610; PZO13004 - Rival Academies
 ## PZO14 - PF2e Remaster Standalone Adventures
 - &#x2610; PZO14002 - Prey for Death
 - &#x2610; PZO14003 - Claws of the Tyrant
@@ -18,6 +19,7 @@
 - &#x2610; PZO15201-03 - Wardens of Wildwood
 - &#x2610; PZO15204-06 - Curtain Call
 - &#x2610; PZO15207-09 - Triumph of the Tusk
+- &#x2610; PZO15210-12 - Spore Wars
 ## PZO21 - PF2e Rulebooks
 - &#x2610; PZO2101 - Core Rulebook
 - &#x2610; PZO2102 - Bestiary
@@ -55,7 +57,7 @@
 	- &#x2612; PZO9019-24 - Legacy of Fire
 	- &#x2612; PZO9025-30 - Council of Thieves
 	- &#x2612; PZO9031-36 - Kingmaker
-	- &#x2610; PZO9037-42 - Serpent's Skull
+	- &#x2612; PZO9037-42 - Serpent's Skull
 	- [X] PZO9043-48 - Carrion Crown
 	- &#x2612; PZO9049-54 - Jade Regent
 	- &#x2610; PZO9055-60 - Skull & Shackles
@@ -188,14 +190,14 @@
 - &#x2610; PF1e
 	- &#x2610; PZO9500 - Hollow's Last Hope
 	- &#x2610; PZO9500-2 - Revenge of the Kobold King
-	- &#x2610; PZO9500-4 - Master of the Fallen Fortress
-	- &#x2610; PZO9500-5 - We Be Goblins!
-	- &#x2610; PZO9500-6 - Dawn of the Scarlet Sun
-	- &#x2610; PZO9500-7 - We Be Goblins Too!
-	- &#x2610; PZO9500-8 - Risen From the Sands
-	- &#x2610; PZO9500-9 - We Be Goblins Free!
-	- &#x2610; PZO9500-10 - We B4 Goblins!
-	- &#x2610; PZO9500-12 - We Be 5uper Goblins!
+	- [X] PZO9500-4 - Master of the Fallen Fortress
+	- [X] PZO9500-5 - We Be Goblins!
+	- [X] PZO9500-6 - Dawn of the Scarlet Sun
+	- [X] PZO9500-7 - We Be Goblins Too!
+	- [X] PZO9500-8 - Risen From the Sands
+	- [X] PZO9500-9 - We Be Goblins Free!
+	- [X] PZO9500-10 - We B4 Goblins!
+	- [X] PZO9500-12 - We Be 5uper Goblins!
 	- &#x2610; PZO9500-TC1 - Into the Haunted Forest
 	- &#x2610; PZO9501 - Crown of the Kobold King
 	- &#x2610; PZO9502 - Conquest of Bloodsworn Vale
@@ -209,49 +211,49 @@
 	- &#x2610; PZO9510 - River into Darkness
 	- &#x2610; PZO9511 - The Demon Within
 	- &#x2610; PZO9512 - Flight of the Red Raven
-	- &#x2610; PZO9513 - Tower of the Last Baron
-	- &#x2610; PZO9514 - Treasure of Chimera Cove
+	- [X] PZO9513 - Tower of the Last Baron
+	- [X] PZO9514 - Treasure of Chimera Cove
 	- &#x2610; PZO9515 - Hungry are the Dead
 	- &#x2610; PZO9516 - The Pact Stone Pyramid
-	- &#x2610; PZO9517 - Clash of the Kingslayers
+	- [X] PZO9517 - Clash of the Kingslayers
 	- &#x2610; PZO9518 - Blood of Dragonscar
 	- &#x2610; PZO9519 - Beyond the Vault of Souls
-	- &#x2610; PZO9520 - Crypt of the Everflame
-	- &#x2610; PZO9521 - Carrion Hill
-	- &#x2610; PZO9522 - Masks of the Living God
-	- &#x2610; PZO9523 - Realm of the Fellnight Queen
-	- &#x2610; PZO9524 - City of Golden Death
-	- &#x2610; PZO9525 - From Shore to Sea
-	- &#x2610; PZO9526 - Curse of the Riven Sky
-	- &#x2610; PZO9527 - The Witchwar Legacy
-	- &#x2610; PZO9528 - The Godsmouth Heresy
-	- &#x2610; PZO9529 - Cult of the Ebon Destroyers
-	- &#x2610; PZO9530 - Tomb of the Iron Medusa
-	- &#x2610; PZO9531 - Academy of Secrets
-	- &#x2610; PZO9532 - The Harrowing
-	- &#x2610; PZO9533 - Feast of Ravenmoor
-	- &#x2610; PZO9534 - The Ruby Phoenix Tournament
-	- &#x2610; PZO9535 - The Midnight Mirror
-	- &#x2610; PZO9536 - No Response from Deepmar
-	- &#x2610; PZO9537 - The Moonscar
-	- &#x2610; PZO9538 - Murder's Mark
-	- &#x2610; PZO9539 - Broken Chains
-	- &#x2610; PZO9540 - Fangwood Keep
-	- &#x2610; PZO9541 - Doom Comes to Dustpawn
-	- &#x2610; PZO9542 - The Dragon's Demand
-	- &#x2610; PZO9543 - Wardens of the Reborn Forge
-	- &#x2610; PZO9544 - Tears at Bitter Manor
-	- &#x2610; PZO9545 - The Emerald Spire Superdungeon
-	- &#x2610; PZO9546 - Plunder & Peril
-	- &#x2610; PZO9547 - Daughters of Fury
-	- &#x2610; PZO9548 - Feast of Dust
-	- &#x2610; PZO9549 - The House on Hook Street
-	- &#x2610; PZO9550 - Down the Blighted Path
-	- &#x2610; PZO9551 - Ire of the Storm
-	- &#x2610; PZO9552 - Gallows of Madness
-	- &#x2610; PZO9553 - Seers of the Drowned City
-	- &#x2610; PZO9554 - Cradle of Night
-	- &#x2610; PZOGAUNTLET - The Gauntlet
+	- [X] PZO9520 - Crypt of the Everflame
+	- [X] PZO9521 - Carrion Hill
+	- [X] PZO9522 - Masks of the Living God
+	- [X] PZO9523 - Realm of the Fellnight Queen
+	- [X] PZO9524 - City of Golden Death
+	- [X] PZO9525 - From Shore to Sea
+	- [X] PZO9526 - Curse of the Riven Sky
+	- [X] PZO9527 - The Witchwar Legacy
+	- [X] PZO9528 - The Godsmouth Heresy
+	- [X] PZO9529 - Cult of the Ebon Destroyers
+	- [X] PZO9530 - Tomb of the Iron Medusa
+	- [X] PZO9531 - Academy of Secrets
+	- [X] PZO9532 - The Harrowing
+	- [X] PZO9533 - Feast of Ravenmoor
+	- [X] PZO9534 - The Ruby Phoenix Tournament
+	- [X] PZO9535 - The Midnight Mirror
+	- [X] PZO9536 - No Response from Deepmar
+	- [X] PZO9537 - The Moonscar
+	- [X] PZO9538 - Murder's Mark
+	- [X] PZO9539 - Broken Chains
+	- [X] PZO9540 - Fangwood Keep
+	- [X] PZO9541 - Doom Comes to Dustpawn
+	- [X] PZO9542 - The Dragon's Demand
+	- [X] PZO9543 - Wardens of the Reborn Forge
+	- [X] PZO9544 - Tears at Bitter Manor
+	- [X] PZO9545 - The Emerald Spire Superdungeon
+	- [X] PZO9546 - Plunder & Peril
+	- [X] PZO9547 - Daughters of Fury
+	- [X] PZO9548 - Feast of Dust
+	- [X] PZO9549 - The House on Hook Street
+	- [X] PZO9550 - Down the Blighted Path
+	- [X] PZO9551 - Ire of the Storm
+	- [X] PZO9552 - Gallows of Madness
+	- [X] PZO9553 - Seers of the Drowned City
+	- [X] PZO9554 - Cradle of Night
+	- [X] PZOGAUNTLET - The Gauntlet
 	- &#x2610; PZOGENA001 - Heroes for Highdelve
 - &#x2610; PF2e
 	- &#x2610; PZO9555 - Fall of Plaguestone
@@ -295,8 +297,6 @@
 - &#x2610; PZO1140 - Ultimate Wilderness
 - &#x2610; PZO1141 - Planar Adventures
 - &#x2612; PZO9500-3 - Bestiary Bonus
-
-
 ## PZO94 - Player Companion
 - &#x2610; PZO9402 - Elves of Golarion
 - &#x2610; PZO9403 - Osirion, Land of Pharaohs

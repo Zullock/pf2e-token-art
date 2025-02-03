@@ -1,0 +1,162 @@
+[
+    {
+        "label": "Deepti",
+        "key": "DeeptiPF1eCotED",
+        "source": "PF1e Cult of the Ebon Destroyers (PZO9529)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-cult-of-the-ebon-destroyers/Deepti.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-cult-of-the-ebon-destroyers/Deepti.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-cult-of-the-ebon-destroyers/Deepti.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-cult-of-the-ebon-destroyers/Deepti.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing",
+                "knife",
+                "unarmored"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Ikrimah",
+        "key": "IkrimahPF1eCotED",
+        "source": "PF1e Cult of the Ebon Destroyers (PZO9529)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-cult-of-the-ebon-destroyers/Ikrimah.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-cult-of-the-ebon-destroyers/Ikrimah.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-cult-of-the-ebon-destroyers/Ikrimah.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-cult-of-the-ebon-destroyers/Ikrimah.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "features": [
+                "magic"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Lankesh",
+        "key": "LankeshPF1eCotED",
+        "source": "PF1e Cult of the Ebon Destroyers (PZO9529)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-cult-of-the-ebon-destroyers/Lankesh.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-cult-of-the-ebon-destroyers/Lankesh.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-cult-of-the-ebon-destroyers/Lankesh.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-cult-of-the-ebon-destroyers/Lankesh.webp"
+        },
+        "tags": {
+            "category": [
+                "fiendish"
+            ],
+            "ancestry": [
+                "raja-krodha"
+            ],
+            "family": [
+                "rakshasa"
+            ],
+            "special": [
+                "unique"
+            ],
+            "equipment": [
+                "clothing",
+                "knife"
+            ]
+        }
+    },
+    {
+        "label": "Raheem Pandisar",
+        "key": "RaheemPandisarPF1eCotED",
+        "source": "PF1e Cult of the Ebon Destroyers (PZO9529)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-cult-of-the-ebon-destroyers/RaheemPandisar.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-cult-of-the-ebon-destroyers/RaheemPandisar.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-cult-of-the-ebon-destroyers/RaheemPandisar.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-cult-of-the-ebon-destroyers/RaheemPandisar.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "bust",
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Sarpini",
+        "key": "SarpiniPF1eCotED",
+        "source": "PF1e Cult of the Ebon Destroyers (PZO9529)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-cult-of-the-ebon-destroyers/Sarpini.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-cult-of-the-ebon-destroyers/Sarpini.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-cult-of-the-ebon-destroyers/Sarpini.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-cult-of-the-ebon-destroyers/Sarpini.webp"
+        },
+        "tags": {
+            "category": [
+                "bestial"
+            ],
+            "ancestry": [
+                "dark naga"
+            ],
+            "family": [
+                "naga"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    },
+    {
+        "label": "Zaafira",
+        "key": "ZaafiraPF1eCotED",
+        "source": "PF1e Cult of the Ebon Destroyers (PZO9529)",
+        "art": {
+            "portrait": "modules/pf2e-token-art/assets/PF1e/portraits/module/module-cult-of-the-ebon-destroyers/Zaafira.webp",
+            "thumb": "modules/pf2e-token-art/assets/PF1e/thumbs/module/module-cult-of-the-ebon-destroyers/Zaafira.webp",
+            "token": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-cult-of-the-ebon-destroyers/Zaafira.webp",
+            "subject": "modules/pf2e-token-art/assets/PF1e/subjects/module/module-cult-of-the-ebon-destroyers/Zaafira.webp"
+        },
+        "tags": {
+            "category": [
+                "humanoid"
+            ],
+            "ancestry": [
+                "human"
+            ],
+            "equipment": [
+                "clothing"
+            ],
+            "special": [
+                "unique"
+            ]
+        }
+    }
+]
